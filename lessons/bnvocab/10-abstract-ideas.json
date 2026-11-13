@@ -1,0 +1,210 @@
+{
+  "title": "Abstract ideas",
+  "focus": "sujog, probhab, shorto, folafol, karon, mulyo, khomota, tatporjo, dik, poristhiti, ghotona, prokriya, mul bishoy, manodondo, subidha, osubidha, gurutto",
+  "body": "Abstract nouns are where a home-Bengali speaker usually switches to English: \"the main point is...\", \"it depends on the situation\", \"what's the purpose\". These are the words an educated Kolkata speaker uses for those ideas. They sound natural in serious conversation, not just in writing.\n\n| Romanization | Bengali | Meaning |\n|---|---|---|\n| sujog | সুযোগ | opportunity |\n| probhab | প্রভাব | influence, effect |\n| shorto | শর্ত | condition, term |\n| folafol | ফলাফল | result |\n| mulyo | মূল্য | value, worth |\n| khomota | ক্ষমতা | power, capability |\n| tatporjo | তাৎপর্য | significance |\n| dik | দিক | aspect, side |\n| poristhiti | পরিস্থিতি | situation |\n| ghotona | ঘটনা | incident |\n| prokriya | প্রক্রিয়া | process |\n| manodondo | মানদণ্ড | standard, criterion |\n| subidha / osubidha | সুবিধা / অসুবিধা | pro / con |\n| gurutto | গুরুত্ব | importance |\n| dharona | ধারণা | notion, idea |\n| uddeshyo | উদ্দেশ্য | purpose |\n\n## Which word?\n\n**folafol vs porinoti.** folafol is a neutral result: an exam result, the outcome of a vote. porinoti is where something ends up, and it usually sounds like a warning.\n\n**poristhiti vs obostha.** poristhiti is the situation around you (desh-er poristhiti). obostha is the state of a person or thing (or shorir-er obostha = his health).\n\n**mulyo vs dam.** dam is the price you pay at the shop. mulyo is worth in the abstract (somoyer mulyo). In formal writing it also means price.\n\n**ortho vs tatporjo.** ortho is what a word or sentence means. tatporjo is why something matters.\n\n**parthokko vs tofat.** Same meaning. tofat is more casual.\n\n## Examples\n\n- emon sujog bar bar ashe na, chhede dio na: Chances like this don't come often, don't let it go\n- or kotha-r probhab sobar opor porechhe: What she said affected everyone\n- ek-ta shorte raji hote pari: I can agree on one condition\n- poristhiti ekhon onek-ta niyontrone: The situation is a lot more under control now\n- mul bishoy-e asho, eto ghuriye bolchho keno?: Get to the point, why are you going around in circles?\n- ei chakri-r subidha holo bari theke kaj kora jay: The upside of this job is you can work from home\n- tumi or kotha-ke eto gurutto dichho keno?: Why are you taking what he says so seriously?\n- share bazar niye amar kono dharona nei: I have no idea about the stock market\n- prosongo bodlo na, age amar proshno-r uttor dao: Don't change the subject, answer my question first\n- mithye bolar porinoti kintu bhalo hoy na: Lying never ends well, you know\n",
+  "cards": [
+    {
+      "English": "opportunity / chance",
+      "Romanization": "sujog",
+      "Bengali": "সুযোগ",
+      "Example": "emon sujog bar bar ashe na: An opportunity like this doesn't come often",
+      "Notes": "sujog newa = take the chance, also 'take advantage of someone' (amar sujog niyechhe)."
+    },
+    {
+      "English": "influence / effect",
+      "Romanization": "probhab",
+      "Bengali": "প্রভাব",
+      "Example": "or kotha-r probhab chhelemeye-der opor onek: Her words have a big influence on the kids",
+      "Notes": "probhab fela = to have an effect on (opor probhab fela); prabhabshali = influential."
+    },
+    {
+      "English": "condition (a term, as in 'on one condition')",
+      "Romanization": "shorto",
+      "Bengali": "শর্ত",
+      "Example": "ek-ta shorte raji achhi, tumi-o ashbe: I'll agree on one condition, you come too",
+      "Notes": "Not for health or the state of something (that's obostha). shorto-sapekkhe = subject to conditions."
+    },
+    {
+      "English": "result / outcome",
+      "Romanization": "folafol",
+      "Bengali": "ফলাফল",
+      "Example": "eto khatar por-o folafol bhalo holo na: Even after all that work the result wasn't good",
+      "Notes": "Also exam results. In speech result is common; fol (fruit) alone also means result in fixed phrases (er fol)."
+    },
+    {
+      "English": "the reason (as a noun)",
+      "Romanization": "karon",
+      "Bengali": "কারণ",
+      "Example": "deri-r karon-ta ki?: What's the reason for the delay?",
+      "Notes": "Also used as 'because' at the start of a clause; ki karone = for what reason (formal)."
+    },
+    {
+      "English": "value / worth (not price)",
+      "Romanization": "mulyo",
+      "Bengali": "মূল্য",
+      "Example": "somoy-er mulyo bujhte shekho: Learn to understand the value of time",
+      "Notes": "dam is the everyday word for price; mulyo is abstract worth, or price in formal writing (mulyobriddhi = price rise)."
+    },
+    {
+      "English": "power / capability",
+      "Romanization": "khomota",
+      "Bengali": "ক্ষমতা",
+      "Example": "eto boro kaj korar khomota amader nei: We don't have the capacity to do such a big job",
+      "Notes": "Also political power (khomotay asha = come to power). khomotabaan = powerful."
+    },
+    {
+      "English": "significance / deeper meaning",
+      "Romanization": "tatporjo",
+      "Bengali": "তাৎপর্য",
+      "Example": "ei rayer tatporjo onek: This verdict is very significant",
+      "Notes": "Educated register; ortho is plain meaning, tatporjo is why something matters. tatporjopurno = significant."
+    },
+    {
+      "English": "aspect / side (of an issue)",
+      "Romanization": "dik",
+      "Bengali": "দিক",
+      "Example": "byapar-ta-r arek-ta dik-o bhebe dekho: Think about the other side of the matter too",
+      "Notes": "Same word as direction. bhalo dik / kharap dik = upside / downside."
+    },
+    {
+      "English": "situation / circumstances",
+      "Romanization": "poristhiti",
+      "Bengali": "পরিস্থিতি",
+      "Example": "poristhiti bujhe byabostha nebo: I'll act depending on the situation",
+      "Notes": "obostha is someone's or something's state; poristhiti is the wider situation around you."
+    },
+    {
+      "English": "incident / event (something that happened)",
+      "Romanization": "ghotona",
+      "Bengali": "ঘটনা",
+      "Example": "kal raste ek-ta odbhut ghotona ghotlo: A strange thing happened on the road yesterday",
+      "Notes": "ghotona ghota = an event happens. For a planned event (party, function) say anushthan or program."
+    },
+    {
+      "English": "process / procedure",
+      "Romanization": "prokriya",
+      "Bengali": "প্রক্রিয়া",
+      "Example": "visa pawar prokriya-ta khub lomba: The visa process is very long",
+      "Notes": "Spoken often just process; prokriya is standard in formal talk and news."
+    },
+    {
+      "English": "the main point / core issue",
+      "Romanization": "mul bishoy",
+      "Bengali": "মূল বিষয়",
+      "Example": "mul bishoy-e asho, ghuriye bolo na: Get to the main point, don't beat around the bush",
+      "Notes": "mul kotha is the more casual version (mul kotha-ta holo... = the main thing is...)."
+    },
+    {
+      "English": "standard / criterion (for judging)",
+      "Romanization": "manodondo",
+      "Bengali": "মানদণ্ড",
+      "Example": "kon manodonde tumi eta bhalo bolchho?: By what standard are you calling this good?",
+      "Notes": "Formal; in speech people also say standard. man alone = quality level (kajer man bhalo)."
+    },
+    {
+      "English": "advantage / convenience (a pro)",
+      "Romanization": "subidha",
+      "Bengali": "সুবিধা",
+      "Example": "ei flat-er subidha holo station-ta kachhe: The advantage of this flat is the station is close",
+      "Notes": "Also facility (hospital-e sob subidha achhe). subidha-osubidha = pros and cons."
+    },
+    {
+      "English": "disadvantage / inconvenience (a con)",
+      "Romanization": "osubidha",
+      "Bengali": "অসুবিধা",
+      "Example": "ekmatro osubidha holo bhara-ta beshi: The only downside is the rent is high",
+      "Notes": "Also polite 'trouble': kono osubidha hole bolo = tell me if anything's a problem."
+    },
+    {
+      "English": "importance",
+      "Romanization": "gurutto",
+      "Bengali": "গুরুত্ব",
+      "Example": "or kotha-r kono gurutto nei: What he says doesn't matter",
+      "Notes": "gurutopurno = important (formal); in speech important or joruri is common."
+    },
+    {
+      "English": "to give importance to / take seriously",
+      "Romanization": "gurutto dewa",
+      "Bengali": "গুরুত্ব দেওয়া",
+      "Example": "boss amar proposal-ke gurutto dilen na: The boss didn't take my proposal seriously",
+      "Notes": "Negative is common: gurutto dao na = don't take it seriously."
+    },
+    {
+      "English": "purpose / intention",
+      "Romanization": "uddeshyo",
+      "Bengali": "উদ্দেশ্য",
+      "Example": "ei meeting-er uddeshyo-ta ki?: What's the purpose of this meeting?",
+      "Notes": "kono uddeshyo chhara = for no reason / aimlessly. lokkho is a target or goal."
+    },
+    {
+      "English": "context / topic being discussed",
+      "Romanization": "prosongo",
+      "Bengali": "প্রসঙ্গ",
+      "Example": "prosongo bodlo na, age eta-r uttor dao: Don't change the subject, answer this first",
+      "Notes": "prosongo bodlano = change the subject; prasongik = relevant."
+    },
+    {
+      "English": "role (part someone plays)",
+      "Romanization": "bhumika",
+      "Bengali": "ভূমিকা",
+      "Example": "ei project-e tomar bhumika ki chhilo?: What was your role in this project?",
+      "Notes": "Also a film role and a book's preface. bhumika palon kora = play a role."
+    },
+    {
+      "English": "possibility / prospect",
+      "Romanization": "sombhabona",
+      "Bengali": "সম্ভাবনা",
+      "Example": "aaj brishti hobar sombhabona achhe: There's a chance of rain today",
+      "Notes": "Also potential: chhele-tar sombhabona achhe = the boy has potential."
+    },
+    {
+      "English": "limitation",
+      "Romanization": "simabaddhota",
+      "Bengali": "সীমাবদ্ধতা",
+      "Example": "protyek-ta system-er kichhu simabaddhota thake: Every system has some limitations",
+      "Notes": "Educated register; sima = limit, simito = limited."
+    },
+    {
+      "English": "consequence (usually bad)",
+      "Romanization": "porinoti",
+      "Bengali": "পরিণতি",
+      "Example": "eto mithye bolar porinoti bhalo hobe na: Telling so many lies won't end well",
+      "Notes": "folafol is a neutral result; porinoti is where something ends up, often a warning."
+    },
+    {
+      "English": "difference (between things)",
+      "Romanization": "parthokko",
+      "Bengali": "পার্থক্য",
+      "Example": "dutor modhye parthokko-ta ki?: What's the difference between the two?",
+      "Notes": "tofat is the casual synonym (onek tofat = big difference)."
+    },
+    {
+      "English": "exception",
+      "Romanization": "byatikrom",
+      "Bengali": "ব্যতিক্রম",
+      "Example": "ei niyom-er kono byatikrom nei: There's no exception to this rule",
+      "Notes": "Also an unusual person: o ekdom byatikrom = she's one of a kind."
+    },
+    {
+      "English": "to depend on",
+      "Romanization": "nirbhor kora",
+      "Bengali": "নির্ভর করা",
+      "Example": "sob-ta tomar sidhanter opor nirbhor korchhe: Everything depends on your decision",
+      "Notes": "Takes opor (on). Also 'rely on a person': ami or opor nirbhor kori."
+    },
+    {
+      "English": "It depends on the situation.",
+      "Romanization": "seta poristhiti-r opor nirbhor kore",
+      "Bengali": "সেটা পরিস্থিতির ওপর নির্ভর করে।",
+      "Example": "",
+      "Notes": "A natural way to avoid a yes/no; shorter: poristhiti-r opor."
+    },
+    {
+      "English": "That's beside the point.",
+      "Romanization": "seta ekhane prasongik na",
+      "Bengali": "সেটা এখানে প্রাসঙ্গিক না।",
+      "Example": "",
+      "Notes": "Casual alternative: seta onno kotha (that's a different matter)."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "title": "Talking about tech",
+  "focus": "download kora, charge dewa, net chole jawa, hack hoye jawa, jogajog, tothyo, goponiyota, projukti, nirapotta, protarona",
+  "body": "Kolkata talks about tech mostly in English nouns: phone, app, password, link, net. What makes it sound Bengali is the verb or phrase wrapped around the noun: charge dewa, net chole jawa, hack hoye jawa. This lesson covers those phrases, plus the real Bengali words (jogajog, tothyo, projukti) that show up in news and serious talk.\n\n| Romanization | Bengali | Meaning |\n|---|---|---|\n| download kora | ডাউনলোড করা | to download |\n| charge dewa | চার্জ দেওয়া | to charge a phone |\n| net chole jawa | নেট চলে যাওয়া | internet goes down |\n| hang kora | হ্যাং করা | to freeze |\n| order dewa | অর্ডার দেওয়া | to order online |\n| muchhe fela | মুছে ফেলা | to delete, erase |\n| hack hoye jawa | হ্যাক হয়ে যাওয়া | to get hacked |\n| jogajog | যোগাযোগ | contact, communication |\n| tothyo | তথ্য | information |\n| goponiyota | গোপনীয়তা | privacy |\n| projukti | প্রযুক্তি | technology |\n| nirapotta | নিরাপত্তা | security |\n| protarona | প্রতারণা | fraud, scam |\n\n## Which word?\n\n**English noun + Bengali verb.** Use the English noun with the Bengali verb that fits it. Some take kora (download kora, hang kora). Some take dewa (charge dewa, order dewa). Things that happen *to* you take hoye jawa (hack hoye jawa) or chole jawa (net chole jawa). Translating the noun itself (phone, app, password) makes you sound like a newsreader.\n\n**projukti vs technology, goponiyota vs privacy.** Both are fine. In casual talk most people say the English word. In a serious conversation or when discussing the news, the Bengali word sounds educated, not bookish.\n\n**tothyo vs khobor.** tothyo is facts and information (tothyo jogar kora = gather information). khobor is news or \"what's the news\" about someone.\n\n**download kora vs namano.** download kora is neutral. namano is casual slang for songs and movies.\n\n## Examples\n\n- phone-ta ektu charge-e bosao, charge prai shesh: Put the phone on charge, the battery's almost dead\n- net chole gechhe, meeting-e dhukte parchhi na: The internet's down, I can't get into the meeting\n- app-ta update na korle kaj korbe na: The app won't work unless you update it\n- bhul kore sob chhobi muchhe felechhi: I deleted all the photos by mistake\n- keu OTP chaile debe na, oita protarona: Don't give an OTP to anyone who asks, that's a scam\n- amar Instagram hack hoye gechhe, kichhu message korle uttor dio na: My Instagram got hacked, don't reply if I message you\n- ei app-gulo tomar tothyo bikri kore: These apps sell your information\n- notun projukti-r songe baba-ma tal milate pare na: My parents can't keep up with new technology\n- Swiggy-te khabar order diye dao: Order the food on Swiggy\n- bidesh giye-o jogajog rekho: Keep in touch even after you move abroad\n",
+  "cards": [
+    {
+      "English": "to download (an app, a file)",
+      "Romanization": "download kora",
+      "Bengali": "ডাউনলোড করা",
+      "Example": "app-ta age download kore nao: Download the app first",
+      "Notes": "Nobody says a Bengali word for download; the Bengali part is the verb kora. Casual slang: namano."
+    },
+    {
+      "English": "to download (casual slang, lit. 'bring down')",
+      "Romanization": "namano",
+      "Bengali": "নামানো",
+      "Example": "cinema-ta raate namiye rakhbo: I'll download the movie tonight",
+      "Notes": "Young-people slang, mostly for songs and movies (gaan namano); download kora is neutral."
+    },
+    {
+      "English": "to charge (a phone)",
+      "Romanization": "charge dewa",
+      "Bengali": "চার্জ দেওয়া",
+      "Example": "phone-ta ektu charge dite hobe: I need to charge my phone for a bit",
+      "Notes": "Also charge-e bosano (put on charge). The battery itself is just 'charge': charge nei = battery's dead."
+    },
+    {
+      "English": "for the battery to die",
+      "Romanization": "charge shesh hoye jawa",
+      "Bengali": "চার্জ শেষ হয়ে যাওয়া",
+      "Example": "kotha bolte bolte charge shesh hoye gelo: The battery died in the middle of the call",
+      "Notes": "Kolkata says charge, not battery, for how much power is left."
+    },
+    {
+      "English": "for the internet to go down",
+      "Romanization": "net chole jawa",
+      "Bengali": "নেট চলে যাওয়া",
+      "Example": "net chole gechhe, pore pathachhi: The internet's down, I'll send it later",
+      "Notes": "Same verb as current chole jawa (power cut). net = internet in speech."
+    },
+    {
+      "English": "to freeze / hang (a device)",
+      "Romanization": "hang kora",
+      "Bengali": "হ্যাং করা",
+      "Example": "laptop-ta bar bar hang korchhe: The laptop keeps freezing",
+      "Notes": "Indian English 'hang' is the standard word; also atke jawa (get stuck)."
+    },
+    {
+      "English": "to top up (a prepaid phone)",
+      "Romanization": "recharge kora",
+      "Bengali": "রিচার্জ করা",
+      "Example": "mash shesh, phone-e recharge korte hobe: It's the end of the month, I need to top up my phone",
+      "Notes": "Indian usage; nobody says top up."
+    },
+    {
+      "English": "to order (online)",
+      "Romanization": "order dewa",
+      "Bengali": "অর্ডার দেওয়া",
+      "Example": "raater khabar online-e order diye dichhi: I'm ordering dinner online",
+      "Notes": "Bengali uses dewa (give) with order, not kora."
+    },
+    {
+      "English": "to delete / erase",
+      "Romanization": "muchhe fela",
+      "Bengali": "মুছে ফেলা",
+      "Example": "bhul kore chhobi-gulo muchhe felechhi: I deleted the photos by mistake",
+      "Notes": "delete kora is just as common for files; muchhe fela also means wiping a board or erasing writing."
+    },
+    {
+      "English": "to save (a number, a file) for later",
+      "Romanization": "save kore rakha",
+      "Bengali": "সেভ করে রাখা",
+      "Example": "amar number-ta save kore rakho: Save my number",
+      "Notes": "rakha (keep) adds 'for later'; plain save kora is also fine."
+    },
+    {
+      "English": "to look something up (online)",
+      "Romanization": "khuje dekha",
+      "Bengali": "খুঁজে দেখা",
+      "Example": "na jana thakle Google-e khuje dekho: If you don't know, look it up on Google",
+      "Notes": "search kora is equally common; khuje dekha sounds more natural in a sentence."
+    },
+    {
+      "English": "to unlock (a phone)",
+      "Romanization": "lock khola",
+      "Bengali": "লক খোলা",
+      "Example": "lock-ta khulte parchhi na, password bhule gechhi: I can't unlock it, I've forgotten the password",
+      "Notes": "password, PIN and lock stay English; khola (open) does the work."
+    },
+    {
+      "English": "to get hacked",
+      "Romanization": "hack hoye jawa",
+      "Bengali": "হ্যাক হয়ে যাওয়া",
+      "Example": "amar Facebook account hack hoye gechhe: My Facebook account got hacked",
+      "Notes": "hoye jawa is the Bengali 'get ___ed' for things that happen to you."
+    },
+    {
+      "English": "to keep in touch",
+      "Romanization": "jogajog rakha",
+      "Bengali": "যোগাযোগ রাখা",
+      "Example": "bidesh giye-o jogajog rekho: Keep in touch even after you go abroad",
+      "Notes": "jogajog kora = to contact (once); jogajog rakha = to stay in contact."
+    },
+    {
+      "English": "contact / communication",
+      "Romanization": "jogajog",
+      "Bengali": "যোগাযোগ",
+      "Example": "or songe amar ar kono jogajog nei: I'm no longer in contact with him",
+      "Notes": "The real Bengali word, used in speech and formal writing alike; jogajog byabostha = transport/communications."
+    },
+    {
+      "English": "information (facts)",
+      "Romanization": "tothyo",
+      "Bengali": "তথ্য",
+      "Example": "ei tothyo-ta tumi kotha theke pele?: Where did you get this information?",
+      "Notes": "khobor is news; tothyo is facts/data. Mobile 'data' stays English."
+    },
+    {
+      "English": "privacy",
+      "Romanization": "goponiyota",
+      "Bengali": "গোপনীয়তা",
+      "Example": "online-e goponiyota bole kichhu nei: There's no such thing as privacy online",
+      "Notes": "In casual talk people often say privacy; goponiyota is used in news and serious talk."
+    },
+    {
+      "English": "device / machine",
+      "Romanization": "jontro",
+      "Bengali": "যন্ত্র",
+      "Example": "ei jontro-ta ki kaje lage?: What is this device used for?",
+      "Notes": "machine and gadget are also said; jontro sounds more general and is also used for 'instrument'."
+    },
+    {
+      "English": "equipment / gadgets (collectively)",
+      "Romanization": "jontropati",
+      "Bengali": "যন্ত্রপাতি",
+      "Example": "office-er sob jontropati notun kena hoyechhe: All the office equipment was bought new",
+      "Notes": "Collective form of jontro; covers tools, appliances and electronics together."
+    },
+    {
+      "English": "technology",
+      "Romanization": "projukti",
+      "Bengali": "প্রযুক্তি",
+      "Example": "notun projukti-r songe tal milano soja na: Keeping up with new technology isn't easy",
+      "Notes": "In speech 'technology' is common; projukti is standard in news and with educated speakers."
+    },
+    {
+      "English": "information technology (IT)",
+      "Romanization": "tothyoprojukti",
+      "Bengali": "তথ্যপ্রযুক্তি",
+      "Example": "Salt Lake-e tothyoprojukti shilpo onek bere gechhe: The IT industry in Salt Lake has grown a lot",
+      "Notes": "In conversation people say IT (IT sector-e kaj kore); tothyoprojukti is the news word."
+    },
+    {
+      "English": "invention",
+      "Romanization": "abishkar",
+      "Bengali": "আবিষ্কার",
+      "Example": "internet ei shotabdi-r sobcheye boro abishkar: The internet is the biggest invention of this century",
+      "Notes": "Also 'discovery'; abishkar kora = to invent/discover."
+    },
+    {
+      "English": "security / safety",
+      "Romanization": "nirapotta",
+      "Bengali": "নিরাপত্তা",
+      "Example": "online-e taka pathanor somoy nirapotta niye sotorko theko: Be careful about security when sending money online",
+      "Notes": "Covers both cyber security and physical safety; nirapod = safe."
+    },
+    {
+      "English": "fraud / scam",
+      "Romanization": "protarona",
+      "Bengali": "প্রতারণা",
+      "Example": "keu phone kore OTP chaile bujhbe protarona: If someone calls asking for an OTP, it's a scam",
+      "Notes": "In speech people also say fraud (as a noun or for the person: lok-ta fraud). protarok = fraudster."
+    },
+    {
+      "English": "addiction (e.g. to a phone)",
+      "Romanization": "nesha",
+      "Bengali": "নেশা",
+      "Example": "chhele-tar phone-er nesha hoye gechhe: The boy has become addicted to his phone",
+      "Notes": "Also intoxication and a strong hobby (boi porar nesha = a passion for reading)."
+    },
+    {
+      "English": "artificial intelligence",
+      "Romanization": "kritrim buddhimotta",
+      "Bengali": "কৃত্রিম বুদ্ধিমত্তা",
+      "Example": "kritrim buddhimotta niye sobai chintito: Everyone's worried about artificial intelligence",
+      "Notes": "Everyday speech just says AI; this is the news and formal term."
+    },
+    {
+      "English": "connection (formal, e.g. on a utility notice)",
+      "Romanization": "songjog",
+      "Bengali": "সংযোগ",
+      "Example": "bill na dile bidyut songjog kete dewa hobe: If you don't pay the bill, the electricity will be cut off",
+      "Notes": "Spoken: connection (net-er connection kharap). songjog appears in notices and news."
+    },
+    {
+      "English": "My phone is about to die.",
+      "Romanization": "amar phone-e charge prai shesh",
+      "Bengali": "আমার ফোনে চার্জ প্রায় শেষ।",
+      "Example": "",
+      "Notes": "prai = almost; a very common excuse to end a call."
+    },
+    {
+      "English": "There's no signal here.",
+      "Romanization": "ekhane network nei",
+      "Bengali": "এখানে নেটওয়ার্ক নেই।",
+      "Example": "",
+      "Notes": "Kolkata says network for mobile signal; tower nei is also heard."
+    },
+    {
+      "English": "Can you send me the link on WhatsApp?",
+      "Romanization": "link-ta WhatsApp-e pathiye debe?",
+      "Bengali": "লিংকটা হোয়াটসঅ্যাপে পাঠিয়ে দেবে?",
+      "Example": "",
+      "Notes": "pathiye dewa (send over) is softer and more natural than plain pathano."
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "title": "Getting things done",
+  "focus": "byabostha kora, somadhan, porikolpona, pichhiye dewa, batil kora, ogradhikar, ogrogoti, prostuti, mone koriye dewa, nischit kora, samlano, fele rakha, jhule thaka",
+  "body": "# Getting things done\n\nAt home you say kaj-ta kore felo and leave it there. At work and in errands you need the words around a task: planning it, putting it off, handling it, getting stuck, and finally wrapping it up. Many of these have English loans in Kolkata offices, so the notes say which one people actually use.\n\n| Romanization | Bengali | Meaning |\n|---|---|---|\n| byabostha kora | ব্যবস্থা করা | to arrange / make arrangements (for something) |\n| somadhan | সমাধান | solution (to a problem) |\n| somossa | সমস্যা | problem / issue (needs fixing) |\n| porikolpona | পরিকল্পনা | plan (formal, thought-out) |\n| pichhiye dewa | পিছিয়ে দেওয়া | to postpone / push back |\n| batil kora | বাতিল করা | to cancel / call off (officially) |\n| ogradhikar | অগ্রাধিকার | priority (what comes first) |\n| ogrogoti | অগ্রগতি | progress (on a task or project) |\n| prostuti | প্রস্তুতি | preparation (for an exam, event, trip) |\n| mone koriye dewa | মনে করিয়ে দেওয়া | to remind (someone) |\n| nischit kora | নিশ্চিত করা | to confirm / make sure |\n| dhap | ধাপ | step / stage (in a process) |\n| poriborton | পরিবর্তন | change (formal, in plans or policy) |\n| deri hoye jawa | দেরি হয়ে যাওয়া | to get delayed / be running late |\n| samlano | সামলানো | to handle / cope with (a situation, person, workload) |\n| somoysima | সময়সীমা | deadline (time limit) |\n| gutiye fela | গুটিয়ে ফেলা | to wrap up / wind down (work, a business) |\n| bhag kore newa | ভাগ করে নেওয়া | to share out / split (work, costs) |\n| lege thaka | লেগে থাকা | to stick with it / persist |\n| fele rakha | ফেলে রাখা | to leave pending / sit on (a task) |\n| jhule thaka | ঝুলে থাকা | to hang in limbo / be stuck pending |\n| dokkho | দক্ষ | skilled / efficient (at a job) |\n| badha | বাধা | obstacle / hindrance |\n| jothasaddho chesta kora | যথাসাধ্য চেষ্টা করা | to try one's very best |\n| bikolpo | বিকল্প | alternative / other option |\n| lokkho | লক্ষ্য | goal / target (formal) |\n| chaliye newa | চালিয়ে নেওয়া | to make do / keep things going |\n\n## Which word?\n\n- **pichhiye dewa vs batil kora**: pichhiye dewa moves something later; batil kora kills it. In speech: postpone kora / cancel kora.\n- **poriborton vs bodol**: bodol (bodlano) is everyday change; poriborton is planned or official change.\n- **fele rakha vs jhule thaka**: fele rakha is you leaving a task undone; jhule thaka is a task stuck waiting on someone else.\n- **porikolpona, ogradhikar, somoysima, lokkho**: these sound formal. In an office you will mostly hear plan, priority, deadline and target. Know both: the Bengali shows up in news, notices and careful speech.\n\n## Examples\n\n- station theke gari-r byabostha ami kore debo: I'll arrange a car from the station\n- meeting-ta shukrobar porjonto pichhiye dewa hoyechhe: the meeting has been pushed back to Friday\n- kaj-er ki ogrogoti holo?: what's the progress on the work?\n- kal sokale amake ekbar mone koriye dio: remind me once tomorrow morning\n- booking-ta hoyechhe kina nischit kore nao: make sure the booking has gone through\n- traffic-e atke deri hoye gelo: I got stuck in traffic and ran late\n- ei kaj-ta ami samle nebo: I'll handle this\n- kaj-ta fele rekho na, aji kore felo: don't sit on it, do it today\n- amar file-ta ek mash dhore jhule achhe: my file has been stuck for a month\n- ar kono bikolpo achhe?: is there any other option?\n",
+  "cards": [
+    {
+      "English": "to arrange / make arrangements (for something)",
+      "Romanization": "byabostha kora",
+      "Bengali": "ব্যবস্থা করা",
+      "Example": "station theke gari-r byabostha ami kore debo: I'll arrange a car from the station",
+      "Notes": "Very common: kichhu ekta byabostha hoye jabe = something will be sorted out."
+    },
+    {
+      "English": "solution (to a problem)",
+      "Romanization": "somadhan",
+      "Bengali": "সমাধান",
+      "Example": "ei somossa-r ekta somadhan khunjte hobe: we need to find a solution to this problem",
+      "Notes": "somadhan kora = to solve. In speech people also say 'solve kora'."
+    },
+    {
+      "English": "problem / issue (needs fixing)",
+      "Romanization": "somossa",
+      "Bengali": "সমস্যা",
+      "Example": "somossa-ta ki seta age bujhi: let's first understand what the problem is",
+      "Notes": "'problem' is the common loan; jhamela is a hassle or mess, more casual."
+    },
+    {
+      "English": "plan (formal, thought-out)",
+      "Romanization": "porikolpona",
+      "Bengali": "পরিকল্পনা",
+      "Example": "kono porikolpona chhara kaj shuru korle jhamela hobe: starting without a plan will cause trouble",
+      "Notes": "In speech 'plan' dominates (plan kora). porikolpona sounds deliberate or official."
+    },
+    {
+      "English": "to postpone / push back",
+      "Romanization": "pichhiye dewa",
+      "Bengali": "পিছিয়ে দেওয়া",
+      "Example": "meeting-ta shukrobar porjonto pichhiye dewa hoyechhe: the meeting has been pushed back to Friday",
+      "Notes": "pichhiye jawa = to get postponed (intransitive). 'postpone kora' is also used."
+    },
+    {
+      "English": "to cancel / call off (officially)",
+      "Romanization": "batil kora",
+      "Bengali": "বাতিল করা",
+      "Example": "brishti-r jonno program-ta batil kora holo: the event was called off because of rain",
+      "Notes": "'cancel kora' is the everyday loan; batil is used for orders, trains, licences, plans."
+    },
+    {
+      "English": "priority (what comes first)",
+      "Romanization": "ogradhikar",
+      "Bengali": "অগ্রাধিকার",
+      "Example": "ekhon kon kaj-ta ogradhikar pabe?: which task gets priority now?",
+      "Notes": "Formal; in an office people say 'priority'. ogradhikar dewa = to prioritise."
+    },
+    {
+      "English": "progress (on a task or project)",
+      "Romanization": "ogrogoti",
+      "Bengali": "অগ্রগতি",
+      "Example": "kaj-er ki ogrogoti holo?: what's the progress on the work?",
+      "Notes": "Spoken alternative: 'kaj kotodur egolo?' (how far has the work got)."
+    },
+    {
+      "English": "preparation (for an exam, event, trip)",
+      "Romanization": "prostuti",
+      "Bengali": "প্রস্তুতি",
+      "Example": "presentation-er prostuti kemon cholchhe?: how's the presentation prep going?",
+      "Notes": "prostuti newa = to prepare. toiri thaka = to be ready."
+    },
+    {
+      "English": "to remind (someone)",
+      "Romanization": "mone koriye dewa",
+      "Bengali": "মনে করিয়ে দেওয়া",
+      "Example": "kal sokale amake ekbar mone koriye dio: remind me once tomorrow morning",
+      "Notes": "Takes the person with -ke: oke mone koriye dao."
+    },
+    {
+      "English": "to confirm / make sure",
+      "Romanization": "nischit kora",
+      "Bengali": "নিশ্চিত করা",
+      "Example": "booking-ta hoyechhe kina nischit kore nao: make sure the booking has gone through",
+      "Notes": "nischit = certain (ami nischit noi = I'm not sure). 'confirm kora' is common too."
+    },
+    {
+      "English": "step / stage (in a process)",
+      "Romanization": "dhap",
+      "Bengali": "ধাপ",
+      "Example": "prothom dhap-e sob kagoj joma dite hobe: in the first step you have to submit all the papers",
+      "Notes": "dhape dhape = step by step."
+    },
+    {
+      "English": "change (formal, in plans or policy)",
+      "Romanization": "poriborton",
+      "Bengali": "পরিবর্তন",
+      "Example": "plan-e ektu poriborton hoyechhe: there's been a slight change in the plan",
+      "Notes": "bodol is the everyday word (bodlano = to change); poriborton is more formal."
+    },
+    {
+      "English": "to get delayed / be running late",
+      "Romanization": "deri hoye jawa",
+      "Bengali": "দেরি হয়ে যাওয়া",
+      "Example": "traffic-e atke deri hoye gelo: I got stuck in traffic and ran late",
+      "Notes": "deri kora = to be late through your own doing; deri hoye jawa = it happened to you."
+    },
+    {
+      "English": "deadline (time limit)",
+      "Romanization": "somoysima",
+      "Bengali": "সময়সীমা",
+      "Example": "abedon-er somoysima baraano hoyechhe: the application deadline has been extended",
+      "Notes": "Formal and used in news; in an office everyone says 'deadline'."
+    },
+    {
+      "English": "to wrap up / wind down (work, a business)",
+      "Romanization": "gutiye fela",
+      "Bengali": "গুটিয়ে ফেলা",
+      "Example": "chhoy-tar moddhe kaj gutiye felo: wrap up the work by six",
+      "Notes": "Literally 'to roll up'. byabsa gutiye fela = to shut a business down."
+    },
+    {
+      "English": "to share out / split (work, costs)",
+      "Romanization": "bhag kore newa",
+      "Bengali": "ভাগ করে নেওয়া",
+      "Example": "kaj-ta amra tin jon bhag kore nebo: the three of us will split the work",
+      "Notes": "bhag kore dewa = to divide among others."
+    },
+    {
+      "English": "to stick with it / persist",
+      "Romanization": "lege thaka",
+      "Bengali": "লেগে থাকা",
+      "Example": "lege thakle kaj-ta hobei: if you keep at it, it'll get done",
+      "Notes": "Also 'to pester': or pichhone lege thako (keep after him)."
+    },
+    {
+      "English": "to leave pending / sit on (a task)",
+      "Romanization": "fele rakha",
+      "Bengali": "ফেলে রাখা",
+      "Example": "kaj-ta fele rekho na, aji kore felo: don't sit on it, do it today",
+      "Notes": "The usual way to say 'procrastinate'."
+    },
+    {
+      "English": "to hang in limbo / be stuck pending",
+      "Romanization": "jhule thaka",
+      "Bengali": "ঝুলে থাকা",
+      "Example": "amar file-ta ek mash dhore jhule achhe: my file has been stuck for a month",
+      "Notes": "Literally 'to be hanging'. Very common about files, approvals and decisions."
+    },
+    {
+      "English": "skilled / efficient (at a job)",
+      "Romanization": "dokkho",
+      "Bengali": "দক্ষ",
+      "Example": "o khub dokkho manager, sob dik samle ney: she's a very capable manager, handles everything",
+      "Notes": "dokkhota = skill or efficiency. 'kaj-er lok' is the casual praise."
+    },
+    {
+      "English": "obstacle / hindrance",
+      "Romanization": "badha",
+      "Bengali": "বাধা",
+      "Example": "taka-i ekhon sob theke boro badha: money is the biggest obstacle right now",
+      "Notes": "badha dewa = to obstruct; badha pawa = to run into a hurdle."
+    },
+    {
+      "English": "to try one's very best",
+      "Romanization": "jothasaddho chesta kora",
+      "Bengali": "যথাসাধ্য চেষ্টা করা",
+      "Example": "ami jothasaddho chesta korbo, kintu kotha dichchhi na: I'll do my best, but I'm not promising",
+      "Notes": "Slightly formal; casually 'ami puro chesta korbo'."
+    },
+    {
+      "English": "alternative / other option",
+      "Romanization": "bikolpo",
+      "Bengali": "বিকল্প",
+      "Example": "ar kono bikolpo achhe?: is there any other option?",
+      "Notes": "'option' is the common loan. bikolpo upay = alternative way."
+    },
+    {
+      "English": "to make do / keep things going",
+      "Romanization": "chaliye newa",
+      "Bengali": "চালিয়ে নেওয়া",
+      "Example": "notun laptop na asa porjonto eta diye chaliye nao: make do with this until the new laptop comes",
+      "Notes": "Also 'to manage' with limited means: kono rokome chaliye nichchhi."
+    },
+    {
+      "English": "Let's settle this today.",
+      "Romanization": "cholo, aji byapar-ta mitiye feli",
+      "Bengali": "চলো, আজই ব্যাপারটা মিটিয়ে ফেলি",
+      "Example": "",
+      "Notes": "mitiye fela = to settle or resolve for good (a dispute, a bill, a matter)."
+    },
+    {
+      "English": "Leave it to me.",
+      "Romanization": "ota amar upor chhere dao",
+      "Bengali": "ওটা আমার উপর ছেড়ে দাও",
+      "Example": "",
+      "Notes": "Equally common: 'ota ami dekhe nichchhi' (I'll take care of it)."
+    }
+  ]
+}

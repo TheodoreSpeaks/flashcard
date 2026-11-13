@@ -1,0 +1,203 @@
+{
+  "title": "Relationships and social life",
+  "focus": "somporko, biswas, biswasghatokota, somman, bojhapora, jhogra mitiye newa, manabhiman, lokjon, nimontron, adda, bhodrota, mon rakha, songsar, dekha-shona, alada hoye jawa",
+  "body": "Family talk covers who is who. This lesson covers what goes on between people: trust, respect, falling out, making up, marriage and the Kolkata social calendar of invitations and adda. Several of these words (manabhiman, adda, lokikota) have no clean English equivalent, so learn them from the examples.\n\n| Romanization | Bengali | Meaning |\n|---|---|---|\n| somporko | সম্পর্ক | relationship |\n| biswas | বিশ্বাস | trust |\n| biswasghatokota | বিশ্বাসঘাতকতা | betrayal |\n| somman | সম্মান | respect |\n| bojhapora | বোঝাপড়া | mutual understanding |\n| manabhiman | মান-অভিমান | sulking, hurt feelings |\n| adda | আড্ডা | long relaxed chat |\n| bhodrota | ভদ্রতা | courtesy |\n| songsar | সংসার | household life |\n| dekha-shona | দেখাশোনা | arranged-marriage meeting |\n| alada hoye jawa | আলাদা হয়ে যাওয়া | to separate |\n| lokikota | লৌকিকতা | social obligations |\n\n## Which word?\n\n**obhiman vs rag.** rag is anger. obhiman is the quiet hurt you feel toward someone close who should have known better. You sulk, and you expect them to notice. manabhiman is the back-and-forth of it.\n\n**nimontron vs nemontonno.** Same word. Say nemontonno; nimontron is for printed cards and formal writing.\n\n**bojhapora vs bhul bojhabujhi.** bojhapora is understanding that works (or settling things). bhul bojhabujhi is a misunderstanding.\n\n**alada hoye jawa vs bichhed vs divorce.** In conversation say divorce or alada hoye gechhe. bichhed is newspaper Bengali.\n\n**mon rakha vs somman kora.** somman kora is real respect. mon rakha is going along with someone to keep them happy, often without meaning it.\n\n## Examples\n\n- or opor ar biswas nei: I don't trust him any more\n- dujon-er modhye bojhapora-ta darun: The two of them have a great understanding\n- shudhu mon rakhar jonno kotha-ta mene nilam: I only agreed to keep him happy\n- chol, Coffee House-e adda dite jai: Come on, let's go hang out at Coffee House\n- ma-r ekhono obhiman, phone korini bole: Ma's still hurt that I didn't call\n- dekha-shona-r din chhele-r bari theke chhoy jon esechhilo: Six people came from the boy's side for the meeting\n- bhodrota kore ek-bar dhonnobad to bolte parto: He could at least have said thank you out of courtesy\n- kharap somoy-e kara pashe thake, tokhon-i bojha jay: You find out who stands by you in bad times\n- lokikota-r chape pujo-r sob nemontonno rakhte hoy: Social pressure means you have to attend every Puja invitation\n- koto din por dekha! ki khobor?: It's been ages! What's new?\n",
+  "cards": [
+    {
+      "English": "relationship (between people)",
+      "Romanization": "somporko",
+      "Bengali": "সম্পর্ক",
+      "Example": "or songe amar somporko-ta ekhon bhalo na: My relationship with her isn't good right now",
+      "Notes": "Any relationship: family, work, romantic. somporko-e achhi = I'm in a relationship. Also 'connection' between ideas."
+    },
+    {
+      "English": "trust",
+      "Romanization": "biswas",
+      "Bengali": "বিশ্বাস",
+      "Example": "ek bar biswas bhenge gele ar fire ashe na: Once trust is broken it doesn't come back",
+      "Notes": "Also belief/faith. biswas kora = to trust or believe; bharsa is a casual synonym for reliance (or opor bharsa nei)."
+    },
+    {
+      "English": "betrayal",
+      "Romanization": "biswasghatokota",
+      "Bengali": "বিশ্বাসঘাতকতা",
+      "Example": "eta-ke ami biswasghatokota chhara ar kichhu bolbo na: I'd call this nothing but betrayal",
+      "Notes": "biswasghatok = traitor. Strong word; for a lighter 'let me down' say dhoka dewa."
+    },
+    {
+      "English": "respect",
+      "Romanization": "somman",
+      "Bengali": "সম্মান",
+      "Example": "boro-der somman korte shekho: Learn to respect your elders",
+      "Notes": "Also honour/prestige (somman haranor bhoy = fear of losing face). shroddha is deeper reverence."
+    },
+    {
+      "English": "mutual understanding (between two people)",
+      "Romanization": "bojhapora",
+      "Bengali": "বোঝাপড়া",
+      "Example": "ora dujon-er modhye bojhapora khub bhalo: The two of them understand each other really well",
+      "Notes": "Also a settling of accounts after a dispute: ek-ta bojhapora kore nao = sort it out between you."
+    },
+    {
+      "English": "to make up after a fight",
+      "Romanization": "jhogra mitiye newa",
+      "Bengali": "ঝগড়া মিটিয়ে নেওয়া",
+      "Example": "tomra dujon jhogra-ta mitiye nao: You two should make up",
+      "Notes": "mitiye newa alone also settles a dispute or a bill; mitmat = reconciled."
+    },
+    {
+      "English": "sulking / hurt feelings (between people who are close)",
+      "Romanization": "manabhiman",
+      "Bengali": "মান-অভিমান",
+      "Example": "ma-meye-r modhye manabhiman lege-i thake: Mother and daughter are always sulking at each other",
+      "Notes": "obhiman is hurt pride with someone you love; rag is plain anger. A very Bengali concept."
+    },
+    {
+      "English": "people (around, in general)",
+      "Romanization": "lokjon",
+      "Bengali": "লোকজন",
+      "Example": "bari-te aaj onek lokjon ashbe: Lots of people are coming to the house today",
+      "Notes": "Plural and vague: guests, a crowd, people around. lok alone is one person or 'people' in sayings."
+    },
+    {
+      "English": "invitation (formal word, as on a printed card)",
+      "Romanization": "nimontron",
+      "Bengali": "নিমন্ত্রণ",
+      "Example": "biye-r nimontron potro eshechhe: The wedding invitation card has come",
+      "Notes": "In speech everyone says nemontonno (nemontonno kora = invite); nimontron is written or formal."
+    },
+    {
+      "English": "long, relaxed chat with friends (Kolkata)",
+      "Romanization": "adda",
+      "Bengali": "আড্ডা",
+      "Example": "rabibar sokale para-r chayer dokan-e adda chole: On Sunday mornings there's a chat session at the local tea stall",
+      "Notes": "adda dewa = to hang out chatting. addabaaj = someone who loves adda. Not idle gossip; it's a Kolkata institution."
+    },
+    {
+      "English": "politeness / courtesy",
+      "Romanization": "bhodrota",
+      "Bengali": "ভদ্রতা",
+      "Example": "bhodrota kore ek-bar phone to korte parto: Out of courtesy he could at least have called",
+      "Notes": "bhodro = polite; obhodro = rude. bhodrota kore = out of politeness."
+    },
+    {
+      "English": "to humour someone / keep someone happy",
+      "Romanization": "mon rakha",
+      "Bengali": "মন রাখা",
+      "Example": "shudhu or mon rakhar jonno haan bollam: I only said yes to keep her happy",
+      "Notes": "Often slightly negative: doing something you don't mean to avoid hurting someone. mon bhanga = to hurt someone."
+    },
+    {
+      "English": "household / married family life",
+      "Romanization": "songsar",
+      "Bengali": "সংসার",
+      "Example": "biye-r por songsar samlate giye or gaan chhere gelo: After marriage, running the household made her give up singing",
+      "Notes": "songsar kora = to run a household / be married. songsari = family-minded."
+    },
+    {
+      "English": "arranged-marriage meeting (families meet a prospective match)",
+      "Romanization": "dekha-shona",
+      "Bengali": "দেখাশোনা",
+      "Example": "kal meye-r dekha-shona achhe: The families are meeting about the girl's match tomorrow",
+      "Notes": "Also means looking after (baba-ma-r dekha-shona kora); context tells you which."
+    },
+    {
+      "English": "arranged marriage",
+      "Romanization": "sombondho kore biye",
+      "Bengali": "সম্বন্ধ করে বিয়ে",
+      "Example": "ora prem kore biye korechhe, sombondho kore na: They had a love marriage, not an arranged one",
+      "Notes": "sombondho = a marriage proposal between families. Love marriage is said in English or prem kore biye."
+    },
+    {
+      "English": "to date / be in a romantic relationship",
+      "Romanization": "prem kora",
+      "Bengali": "প্রেম করা",
+      "Example": "ora college theke prem korchhe: They've been dating since college",
+      "Notes": "Kolkata's standard word; going out and dating are also said by young people."
+    },
+    {
+      "English": "to separate (a couple)",
+      "Romanization": "alada hoye jawa",
+      "Bengali": "আলাদা হয়ে যাওয়া",
+      "Example": "biye-r dosh bochhor por ora alada hoye gelo: They separated after ten years of marriage",
+      "Notes": "Neutral and polite; divorce is said in English, bibaho bichhed is the formal term."
+    },
+    {
+      "English": "separation / divorce (formal)",
+      "Romanization": "bichhed",
+      "Bengali": "বিচ্ছেদ",
+      "Example": "or bichhed-er khobor shune sobai obak: Everyone was shocked to hear of their divorce",
+      "Notes": "Formal or literary; also 'parting' in songs. Speech prefers divorce or alada hoye jawa."
+    },
+    {
+      "English": "friendship",
+      "Romanization": "bondhutto",
+      "Bengali": "বন্ধুত্ব",
+      "Example": "amader bondhutto kuri bochhorer: Our friendship goes back twenty years",
+      "Notes": "bondhutto kora = to make friends; bondhutto bhanga = a friendship ending."
+    },
+    {
+      "English": "to introduce (two people)",
+      "Romanization": "porichoy koriye dewa",
+      "Bengali": "পরিচয় করিয়ে দেওয়া",
+      "Example": "tomake amar boss-er songe porichoy koriye dichhi: Let me introduce you to my boss",
+      "Notes": "porichoy = acquaintance or identity; porichito = acquainted."
+    },
+    {
+      "English": "to check in on someone (how they're doing)",
+      "Romanization": "khoj newa",
+      "Bengali": "খোঁজ নেওয়া",
+      "Example": "mashi-r shorir kharap, ek-bar khoj nio: Aunt isn't well, check in on her",
+      "Notes": "Not keeping in touch at all is: kono khoj rakhe na."
+    },
+    {
+      "English": "to taunt / rub someone's nose in something",
+      "Romanization": "khota dewa",
+      "Bengali": "খোঁটা দেওয়া",
+      "Example": "taka dhar diyechhe bole bar bar khota dey: He keeps throwing it in my face that he lent me money",
+      "Notes": "Typical of family fights: reminding someone of a past favour or failure."
+    },
+    {
+      "English": "to stand by someone",
+      "Romanization": "pashe thaka",
+      "Bengali": "পাশে থাকা",
+      "Example": "kharap somoy-e o amar pashe chhilo: She stood by me in hard times",
+      "Notes": "pashe dandano = to step up and support. Common in condolences and speeches."
+    },
+    {
+      "English": "to socialise / mix with people",
+      "Romanization": "mela-mesha kora",
+      "Bengali": "মেলামেশা করা",
+      "Example": "o kaaro songe mela-mesha kore na: He doesn't mix with anyone",
+      "Notes": "Can hint at disapproval of company: oder songe mela-mesha koro na."
+    },
+    {
+      "English": "social obligations / formalities",
+      "Romanization": "lokikota",
+      "Bengali": "লৌকিকতা",
+      "Example": "lokikota-r jonno biye-te jete holo: I had to go to the wedding out of social obligation",
+      "Notes": "Gifts, visits and invitations you return because it's expected."
+    },
+    {
+      "English": "to accept someone as one's own",
+      "Romanization": "apon kore newa",
+      "Bengali": "আপন করে নেওয়া",
+      "Example": "shoshur-bari-r sobai amake apon kore niyechhe: My in-laws have welcomed me as one of their own",
+      "Notes": "apon = one's own, close; por = an outsider."
+    },
+    {
+      "English": "Give my regards to your parents.",
+      "Romanization": "kaku-kakima-ke amar pronam dio",
+      "Bengali": "কাকু-কাকিমাকে আমার প্রণাম দিও।",
+      "Example": "",
+      "Notes": "Friends' parents are kaku-kakima in Kolkata; pronam for elders, bhalobasha for younger people."
+    },
+    {
+      "English": "It's been ages since we met!",
+      "Romanization": "koto din por dekha!",
+      "Bengali": "কতদিন পর দেখা!",
+      "Example": "",
+      "Notes": "The standard greeting on running into someone; often followed by ki khobor?"
+    }
+  ]
+}

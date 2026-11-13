@@ -1,0 +1,203 @@
+{
+  "title": "Connecting and hedging in speech",
+  "focus": "ashole, borong, tobuo, jodio, jehetu, tachhara, mane, ontoto, sombhoboto, hoyto, nischoi, bisheshoto, onnodike, sotti bolte, ja-i hok, jemon, naki",
+  "body": "A heritage speaker's Bengali often sounds like a chain of short statements joined by ar and kintu. Adult speakers link and soften ideas with discourse words: ashole to explain, hoyto to hedge, tobuo to concede, ja-i hok to move on. Learn these words with the sentence position they take, because most sit at the start of a clause.\n\n| Romanization | Bengali | Meaning |\n|---|---|---|\n| ashole | আসলে | actually, the thing is |\n| borong | বরং | rather, instead |\n| tobuo | তবুও | even so, still |\n| jodio | যদিও | although |\n| jehetu | যেহেতু | since, given that |\n| tachhara | তাছাড়া | besides |\n| mane | মানে | I mean |\n| ontoto | অন্তত | at least |\n| sombhoboto | সম্ভবত | probably |\n| hoyto | হয়তো | maybe |\n| nischoi | নিশ্চয়ই | surely |\n| bisheshoto | বিশেষত | especially |\n| onnodike | অন্যদিকে | on the other hand |\n| sotti bolte | সত্যি বলতে | to be honest |\n| ja-i hok | যাই হোক | anyway |\n| naki | নাকি | apparently |\n\n## Which word?\n\n**hoyto vs sombhoboto vs nischoi.** These form a scale of certainty: hoyto (maybe), then sombhoboto (probably), then nischoi (surely). In casual talk \"mone hoy\" often replaces sombhoboto.\n\n**jodio vs tobuo.** jodio opens the first clause (\"although X\"). tobuo opens the second (\"still Y\"). They often appear together: jodio X, tobuo Y.\n\n**kintu vs tobe vs oboshyo.** kintu is a plain \"but\". tobe is softer and often introduces a condition. oboshyo adds a caveat after you have made your point.\n\n**karon vs jehetu.** karon gives the reason after the main clause. jehetu gives it first and sounds more deliberate.\n\n**bisheshoto vs bishesh kore.** Same meaning. bishesh kore is more conversational.\n\n## Examples\n\n- ashole ajke ektu byasto, kal kotha boli?: Actually I'm a bit busy today, can we talk tomorrow?\n- jodio chakri-ta bhalo, tobuo ami khushi na: Although the job is good, I'm still not happy\n- borong tumi-i ekbar or songe kotha bolo: Why don't you talk to him instead\n- hoyto ami bhul, kintu amar mone hoy eta thik hobe na: Maybe I'm wrong, but I don't think this will work\n- jehetu sobai ekmot, tai sidhanto-ta niye nilam: Since everyone agreed, we went ahead with the decision\n- tumi nischoi shunechho, o naki biye korchhe: You must have heard, apparently she's getting married\n- sotti bolte, ami ei byapare kichhu jani na: To be honest, I don't know anything about this\n- ontoto ek-bar chesta kore dekho: At least give it one try\n- ja-i hok, ja hobar hoyechhe, ebar samne takao: Anyway, what's done is done, now look ahead\n- bhalo kotha, kal-er meeting-ta ki hochhe?: Oh by the way, is tomorrow's meeting still on?\n",
+  "cards": [
+    {
+      "English": "actually / the thing is (correcting or explaining)",
+      "Romanization": "ashole",
+      "Bengali": "আসলে",
+      "Example": "ashole ami bhulei gechhilam: Actually, I completely forgot",
+      "Notes": "The most common softener before an excuse or explanation. Not for surprise ('actually?!' = tai naki?)."
+    },
+    {
+      "English": "rather / instead (it would be better to)",
+      "Romanization": "borong",
+      "Bengali": "বরং",
+      "Example": "taxi na niye borong metro-te chalo: Rather than a taxi, let's take the metro",
+      "Notes": "Suggests a better alternative. Also 'on the contrary': o raag kore ni, borong khushi hoyechhe."
+    },
+    {
+      "English": "even so / still (despite that)",
+      "Romanization": "tobuo",
+      "Bengali": "তবুও",
+      "Example": "onek bujhiyechhi, tobuo shunlo na: I explained a lot, and still he didn't listen",
+      "Notes": "Starts the second clause. tobu is the shorter spoken form."
+    },
+    {
+      "English": "although / even though",
+      "Romanization": "jodio",
+      "Bengali": "যদিও",
+      "Example": "jodio deri hoye gechhilo, o tobuo elo: Although it was late, she still came",
+      "Notes": "Starts the first clause, often paired with tobuo or kintu. Also tacked on after: 'jodio ami jani na' = though I don't know."
+    },
+    {
+      "English": "since / given that (formal-ish)",
+      "Romanization": "jehetu",
+      "Bengali": "যেহেতু",
+      "Example": "jehetu tumi age theke jano, tumi-i bolo: Since you already know, you tell them",
+      "Notes": "Sounds measured; casual speech just uses karon or ...bole (deri hobe bole). Often paired with tai/sehetu."
+    },
+    {
+      "English": "besides / apart from that",
+      "Romanization": "tachhara",
+      "Bengali": "তাছাড়া",
+      "Example": "flat-ta dami, tachhara office theke-o dur: The flat is expensive, and besides it's far from the office",
+      "Notes": "Adds one more reason. tachhara + noun = except (tumi tachhara keu jane na)."
+    },
+    {
+      "English": "I mean (clarifying what you said)",
+      "Romanization": "mane",
+      "Bengali": "মানে",
+      "Example": "ami jete chai, mane, jodi tomar osubidha na hoy: I want to go, I mean, if it's no trouble for you",
+      "Notes": "Also 'meaning': er mane ki? = what does this mean? A natural filler while you think."
+    },
+    {
+      "English": "which means / so that means",
+      "Romanization": "tar mane",
+      "Bengali": "তার মানে",
+      "Example": "tar mane tumi ashchho na?: So that means you're not coming?",
+      "Notes": "Draws a conclusion from what the other person said; often a question."
+    },
+    {
+      "English": "at least",
+      "Romanization": "ontoto",
+      "Bengali": "অন্তত",
+      "Example": "ontoto ek-ta phone to korte parte: You could at least have called",
+      "Notes": "Both 'at a minimum' (ontoto doshta) and 'if nothing else'."
+    },
+    {
+      "English": "probably (more likely than not)",
+      "Romanization": "sombhoboto",
+      "Bengali": "সম্ভবত",
+      "Example": "sombhoboto kal brishti hobe: It'll probably rain tomorrow",
+      "Notes": "Sounds a bit careful or formal; in casual talk people often say mone hoy (I think)."
+    },
+    {
+      "English": "maybe / perhaps (unsure)",
+      "Romanization": "hoyto",
+      "Bengali": "হয়তো",
+      "Example": "hoyto o bhule gechhe: Maybe she forgot",
+      "Notes": "Weaker than sombhoboto. Also a polite hedge: hoyto ami bhul, kintu... = I might be wrong, but..."
+    },
+    {
+      "English": "surely / I'm sure (you must have)",
+      "Romanization": "nischoi",
+      "Bengali": "নিশ্চয়ই",
+      "Example": "tumi nischoi khub klanto: You must be very tired",
+      "Notes": "Guessing confidently about someone else. As a reply it means 'of course!' (nischoi, asho)."
+    },
+    {
+      "English": "especially / in particular",
+      "Romanization": "bisheshoto",
+      "Bengali": "বিশেষত",
+      "Example": "Kolkata-r khabar, bisheshoto mishti, darun: Kolkata food, especially the sweets, is amazing",
+      "Notes": "bishesh kore is the more spoken equivalent; bisheshoto sounds polished."
+    },
+    {
+      "English": "on the other hand",
+      "Romanization": "onnodike",
+      "Bengali": "অন্যদিকে",
+      "Example": "chakri-ta bhalo, onnodike maine kom: The job is good, but on the other hand the pay is low",
+      "Notes": "ulto dike means 'the opposite way' (ulto dike bhabo = think of it the other way round); onnodike is the standard contrast."
+    },
+    {
+      "English": "to be honest / honestly",
+      "Romanization": "sotti bolte",
+      "Bengali": "সত্যি বলতে",
+      "Example": "sotti bolte, cinema-ta amar bhalo lageni: To be honest, I didn't like the movie",
+      "Notes": "Fuller form: sotti kotha bolte ki. Softens a disagreeable opinion."
+    },
+    {
+      "English": "anyway (moving on)",
+      "Romanization": "ja-i hok",
+      "Bengali": "যাই হোক",
+      "Example": "ja-i hok, ekhon kaaj-er kotha-e ashi: Anyway, let's get down to business",
+      "Notes": "Closes a tangent. Also 'whatever happens': ja-i hok na keno = no matter what."
+    },
+    {
+      "English": "for example / such as",
+      "Romanization": "jemon",
+      "Bengali": "যেমন",
+      "Example": "kichhu jinish, jemon chal-dal, dam berechhe: Some things, like rice and lentils, have gone up in price",
+      "Notes": "Also 'like / the way': jemon bolechhilam = as I said. udahoron-sorup is the formal 'for example'."
+    },
+    {
+      "English": "of course / mind you (adding a caveat)",
+      "Romanization": "oboshyo",
+      "Bengali": "অবশ্য",
+      "Example": "o bhalo chhele, oboshyo ektu ragi: He's a good guy, though he's a bit short-tempered",
+      "Notes": "Adds a qualification after a statement. oboshyo-i = certainly (formal)."
+    },
+    {
+      "English": "but / however (softer than kintu)",
+      "Romanization": "tobe",
+      "Bengali": "তবে",
+      "Example": "jete pari, tobe deri hobe: I can come, but I'll be late",
+      "Notes": "Gentler than kintu; introduces a condition or reservation. Also 'then' in old-fashioned speech."
+    },
+    {
+      "English": "suppose / say (for the sake of argument)",
+      "Romanization": "dhoro",
+      "Bengali": "ধরো",
+      "Example": "dhoro chakri-ta pele, ki korbe?: Say you get the job, what will you do?",
+      "Notes": "Imperative of dhora (to hold); dhore nao = assume. dhoro is also a filler for estimates (dhoro panch hajar)."
+    },
+    {
+      "English": "as far as I know",
+      "Romanization": "jotodur jani",
+      "Bengali": "যতদূর জানি",
+      "Example": "jotodur jani, o ekhon Bangalore-e: As far as I know, he's in Bangalore now",
+      "Notes": "Puts a hedge on information; jotodur mone porchhe = as far as I remember."
+    },
+    {
+      "English": "most importantly / the biggest thing is",
+      "Romanization": "sobcheye boro kotha",
+      "Bengali": "সবচেয়ে বড় কথা",
+      "Example": "flat-ta sundor, ar sobcheye boro kotha, bhara kom: The flat is nice, and most importantly, the rent is low",
+      "Notes": "Used to land the strongest point at the end of a list."
+    },
+    {
+      "English": "in a way / from one angle",
+      "Romanization": "ekdik theke",
+      "Bengali": "একদিক থেকে",
+      "Example": "ekdik theke bhalo-i holo: In a way, it worked out for the best",
+      "Notes": "Concedes a point partially; ekdik theke dekhte gele = if you look at it one way."
+    },
+    {
+      "English": "oh, by the way (remembering something)",
+      "Romanization": "bhalo kotha",
+      "Bengali": "ভালো কথা",
+      "Example": "bhalo kotha, tomar boi-ta ferot dite bhule gechhi: Oh, by the way, I forgot to return your book",
+      "Notes": "Very Kolkata; literally 'good point'. kotha prosonge is the more formal 'by the way'."
+    },
+    {
+      "English": "apparently / supposedly (hearsay)",
+      "Romanization": "naki",
+      "Bengali": "নাকি",
+      "Example": "o naki chakri chhere diyechhe: Apparently he's quit his job",
+      "Notes": "Placed after the subject for reported info. At the end of a question it means 'or': cha khabe naki coffee?"
+    },
+    {
+      "English": "you could say / so to speak",
+      "Romanization": "bola jay",
+      "Bengali": "বলা যায়",
+      "Example": "bola jay, o-i ei business-ta dar koriyechhe: You could say she's the one who built this business",
+      "Notes": "Softens a claim; bola jay na = you can't say / hard to say."
+    },
+    {
+      "English": "Where was I? (after an interruption)",
+      "Romanization": "ki jeno bolchhilam?",
+      "Bengali": "কী যেন বলছিলাম?",
+      "Example": "ha, ki jeno bolchhilam? o, flat-er kotha: Right, where was I? Oh, about the flat",
+      "Notes": "jeno marks trying to remember (or nam-ta ki jeno = what's his name again)."
+    },
+    {
+      "English": "That's not what I meant.",
+      "Romanization": "ami seta bolte chaini",
+      "Bengali": "আমি সেটা বলতে চাইনি।",
+      "Example": "raag koro na, ami seta bolte chaini: Don't be angry, that's not what I meant",
+      "Notes": "Add amake bhul bujho na (don't get me wrong) to soften further."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "title": "News and society",
+  "focus": "sorkar, niti, orthoniti, nirbachon, ain, andolon, michhil, mulyobriddhi, bekarotto, dushon, songbad madhyam, durniti, songskar, unnoyon, bandh",
+  "body": "# News and society\n\nFamily talk rarely touches politics or the economy, but the news, the adda at the tea stall and any serious conversation do. These are the words of Bengali news channels and newspapers, with notes on what people actually say in a Kolkata living room.\n\n| Romanization | Bengali | Meaning |\n|---|---|---|\n| sorkar | সরকার | government (the state) |\n| niti | নীতি | policy (government or company) |\n| orthoniti | অর্থনীতি | economy / economics |\n| nirbachon | নির্বাচন | election |\n| ain | আইন | law (a law, the law) |\n| andolon | আন্দোলন | movement / agitation (political or social campaign) |\n| michhil | মিছিল | procession / protest march |\n| mulyobriddhi | মূল্যবৃদ্ধি | inflation / rise in prices (formal) |\n| bekarotto | বেকারত্ব | unemployment |\n| dushon | দূষণ | pollution |\n| poribesh | পরিবেশ | environment (natural) |\n| somaj | সমাজ | society |\n| songbad madhyam | সংবাদমাধ্যম | the news media / the press |\n| durniti | দুর্নীতি | corruption |\n| songskar | সংস্কার | reform (of a system) |\n| unnoyon | উন্নয়ন | development (of a region, infrastructure) |\n| bandh | বনধ | general strike / shutdown (called by a party) |\n| birodhi dol | বিরোধী দল | opposition (party) |\n| shashok dol | শাসক দল | ruling party |\n| montri | মন্ত্রী | minister |\n| nagorik | নাগরিক | citizen |\n| odhikar | অধিকার | right(s) (legal, civil) |\n| protibad | প্রতিবাদ | protest (an act of objecting) |\n| hingsa | হিংসা | violence (news) |\n| adalot | আদালত | court (of law) |\n| ray | রায় | verdict / ruling (of a court) |\n| porikathamo | পরিকাঠামো | infrastructure (WB usage) |\n| jonogon | জনগণ | the public / the people |\n\n## Which word?\n\n- **andolon vs protibad vs michhil**: andolon is a sustained movement; protibad is a single act of protest or objection; michhil is the march on the street.\n- **mulyobriddhi vs dam bere geche**: mulyobriddhi is the news word for inflation; at home people say \"sob kichhur dam bere geche\".\n- **nirbachon vs bhot**: nirbachon is the formal word; in speech people say bhot (vote) for both the vote and the election.\n- **bandh vs bondho**: bandh (বনধ) is a called strike or shutdown; bondho (বন্ধ) just means closed.\n- **hingsa vs hingse**: hingsa in the news is violence; hingse in conversation is jealousy.\n- **songbad madhyam vs media**: in speech almost everyone says media.\n\n## Examples\n\n- sorkar notun prokolpo ghoshona korechhe: the government has announced a new scheme\n- desh-er orthoniti-r obostha bhalo na: the country's economy isn't in good shape\n- chakri-r dabi-te chhatra-ra andolon korchhe: students are agitating for jobs\n- Dharmatala-y michhil-er jonno rasta bondho: the road is closed at Dharmatala because of a march\n- rajje bekarotto ekta boro somossa: unemployment is a big problem in the state\n- shiter somoy Kolkata-y bayu dushon bhishon bere jay: air pollution gets terrible in winter\n- durniti-r obhijoge montri-ke greftar kora hoyechhe: the minister was arrested on corruption charges\n- unnoyon-er naam-e gachh kata hochchhe: trees are being cut in the name of development\n- kal bandh daka hoyechhe: a bandh has been called for tomorrow\n- byapar-ta ekhon adalot-e: the matter is now in court\n",
+  "cards": [
+    {
+      "English": "government (the state)",
+      "Romanization": "sorkar",
+      "Bengali": "সরকার",
+      "Example": "sorkar notun prokolpo ghoshona korechhe: the government has announced a new scheme",
+      "Notes": "sorkari = governmental, public (sorkari hashpatal = government hospital)."
+    },
+    {
+      "English": "policy (government or company)",
+      "Romanization": "niti",
+      "Bengali": "নীতি",
+      "Example": "sorkar-er shikkha niti niye onek torko hochchhe: there's a lot of debate about the government's education policy",
+      "Notes": "Also 'principle' (nitibodh = moral sense). 'policy' is common in office talk."
+    },
+    {
+      "English": "election",
+      "Romanization": "nirbachon",
+      "Bengali": "নির্বাচন",
+      "Example": "nirbachon-er aage shohor jure prochar cholchhe: campaigning is on across the city before the election",
+      "Notes": "In speech often 'bhot' (vote): bhot kobe? = when's the election?"
+    },
+    {
+      "English": "law (a law, the law)",
+      "Romanization": "ain",
+      "Bengali": "আইন",
+      "Example": "notun ain-e ei niyom bodle geche: under the new law this rule has changed",
+      "Notes": "ain bhanga = to break the law; ainjibi = lawyer (spoken: ukil)."
+    },
+    {
+      "English": "movement / agitation (political or social campaign)",
+      "Romanization": "andolon",
+      "Bengali": "আন্দোলন",
+      "Example": "chakri-r dabi-te chhatra-ra andolon korchhe: students are agitating for jobs",
+      "Notes": "A sustained campaign; protibad is a single act of protest."
+    },
+    {
+      "English": "procession / protest march",
+      "Romanization": "michhil",
+      "Bengali": "মিছিল",
+      "Example": "Dharmatala-y michhil-er jonno rasta bondho: the road is closed at Dharmatala because of a march",
+      "Notes": "A Kolkata staple; 'rally' is also used. michhil is the march itself."
+    },
+    {
+      "English": "inflation / rise in prices (formal)",
+      "Romanization": "mulyobriddhi",
+      "Bengali": "মূল্যবৃদ্ধি",
+      "Example": "mulyobriddhi-r chap-e madhyobitto-ra nakal: the middle class is squeezed by inflation",
+      "Notes": "News word. In conversation: 'jinishpotro-r dam bere geche'."
+    },
+    {
+      "English": "pollution",
+      "Romanization": "dushon",
+      "Bengali": "দূষণ",
+      "Example": "shiter somoy Kolkata-y bayu dushon bhishon bere jay: air pollution in Kolkata gets terrible in winter",
+      "Notes": "bayu dushon = air pollution; sobdo dushon = noise pollution; poribesh dushon = environmental pollution."
+    },
+    {
+      "English": "environment (natural)",
+      "Romanization": "poribesh",
+      "Bengali": "পরিবেশ",
+      "Example": "plastic poribesh-er jonno khub khotikor: plastic is very harmful for the environment",
+      "Notes": "Also 'atmosphere' of a place (bari-r poribesh = home atmosphere)."
+    },
+    {
+      "English": "society",
+      "Romanization": "somaj",
+      "Bengali": "সমাজ",
+      "Example": "somaj-er chokhe eta ekhono mene newa hoy na: society still doesn't accept this",
+      "Notes": "samajik = social; 'lok ki bolbe' is the everyday version of social pressure."
+    },
+    {
+      "English": "the news media / the press",
+      "Romanization": "songbad madhyam",
+      "Bengali": "সংবাদমাধ্যম",
+      "Example": "songbad madhyam ghotona-ta niye chup: the media is silent on the incident",
+      "Notes": "In speech just 'media'. songbad = news (formal); khobor is everyday."
+    },
+    {
+      "English": "corruption",
+      "Romanization": "durniti",
+      "Bengali": "দুর্নীতি",
+      "Example": "durniti-r obhijoge montri-ke greftar kora hoyechhe: the minister was arrested on corruption charges",
+      "Notes": "durnitigrosto = corrupt (formal); spoken 'ghushkhor' for a person who takes bribes."
+    },
+    {
+      "English": "reform (of a system)",
+      "Romanization": "songskar",
+      "Bengali": "সংস্কার",
+      "Example": "shikkha byabostha-y songskar dorkar: the education system needs reform",
+      "Notes": "Also means repair/renovation (bari songskar) and, in another sense, custom or superstition."
+    },
+    {
+      "English": "development (of a region, infrastructure)",
+      "Romanization": "unnoyon",
+      "Bengali": "উন্নয়ন",
+      "Example": "unnoyon-er naam-e gachh kata hochchhe: trees are being cut in the name of development",
+      "Notes": "A key word in West Bengal politics; 'development' is also used."
+    },
+    {
+      "English": "general strike / shutdown (called by a party)",
+      "Romanization": "bandh",
+      "Bengali": "বনধ",
+      "Example": "kal bandh daka hoyechhe: a bandh has been called for tomorrow",
+      "Notes": "Spelled বনধ to distinguish it from বন্ধ (closed). bandh daka = to call a bandh."
+    },
+    {
+      "English": "opposition (party)",
+      "Romanization": "birodhi dol",
+      "Bengali": "বিরোধী দল",
+      "Example": "birodhi dol bidhansobha theke walkout korlo: the opposition walked out of the assembly",
+      "Notes": "birodhi = opposing; dol = party/group."
+    },
+    {
+      "English": "ruling party",
+      "Romanization": "shashok dol",
+      "Bengali": "শাসক দল",
+      "Example": "shashok dol-er neta-ra ei obhijog oswikar korechhe: ruling party leaders have denied the allegation",
+      "Notes": "News phrase; in speech people just name the party."
+    },
+    {
+      "English": "minister",
+      "Romanization": "montri",
+      "Bengali": "মন্ত্রী",
+      "Example": "montri nije ese elaka-ta dekhe gechhen: the minister came and inspected the area himself",
+      "Notes": "mukhyomontri = chief minister; prodhanmontri = prime minister."
+    },
+    {
+      "English": "citizen",
+      "Romanization": "nagorik",
+      "Bengali": "নাগরিক",
+      "Example": "protyek nagorik-er bhot dewa uchit: every citizen should vote",
+      "Notes": "nagorikotto = citizenship."
+    },
+    {
+      "English": "right(s) (legal, civil)",
+      "Romanization": "odhikar",
+      "Bengali": "অধিকার",
+      "Example": "eta amader odhikar, keu kere nite parbe na: this is our right, no one can take it away",
+      "Notes": "odhikar also covers 'claim, entitlement' (ogradhikar = priority)."
+    },
+    {
+      "English": "protest (an act of objecting)",
+      "Romanization": "protibad",
+      "Bengali": "প্রতিবাদ",
+      "Example": "obichar dekhle protibad korte hobe: when you see injustice you must speak up",
+      "Notes": "protibad kora = to protest, also to object in a conversation."
+    },
+    {
+      "English": "violence (news)",
+      "Romanization": "hingsa",
+      "Bengali": "হিংসা",
+      "Example": "bhot-er por elaka-y hingsa chhoriye pore: violence broke out in the area after the vote",
+      "Notes": "Do not confuse with spoken hingse (jealousy). Both are হিংসা in writing; context decides."
+    },
+    {
+      "English": "court (of law)",
+      "Romanization": "adalot",
+      "Bengali": "আদালত",
+      "Example": "byapar-ta ekhon adalot-e: the matter is now in court",
+      "Notes": "Spoken: 'court' (court-e mamla cholchhe). mamla = lawsuit/case."
+    },
+    {
+      "English": "verdict / ruling (of a court)",
+      "Romanization": "ray",
+      "Bengali": "রায়",
+      "Example": "High Court ajke ray debe: the High Court will give its ruling today",
+      "Notes": "ray dewa = to deliver a verdict. Also a common surname (Ray / Roy)."
+    },
+    {
+      "English": "infrastructure (WB usage)",
+      "Romanization": "porikathamo",
+      "Bengali": "পরিকাঠামো",
+      "Example": "jelar hashpatal-gulo-r porikathamo khub kharap: the district hospitals have very poor infrastructure",
+      "Notes": "West Bengal word; Bangladesh says obokathamo."
+    },
+    {
+      "English": "the public / the people",
+      "Romanization": "jonogon",
+      "Bengali": "জনগণ",
+      "Example": "shesh porjonto jonogon-i thik korbe: in the end the people will decide",
+      "Notes": "Formal; in speech 'sadharon manush' (ordinary people) is common."
+    },
+    {
+      "English": "Everything will be shut tomorrow because of the bandh.",
+      "Romanization": "kal bandh-er jonno sob bondho thakbe",
+      "Bengali": "কাল বনধের জন্য সব বন্ধ থাকবে",
+      "Example": "",
+      "Notes": "Note the pun: bandh (strike) makes everything bondho (closed)."
+    },
+    {
+      "English": "Prices of everything have shot up.",
+      "Romanization": "sob jinish-er dam bere geche",
+      "Bengali": "সব জিনিসের দাম বেড়ে গেছে",
+      "Example": "",
+      "Notes": "The everyday way to talk about inflation; mulyobriddhi is the news word."
+    }
+  ]
+}

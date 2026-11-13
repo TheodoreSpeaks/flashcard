@@ -1,0 +1,13 @@
+{
+  "name": "bnvocab",
+  "fields": ["English", "Romanization", "Bengali", "Example", "Notes"],
+  "front": ["English"],
+  "back": ["Romanization", "Bengali", "Example", "Notes"],
+  "new_per_day": 20,
+  "guide": {
+    "instructions": "Adult Bengali vocab, English -> Bengali production, Kolkata / West Bengal usage (jol not pani). The learner is a heritage speaker: fluent in family talk (food, family, daily routine, basic feelings), but lacks adult vocabulary (work, money, health, news, opinions, abstract ideas). Skip anything a kid raised speaking Bengali at home would already know. Prefer the word an educated Kolkata speaker actually says. When everyday speech just uses the English word (office, meeting, phone), don't make a card for it unless there is a common Bengali word too; mention the English-loan reality in Notes. The front is English and must pin down ONE answer: add a hint in parentheses when English is vague. Romanization is the answer studied: casual, intuitive, no diacritics (sidhanto, daitto, abhigyota). Bengali field: the word in Bengali script, for reference. Example: one natural spoken Kolkata sentence, romanized, then ': ' and English, e.g. 'ei kaj-ta ami samle nebo: I'll handle this'. Use tumi in examples unless the situation calls for apni. Notes: one line on usage: near-synonyms and how they differ, register (spoken vs bookish/formal, sadhu-ish words to avoid in speech), common collocations. Empty if nothing useful.",
+    "level": "heritage speaker, fluent at home-level conversation, building adult vocabulary"
+  },
+  "unlocked_through": 1,
+  "opened": []
+}

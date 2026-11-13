@@ -1,0 +1,203 @@
+{
+  "title": "Health and the body",
+  "focus": "lokkhon, chikitsa, osustho, songkromon, rokto-chap, onidra, duschinta, haspatal-e bhorti hoa, ostropochar, protishedhok, sustho hoye otha, daktar dekhano",
+  "body": "# Health and the body\n\nEveryone raised in a Bengali home knows jor, kashi, matha byatha and pet kharap. What heritage speakers usually lack is the words for talking to a doctor, explaining a relative's condition and following health news: symptoms, treatment, infection, surgery, blood pressure, side effects.\n\n| Romanization | Bengali | Meaning |\n|---|---|---|\n| lokkhon | লক্ষণ | symptom |\n| chikitsa | চিকিৎসা | treatment |\n| osustho | অসুস্থ | ill |\n| songkromon | সংক্রমণ | infection |\n| rokto-chap | রক্তচাপ | blood pressure |\n| onidra | অনিদ্রা | insomnia |\n| duschinta | দুশ্চিন্তা | anxiety, worry |\n| ostropochar | অস্ত্রোপচার | surgery (formal) |\n| protishedhok | প্রতিষেধক | vaccine, preventive |\n| rogi | রোগী | patient |\n| obosad | অবসাদ | depression |\n| shwashkoshto | শ্বাসকষ্ট | breathlessness |\n| chhowache | ছোঁয়াচে | contagious |\n| sustho hoye otha | সুস্থ হয়ে ওঠা | to recover |\n| daktar dekhano | ডাক্তার দেখানো | to see a doctor |\n\n## Which word?\n\n- **English loans**: Kolkata patients say *pressure* (not rokto-chap), *sugar* (diabetes), *operation*, *infection*, *test*, *report* and *side effect*. The Bengali words are what you read in the paper and hear from some doctors. You need both: the loan to speak, the Bengali to understand.\n- **osukh vs rog vs osustho**: *osukh* is the home word for being ill. *rog* is a disease with a name. *osustho* is the adjective \"ill\", and it sounds more adult than *shorir kharap*.\n- **duschinta vs obosad**: *duschinta* is worry or anxiety about something. *obosad* is depression or deep low mood; many people just say *depression*.\n- **daktar dekhano**: you *show* the doctor: \"daktar dekhiyechho?\" means \"Have you seen a doctor?\"\n\n## Examples\n\n- **daktar dekhiyechho?**: Have you seen a doctor?\n- **koto din dhore ei lokkhon-gulo achhe apnar?**: How long have you had these symptoms?\n- **dadu-ke kal haspatal-e bhorti kora hoyechhe**: Grandpa was admitted to hospital yesterday\n- **ma-r rokto-chap-ta ektu beshi**: Mum's blood pressure is a bit high\n- **ei oshudh-er kono parshoprotikriya achhe?**: Does this medicine have any side effects?\n- **duschinta-y raat-e ghum ashe na**: I can't sleep at night from worry\n- **or flu-ta chhowache, kachhe jeo na**: Her flu is contagious, don't go near her\n- **o ekhon dhire dhire sustho hoye uthchhe**: She's slowly recovering now\n- **bachhbichar kore khao, sugar barchhe**: Watch what you eat, your sugar is going up\n",
+  "cards": [
+    {
+      "English": "symptom",
+      "Romanization": "lokkhon",
+      "Bengali": "লক্ষণ",
+      "Example": "koto din dhore ei lokkhon-gulo achhe apnar?: How long have you had these symptoms?",
+      "Notes": "Also 'sign': bhalo lokkhon = a good sign. Not lokkho (goal)."
+    },
+    {
+      "English": "medical treatment",
+      "Romanization": "chikitsa",
+      "Bengali": "চিকিৎসা",
+      "Example": "Vellore-e or chikitsa cholchhe: He's being treated in Vellore",
+      "Notes": "chikitsa kora / korano. 'treatment' is equally common in speech."
+    },
+    {
+      "English": "ill / unwell (adjective)",
+      "Romanization": "osustho",
+      "Bengali": "অসুস্থ",
+      "Example": "baba kal theke osustho: Dad's been unwell since yesterday",
+      "Notes": "More adult than shorir kharap. Opposite: sustho."
+    },
+    {
+      "English": "infection",
+      "Romanization": "songkromon",
+      "Bengali": "সংক্রমণ",
+      "Example": "kata-ta-y songkromon hoye gechhe: The cut has got infected",
+      "Notes": "News and doctor's word; patients usually say 'infection'."
+    },
+    {
+      "English": "blood pressure",
+      "Romanization": "rokto-chap",
+      "Bengali": "রক্তচাপ",
+      "Example": "ma-r rokto-chap-ta ektu beshi: Mum's blood pressure is a bit high",
+      "Notes": "In speech nearly everyone says 'pressure': or pressure achhe."
+    },
+    {
+      "English": "insomnia",
+      "Romanization": "onidra",
+      "Bengali": "অনিদ্রা",
+      "Example": "onek din dhore onidra-y bhugchhi: I've been suffering from insomnia for a long time",
+      "Notes": "Formal; casually 'raat-e ghum hoy na'."
+    },
+    {
+      "English": "anxiety / worry",
+      "Romanization": "duschinta",
+      "Bengali": "দুশ্চিন্তা",
+      "Example": "duschinta-y raat-e ghum ashe na: I can't sleep at night from worry",
+      "Notes": "chinta is plain 'thought/worry'; duschinta is heavier. 'tension' is common: tension korchhi."
+    },
+    {
+      "English": "to be admitted to hospital",
+      "Romanization": "haspatal-e bhorti hoa",
+      "Bengali": "হাসপাতালে ভর্তি হওয়া",
+      "Example": "dadu kal haspatal-e bhorti hoyechhen: Grandpa was admitted to hospital yesterday",
+      "Notes": "bhorti kora = to admit someone. Private hospitals are often called 'nursing home'."
+    },
+    {
+      "English": "surgery (formal word)",
+      "Romanization": "ostropochar",
+      "Bengali": "অস্ত্রোপচার",
+      "Example": "ostropochar-ta safol hoyechhe: The surgery was successful",
+      "Notes": "News register. In speech it's always 'operation' (opareshon)."
+    },
+    {
+      "English": "vaccine / preventive (medicine)",
+      "Romanization": "protishedhok",
+      "Bengali": "প্রতিষেধক",
+      "Example": "ei rog-er ekhono kono protishedhok nei: There's no vaccine for this disease yet",
+      "Notes": "Formal. Everyday: tika or 'vaccine'."
+    },
+    {
+      "English": "vaccination / jab",
+      "Romanization": "tika",
+      "Bengali": "টিকা",
+      "Example": "bachcha-ke tika dite niye jete hobe: We need to take the baby for her jab",
+      "Notes": "tika dewa / newa. 'vaccine' is also used."
+    },
+    {
+      "English": "to be careful about what one eats (on a diet)",
+      "Romanization": "bachhbichar kore khawa",
+      "Bengali": "বাছবিচার করে খাওয়া",
+      "Example": "bachhbichar kore khao, sugar barchhe: Watch what you eat, your sugar is going up",
+      "Notes": "Everyday phrase for dietary restrictions; 'diet kora' is also used."
+    },
+    {
+      "English": "to recover (from an illness)",
+      "Romanization": "sustho hoye otha",
+      "Bengali": "সুস্থ হয়ে ওঠা",
+      "Example": "o ekhon dhire dhire sustho hoye uthchhe: She's slowly recovering now",
+      "Notes": "sustho = healthy. Casual: 'bhalo hoye otha'."
+    },
+    {
+      "English": "to see a doctor",
+      "Romanization": "daktar dekhano",
+      "Bengali": "ডাক্তার দেখানো",
+      "Example": "eto din jor, daktar dekhiyechho?: Fever for so long, have you seen a doctor?",
+      "Notes": "Literally 'to show (yourself to) the doctor'."
+    },
+    {
+      "English": "side effect",
+      "Romanization": "parshoprotikriya",
+      "Bengali": "পার্শ্বপ্রতিক্রিয়া",
+      "Example": "ei oshudh-er kono parshoprotikriya achhe?: Does this medicine have any side effects?",
+      "Notes": "Formal; in speech 'side effect' is usual."
+    },
+    {
+      "English": "disease (a named illness)",
+      "Romanization": "rog",
+      "Bengali": "রোগ",
+      "Example": "ki rog hoyechhe, daktar ekhono bolte parchhe na: The doctor still can't say what disease it is",
+      "Notes": "osukh is the home word for being ill; rog is the disease itself. rog dhora = to be diagnosed."
+    },
+    {
+      "English": "health (one's general ~)",
+      "Romanization": "sastho",
+      "Bengali": "স্বাস্থ্য",
+      "Example": "bhalo thakte gele sastho-r jotno nite hobe: To stay well you have to look after your health",
+      "Notes": "sastho-r jotno newa = take care of health. manosik sastho = mental health."
+    },
+    {
+      "English": "depression / deep low mood",
+      "Romanization": "obosad",
+      "Bengali": "অবসাদ",
+      "Example": "chakri jawar por o obosad-e bhugchhe: He's been depressed since losing his job",
+      "Notes": "Many people say 'depression'. Also means exhaustion in older writing."
+    },
+    {
+      "English": "fatigue / exhaustion",
+      "Romanization": "klanti",
+      "Bengali": "ক্লান্তি",
+      "Example": "sara din ekta klanti lage: I feel a kind of fatigue all day",
+      "Notes": "klanto = tired (adjective)."
+    },
+    {
+      "English": "to feel dizzy",
+      "Romanization": "matha ghora",
+      "Bengali": "মাথা ঘোরা",
+      "Example": "uthle-i matha ghurchhe: I get dizzy whenever I stand up",
+      "Notes": "matha = head; the head 'spins'."
+    },
+    {
+      "English": "to feel nauseous",
+      "Romanization": "gaa golano",
+      "Bengali": "গা গোলানো",
+      "Example": "sokal theke gaa gulochhe: I've been feeling nauseous since morning",
+      "Notes": "Spoken form: gaa gulochhe. bomi pawa = feel like vomiting."
+    },
+    {
+      "English": "breathlessness / difficulty breathing",
+      "Romanization": "shwashkoshto",
+      "Bengali": "শ্বাসকষ্ট",
+      "Example": "raat-e dadu-r shwashkoshto hochhilo: Grandpa was having trouble breathing at night",
+      "Notes": "Also used for asthma generally."
+    },
+    {
+      "English": "patient",
+      "Romanization": "rogi",
+      "Bengali": "রোগী",
+      "Example": "daktar-er chamber-e onek rogi bose achhe: There are many patients waiting in the doctor's chamber",
+      "Notes": "Also 'patient' in English. A doctor's private clinic is a 'chamber' in Kolkata."
+    },
+    {
+      "English": "contagious / catching",
+      "Romanization": "chhowache",
+      "Bengali": "ছোঁয়াচে",
+      "Example": "or flu-ta chhowache, kachhe jeo na: Her flu is contagious, don't go near her",
+      "Notes": "Everyday word; also figurative: hashi chhowache = laughter is catching."
+    },
+    {
+      "English": "immunity (resistance to disease)",
+      "Romanization": "rog protirodh khomota",
+      "Bengali": "রোগ প্রতিরোধ ক্ষমতা",
+      "Example": "or rog protirodh khomota khub kom: Her immunity is very low",
+      "Notes": "Common since Covid; 'immunity' is also used."
+    },
+    {
+      "English": "pulse",
+      "Romanization": "nari",
+      "Bengali": "নাড়ি",
+      "Example": "daktar nari dekhe bollen sob thik achhe: The doctor checked my pulse and said everything's fine",
+      "Notes": "nari dekha = to take a pulse. Also 'nari-r taan' = emotional bond."
+    },
+    {
+      "English": "How long have you had this problem? (doctor to patient)",
+      "Romanization": "koto din dhore ei somossa-ta hochhe apnar?",
+      "Bengali": "কত দিন ধরে এই সমস্যাটা হচ্ছে আপনার?",
+      "Example": "",
+      "Notes": "Doctors use apni with patients. koto din dhore = for how long."
+    },
+    {
+      "English": "The doctor told me to get some tests done.",
+      "Romanization": "daktar kichhu test korate bolechhen",
+      "Bengali": "ডাক্তার কিছু টেস্ট করাতে বলেছেন",
+      "Example": "",
+      "Notes": "test korano = to get tests done; Bengali speakers use 'test' and 'report'."
+    }
+  ]
+}

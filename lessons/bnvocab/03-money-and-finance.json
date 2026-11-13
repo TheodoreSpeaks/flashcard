@@ -1,0 +1,210 @@
+{
+  "title": "Money and finance",
+  "focus": "aay, byay, sonchoy, rin, dhar, sud, biniyog, kor, bima, labh, lokshan, khoti, deuliya, kisti, hisab rakha",
+  "body": "# Money and finance\n\nYou know taka, dam and khoroch from the bazaar. Adult money talk needs income, savings, loans, interest, tax and investment, and the difference between the bank's words and the ones people use over tea. These come up whenever family talks about property, a loan or how the economy is going.\n\n| Romanization | Bengali | Meaning |\n|---|---|---|\n| aay | আয় | income |\n| byay | ব্যয় | expenditure (formal) |\n| sonchoy | সঞ্চয় | savings |\n| rin | ঋণ | loan, debt (formal) |\n| dhar | ধার | money borrowed (informal) |\n| sud | সুদ | interest |\n| biniyog | বিনিয়োগ | investment |\n| kor | কর | tax |\n| bima | বিমা | insurance |\n| labh | লাভ | profit |\n| lokshan | লোকসান | loss (money lost) |\n| khoti | ক্ষতি | damage, harm |\n| deuliya | দেউলিয়া | bankrupt |\n| kisti | কিস্তি | instalment |\n| sompotti | সম্পত্তি | property |\n\n## Which word?\n\n- **rin vs dhar vs loan**: *rin* is the formal word (bank forms, news). *dhar* is borrowing from a friend or relative: \"bondhu-r kachh theke dhar niyechhi.\" For a bank loan most people just say *loan*.\n- **byay vs khoroch**: *khoroch* is the everyday word for spending. *byay* is for budgets, reports and the news.\n- **lokshan vs khoti**: *lokshan* is money lost in business (\"byabsa-y lokshan hoyechhe\"). *khoti* is damage or harm in general, including money: \"onek khoti hoye gelo.\"\n- **kor vs tax**: in speech people say *tax* and *income tax*. *kor* and *aaykor* are the official words you see on notices.\n- **sonchoy vs taka jomano**: *sonchoy* is \"savings\" as a thing; to save money in conversation is *taka jomano*.\n\n## Examples\n\n- **or mashik aay koto?**: What's his monthly income?\n- **bank-er sud ajkal khub kom**: Bank interest is very low these days\n- **ei mash theke khoroch komate hobe**: We have to cut back on spending from this month\n- **ami prottek mash kichhu taka jomai**: I save some money every month\n- **gari-ta kistite kinechhi**: I bought the car on instalments\n- **o share bazar-e onek taka biniyog korechhe**: He's invested a lot in the stock market\n- **byabsa-y lokshan hote hote o deuliya hoye gelo**: After loss after loss in the business, he went bankrupt\n- **baba-r sompotti niye bhai-der modhye jhamela cholchhe**: The brothers are fighting over Dad's property\n- **ami tomake samner mashe taka-ta ferot debo**: I'll pay you back next month\n",
+  "cards": [
+    {
+      "English": "income",
+      "Romanization": "aay",
+      "Bengali": "আয়",
+      "Example": "or mashik aay koto?: What's his monthly income?",
+      "Notes": "aay kora = to earn. 'income' and 'earning' are also used. rojgar is a casual 'earnings'."
+    },
+    {
+      "English": "expenditure (formal)",
+      "Romanization": "byay",
+      "Bengali": "ব্যয়",
+      "Example": "sorkar shikkha-y byay barachhe: The government is increasing spending on education",
+      "Notes": "Formal and news register; everyday word is khoroch."
+    },
+    {
+      "English": "savings (the money put aside)",
+      "Romanization": "sonchoy",
+      "Bengali": "সঞ্চয়",
+      "Example": "osukh-e amar sob sonchoy shesh hoye gechhe: My illness used up all my savings",
+      "Notes": "Formal-ish noun. 'Savings account' is just 'savings account'. Verb in speech: taka jomano."
+    },
+    {
+      "English": "to save money (put aside)",
+      "Romanization": "taka jomano",
+      "Bengali": "টাকা জমানো",
+      "Example": "ami prottek mash kichhu taka jomai: I save some money every month",
+      "Notes": "Everyday phrase; sonchoy kora is the formal version."
+    },
+    {
+      "English": "loan / debt (formal)",
+      "Romanization": "rin",
+      "Bengali": "ঋণ",
+      "Example": "krishok-der rin mokub kora hoyechhe: The farmers' loans have been waived",
+      "Notes": "Bank forms and news. In speech: 'loan' for a bank, dhar for a friend."
+    },
+    {
+      "English": "money borrowed (informal, from a friend)",
+      "Romanization": "dhar",
+      "Bengali": "ধার",
+      "Example": "bondhu-r kachh theke kichhu taka dhar niyechhi: I borrowed some money from a friend",
+      "Notes": "dhar newa = borrow, dhar dewa = lend. Also borrowing things: boi-ta dhar dao."
+    },
+    {
+      "English": "interest (on a loan or deposit)",
+      "Romanization": "sud",
+      "Bengali": "সুদ",
+      "Example": "bank-er sud ajkal khub kom: Bank interest is very low these days",
+      "Notes": "sud-er har = interest rate. 'interest' is also used."
+    },
+    {
+      "English": "investment",
+      "Romanization": "biniyog",
+      "Bengali": "বিনিয়োগ",
+      "Example": "o share bazar-e onek taka biniyog korechhe: He's invested a lot in the stock market",
+      "Notes": "biniyog kora = to invest. Speech often uses 'invest kora'."
+    },
+    {
+      "English": "tax (official word)",
+      "Romanization": "kor",
+      "Bengali": "কর",
+      "Example": "notun budget-e kor barbe: Taxes will go up in the new budget",
+      "Notes": "Official and news word; in speech people say 'tax'."
+    },
+    {
+      "English": "income tax",
+      "Romanization": "aaykor",
+      "Bengali": "আয়কর",
+      "Example": "aaykor-er form bhorte hobe: I have to fill in the income tax form",
+      "Notes": "aay (income) + kor (tax). 'income tax' is the spoken norm."
+    },
+    {
+      "English": "insurance",
+      "Romanization": "bima",
+      "Bengali": "বিমা",
+      "Example": "ma-r jonno ekta shastho bima korechhi: I've taken out health insurance for Mum",
+      "Notes": "jibon bima = life insurance (LIC). 'insurance' is also common."
+    },
+    {
+      "English": "to cut back on spending",
+      "Romanization": "khoroch komano",
+      "Bengali": "খরচ কমানো",
+      "Example": "ei mash theke khoroch komate hobe: We have to cut back on spending from this month",
+      "Notes": "khoroch = spending/expense; komano = to reduce."
+    },
+    {
+      "English": "to keep accounts (track spending)",
+      "Romanization": "hisab rakha",
+      "Bengali": "হিসাব রাখা",
+      "Example": "ami sob khoroch-er hisab rakhi: I keep track of all my spending",
+      "Notes": "hisab = accounts, reckoning. hisab melano = to balance the accounts."
+    },
+    {
+      "English": "profit",
+      "Romanization": "labh",
+      "Bengali": "লাভ",
+      "Example": "ei bochhor dokan-e bhalo labh hoyechhe: The shop made a good profit this year",
+      "Notes": "Also 'benefit, use': kono labh nei = there's no point."
+    },
+    {
+      "English": "loss (money lost in business)",
+      "Romanization": "lokshan",
+      "Bengali": "লোকসান",
+      "Example": "byabsa-y prothom bochhor lokshan hoyechhe: The business made a loss in the first year",
+      "Notes": "Specifically financial loss. Opposite of labh."
+    },
+    {
+      "English": "damage / harm (incl. financial)",
+      "Romanization": "khoti",
+      "Bengali": "ক্ষতি",
+      "Example": "bonna-y krishok-der onek khoti hoyechhe: The floods caused the farmers a lot of damage",
+      "Notes": "Broader than lokshan: any harm. khoti nei = no harm done."
+    },
+    {
+      "English": "bankrupt",
+      "Romanization": "deuliya",
+      "Bengali": "দেউলিয়া",
+      "Example": "byabsa-y lokshan hote hote o deuliya hoye gelo: After loss after loss in the business, he went bankrupt",
+      "Notes": "deuliya hoa = to go bankrupt."
+    },
+    {
+      "English": "instalment (EMI)",
+      "Romanization": "kisti",
+      "Bengali": "কিস্তি",
+      "Example": "gari-ta kistite kinechhi: I bought the car on instalments",
+      "Notes": "Monthly loan payments are usually called 'EMI' in speech."
+    },
+    {
+      "English": "cash (in ~)",
+      "Romanization": "nogod",
+      "Bengali": "নগদ",
+      "Example": "dokandar nogod-e chaichhe: The shopkeeper wants cash",
+      "Notes": "'cash' is just as common in speech."
+    },
+    {
+      "English": "bribe",
+      "Romanization": "ghush",
+      "Bengali": "ঘুষ",
+      "Example": "ghush na dile file nore na: Without a bribe, the file doesn't move",
+      "Notes": "ghush dewa / khawa (to take a bribe)."
+    },
+    {
+      "English": "property / assets",
+      "Romanization": "sompotti",
+      "Bengali": "সম্পত্তি",
+      "Example": "baba-r sompotti niye bhai-der modhye jhamela cholchhe: The brothers are fighting over Dad's property",
+      "Notes": "Land, house and wealth. 'property' is also common."
+    },
+    {
+      "English": "waste (of money, resources)",
+      "Romanization": "opochoy",
+      "Bengali": "অপচয়",
+      "Example": "eto dami phone kena taka-r opochoy: Buying such an expensive phone is a waste of money",
+      "Notes": "Formal-ish; casual: 'taka nosto'."
+    },
+    {
+      "English": "financial situation (of a person, family)",
+      "Romanization": "arthik obostha",
+      "Bengali": "আর্থিক অবস্থা",
+      "Example": "oder arthik obostha bhalo na: Their financial situation isn't good",
+      "Notes": "arthik = financial; 'arthik somossa' = money trouble."
+    },
+    {
+      "English": "economy / economics",
+      "Romanization": "orthoniti",
+      "Bengali": "অর্থনীতি",
+      "Example": "desh-er orthoniti ekhon khub kharap: The country's economy is in bad shape",
+      "Notes": "Also the academic subject economics."
+    },
+    {
+      "English": "to deposit (money, a form)",
+      "Romanization": "joma dewa",
+      "Bengali": "জমা দেওয়া",
+      "Example": "chek-ta bank-e joma diye eso: Go and deposit the cheque in the bank",
+      "Notes": "Also 'to submit' a form or fee."
+    },
+    {
+      "English": "to withdraw money",
+      "Romanization": "taka tola",
+      "Bengali": "টাকা তোলা",
+      "Example": "ATM theke taka tulte hobe: I need to withdraw money from the ATM",
+      "Notes": "tola = to lift, take out."
+    },
+    {
+      "English": "means / ability to afford",
+      "Romanization": "samortho",
+      "Bengali": "সামর্থ্য",
+      "Example": "eto dami bari kenar samortho amar nei: I can't afford such an expensive house",
+      "Notes": "X kenar samortho nei = can't afford X. Also 'ability' generally."
+    },
+    {
+      "English": "The bank rejected my loan application.",
+      "Romanization": "bank amar loan-er abedon batil kore diyechhe",
+      "Bengali": "ব্যাংক আমার লোনের আবেদন বাতিল করে দিয়েছে",
+      "Example": "",
+      "Notes": "batil kora = to cancel or reject."
+    },
+    {
+      "English": "I'll pay you back next month.",
+      "Romanization": "ami tomake samner mashe taka-ta ferot debo",
+      "Bengali": "আমি তোমাকে সামনের মাসে টাকাটা ফেরত দেব",
+      "Example": "",
+      "Notes": "ferot dewa = to give back, repay."
+    }
+  ]
+}

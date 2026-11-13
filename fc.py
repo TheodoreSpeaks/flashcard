@@ -36,7 +36,7 @@ import readline  # noqa: F401  (line editing for input())
 ROOT = Path(__file__).resolve().parent
 PACKS_DIR = ROOT / "packs"
 LESSONS_DIR = ROOT / "lessons"
-COMMANDS = {"new", "edit", "lesson", "unlock", "import", "cards", "add", "stats", "list", "help"}
+COMMANDS = {"install", "uninstall", "new", "edit", "lesson", "unlock", "import", "cards", "add", "stats", "list", "help"}
 DAY_ROLLOVER_HOURS = 4  # like Anki: a "day" starts at 4am
 REQUEUE_GAP = 5  # failed cards come back this many cards later
 KNOWN_IVL = 21  # cards added with --known start as mature reviews
@@ -873,12 +873,44 @@ def cmd_stats(name: str) -> None:
         print(f"\n  next lesson unlocks when you {lock_reason(units)}")
 
 
+def shared_meta_path(name: str) -> Path:
+    return PACKS_DIR / f"{name}.json"
+
+
+def cmd_install(name: str, args: list[str]) -> None:
+    if args:
+        raise SystemExit("usage: fc install <pack>")
+    path = shared_meta_path(name)
+    if not path.exists():
+        raise SystemExit(f"no pack definition at {path}. see what's available with: fc list")
+    create_pack(name, read_json_arg(str(path)))
+    print(f"installed {name}. start with: fc lesson {name}")
+
+
+def cmd_uninstall(name: str, args: list[str]) -> None:
+    if args:
+        raise SystemExit("usage: fc uninstall <pack>")
+    db = open_pack(name)
+    reviews = db.execute("select count(*) from revlog").fetchone()[0]
+    cards = db.execute("select count(*) from cards").fetchone()[0]
+    db.close()
+    answer = input(f"delete {name}: {cards} cards and {reviews} reviews of history? type the pack name to confirm: ")
+    if answer.strip() != name:
+        raise SystemExit("not deleted")
+    pack_path(name).unlink()
+    print(f"uninstalled {name}. lessons stay in {lesson_dir(name).relative_to(ROOT)}; reinstall with: fc install {name}")
+
+
 def cmd_list() -> None:
-    packs = sorted(PACKS_DIR.glob("*.anki2")) if PACKS_DIR.exists() else []
-    if not packs:
+    installed = {p.stem for p in PACKS_DIR.glob("*.anki2")} if PACKS_DIR.exists() else set()
+    available = {p.stem for p in PACKS_DIR.glob("*.json")} if PACKS_DIR.exists() else set()
+    if not installed | available:
         print("no packs. create one with: fc new <name>")
-    for p in packs:
-        print(p.stem)
+    for name in sorted(installed | available):
+        if name in installed:
+            print(f"{GREEN}✓{RESET} {name}")
+        else:
+            print(f"{DIM}  {name}  (not installed: fc install {name}){RESET}")
 
 
 USAGE = """usage:
@@ -887,14 +919,16 @@ USAGE = """usage:
   fc stats <pack>                 deck + lesson progress
   fc add <pack> [--known]         type a card in field by field
   fc unlock <pack> <n>            unlock lessons 1..n early
+  fc list                         installed packs (✓) and ones you can install
+  fc install <pack>               start a pack from packs/<pack>.json
+  fc uninstall <pack>             delete a pack's cards and review history
 
 for writing content (e.g. Claude):
   fc cards <pack> [--json]        every card with its review state
   fc import <pack> <file|-> [--tag T]... [--known] [--yes [--include-similar]]
                                   add cards from a JSON array; duplicates are skipped
   fc new <pack> [meta.json]       create a pack (opens $EDITOR without a file)
-  fc edit <pack>                  edit pack metadata in $EDITOR
-  fc list"""
+  fc edit <pack>                  edit pack metadata in $EDITOR"""
 
 
 def main(argv: list[str]) -> None:
@@ -920,6 +954,8 @@ def main(argv: list[str]) -> None:
         raise SystemExit(USAGE)
     name, args = rest[0], rest[1:]
     {
+        "install": lambda: cmd_install(name, args),
+        "uninstall": lambda: cmd_uninstall(name, args),
         "new": lambda: cmd_new(name, args),
         "edit": lambda: cmd_edit(name),
         "lesson": lambda: cmd_lesson(name, args),

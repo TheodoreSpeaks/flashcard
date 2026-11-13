@@ -8,7 +8,15 @@ Plain-text flashcards in the terminal. Packs are stored in Anki's collection for
 ./install.sh
 ```
 
-The script creates one local pack per `packs/<name>.json` and adds `alias fc=…/fc.py` to your `~/.zshrc` or `~/.bashrc`. It needs Python 3.9+ and nothing else (stdlib only). Your review history lives in `packs/<name>.anki2`, which is gitignored.
+The script asks which packs you want (or pass them: `./install.sh bengali zhvocab`) and adds `alias fc=…/fc.py` to your `~/.zshrc` or `~/.bashrc`. It needs Python 3.9+ and nothing else (stdlib only). Your review history lives in `packs/<name>.anki2`, which is gitignored.
+
+Packs are per-machine: install only the ones you're studying. `fc` with no arguments reviews every installed pack.
+
+```sh
+fc list              # installed (✓) and available packs
+fc install <pack>    # start a pack
+fc uninstall <pack>  # delete a pack's cards and history (asks first)
+```
 
 ## Use
 

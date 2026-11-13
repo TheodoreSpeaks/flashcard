@@ -1,0 +1,196 @@
+{
+  "title": "Connecting ideas",
+  "focus": "Written connectors in short passages: 因为 所以 但是 可是 如果 然后 还是 或者 虽然 已经 一直.",
+  "body": "# Connecting ideas\n\nOnce sentences get longer, the connecting words carry the meaning: because, so, but, if, then. You use all of these in speech already. In writing they often come in pairs (因为...所以, 虽然...但是), so spotting the first one tells you what the second half will do.\n\n| Pair or word | Pinyin | Meaning |\n|---|---|---|\n| 因为...所以 | yīnwèi... suǒyǐ | because... so |\n| 虽然...但是/可是 | suīrán... dànshì / kěshì | although... (but) |\n| 如果/要是...就 | rúguǒ / yàoshi... jiù | if... then |\n| 先...然后...最后 | xiān... ránhòu... zuìhòu | first... then... finally |\n| 还是 / 或者 | háishi / huòzhě | or (question) / or (statement) |\n| 不但...而且 | búdàn... érqiě | not only... but also |\n| 已经 / 一直 | yǐjīng / yìzhí | already / all along |\n\n## Examples\n\n- 因为太累了,所以早睡了。 yīnwèi tài lèi le, suǒyǐ zǎo shuì le: I was so tired, so I went to bed early.\n- 虽然很难,但是很有意思。 suīrán hěn nán, dànshì hěn yǒu yìsi: It's hard, but it's interesting.\n- 如果明天不下雨,我们就去。 rúguǒ míngtiān bú xià yǔ, wǒmen jiù qù: If it doesn't rain tomorrow, we'll go.\n- 先吃饭,然后去看电影。 xiān chīfàn, ránhòu qù kàn diànyǐng: Eat first, then go to the movies.\n- 你喝茶还是咖啡? nǐ hē chá háishi kāfēi: Do you want tea or coffee?\n- 明天或者后天都行。 míngtiān huòzhě hòutiān dōu xíng: Tomorrow or the day after both work.\n- 他已经走了。 tā yǐjīng zǒu le: He's already left.\n- 我一直想去中国。 wǒ yìzhí xiǎng qù Zhōngguó: I've always wanted to go to China.\n- 不错,不过有点贵。 búcuò, búguò yǒudiǎn guì: Not bad, but a bit pricey.\n- 其实我不想去。 qíshí wǒ bù xiǎng qù: Actually, I don't want to go.\n- 他一边吃饭一边看手机。 tā yìbiān chīfàn yìbiān kàn shǒujī: He looks at his phone while he eats.\n\n## Common mistakes\n\n- **已 vs 己 vs 巳.** 已 (yǐ, already, in 已经) has the stroke closed halfway; 己 (jǐ, self, in 自己) is open; 巳 (sì) is fully closed.\n- **还 has two readings.** It's hái in 还是 and 还有, but huán (give back) in 还钱.\n- **还是 vs 或者.** Both mean \"or\", but 还是 asks a question and 或者 states options.\n",
+  "cards": [
+    {
+      "Hanzi": "因为",
+      "Pinyin": "yīnwèi",
+      "Meaning": "because",
+      "Example": "因为下雨,我没去。 yīnwèi xià yǔ, wǒ méi qù: I didn't go because it rained.",
+      "Notes": "因 = 囗 enclosure + 大; 为 is wèi here"
+    },
+    {
+      "Hanzi": "所以",
+      "Pinyin": "suǒyǐ",
+      "Meaning": "so, therefore",
+      "Example": "我病了,所以没来。 wǒ bìng le, suǒyǐ méi lái: I was sick, so I didn't come.",
+      "Notes": "所 is the same as in 厕所; 以 = yǐ"
+    },
+    {
+      "Hanzi": "但是",
+      "Pinyin": "dànshì",
+      "Meaning": "but",
+      "Example": "我想去,但是没时间。 wǒ xiǎng qù, dànshì méi shíjiān: I want to go, but I don't have time.",
+      "Notes": "但 = 亻 + 旦 dàn for the sound"
+    },
+    {
+      "Hanzi": "可是",
+      "Pinyin": "kěshì",
+      "Meaning": "but",
+      "Example": "好吃是好吃,可是太贵了。 hǎochī shì hǎochī, kěshì tài guì le: It's tasty, sure, but way too expensive.",
+      "Notes": "可 is also in 可以 and 可爱"
+    },
+    {
+      "Hanzi": "如果",
+      "Pinyin": "rúguǒ",
+      "Meaning": "if",
+      "Example": "如果你有空,就来吧。 rúguǒ nǐ yǒu kòng, jiù lái ba: If you're free, come over.",
+      "Notes": "如 = 女 + 口; 果 is fruit, as in 水果"
+    },
+    {
+      "Hanzi": "然后",
+      "Pinyin": "ránhòu",
+      "Meaning": "then, after that",
+      "Example": "先吃饭,然后去看电影。 xiān chīfàn, ránhòu qù kàn diànyǐng: Eat first, then go to the movies.",
+      "Notes": "然 has 灬 fire dots at the bottom"
+    },
+    {
+      "Hanzi": "还是",
+      "Pinyin": "háishi",
+      "Meaning": "or (in questions); still",
+      "Example": "你喝茶还是咖啡? nǐ hē chá háishi kāfēi: Tea or coffee?",
+      "Notes": "还 is hái here, but huán (return) in 还钱"
+    },
+    {
+      "Hanzi": "或者",
+      "Pinyin": "huòzhě",
+      "Meaning": "or (in statements)",
+      "Example": "明天或者后天都行。 míngtiān huòzhě hòutiān dōu xíng: Tomorrow or the day after both work.",
+      "Notes": "或 vs 国: 国 puts 玉 in a box"
+    },
+    {
+      "Hanzi": "虽然",
+      "Pinyin": "suīrán",
+      "Meaning": "although",
+      "Example": "虽然很累,但是很开心。 suīrán hěn lèi, dànshì hěn kāixīn: I'm tired, but happy.",
+      "Notes": "虽 = 口 + 虫 insect"
+    },
+    {
+      "Hanzi": "已经",
+      "Pinyin": "yǐjīng",
+      "Meaning": "already",
+      "Example": "他已经走了。 tā yǐjīng zǒu le: He's already left.",
+      "Notes": "已 / 己 / 巳: 已 is closed halfway up"
+    },
+    {
+      "Hanzi": "一直",
+      "Pinyin": "yìzhí",
+      "Meaning": "all along; straight ahead",
+      "Example": "一直往前走。 yìzhí wǎng qián zǒu: Go straight ahead.",
+      "Notes": "一 is yì before the 2nd-tone 直"
+    },
+    {
+      "Hanzi": "而且",
+      "Pinyin": "érqiě",
+      "Meaning": "and also, moreover",
+      "Example": "便宜,而且好吃。 piányi, érqiě hǎochī: Cheap, and tasty too.",
+      "Notes": "且 vs 目: 且 has a long base line"
+    },
+    {
+      "Hanzi": "不过",
+      "Pinyin": "búguò",
+      "Meaning": "but, however",
+      "Example": "不错,不过有点贵。 búcuò, búguò yǒudiǎn guì: Not bad, but a bit pricey.",
+      "Notes": "不 is bú before the 4th-tone 过"
+    },
+    {
+      "Hanzi": "不但",
+      "Pinyin": "búdàn",
+      "Meaning": "not only",
+      "Example": "她不但漂亮,而且聪明。 tā búdàn piàoliang, érqiě cōngming: She's not only pretty but smart too.",
+      "Notes": "Pairs with 而且; 不 is bú before 4th-tone 但"
+    },
+    {
+      "Hanzi": "只要",
+      "Pinyin": "zhǐyào",
+      "Meaning": "as long as",
+      "Example": "只要你喜欢就好。 zhǐyào nǐ xǐhuan jiù hǎo: As long as you like it.",
+      "Notes": "只 = 口 + 八"
+    },
+    {
+      "Hanzi": "要是",
+      "Pinyin": "yàoshi",
+      "Meaning": "if (spoken)",
+      "Example": "要是下雨,我们就不去了。 yàoshi xià yǔ, wǒmen jiù bú qù le: If it rains, we won't go.",
+      "Notes": "More casual than 如果; usually followed by 就"
+    },
+    {
+      "Hanzi": "还有",
+      "Pinyin": "háiyǒu",
+      "Meaning": "also, and another thing",
+      "Example": "还有一件事。 háiyǒu yí jiàn shì: One more thing.",
+      "Notes": "还 is hái here"
+    },
+    {
+      "Hanzi": "先",
+      "Pinyin": "xiān",
+      "Meaning": "first",
+      "Example": "你先走吧。 nǐ xiān zǒu ba: You go first.",
+      "Notes": "Also the sound part of 洗 (xǐ, wash)"
+    },
+    {
+      "Hanzi": "最后",
+      "Pinyin": "zuìhòu",
+      "Meaning": "finally, in the end",
+      "Example": "最后他还是来了。 zuìhòu tā háishi lái le: In the end he came after all.",
+      "Notes": "最 = 日 over 取 qǔ"
+    },
+    {
+      "Hanzi": "其实",
+      "Pinyin": "qíshí",
+      "Meaning": "actually",
+      "Example": "其实我不想去。 qíshí wǒ bù xiǎng qù: Actually, I don't want to go.",
+      "Notes": "实 = 宀 roof + 头"
+    },
+    {
+      "Hanzi": "一边",
+      "Pinyin": "yìbiān",
+      "Meaning": "while (一边...一边...)",
+      "Example": "他一边吃饭一边看手机。 tā yìbiān chīfàn yìbiān kàn shǒujī: He looks at his phone while he eats.",
+      "Notes": "一 is yì before the 1st-tone 边"
+    },
+    {
+      "Hanzi": "才",
+      "Pinyin": "cái",
+      "Meaning": "only then; only",
+      "Example": "他十点才起床。 tā shí diǎn cái qǐchuáng: He didn't get up until ten.",
+      "Notes": "Looks like 扌 (hand) standing on its own"
+    },
+    {
+      "Hanzi": "刚才",
+      "Pinyin": "gāngcái",
+      "Meaning": "just now",
+      "Example": "你刚才说什么? nǐ gāngcái shuō shénme: What did you just say?",
+      "Notes": "刚 = 冈 gāng + 刂 knife"
+    },
+    {
+      "Hanzi": "以后",
+      "Pinyin": "yǐhòu",
+      "Meaning": "after; later, from now on",
+      "Example": "吃完饭以后给我打电话。 chī wán fàn yǐhòu gěi wǒ dǎ diànhuà: Call me after you eat.",
+      "Notes": "后 vs 右: 后 has a slanted roof"
+    },
+    {
+      "Hanzi": "因为太累了,所以早睡了。",
+      "Pinyin": "yīnwèi tài lèi le, suǒyǐ zǎo shuì le",
+      "Meaning": "I was so tired, so I went to bed early.",
+      "Example": "",
+      "Notes": "因为 sets up the reason; 所以 gives the result"
+    },
+    {
+      "Hanzi": "虽然很难,但是很有意思。",
+      "Pinyin": "suīrán hěn nán, dànshì hěn yǒu yìsi",
+      "Meaning": "It's hard, but it's interesting.",
+      "Example": "",
+      "Notes": "虽然 warns you a 'but' is coming"
+    },
+    {
+      "Hanzi": "如果明天不下雨,我们就去。",
+      "Pinyin": "rúguǒ míngtiān bú xià yǔ, wǒmen jiù qù",
+      "Meaning": "If it doesn't rain tomorrow, we'll go.",
+      "Example": "",
+      "Notes": "如果 ... 就: the 就 marks the 'then' half"
+    }
+  ]
+}

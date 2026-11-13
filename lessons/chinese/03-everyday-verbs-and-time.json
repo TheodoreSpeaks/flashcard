@@ -1,0 +1,210 @@
+{
+  "title": "Everyday verbs and time",
+  "focus": "去 来 看 说 想 要 会 能 知道 喜欢; time words 今天 明天 昨天 现在 时候 早上 晚上.",
+  "body": "# Everyday verbs and time\n\nThese verbs carry most of what you say in a day: going, coming, seeing, saying, wanting. Time words usually come near the front of a sentence, before or right after the person: 我明天去 or 明天我去.\n\nMost time words have 日 (sun) in them, which makes them easy to spot on a page.\n\n| Word | Pinyin | Meaning / clue |\n|---|---|---|\n| 去 来 走 | qù lái zǒu | go, come, leave |\n| 看 听 说 | kàn tīng shuō | look, listen, say (说 has 讠 speech) |\n| 想 要 | xiǎng yào | think, would like; want (想 has 心 heart) |\n| 会 能 | huì néng | can (learned skill); can (able, allowed) |\n| 知道 喜欢 买 | zhīdào xǐhuan mǎi | know, like, buy |\n| 今天 明天 昨天 | jīntiān míngtiān zuótiān | today, tomorrow, yesterday |\n| 后天 每天 | hòutiān měitiān | day after tomorrow, every day |\n| 现在 时候 | xiànzài shíhou | now; time, when |\n| 早上 中午 下午 晚上 | zǎoshang zhōngwǔ xiàwǔ wǎnshang | morning, noon, afternoon, evening |\n\nSpot the 日 sun in 明 昨 时 早 晚: they are all about time or light.\n\n## Examples\n\n- 我明天去。 wǒ míngtiān qù: I'll go tomorrow.\n- 你来不来? nǐ lái bu lái: Are you coming or not?\n- 我不知道。 wǒ bù zhīdào: I don't know.\n- 他现在不在家。 tā xiànzài bú zài jiā: He's not home right now.\n- 我想回家。 wǒ xiǎng huíjiā: I want to go home.\n- 你能来吗? nǐ néng lái ma: Can you come?\n- 他会做饭。 tā huì zuòfàn: He can cook.\n- 妈妈去买菜了。 māma qù mǎi cài le: Mom went to buy groceries.\n- 他昨天来了。 tā zuótiān lái le: He came yesterday.\n- 今天晚上我们去吃饭。 jīntiān wǎnshang wǒmen qù chīfàn: We're going out to eat tonight.\n- 他来的时候,我在睡觉。 tā lái de shíhou, wǒ zài shuìjiào: When he came, I was asleep.\n\n## Common mistakes\n\n- **买 vs 卖.** 买 (mǎi) is buy. 卖 (mài) is sell, and has an extra 十 on top.\n- **午 vs 牛.** 午 (wǔ, noon) stops at the top line. In 牛 (niú, cow) the middle stroke pokes through.\n- **去 vs 云.** 去 (qù) has 土 on top; 云 (yún, cloud) has 二.\n",
+  "cards": [
+    {
+      "Hanzi": "去",
+      "Pinyin": "qù",
+      "Meaning": "to go",
+      "Example": "你去不去? nǐ qù bu qù: Are you going or not?",
+      "Notes": "去 = 土 over 厶; 去 vs 云 (yún, cloud), which has 二 on top"
+    },
+    {
+      "Hanzi": "来",
+      "Pinyin": "lái",
+      "Meaning": "to come",
+      "Example": "他来了! tā lái le: He's here!",
+      "Notes": "来 vs 米 (mǐ, rice): 来 has an extra line on top"
+    },
+    {
+      "Hanzi": "看",
+      "Pinyin": "kàn",
+      "Meaning": "to look, watch, read",
+      "Example": "我看一下。 wǒ kàn yíxià: Let me take a look.",
+      "Notes": "A hand 手 over an eye 目: shading your eyes to look"
+    },
+    {
+      "Hanzi": "说",
+      "Pinyin": "shuō",
+      "Meaning": "to say, speak",
+      "Example": "他说不去。 tā shuō bú qù: He says he's not going.",
+      "Notes": "讠 speech + 兑 duì"
+    },
+    {
+      "Hanzi": "想",
+      "Pinyin": "xiǎng",
+      "Meaning": "to think; to want to; to miss",
+      "Example": "我想回家。 wǒ xiǎng huíjiā: I want to go home.",
+      "Notes": "相 xiāng for the sound + 心 heart underneath"
+    },
+    {
+      "Hanzi": "要",
+      "Pinyin": "yào",
+      "Meaning": "to want; will",
+      "Example": "你要这个吗? nǐ yào zhège ma: Do you want this one?",
+      "Notes": "覀 on top of 女; 要 vs 耍 (shuǎ, play), which has 而 on top"
+    },
+    {
+      "Hanzi": "会",
+      "Pinyin": "huì",
+      "Meaning": "can (a learned skill); will",
+      "Example": "他会做饭。 tā huì zuòfàn: He can cook.",
+      "Notes": "人 roof over 云; 会 vs 去: different tops, both end in 厶"
+    },
+    {
+      "Hanzi": "能",
+      "Pinyin": "néng",
+      "Meaning": "can, be able to, be allowed",
+      "Example": "你能来吗? nǐ néng lái ma: Can you come?",
+      "Notes": "能 vs 熊 (xióng, bear): the bear adds four dots underneath"
+    },
+    {
+      "Hanzi": "知道",
+      "Pinyin": "zhīdào",
+      "Meaning": "to know",
+      "Example": "我知道了。 wǒ zhīdào le: Got it.",
+      "Notes": "知 = 矢 arrow + 口; 道 has 辶 walk wrapping 首 head"
+    },
+    {
+      "Hanzi": "喜欢",
+      "Pinyin": "xǐhuan",
+      "Meaning": "to like",
+      "Example": "她喜欢吃米饭。 tā xǐhuan chī mǐfàn: She likes rice.",
+      "Notes": "欢 = 又 + 欠 (open mouth); 喜 has two 口 hidden inside"
+    },
+    {
+      "Hanzi": "今天",
+      "Pinyin": "jīntiān",
+      "Meaning": "today",
+      "Example": "今天我做饭。 jīntiān wǒ zuòfàn: I'm cooking today.",
+      "Notes": "今 vs 令 (lìng, order): 今 ends in a short 乛 stroke"
+    },
+    {
+      "Hanzi": "明天",
+      "Pinyin": "míngtiān",
+      "Meaning": "tomorrow",
+      "Example": "明天我不在家。 míngtiān wǒ bú zài jiā: I won't be home tomorrow.",
+      "Notes": "明 = 日 sun + 月 moon: bright"
+    },
+    {
+      "Hanzi": "昨天",
+      "Pinyin": "zuótiān",
+      "Meaning": "yesterday",
+      "Example": "他昨天来了。 tā zuótiān lái le: He came yesterday.",
+      "Notes": "昨 = 日 + 乍 zhà; the same 乍 is in 作 zuò and 怎 zěn"
+    },
+    {
+      "Hanzi": "现在",
+      "Pinyin": "xiànzài",
+      "Meaning": "now",
+      "Example": "我现在就去。 wǒ xiànzài jiù qù: I'm going right now.",
+      "Notes": "现 = 王 jade + 见 jiàn for the sound"
+    },
+    {
+      "Hanzi": "时候",
+      "Pinyin": "shíhou",
+      "Meaning": "time, moment; when",
+      "Example": "他来的时候,我在睡觉。 tā lái de shíhou, wǒ zài shuìjiào: When he came, I was asleep.",
+      "Notes": "时 = 日 + 寸; 候 vs 侯 (hóu): 候 has an extra short vertical stroke"
+    },
+    {
+      "Hanzi": "早上",
+      "Pinyin": "zǎoshang",
+      "Meaning": "morning",
+      "Example": "我早上不吃饭。 wǒ zǎoshang bù chīfàn: I don't eat in the morning.",
+      "Notes": "早 = 日 sun over 十: the sun just up; 上 is toneless here"
+    },
+    {
+      "Hanzi": "晚上",
+      "Pinyin": "wǎnshang",
+      "Meaning": "evening, night",
+      "Example": "今天晚上我们去吃饭。 jīntiān wǎnshang wǒmen qù chīfàn: We're going out to eat tonight.",
+      "Notes": "晚 = 日 + 免 miǎn for the sound"
+    },
+    {
+      "Hanzi": "下午",
+      "Pinyin": "xiàwǔ",
+      "Meaning": "afternoon",
+      "Example": "下午我要睡觉。 xiàwǔ wǒ yào shuìjiào: I'm taking a nap this afternoon.",
+      "Notes": "午 vs 牛 (niú, cow): in 牛 the middle stroke pokes through the top"
+    },
+    {
+      "Hanzi": "中午",
+      "Pinyin": "zhōngwǔ",
+      "Meaning": "noon, midday",
+      "Example": "中午回家吃饭。 zhōngwǔ huíjiā chīfàn: Come home for lunch.",
+      "Notes": "中 is a line through the middle of a box"
+    },
+    {
+      "Hanzi": "后天",
+      "Pinyin": "hòutiān",
+      "Meaning": "the day after tomorrow",
+      "Example": "他后天来。 tā hòutiān lái: He's coming the day after tomorrow.",
+      "Notes": "后 = after, behind; its opposite is 前 (qián), as in 前天, the day before yesterday"
+    },
+    {
+      "Hanzi": "每天",
+      "Pinyin": "měitiān",
+      "Meaning": "every day",
+      "Example": "我每天都喝水。 wǒ měitiān dōu hē shuǐ: I drink water every day.",
+      "Notes": "每 vs 母 (mǔ, mother): 每 adds a small 𠂉 on top"
+    },
+    {
+      "Hanzi": "听",
+      "Pinyin": "tīng",
+      "Meaning": "to listen, hear",
+      "Example": "我在听。 wǒ zài tīng: I'm listening.",
+      "Notes": "口 mouth + 斤 jīn"
+    },
+    {
+      "Hanzi": "买",
+      "Pinyin": "mǎi",
+      "Meaning": "to buy",
+      "Example": "妈妈去买菜了。 māma qù mǎi cài le: Mom went to buy groceries.",
+      "Notes": "买 vs 卖 (mài, sell): 卖 has an extra 十 on top"
+    },
+    {
+      "Hanzi": "走",
+      "Pinyin": "zǒu",
+      "Meaning": "to leave; to walk",
+      "Example": "我走了。 wǒ zǒu le: I'm off.",
+      "Notes": "土 on top of a foot; it is the radical in 起 and 赶"
+    },
+    {
+      "Hanzi": "我明天去。",
+      "Pinyin": "wǒ míngtiān qù",
+      "Meaning": "I'll go tomorrow.",
+      "Example": "",
+      "Notes": "The time word goes before the verb: 明天去, never 去明天"
+    },
+    {
+      "Hanzi": "我不知道。",
+      "Pinyin": "wǒ bù zhīdào",
+      "Meaning": "I don't know.",
+      "Example": "",
+      "Notes": "不 stays bù before a 1st tone (知 zhī)"
+    },
+    {
+      "Hanzi": "他现在不在家。",
+      "Pinyin": "tā xiànzài bú zài jiā",
+      "Meaning": "He's not home right now.",
+      "Example": "",
+      "Notes": "在 appears twice: 现在 (now) and 在家 (at home)"
+    },
+    {
+      "Hanzi": "你明天来不来?",
+      "Pinyin": "nǐ míngtiān lái bu lái",
+      "Meaning": "Are you coming tomorrow or not?",
+      "Example": "",
+      "Notes": "Verb + 不 + verb asks a yes/no question without 吗"
+    },
+    {
+      "Hanzi": "我今天不想去。",
+      "Pinyin": "wǒ jīntiān bù xiǎng qù",
+      "Meaning": "I don't feel like going today.",
+      "Example": "",
+      "Notes": "想 vs 相: 想 has 心 heart underneath"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "title": "Tech and the Internet",
+  "focus": "软件, 账号, 密码, 隐私, 数据, 人工智能, 网速, 更新, 系统, 设置, 备份, 卸载, 安装, 信号, 短视频, 直播, 算法, 截图, 登录",
+  "body": "Phones, apps and the internet come up in almost every adult conversation, but family Chinese rarely covers them. These are the words you need to talk about accounts, settings, data and online life, plus the verbs for fixing a misbehaving phone.\n\n## Words\n\n| Chinese | Pinyin | Meaning |\n|---|---|---|\n| 软件 | ruǎnjiàn | software / app |\n| 账号 | zhànghào | account |\n| 密码 | mìmǎ | password |\n| 隐私 | yǐnsī | privacy |\n| 数据 | shùjù | data |\n| 人工智能 | réngōng zhìnéng | artificial intelligence |\n| 网速 | wǎngsù | internet speed |\n| 更新 | gēngxīn | to update |\n| 程序员 | chéngxùyuán | programmer / software developer |\n| 系统 | xìtǒng | system |\n| 设置 | shèzhì | settings |\n| 备份 | bèifèn | to back up |\n| 卸载 | xièzài | to uninstall |\n| 安装 | ānzhuāng | to install |\n| 充电器 | chōngdiànqì | charger |\n| 信号 | xìnhào | signal |\n| 短视频 | duǎnshìpín | short videos |\n| 直播 | zhíbō | livestream / to livestream |\n| 算法 | suànfǎ | algorithm |\n| 黑客 | hēikè | hacker |\n| 病毒 | bìngdú | virus |\n| 截图 | jiétú | screenshot / to take a screenshot |\n| 链接 | liànjiē | link |\n| 注册 | zhùcè | to register / sign up |\n| 登录 | dēnglù | to log in |\n| 内存 | nèicún | phone storage / memory |\n| 互联网 | hùliánwǎng | the internet |\n| 网络 | wǎngluò | network / internet connection |\n\n## Which word?\n\n- **更新 vs 升级**: 更新 is a routine update (更新App, 更新数据). 升级 is moving up to a new version or level (系统升级, 会员升级).\n- **网络 vs 网速 vs 信号**: 网络 is the connection itself (网络断了 the connection dropped). 网速 is its speed. 信号 is phone reception from the tower.\n- **账号 vs 账户**: 账号 is what you log into. 账户 is where money sits (银行账户).\n- **注册 vs 登录**: 注册 creates the account once. 登录 is every time you sign in.\n- **安装 vs 下载**: 下载 gets the file onto the phone; 安装 sets it up. The opposite of 安装 is 卸载.\n\n## Examples\n\n- 我忘了密码，得重新设置一下。 wǒ wàng le mìmǎ, děi chóngxīn shèzhì yíxià: I forgot my password, I need to reset it\n- 现在的App都在收集用户隐私。 xiànzài de App dōu zài shōují yònghù yǐnsī: Apps these days all collect users' private data\n- 这里网速太慢了，视频一直卡。 zhèlǐ wǎngsù tài màn le, shìpín yìzhí kǎ: The internet here is so slow, the video keeps freezing\n- 手机提示我更新系统。 shǒujī tíshì wǒ gēngxīn xìtǒng: My phone is telling me to update the system\n- 换手机之前记得先备份。 huàn shǒujī zhīqián jìde xiān bèifèn: Remember to back up before you switch phones\n- 这个App太占内存，我卸载了。 zhège App tài zhàn nèicún, wǒ xièzài le: This app took up too much space, so I uninstalled it\n- 他每天刷两个小时短视频。 tā měitiān shuā liǎng gè xiǎoshí duǎnshìpín: He scrolls short videos for two hours every day\n- 算法老给我推同类的视频。 suànfǎ lǎo gěi wǒ tuī tónglèi de shìpín: The algorithm keeps pushing the same kind of videos at me\n- 别乱点链接，小心中病毒。 bié luàn diǎn liànjiē, xiǎoxīn zhòng bìngdú: Don't click random links, you might get a virus\n- 我登录不上去，是不是密码错了？ wǒ dēnglù bú shàngqù, shì bú shì mìmǎ cuò le: I can't log in, is the password wrong?\n",
+  "cards": [
+    {
+      "English": "software / app (general term)",
+      "Hanzi": "软件",
+      "Pinyin": "ruǎnjiàn",
+      "Example": "这个软件很好用。 zhège ruǎnjiàn hěn hǎoyòng: This software is really easy to use",
+      "Notes": "Phone apps are usually just called App or 应用; 软件 is the general word for software."
+    },
+    {
+      "English": "account (online, for logging in)",
+      "Hanzi": "账号",
+      "Pinyin": "zhànghào",
+      "Example": "我的账号被盗了。 wǒ de zhànghào bèi dào le: My account got stolen",
+      "Notes": "账户 is a bank or financial account; 账号 is a login account (WeChat, email, games)."
+    },
+    {
+      "English": "password",
+      "Hanzi": "密码",
+      "Pinyin": "mìmǎ",
+      "Example": "我忘了密码，得重新设置一下。 wǒ wàng le mìmǎ, děi chóngxīn shèzhì yíxià: I forgot my password, I need to reset it",
+      "Notes": "Also the PIN for a bank card. 改密码 = change the password."
+    },
+    {
+      "English": "privacy",
+      "Hanzi": "隐私",
+      "Pinyin": "yǐnsī",
+      "Example": "现在的App都在收集用户隐私。 xiànzài de App dōu zài shōují yònghù yǐnsī: Apps these days all collect users' private data",
+      "Notes": "Collocations: 保护隐私 protect privacy, 侵犯隐私 invade privacy, 个人隐私 personal privacy."
+    },
+    {
+      "English": "data",
+      "Hanzi": "数据",
+      "Pinyin": "shùjù",
+      "Example": "数据都备份了吗？ shùjù dōu bèifèn le ma: Has all the data been backed up?",
+      "Notes": "大数据 = big data. 流量 is mobile data allowance, not 数据."
+    },
+    {
+      "English": "artificial intelligence (AI)",
+      "Hanzi": "人工智能",
+      "Pinyin": "réngōng zhìnéng",
+      "Example": "人工智能会取代很多工作。 réngōng zhìnéng huì qǔdài hěn duō gōngzuò: AI will replace a lot of jobs",
+      "Notes": "In casual speech many people just say AI (A-I)."
+    },
+    {
+      "English": "internet speed",
+      "Hanzi": "网速",
+      "Pinyin": "wǎngsù",
+      "Example": "这里网速太慢了，视频一直卡。 zhèlǐ wǎngsù tài màn le, shìpín yìzhí kǎ: The internet here is so slow, the video keeps freezing",
+      "Notes": "卡 = to lag / freeze, very common in speech: 手机好卡."
+    },
+    {
+      "English": "to update (software, an app)",
+      "Hanzi": "更新",
+      "Pinyin": "gēngxīn",
+      "Example": "手机提示我更新系统。 shǒujī tíshì wǒ gēngxīn xìtǒng: My phone is telling me to update the system",
+      "Notes": "升级 = upgrade to a new version or level; 更新 = refresh with the latest content or patch."
+    },
+    {
+      "English": "programmer / software developer",
+      "Hanzi": "程序员",
+      "Pinyin": "chéngxùyuán",
+      "Example": "他在一家互联网公司当程序员。 tā zài yì jiā hùliánwǎng gōngsī dāng chéngxùyuán: He works as a programmer at an internet company",
+      "Notes": "Self-mocking slang: 码农 (code farmer)."
+    },
+    {
+      "English": "system (computer or operating system)",
+      "Hanzi": "系统",
+      "Pinyin": "xìtǒng",
+      "Example": "系统出了问题，今天没法下单。 xìtǒng chū le wèntí, jīntiān méifǎ xiàdān: The system's having problems, we can't place orders today",
+      "Notes": "Also an organizational sector: 教育系统 the education system."
+    },
+    {
+      "English": "settings (on a phone or app) / to set",
+      "Hanzi": "设置",
+      "Pinyin": "shèzhì",
+      "Example": "你在设置里把通知关掉就行。 nǐ zài shèzhì lǐ bǎ tōngzhī guāndiào jiù xíng: Just turn off notifications in settings",
+      "Notes": "The Settings menu on Chinese phones is literally 设置."
+    },
+    {
+      "English": "to back up (files)",
+      "Hanzi": "备份",
+      "Pinyin": "bèifèn",
+      "Example": "换手机之前记得先备份。 huàn shǒujī zhīqián jìde xiān bèifèn: Remember to back up before you switch phones",
+      "Notes": "Also a noun: 做个备份 make a backup."
+    },
+    {
+      "English": "to uninstall (an app)",
+      "Hanzi": "卸载",
+      "Pinyin": "xièzài",
+      "Example": "这个App太占内存，我卸载了。 zhège App tài zhàn nèicún, wǒ xièzài le: This app took up too much space, so I uninstalled it",
+      "Notes": "Opposite: 安装. 删掉 (delete) is the casual way to say it."
+    },
+    {
+      "English": "to install (software or equipment)",
+      "Hanzi": "安装",
+      "Pinyin": "ānzhuāng",
+      "Example": "先安装这个软件，再注册账号。 xiān ānzhuāng zhège ruǎnjiàn, zài zhùcè zhànghào: Install this software first, then sign up for an account",
+      "Notes": "下载 = download, 安装 = install. Also for equipment: 安装空调."
+    },
+    {
+      "English": "charger",
+      "Hanzi": "充电器",
+      "Pinyin": "chōngdiànqì",
+      "Example": "你带充电器了吗？我手机快没电了。 nǐ dài chōngdiànqì le ma? wǒ shǒujī kuài méi diàn le: Did you bring a charger? My phone's almost dead",
+      "Notes": "充电宝 = power bank; 数据线 = charging cable."
+    },
+    {
+      "English": "signal (phone reception)",
+      "Hanzi": "信号",
+      "Pinyin": "xìnhào",
+      "Example": "地铁里没信号。 dìtiě lǐ méi xìnhào: There's no signal in the subway",
+      "Notes": "信号不好 = bad reception."
+    },
+    {
+      "English": "short videos (TikTok-style)",
+      "Hanzi": "短视频",
+      "Pinyin": "duǎnshìpín",
+      "Example": "他每天刷两个小时短视频。 tā měitiān shuā liǎng gè xiǎoshí duǎnshìpín: He scrolls short videos for two hours every day",
+      "Notes": "刷 = to scroll through: 刷视频, 刷手机, 刷朋友圈."
+    },
+    {
+      "English": "livestream / to livestream",
+      "Hanzi": "直播",
+      "Pinyin": "zhíbō",
+      "Example": "她晚上在网上直播卖衣服。 tā wǎnshang zài wǎngshàng zhíbō mài yīfu: She livestreams in the evenings selling clothes",
+      "Notes": "直播带货 = selling products by livestream; 主播 = streamer / host."
+    },
+    {
+      "English": "algorithm",
+      "Hanzi": "算法",
+      "Pinyin": "suànfǎ",
+      "Example": "算法老给我推同类的视频。 suànfǎ lǎo gěi wǒ tuī tónglèi de shìpín: The algorithm keeps pushing the same kind of videos at me",
+      "Notes": "推 / 推荐 = recommend, push (content)."
+    },
+    {
+      "English": "hacker",
+      "Hanzi": "黑客",
+      "Pinyin": "hēikè",
+      "Example": "公司的服务器被黑客攻击了。 gōngsī de fúwùqì bèi hēikè gōngjī le: The company's servers were attacked by hackers",
+      "Notes": "被黑了 = got hacked (spoken)."
+    },
+    {
+      "English": "virus (computer or biological)",
+      "Hanzi": "病毒",
+      "Pinyin": "bìngdú",
+      "Example": "别乱点链接，小心中病毒。 bié luàn diǎn liànjiē, xiǎoxīn zhòng bìngdú: Don't click random links, you might get a virus",
+      "Notes": "中病毒 uses zhòng (4th tone), like 中奖."
+    },
+    {
+      "English": "screenshot / to take a screenshot",
+      "Hanzi": "截图",
+      "Pinyin": "jiétú",
+      "Example": "你截个图发给我。 nǐ jié ge tú fā gěi wǒ: Take a screenshot and send it to me",
+      "Notes": "Separable verb: 截个图, 截了一张图."
+    },
+    {
+      "English": "link (URL)",
+      "Hanzi": "链接",
+      "Pinyin": "liànjiē",
+      "Example": "我把链接发你微信上了。 wǒ bǎ liànjiē fā nǐ wēixìn shàng le: I sent you the link on WeChat",
+      "Notes": "点链接 = click a link."
+    },
+    {
+      "English": "to register / sign up (for an account)",
+      "Hanzi": "注册",
+      "Pinyin": "zhùcè",
+      "Example": "注册要用手机号。 zhùcè yào yòng shǒujīhào: You need a phone number to sign up",
+      "Notes": "注册 = sign up (first time); 登录 = log in."
+    },
+    {
+      "English": "to log in",
+      "Hanzi": "登录",
+      "Pinyin": "dēnglù",
+      "Example": "我登录不上去，是不是密码错了？ wǒ dēnglù bú shàngqù, shì bú shì mìmǎ cuò le: I can't log in, is the password wrong?",
+      "Notes": "退出登录 = log out."
+    },
+    {
+      "English": "phone storage / memory",
+      "Hanzi": "内存",
+      "Pinyin": "nèicún",
+      "Example": "我手机内存满了，拍不了照了。 wǒ shǒujī nèicún mǎn le, pāi bù liǎo zhào le: My phone storage is full, I can't take photos anymore",
+      "Notes": "Technically RAM, but in speech it's used for storage too. 存储空间 is the formal term."
+    },
+    {
+      "English": "the internet (as a concept or industry)",
+      "Hanzi": "互联网",
+      "Pinyin": "hùliánwǎng",
+      "Example": "互联网改变了我们的生活方式。 hùliánwǎng gǎibiàn le wǒmen de shēnghuó fāngshì: The internet has changed the way we live",
+      "Notes": "Say 网上 for 'online' in daily speech; 互联网 for the internet as an industry: 互联网公司."
+    },
+    {
+      "English": "network / internet connection",
+      "Hanzi": "网络",
+      "Pinyin": "wǎngluò",
+      "Example": "今天网络不太稳定。 jīntiān wǎngluò bú tài wěndìng: The connection is a bit unstable today",
+      "Notes": "网络 = the connection or network; 网速 = how fast it is."
+    },
+    {
+      "English": "What's the Wi-Fi password here?",
+      "Hanzi": "这里的Wi-Fi密码是多少？",
+      "Pinyin": "zhèlǐ de Wi-Fi mìmǎ shì duōshao",
+      "Example": "",
+      "Notes": "Passwords and numbers are asked with 是多少, not 是什么."
+    },
+    {
+      "English": "Have you tried restarting it?",
+      "Hanzi": "你试过重启吗？",
+      "Pinyin": "nǐ shìguo chóngqǐ ma",
+      "Example": "",
+      "Notes": "重启 = restart / reboot; 关机 = shut down; 开机 = turn on."
+    }
+  ]
+}

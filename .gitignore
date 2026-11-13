@@ -1,0 +1,3 @@
+# local review history: one sqlite db per pack, created by install.sh
+packs/*.anki2
+__pycache__/

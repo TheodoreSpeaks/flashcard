@@ -1,0 +1,127 @@
+{
+  "title": "Simple past -lam / -le / -lo",
+  "focus": "Simple past by person, stem changes (khaoa -> khe-), irregular jaoa -> ge-; telling what happened.",
+  "body": "# Simple past -lam / -le / -lo\n\nUse the simple past to say what happened: *I ate, you went, he saw*. You often see it with **kal** (yesterday).\n\nTake the verb stem and add an ending for the person:\n\n- **ami** (I) → **-lam**\n- **tumi** (you) → **-le**\n- **o** (he/she) → **-lo**\n\nThe ending depends only on the person. It stays the same whatever the gender. For \"we\" (amra) use -lam, and for \"they\" (ora) use -lo.\n\n| Verb | Stem | ami | tumi | o |\n|---|---|---|---|---|\n| kora (do) | kor- | korlam | korle | korlo |\n| dekha (see) | dekh- | dekhlam | dekhle | dekhlo |\n| kena (buy) | **kin-** | kinlam | kinle | kinlo |\n| khaoa (eat) | **khe-** | khelam | khele | khelo |\n| deoa (give) | **di-** | dilam | dile | dilo |\n| paoa (get) | **pe-** | pelam | pele | pelo |\n| hoa (happen) | ho- | holam | hole | holo |\n| jaoa (go) | **ge-** ⚠ | gelam | gele | gelo |\n\n**Stem changes:** in verbs ending in -oa, the vowel changes: kha- becomes **khe-** and de- becomes **di-**. Some verbs with an e or o change it to i or u, like kena → **kin-**, lekha → **likh-** and shona → **shun-**. **jaoa** is irregular because its past stem is **ge-**, which doesn't come from ja- at all.\n\n## Examples\n\n- **ami kal cha khelam**: I drank tea yesterday\n- **tumi bhat khele**: you ate rice\n- **kukur-ta khabar-ta khelo**: the dog ate the food\n- **o aaj gelo**: he/she went today\n- **tumi kokhon gele?**: when did you go?\n- **ami ekta choto kukur dekhlam**: I saw a small dog\n- **o ekta boi kinlo**: he/she bought a book\n- **tumi ki korle?**: what did you do?\n- **ki holo?**: what happened?\n- **ami boi-ta porlam aar ghumolam**: I read the book and slept\n- **beral-ta jol pelo**: the cat got water\n\n## Common mistakes\n\n- ❌ **khalam / jalam**. Past forms are built on the past stems: ✅ **khelam**, ✅ **gelam**.\n- ❌ **tumi khelo**. The -lo ending is for o (he/she). With tumi, use ✅ **tumi khele**.\n",
+  "cards": [
+    {
+      "English": "You ate (past)",
+      "Romanization": "tumi khele",
+      "Bengali": "তুমি খেলে",
+      "Notes": "khaoa → past stem khe- + -le (the tumi ending)"
+    },
+    {
+      "English": "He/she ate",
+      "Romanization": "o khelo",
+      "Bengali": "ও খেলো",
+      "Notes": "khe- + -lo (the o ending); the same form works for he and she"
+    },
+    {
+      "English": "You went (past)",
+      "Romanization": "tumi gele",
+      "Bengali": "তুমি গেলে",
+      "Notes": "jaoa is irregular: its past stem is ge-, + -le for tumi"
+    },
+    {
+      "English": "He/she went",
+      "Romanization": "o gelo",
+      "Bengali": "ও গেলো",
+      "Notes": "ge- + -lo; never 'jalo'"
+    },
+    {
+      "English": "I drank tea (past)",
+      "Romanization": "ami cha khelam",
+      "Bengali": "আমি চা খেলাম",
+      "Notes": "lit. 'I tea ate'; khaoa also covers drinking"
+    },
+    {
+      "English": "What did you eat?",
+      "Romanization": "tumi ki khele?",
+      "Bengali": "তুমি কী খেলে?",
+      "Notes": "tumi + ki (what) + khele (you ate); ki comes before the verb"
+    },
+    {
+      "English": "Where did you go?",
+      "Romanization": "tumi kothay gele?",
+      "Bengali": "তুমি কোথায় গেলে?",
+      "Notes": "kothay (where) + gele (you went)"
+    },
+    {
+      "English": "When did he/she go?",
+      "Romanization": "o kokhon gelo?",
+      "Bengali": "ও কখন গেলো?",
+      "Notes": "kokhon (when) + gelo (he/she went)"
+    },
+    {
+      "English": "Why did you go?",
+      "Romanization": "tumi keno gele?",
+      "Bengali": "তুমি কেন গেলে?",
+      "Notes": "keno (why) + gele (you went)"
+    },
+    {
+      "English": "What did you do yesterday?",
+      "Romanization": "tumi kal ki korle?",
+      "Bengali": "তুমি কাল কী করলে?",
+      "Notes": "kora → kor- + -le; kal + past tense = yesterday"
+    },
+    {
+      "English": "I saw the cat",
+      "Romanization": "ami beral-ta dekhlam",
+      "Bengali": "আমি বেড়ালটা দেখলাম",
+      "Notes": "dekha → dekh- + -lam; -ta = 'the'"
+    },
+    {
+      "English": "I bought tea (past)",
+      "Romanization": "ami cha kinlam",
+      "Bengali": "আমি চা কিনলাম",
+      "Notes": "kena → kin- (e changes to i) + -lam"
+    },
+    {
+      "English": "I gave (it) (past)",
+      "Romanization": "ami dilam",
+      "Bengali": "আমি দিলাম",
+      "Notes": "deoa → di- + -lam (de- changes to di-)"
+    },
+    {
+      "English": "He/she took (it)",
+      "Romanization": "o nilo",
+      "Bengali": "ও নিলো",
+      "Notes": "neoa → ni- + -lo; works like deoa → di-"
+    },
+    {
+      "English": "I found it / I got it (past)",
+      "Romanization": "ami pelam",
+      "Bengali": "আমি পেলাম",
+      "Notes": "paoa → pe- + -lam; works like khaoa → khe-"
+    },
+    {
+      "English": "I said (past)",
+      "Romanization": "ami bollam",
+      "Bengali": "আমি বললাম",
+      "Notes": "bola → bol- + -lam; the l doubles: bollam"
+    },
+    {
+      "English": "I heard (it) (past)",
+      "Romanization": "ami shunlam",
+      "Bengali": "আমি শুনলাম",
+      "Notes": "shona → shun- (o changes to u) + -lam"
+    },
+    {
+      "English": "The dog slept a lot",
+      "Romanization": "kukur-ta khub ghumolo",
+      "Bengali": "কুকুরটা খুব ঘুমোলো",
+      "Notes": "ghumono (to sleep) → ghumo- + -lo; khub = a lot"
+    },
+    {
+      "English": "I went to Kolkata yesterday",
+      "Romanization": "ami kal Kolkata gelam",
+      "Bengali": "আমি কাল কলকাতা গেলাম",
+      "Notes": "lit. 'I yesterday Kolkata went'; in casual speech the destination needs no ending"
+    },
+    {
+      "English": "Ollie ate rice and slept",
+      "Romanization": "Ollie bhat khelo aar ghumolo",
+      "Bengali": "অলি ভাত খেলো আর ঘুমোলো",
+      "Notes": "both verbs take -lo for he/she; aar = and"
+    }
+  ]
+}

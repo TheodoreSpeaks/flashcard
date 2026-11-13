@@ -1,0 +1,210 @@
+{
+  "title": "Menus and food",
+  "focus": "Reading menus: 鸡 鸭 鱼 牛肉 猪肉 面 饭 汤 饺子 炒 烤 辣 甜 酸; 菜单 点菜 买单.",
+  "body": "# Menus and food\n\nChinese menus follow a pattern: **cooking method + main ingredient**, or **ingredient + dish type**. 炒饭 is stir-fried rice, 烤鸭 is roast duck, 牛肉面 is beef noodles. Read the dish name in pieces and you can order almost anything.\n\nRadicals help a lot here. Fire 火 means a cooking method, 饣 means food, 鸟 means a bird, and 酉 (a wine jar) means something fermented.\n\n| Group | Characters | Pinyin |\n|---|---|---|\n| Meat (肉 ròu) | 鸡 鸭 鱼 牛肉 猪肉 羊肉 | jī yā yú niúròu zhūròu yángròu |\n| Staples | 饭 面 饺子 包子 豆腐 | fàn miàn jiǎozi bāozi dòufu |\n| Cooking (火 fire) | 炒 烤 | chǎo kǎo (stir-fry, roast) |\n| Tastes | 辣 甜 酸 咸 | là tián suān xián |\n| Soup and drink | 汤 啤酒 | tāng píjiǔ |\n| At the table | 菜单 点菜 买单 筷子 服务员 | càidān diǎncài mǎidān kuàizi fúwùyuán |\n\nOn a menu, 肉 alone usually means pork. Beef, chicken and lamb get named: 牛肉, 鸡肉, 羊肉.\n\n## Examples\n\n- 服务员,点菜! fúwùyuán, diǎncài: Excuse me, we're ready to order!\n- 我看一下菜单。 wǒ kàn yíxià càidān: Let me look at the menu.\n- 我要一个炒饭。 wǒ yào yí ge chǎofàn: I'll have a fried rice.\n- 我想吃牛肉面。 wǒ xiǎng chī niúròumiàn: I feel like beef noodles.\n- 这个辣不辣? zhège là bu là: Is this spicy?\n- 我不吃辣的。 wǒ bù chī là de: I don't eat spicy food.\n- 这个汤有点咸。 zhège tāng yǒudiǎn xián: This soup is a bit salty.\n- 奶奶在包饺子。 nǎinai zài bāo jiǎozi: Grandma's making dumplings.\n- 这个包子是猪肉的。 zhège bāozi shì zhūròu de: This bun has pork filling.\n- 我来买单。 wǒ lái mǎidān: I'll get the bill.\n\n## Common mistakes\n\n- **汤 vs 场.** Same right side. 汤 (tāng, soup) has 氵 water; 场 (chǎng, field, venue) has 土 earth.\n- **咸 vs 成.** 咸 (xián, salty) has a 口 inside; 成 (chéng) does not.\n- **买单 vs 卖.** You 买单 (mǎidān), pay the bill. 卖 (mài, sell) has an extra 十 on top.\n",
+  "cards": [
+    {
+      "Hanzi": "鸡",
+      "Pinyin": "jī",
+      "Meaning": "chicken",
+      "Example": "这个鸡好吃。 zhège jī hǎochī: This chicken is good.",
+      "Notes": "又 + 鸟 bird; the same 鸟 is in 鸭"
+    },
+    {
+      "Hanzi": "鱼",
+      "Pinyin": "yú",
+      "Meaning": "fish",
+      "Example": "爸爸喜欢吃鱼。 bàba xǐhuan chī yú: Dad likes fish.",
+      "Notes": "A picture of a fish: head on top, tail at the bottom; the radical in 鲜 (xiān, fresh)"
+    },
+    {
+      "Hanzi": "牛肉",
+      "Pinyin": "niúròu",
+      "Meaning": "beef",
+      "Example": "我不吃牛肉。 wǒ bù chī niúròu: I don't eat beef.",
+      "Notes": "牛 vs 午 (wǔ): in 牛 the middle stroke pokes through the top"
+    },
+    {
+      "Hanzi": "猪肉",
+      "Pinyin": "zhūròu",
+      "Meaning": "pork",
+      "Example": "这是猪肉吗? zhè shì zhūròu ma: Is this pork?",
+      "Notes": "猪 = 犭 animal + 者 zhě for the sound"
+    },
+    {
+      "Hanzi": "羊肉",
+      "Pinyin": "yángròu",
+      "Meaning": "lamb, mutton",
+      "Example": "爷爷喜欢吃羊肉。 yéye xǐhuan chī yángròu: Grandpa likes lamb.",
+      "Notes": "羊 has two horns on top; also inside 美 and 鲜"
+    },
+    {
+      "Hanzi": "牛肉面",
+      "Pinyin": "niúròumiàn",
+      "Meaning": "beef noodle soup",
+      "Example": "我想吃牛肉面。 wǒ xiǎng chī niúròumiàn: I feel like beef noodles.",
+      "Notes": "面 means both noodles and face (面子)"
+    },
+    {
+      "Hanzi": "炒饭",
+      "Pinyin": "chǎofàn",
+      "Meaning": "fried rice",
+      "Example": "我要一个炒饭。 wǒ yào yí ge chǎofàn: I'll have a fried rice.",
+      "Notes": "炒 = 火 fire + 少 shǎo for the sound"
+    },
+    {
+      "Hanzi": "汤",
+      "Pinyin": "tāng",
+      "Meaning": "soup",
+      "Example": "你喝汤吗? nǐ hē tāng ma: Do you want some soup?",
+      "Notes": "氵 water; 汤 vs 场 (chǎng): same right side, 土 earth instead"
+    },
+    {
+      "Hanzi": "饺子",
+      "Pinyin": "jiǎozi",
+      "Meaning": "dumplings",
+      "Example": "奶奶在包饺子。 nǎinai zài bāo jiǎozi: Grandma's making dumplings.",
+      "Notes": "饺 = 饣 food + 交 jiāo for the sound"
+    },
+    {
+      "Hanzi": "烤鸭",
+      "Pinyin": "kǎoyā",
+      "Meaning": "roast duck",
+      "Example": "今天晚上吃烤鸭。 jīntiān wǎnshang chī kǎoyā: We're having roast duck tonight.",
+      "Notes": "烤 = 火 fire + 考 kǎo; 鸭 = 甲 jiǎ + 鸟 bird"
+    },
+    {
+      "Hanzi": "辣",
+      "Pinyin": "là",
+      "Meaning": "spicy (hot)",
+      "Example": "这个辣不辣? zhège là bu là: Is this spicy?",
+      "Notes": "辛 (xīn, pungent) on the left, as in 辛苦"
+    },
+    {
+      "Hanzi": "甜",
+      "Pinyin": "tián",
+      "Meaning": "sweet",
+      "Example": "我不喜欢甜的。 wǒ bù xǐhuan tián de: I don't like sweet things.",
+      "Notes": "舌 tongue + 甘 gān (sweet): sweet on the tongue"
+    },
+    {
+      "Hanzi": "酸",
+      "Pinyin": "suān",
+      "Meaning": "sour",
+      "Example": "我要一个酸辣汤。 wǒ yào yí ge suānlàtāng: I'll have a hot and sour soup.",
+      "Notes": "酉 (a wine jar) on the left: fermented things, as in 酒 and 醋 (cù, vinegar)"
+    },
+    {
+      "Hanzi": "咸",
+      "Pinyin": "xián",
+      "Meaning": "salty",
+      "Example": "这个菜不咸。 zhège cài bù xián: This dish isn't salty.",
+      "Notes": "咸 vs 成 (chéng): 咸 has 口 inside"
+    },
+    {
+      "Hanzi": "菜单",
+      "Pinyin": "càidān",
+      "Meaning": "menu",
+      "Example": "我看一下菜单。 wǒ kàn yíxià càidān: Let me look at the menu.",
+      "Notes": "单 means a list or bill; the same 单 as in 买单"
+    },
+    {
+      "Hanzi": "点菜",
+      "Pinyin": "diǎncài",
+      "Meaning": "to order food",
+      "Example": "你们点菜了吗? nǐmen diǎncài le ma: Have you ordered?",
+      "Notes": "点 has four fire dots 灬 at the bottom"
+    },
+    {
+      "Hanzi": "买单",
+      "Pinyin": "mǎidān",
+      "Meaning": "to pay the bill",
+      "Example": "我来买单。 wǒ lái mǎidān: I'll get the bill.",
+      "Notes": "买 (buy), not 卖 (mài, sell), which has 十 on top"
+    },
+    {
+      "Hanzi": "鸡蛋",
+      "Pinyin": "jīdàn",
+      "Meaning": "egg",
+      "Example": "我早上吃一个鸡蛋。 wǒ zǎoshang chī yí ge jīdàn: I eat an egg in the morning.",
+      "Notes": "蛋 has 虫 (creature) at the bottom"
+    },
+    {
+      "Hanzi": "包子",
+      "Pinyin": "bāozi",
+      "Meaning": "steamed bun",
+      "Example": "这个包子是猪肉的。 zhège bāozi shì zhūròu de: This bun has pork filling.",
+      "Notes": "包 = to wrap; the sound part of 饱 and 跑"
+    },
+    {
+      "Hanzi": "豆腐",
+      "Pinyin": "dòufu",
+      "Meaning": "tofu",
+      "Example": "我喜欢吃豆腐。 wǒ xǐhuan chī dòufu: I like tofu.",
+      "Notes": "腐 = 府 fǔ for the sound + 肉 meat underneath"
+    },
+    {
+      "Hanzi": "好吃",
+      "Pinyin": "hǎochī",
+      "Meaning": "tasty, delicious",
+      "Example": "这个菜好吃! zhège cài hǎochī: This dish is delicious!",
+      "Notes": "好 = 女 + 子; for drinks say 好喝"
+    },
+    {
+      "Hanzi": "筷子",
+      "Pinyin": "kuàizi",
+      "Meaning": "chopsticks",
+      "Example": "这是你的筷子。 zhè shì nǐ de kuàizi: These are your chopsticks.",
+      "Notes": "竹 bamboo on top + 快 kuài for the sound"
+    },
+    {
+      "Hanzi": "服务员",
+      "Pinyin": "fúwùyuán",
+      "Meaning": "waiter, server",
+      "Example": "服务员来了。 fúwùyuán lái le: The waiter's coming.",
+      "Notes": "员 = 口 over 贝: a member of staff"
+    },
+    {
+      "Hanzi": "啤酒",
+      "Pinyin": "píjiǔ",
+      "Meaning": "beer",
+      "Example": "爸爸喜欢喝啤酒。 bàba xǐhuan hē píjiǔ: Dad likes beer.",
+      "Notes": "啤 = 口 + 卑 bēi; 酒 = 氵 liquid + 酉 jar"
+    },
+    {
+      "Hanzi": "服务员,点菜!",
+      "Pinyin": "fúwùyuán, diǎncài",
+      "Meaning": "Excuse me, we're ready to order!",
+      "Example": "",
+      "Notes": "点 vs 店 (diàn, shop): 店 has a 广 roof"
+    },
+    {
+      "Hanzi": "我不吃辣的。",
+      "Pinyin": "wǒ bù chī là de",
+      "Meaning": "I don't eat spicy food.",
+      "Example": "",
+      "Notes": "辣的 = spicy stuff: 的 turns the adjective into a thing"
+    },
+    {
+      "Hanzi": "这个汤有点咸。",
+      "Pinyin": "zhège tāng yǒudiǎn xián",
+      "Meaning": "This soup is a bit salty.",
+      "Example": "",
+      "Notes": "有点 = a bit (usually a complaint)"
+    },
+    {
+      "Hanzi": "我要三个包子。",
+      "Pinyin": "wǒ yào sān ge bāozi",
+      "Meaning": "I'll have three buns.",
+      "Example": "",
+      "Notes": "包 vs 句 (jù, sentence): 包 has 巳 inside, 句 has 口"
+    },
+    {
+      "Hanzi": "你们有饺子吗?",
+      "Pinyin": "nǐmen yǒu jiǎozi ma",
+      "Meaning": "Do you have dumplings?",
+      "Example": "",
+      "Notes": "饣 on the left of 饺 tells you it's food before you read it"
+    }
+  ]
+}

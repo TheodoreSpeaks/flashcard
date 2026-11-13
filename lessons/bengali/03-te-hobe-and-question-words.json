@@ -1,0 +1,127 @@
+{
+  "title": "-te hobe and question words",
+  "focus": "Obligation with -te hobe (amake jete hobe); questions with ki, keno, kothay, kokhon, ke, kemon, koto.",
+  "body": "# -te hobe and question words\n\n**\"Have to\"**: take the **-te form** of the verb and add **hobe**. You already know the -te form from *khete chai*. The person who has to do it takes **-ke**: **amake** (me), **tomake** (you), **oke** (him/her). Never use *ami* here.\n\n**Questions**: put the question word **where the answer would go**, usually just before the verb. Don't move it to the front like in English.\n\n| Pattern | Romanization | Meaning |\n|---|---|---|\n| amake + -te + hobe | amake jete hobe | I have to go |\n| tomake + -te + hobe | tomake khete hobe | you have to eat |\n| oke + -te + hobe | oke ashte hobe | he/she has to come |\n| ki | tumi ki chao? | what do you want? |\n| keno | keno? | why? |\n| kothay | kothay? | where? |\n| kokhon | kokhon? | when? |\n| ke / kake | o ke? / kake? | who? / who (as object, e.g. \"who has to\")? |\n| kemon | kemon? | how? / what's it like? |\n| koto | koto? | how much? |\n\n**Examples**\n\n- amake cha kinte hobe: I have to buy tea\n- amake ekhon bari jete hobe: I have to go home now\n- amake kothay jete hobe?: where do I have to go?\n- tomake kokhon jete hobe?: when do you have to go?\n- amake ki korte hobe?: what do I have to do?\n- amake koto dite hobe?: how much do I have to give?\n- kake jete hobe?: who has to go?\n- tumi kothay thako?: where do you live?\n- tumi keno jete chao?: why do you want to go?\n- khabar-ta kemon?: how's the food?\n- cha-ta koto?: how much is the tea?\n- beral-ta kothay?: where's the cat?\n\nOther -te forms to use with hobe: korte (do), dite (give), nite (take), kinte (buy), bolte (say), dekhte (see), thakte (stay).\n\n**Common mistakes**\n\n- ❌ *ami jete hobe* → ✅ **amake** jete hobe. With hobe it's always amake / tomake / oke.\n- ❌ *ki tumi chao?* for \"what do you want?\" → ✅ tumi **ki** chao? The question word goes right before the verb.\n",
+  "cards": [
+    {
+      "English": "I have to eat",
+      "Romanization": "amake khete hobe",
+      "Bengali": "আমাকে খেতে হবে",
+      "Notes": "amake (me) + khete (to eat) + hobe (will be) = 'it will be for me to eat'"
+    },
+    {
+      "English": "You have to go",
+      "Romanization": "tomake jete hobe",
+      "Bengali": "তোমাকে যেতে হবে",
+      "Notes": "tomake (you) + jete (to go) + hobe; always tomake, never tumi, with hobe"
+    },
+    {
+      "English": "He/she has to come",
+      "Romanization": "oke ashte hobe",
+      "Bengali": "ওকে আসতে হবে",
+      "Notes": "oke (him/her) + ashte (-te form of asha, to come) + hobe"
+    },
+    {
+      "English": "I have to buy tea",
+      "Romanization": "amake cha kinte hobe",
+      "Bengali": "আমাকে চা কিনতে হবে",
+      "Notes": "amake + cha (tea) + kinte (-te form of kena, to buy) + hobe; the object goes before the verb"
+    },
+    {
+      "English": "You have to speak slowly",
+      "Romanization": "tomake aste aste bolte hobe",
+      "Bengali": "তোমাকে আস্তে আস্তে বলতে হবে",
+      "Notes": "aste aste (slowly) + bolte (to speak) + hobe"
+    },
+    {
+      "English": "I have to go home now",
+      "Romanization": "amake ekhon bari jete hobe",
+      "Bengali": "আমাকে এখন বাড়ি যেতে হবে",
+      "Notes": "ekhon (now) + bari (home) + jete hobe; with 'go', bari needs no ending"
+    },
+    {
+      "English": "Where do I have to go?",
+      "Romanization": "amake kothay jete hobe?",
+      "Bengali": "আমাকে কোথায় যেতে হবে?",
+      "Notes": "kothay (where) goes right before the verb, not at the front"
+    },
+    {
+      "English": "When do you have to go?",
+      "Romanization": "tomake kokhon jete hobe?",
+      "Bengali": "তোমাকে কখন যেতে হবে?",
+      "Notes": "kokhon (when) goes right before jete hobe"
+    },
+    {
+      "English": "Why do I have to eat now?",
+      "Romanization": "amake ekhon keno khete hobe?",
+      "Bengali": "আমাকে এখন কেন খেতে হবে?",
+      "Notes": "keno (why) goes just before the verb phrase"
+    },
+    {
+      "English": "What do I have to do?",
+      "Romanization": "amake ki korte hobe?",
+      "Bengali": "আমাকে কী করতে হবে?",
+      "Notes": "ki (what) + korte (-te form of kora, to do) + hobe"
+    },
+    {
+      "English": "How much do I have to give?",
+      "Romanization": "amake koto dite hobe?",
+      "Bengali": "আমাকে কত দিতে হবে?",
+      "Notes": "New: koto = how much / how many; dite = -te form of deoa (to give)"
+    },
+    {
+      "English": "Who has to go?",
+      "Romanization": "kake jete hobe?",
+      "Bengali": "কাকে যেতে হবে?",
+      "Notes": "New: kake = who + -ke, like amake/tomake; hobe needs kake, not ke"
+    },
+    {
+      "English": "Where do you live?",
+      "Romanization": "tumi kothay thako?",
+      "Bengali": "তুমি কোথায় থাকো?",
+      "Notes": "tumi + kothay (where) + thako (you live/stay)"
+    },
+    {
+      "English": "What do you want?",
+      "Romanization": "tumi ki chao?",
+      "Bengali": "তুমি কী চাও?",
+      "Notes": "Lit. 'you what want?'; ki sits where the answer would go"
+    },
+    {
+      "English": "Why do you want to go?",
+      "Romanization": "tumi keno jete chao?",
+      "Bengali": "তুমি কেন যেতে চাও?",
+      "Notes": "keno (why) + jete chao (want to go)"
+    },
+    {
+      "English": "When do you eat? (usually)",
+      "Romanization": "tumi kokhon khao?",
+      "Bengali": "তুমি কখন খাও?",
+      "Notes": "kokhon (when) + khao (you eat, habitual present)"
+    },
+    {
+      "English": "Who is he/she?",
+      "Romanization": "o ke?",
+      "Bengali": "ও কে?",
+      "Notes": "Lit. 'he/she who?'; no word for 'is' needed"
+    },
+    {
+      "English": "How's the food?",
+      "Romanization": "khabar-ta kemon?",
+      "Bengali": "খাবারটা কেমন?",
+      "Notes": "khabar-ta (the food) + kemon (how / what's it like); no 'is' needed"
+    },
+    {
+      "English": "How much is the tea?",
+      "Romanization": "cha-ta koto?",
+      "Bengali": "চা-টা কত?",
+      "Notes": "cha-ta (the tea) + koto (how much); handy for asking prices at a shop"
+    },
+    {
+      "English": "Where's the cat?",
+      "Romanization": "beral-ta kothay?",
+      "Bengali": "বেড়ালটা কোথায়?",
+      "Notes": "beral-ta (the cat) + kothay (where); no 'is' needed"
+    }
+  ]
+}

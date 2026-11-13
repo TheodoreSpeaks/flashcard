@@ -1,0 +1,217 @@
+{
+  "title": "Housing and paperwork",
+  "focus": "租房, 房东, 续租, 退租, 违约金, 物业, 装修, 中介, 签证, 护照, 手续, 申请, 证件, 材料, 盖章, 预约, 办理, 有效期, 过期, 身份证",
+  "body": "# Housing and paperwork\n\nRenting a flat and dealing with offices are where heritage speakers most often get stuck: you can chat with the clerk, but you can't name the documents. These words cover leases, landlords and the paperwork chain of 填表, 签字, 盖章. (合同 and 押金 are in the work and money lessons.)\n\n| Chinese | Pinyin | Meaning |\n|---|---|---|\n| 租房 | zūfáng | to rent a place (as a tenant) |\n| 房租 | fángzū | rent (the monthly payment) |\n| 房东 | fángdōng | landlord |\n| 违约金 | wéiyuējīn | penalty for breaking a contract |\n| 续租 | xùzū | to renew a lease |\n| 物业 | wùyè | property management (of a building or complex) |\n| 装修 | zhuāngxiū | to renovate / decorate (a home) |\n| 搬家 | bānjiā | to move (house) |\n| 中介 | zhōngjiè | agent / agency (real estate) |\n| 签证 | qiānzhèng | visa |\n| 护照 | hùzhào | passport |\n| 手续 | shǒuxù | formalities / paperwork procedures |\n| 申请 | shēnqǐng | to apply (for a job, visa, school) |\n| 证件 | zhèngjiàn | ID documents / papers |\n| 材料 | cáiliào | documents to submit (for an application) |\n| 盖章 | gàizhāng | to stamp with an official seal |\n| 预约 | yùyuē | to make an appointment (in advance) |\n| 办理 | bànlǐ | to process / go through (official business, formal) |\n| 有效期 | yǒuxiàoqī | validity period |\n| 过期 | guòqī | to have expired |\n| 身份证 | shēnfènzhèng | national ID card |\n| 驾照 | jiàzhào | driver's license |\n| 填表 | tiánbiǎo | to fill out a form |\n| 签字 | qiānzì | to sign (your name on a document) |\n| 水电费 | shuǐdiànfèi | utilities (water and electricity bills) |\n| 退租 | tuìzū | to end a lease / move out (as a tenant) |\n| 复印件 | fùyìnjiàn | photocopy (of a document) |\n\n## Which word?\n\n- **房东 vs 物业 vs 中介**: 房东 owns your flat. 物业 runs the building (elevators, security, management fee). 中介 is the agent who found it and charged a fee.\n- **续租 vs 退租**: 续租 keeps the flat for another term. 退租 ends the lease and you move out; doing it early (提前退租) usually costs 违约金.\n- **材料 vs 资料**: at an office, 材料 is what you hand in. 资料 is information you look up.\n- **办 vs 办理 vs 申请**: 办 is the everyday verb (办签证, 办手续). 办理 is the formal version on signs. 申请 is applying, the step where you ask for approval.\n- **过期 vs 到期**: 过期 means already expired (过期了). 到期 is the moment it runs out (下个月到期).\n- **预约 vs 预订**: 预约 an appointment with a doctor or bank; 预订 a hotel room, a table or a ticket.\n- **签字 vs 签名**: 签字 on a document; 签名 is the signature itself, or an autograph.\n\n## Examples\n\n- 我在公司附近租房住。 wǒ zài gōngsī fùjìn zūfáng zhù: I rent a place near my office\n- 合同到期以后你还续租吗？ hétong dàoqī yǐhòu nǐ hái xùzū ma: Are you renewing when the lease runs out?\n- 提前退租要付一个月的违约金。 tíqián tuìzū yào fù yí gè yuè de wéiyuējīn: Breaking the lease early costs a month's rent as a penalty\n- 电梯又坏了，赶紧给物业打电话。 diàntī yòu huài le, gǎnjǐn gěi wùyè dǎ diànhuà: The elevator's broken again, call property management\n- 我的签证下个月就到期了。 wǒ de qiānzhèng xià gè yuè jiù dàoqī le: My visa runs out next month\n- 手续太麻烦了，我跑了三趟。 shǒuxù tài máfan le, wǒ pǎo le sān tàng: The paperwork was such a hassle, I had to go three times\n- 材料不齐，下次再来吧。 cáiliào bù qí, xià cì zài lái ba: Your documents are incomplete, come back next time\n- 这张表要盖章才有效。 zhè zhāng biǎo yào gàizhāng cái yǒuxiào: This form isn't valid until it's stamped\n- 我的驾照过期了，得去换。 wǒ de jiàzhào guòqī le, děi qù huàn: My driver's license expired, I need to renew it\n- 我想提前退租，押金还能退吗？ wǒ xiǎng tíqián tuìzū, yājīn hái néng tuì ma: If I end my lease early, can I still get my deposit back?\n",
+  "cards": [
+    {
+      "English": "to rent a place (as a tenant)",
+      "Hanzi": "租房",
+      "Pinyin": "zūfáng",
+      "Example": "我在公司附近租房住。 wǒ zài gōngsī fùjìn zūfáng zhù: I rent a place near my office",
+      "Notes": "租 = rent from someone; 出租 = rent out; 房租 = the rent itself"
+    },
+    {
+      "English": "rent (the monthly payment)",
+      "Hanzi": "房租",
+      "Pinyin": "fángzū",
+      "Example": "这边房租一个月多少？ zhèbiān fángzū yí gè yuè duōshao: How much is rent here per month?",
+      "Notes": "交房租 = pay rent"
+    },
+    {
+      "English": "landlord",
+      "Hanzi": "房东",
+      "Pinyin": "fángdōng",
+      "Example": "热水器坏了，得找房东修。 rèshuǐqì huài le, děi zhǎo fángdōng xiū: The water heater broke, I need the landlord to fix it",
+      "Notes": "Tenant = 房客 or 租客"
+    },
+    {
+      "English": "penalty for breaking a contract",
+      "Hanzi": "违约金",
+      "Pinyin": "wéiyuējīn",
+      "Example": "提前退租要付一个月的违约金。 tíqián tuìzū yào fù yí gè yuè de wéiyuējīn: Breaking the lease early costs a month's rent as a penalty",
+      "Notes": "违约 = break a contract"
+    },
+    {
+      "English": "to renew a lease",
+      "Hanzi": "续租",
+      "Pinyin": "xùzū",
+      "Example": "合同到期以后你还续租吗？ hétong dàoqī yǐhòu nǐ hái xùzū ma: Are you renewing when the lease runs out?",
+      "Notes": "续 = continue: 续签 = renew a contract, 续费 = renew a subscription"
+    },
+    {
+      "English": "property management (of a building or complex)",
+      "Hanzi": "物业",
+      "Pinyin": "wùyè",
+      "Example": "电梯又坏了，赶紧给物业打电话。 diàntī yòu huài le, gǎnjǐn gěi wùyè dǎ diànhuà: The elevator's broken again, call property management",
+      "Notes": "物业费 = management fee"
+    },
+    {
+      "English": "to renovate / decorate (a home)",
+      "Hanzi": "装修",
+      "Pinyin": "zhuāngxiū",
+      "Example": "楼上在装修，每天吵死了。 lóushàng zài zhuāngxiū, měitiān chǎo sǐ le: Upstairs is renovating and it's deafening every day",
+      "Notes": "精装修 = move-in ready; 毛坯房 = bare shell, unfinished"
+    },
+    {
+      "English": "to move (house)",
+      "Hanzi": "搬家",
+      "Pinyin": "bānjiā",
+      "Example": "下个月我们要搬家，东西还没收拾。 xià gè yuè wǒmen yào bānjiā, dōngxi hái méi shōushi: We're moving next month and haven't packed yet",
+      "Notes": "搬家公司 = moving company"
+    },
+    {
+      "English": "agent / agency (real estate)",
+      "Hanzi": "中介",
+      "Pinyin": "zhōngjiè",
+      "Example": "通过中介找房要交中介费。 tōngguò zhōngjiè zhǎo fáng yào jiāo zhōngjièfèi: Finding a place through an agent means paying a fee",
+      "Notes": "房产中介 = real estate agency"
+    },
+    {
+      "English": "visa",
+      "Hanzi": "签证",
+      "Pinyin": "qiānzhèng",
+      "Example": "我的签证下个月就到期了。 wǒ de qiānzhèng xià gè yuè jiù dàoqī le: My visa runs out next month",
+      "Notes": "办签证 = get a visa; 签证 is the permit, 护照 is the booklet"
+    },
+    {
+      "English": "passport",
+      "Hanzi": "护照",
+      "Pinyin": "hùzhào",
+      "Example": "出门前别忘了带护照。 chūmén qián bié wàng le dài hùzhào: Don't forget your passport before you leave",
+      "Notes": ""
+    },
+    {
+      "English": "formalities / paperwork procedures",
+      "Hanzi": "手续",
+      "Pinyin": "shǒuxù",
+      "Example": "手续太麻烦了，我跑了三趟。 shǒuxù tài máfan le, wǒ pǎo le sān tàng: The paperwork was such a hassle, I had to go three times",
+      "Notes": "办手续 = do the paperwork; 入住手续 = check-in"
+    },
+    {
+      "English": "to apply (for a job, visa, school)",
+      "Hanzi": "申请",
+      "Pinyin": "shēnqǐng",
+      "Example": "他申请了三所大学。 tā shēnqǐng le sān suǒ dàxué: He applied to three universities",
+      "Notes": "申请 = formal application; 报名 = sign up for a class, event or exam"
+    },
+    {
+      "English": "ID documents / papers",
+      "Hanzi": "证件",
+      "Pinyin": "zhèngjiàn",
+      "Example": "请出示一下您的证件。 qǐng chūshì yíxià nín de zhèngjiàn: Please show your ID",
+      "Notes": "Umbrella word for ID card, passport, license; 出示 = present (formal)"
+    },
+    {
+      "English": "documents to submit (for an application)",
+      "Hanzi": "材料",
+      "Pinyin": "cáiliào",
+      "Example": "材料不齐，下次再来吧。 cáiliào bù qí, xià cì zài lái ba: Your documents are incomplete, come back next time",
+      "Notes": "In bureaucracy 材料 = paperwork you hand in; 资料 = information, reference material"
+    },
+    {
+      "English": "to stamp with an official seal",
+      "Hanzi": "盖章",
+      "Pinyin": "gàizhāng",
+      "Example": "这张表要盖章才有效。 zhè zhāng biǎo yào gàizhāng cái yǒuxiào: This form isn't valid until it's stamped",
+      "Notes": "公章 = official company seal"
+    },
+    {
+      "English": "to make an appointment (in advance)",
+      "Hanzi": "预约",
+      "Pinyin": "yùyuē",
+      "Example": "去银行办事最好先预约。 qù yínháng bànshì zuìhǎo xiān yùyuē: Better book an appointment before going to the bank",
+      "Notes": "预约 = appointment (doctor, bank, office); 预订 = reserve (hotel, table, ticket)"
+    },
+    {
+      "English": "to process / go through (official business, formal)",
+      "Hanzi": "办理",
+      "Pinyin": "bànlǐ",
+      "Example": "请问在哪儿办理入住？ qǐngwèn zài nǎr bànlǐ rùzhù: Excuse me, where do I check in?",
+      "Notes": "Formal and written; in speech people say 办"
+    },
+    {
+      "English": "validity period",
+      "Hanzi": "有效期",
+      "Pinyin": "yǒuxiàoqī",
+      "Example": "护照的有效期还剩半年。 hùzhào de yǒuxiàoqī hái shèng bàn nián: The passport has six months of validity left",
+      "Notes": "有效期至 = valid until (printed on documents)"
+    },
+    {
+      "English": "to have expired",
+      "Hanzi": "过期",
+      "Pinyin": "guòqī",
+      "Example": "我的驾照过期了，得去换。 wǒ de jiàzhào guòqī le, děi qù huàn: My driver's license expired, I need to renew it",
+      "Notes": "过期 = already expired (also food); 到期 = to come due / run out at that date"
+    },
+    {
+      "English": "national ID card",
+      "Hanzi": "身份证",
+      "Pinyin": "shēnfènzhèng",
+      "Example": "办手机卡要带身份证。 bàn shǒujīkǎ yào dài shēnfènzhèng: You need your ID card to get a SIM card",
+      "Notes": "身份证号 = ID number"
+    },
+    {
+      "English": "driver's license",
+      "Hanzi": "驾照",
+      "Pinyin": "jiàzhào",
+      "Example": "他刚考下来驾照。 tā gāng kǎo xiàlai jiàzhào: He just got his driver's license",
+      "Notes": "考驾照 = take the driving test"
+    },
+    {
+      "English": "to fill out a form",
+      "Hanzi": "填表",
+      "Pinyin": "tiánbiǎo",
+      "Example": "先在那边填表，然后拿号。 xiān zài nàbiān tiánbiǎo, ránhòu ná hào: Fill out the form over there first, then take a number",
+      "Notes": "填 = fill in: 填名字, 填地址"
+    },
+    {
+      "English": "to sign (your name on a document)",
+      "Hanzi": "签字",
+      "Pinyin": "qiānzì",
+      "Example": "请在这里签字。 qǐng zài zhèlǐ qiānzì: Please sign here",
+      "Notes": "签字 = sign a document; 签名 = signature, also an autograph"
+    },
+    {
+      "English": "utilities (water and electricity bills)",
+      "Hanzi": "水电费",
+      "Pinyin": "shuǐdiànfèi",
+      "Example": "房租不包水电费。 fángzū bù bāo shuǐdiànfèi: Rent doesn't include utilities",
+      "Notes": "包 = include; 燃气费 = gas bill"
+    },
+    {
+      "English": "to end a lease / move out (as a tenant)",
+      "Hanzi": "退租",
+      "Pinyin": "tuìzū",
+      "Example": "我想提前退租，押金还能退吗？ wǒ xiǎng tíqián tuìzū, yājīn hái néng tuì ma: If I end my lease early, can I still get my deposit back?",
+      "Notes": "提前 = ahead of time"
+    },
+    {
+      "English": "photocopy (of a document)",
+      "Hanzi": "复印件",
+      "Pinyin": "fùyìnjiàn",
+      "Example": "请带上护照原件和复印件。 qǐng dài shang hùzhào yuánjiàn hé fùyìnjiàn: Please bring your original passport and a copy",
+      "Notes": "原件 = the original; 复印 = to photocopy"
+    },
+    {
+      "English": "What documents do I need to bring?",
+      "Hanzi": "需要带什么材料？",
+      "Pinyin": "xūyào dài shénme cáiliào",
+      "Example": "",
+      "Notes": "The first question to ask at any government office"
+    },
+    {
+      "English": "How long does it take to get it processed?",
+      "Hanzi": "办下来要多长时间？",
+      "Pinyin": "bàn xiàlai yào duō cháng shíjiān",
+      "Example": "",
+      "Notes": "办下来 = get it approved, done"
+    },
+    {
+      "English": "Can I take care of this here?",
+      "Hanzi": "这个是在这儿办吗？",
+      "Pinyin": "zhège shì zài zhèr bàn ma",
+      "Example": "",
+      "Notes": "Use it at a counter to check you're in the right line"
+    }
+  ]
+}

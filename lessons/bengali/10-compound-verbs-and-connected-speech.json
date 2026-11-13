@@ -1,0 +1,133 @@
+{
+  "title": "Compound verbs and connected speech",
+  "focus": "Compound verbs (kheye nao, bole dao, chole jao), linking clauses with -e (kheye jabo), longer natural sentences.",
+  "body": "# Compound verbs and connected speech\n\nKolkata speech is full of **two-verb combinations**. The first verb carries the meaning and takes an **-e** ending (kheye, bole, chole, ghumiye). The second verb (nao, dao, jao, poro, phelo) changes the flavour: it adds completeness, direction or a sense of who benefits.\n\n**The -e form** (the \"conjunctive\") means *having done X*: **kheye** (having eaten), **giye** (having gone), **bole** (having said), **kore** (having done), **eshe** (having come), **ghumiye** (having slept). It's the same piece you already know from **kheyechi** and **hoye geche**.\n\n| Helper | Adds | Example |\n|---|---|---|\n| **nao** (take) | for yourself, go ahead | **kheye nao**: eat up |\n| **dao** (give) | for someone else | **bole dao**: tell (them) for me |\n| **jao** (go) | away, completely | **chole jao**: go away |\n| **poro** (fall) | suddenly, into a state | **ghumiye poro**: go to sleep |\n| **phelo** (throw) | finish it off | **kheye phelo**: eat it all up |\n\nThe helper takes the normal tense endings: **ghumiye poreche** (has fallen asleep), **chole geche** (has left), **bole diyechi** (I've told them).\n\n**Linking clauses:** the -e form also joins two actions in order, like \"and then\": **ami kheye jabo** (I'll eat and then go), **bari giye khabo** (I'll go home and eat). Only the last verb shows the tense.\n\n## Examples\n\n- **kheye nao**: eat up / go ahead and eat\n- **Ollie ghumiye poreche**: Ollie has fallen asleep\n- **o chole geche**: he/she has left\n- **ami bhule gechi**: I've forgotten\n- **ami oke bole diyechi**: I've told him/her\n- **amake ekta cha kore dao**: make me a cup of tea\n- **Ollie sob khabar kheye pheleche**: Ollie has eaten up all the food\n- **ami cha kheye boi porbo**: I'll have tea and then read a book\n- **Ollie kheye ghumiye porlo**: Ollie ate and fell asleep\n- **giye dekho**: go and see\n\n## Common mistakes\n\n- ❌ **ami khabo jabo**. Only the last verb takes the tense. The first one uses the -e form: ✅ **ami kheye jabo**.\n- Mixing up **ghumiye poreche** (has fallen asleep) and **ghumocche** (is sleeping right now). Both are fine for a napping Ollie, but they mean different things.\n",
+  "cards": [
+    {
+      "English": "Eat up / go ahead and eat",
+      "Romanization": "kheye nao",
+      "Bengali": "খেয়ে নাও",
+      "Notes": "kheye (having eaten) + nao (take); nao = 'go ahead, for yourself'"
+    },
+    {
+      "English": "Eat it all up",
+      "Romanization": "sob kheye phelo",
+      "Bengali": "সব খেয়ে ফেলো",
+      "Notes": "sob = all; phelo (throw) = finish it off"
+    },
+    {
+      "English": "Ollie has eaten up all the food",
+      "Romanization": "Ollie sob khabar kheye pheleche",
+      "Bengali": "অলি সব খাবার খেয়ে ফেলেছে",
+      "Notes": "kheye + pheleche (has thrown) = has finished eating"
+    },
+    {
+      "English": "Tell him/her (for me)",
+      "Romanization": "oke bole dao",
+      "Bengali": "ওকে বলে দাও",
+      "Notes": "oke = (to) him/her; bole dao = tell, on someone's behalf"
+    },
+    {
+      "English": "I've told him/her",
+      "Romanization": "ami oke bole diyechi",
+      "Bengali": "আমি ওকে বলে দিয়েছি",
+      "Notes": "bole + diyechi (I have given); oke = (to) him/her"
+    },
+    {
+      "English": "Make me a cup of tea",
+      "Romanization": "amake ekta cha kore dao",
+      "Bengali": "আমাকে একটা চা করে দাও",
+      "Notes": "amake = for me; kore dao = make (for someone); ekta sounds 'akta'"
+    },
+    {
+      "English": "Go away!",
+      "Romanization": "chole jao!",
+      "Bengali": "চলে যাও!",
+      "Notes": "chole (having moved) + jao (go); sharp, so use with care"
+    },
+    {
+      "English": "He/she has left",
+      "Romanization": "o chole geche",
+      "Bengali": "ও চলে গেছে",
+      "Notes": "chole + geche (has gone) = has left for good"
+    },
+    {
+      "English": "I've forgotten",
+      "Romanization": "ami bhule gechi",
+      "Bengali": "আমি ভুলে গেছি",
+      "Notes": "bhule (having forgotten) + gechi (I have gone); 'I forgot' is usually said this way"
+    },
+    {
+      "English": "Sit down",
+      "Romanization": "boshe poro",
+      "Bengali": "বসে পড়ো",
+      "Notes": "boshe (having sat) + poro (fall); more relaxed than plain bosho"
+    },
+    {
+      "English": "Go to sleep",
+      "Romanization": "ghumiye poro",
+      "Bengali": "ঘুমিয়ে পড়ো",
+      "Notes": "ghumiye (having slept) + poro (fall) = drop off to sleep"
+    },
+    {
+      "English": "The dog has fallen asleep",
+      "Romanization": "kukur-ta ghumiye poreche",
+      "Bengali": "কুকুরটা ঘুমিয়ে পড়েছে",
+      "Notes": "ghumiye + poreche (has fallen); compare ghumocche = is sleeping"
+    },
+    {
+      "English": "Ollie has fallen asleep on the bed",
+      "Romanization": "Ollie bichanay ghumiye poreche",
+      "Bengali": "অলি বিছানায় ঘুমিয়ে পড়েছে",
+      "Notes": "bichanay = on the bed; ghumiye poreche = has fallen asleep"
+    },
+    {
+      "English": "Ollie ate and fell asleep",
+      "Romanization": "Ollie kheye ghumiye porlo",
+      "Bengali": "অলি খেয়ে ঘুমিয়ে পড়লো",
+      "Notes": "kheye = having eaten; porlo = fell (simple past)"
+    },
+    {
+      "English": "I'll eat and then go",
+      "Romanization": "ami kheye jabo",
+      "Bengali": "আমি খেয়ে যাবো",
+      "Notes": "kheye (having eaten) + jabo (will go); also 'I'll eat before I leave'"
+    },
+    {
+      "English": "I'll go home and eat",
+      "Romanization": "ami bari giye khabo",
+      "Bengali": "আমি বাড়ি গিয়ে খাবো",
+      "Notes": "giye (having gone) links the actions; only khabo shows the tense"
+    },
+    {
+      "English": "I'll have tea and then read a book",
+      "Romanization": "ami cha kheye boi porbo",
+      "Bengali": "আমি চা খেয়ে বই পড়বো",
+      "Notes": "cha kheye = having had tea; porbo = I'll read"
+    },
+    {
+      "English": "Go and see",
+      "Romanization": "giye dekho",
+      "Bengali": "গিয়ে দেখো",
+      "Notes": "giye (having gone) + dekho (see/look, to a friend)"
+    },
+    {
+      "English": "Take a look",
+      "Romanization": "ekbar dekhe nao",
+      "Bengali": "একবার দেখে নাও",
+      "Notes": "ekbar = once; dekhe nao = have a look (for yourself)"
+    },
+    {
+      "English": "Come and sit (down)",
+      "Romanization": "eshe bosho",
+      "Bengali": "এসে বসো",
+      "Notes": "eshe (having come) + bosho (sit, to a friend)"
+    },
+    {
+      "English": "Bring a little water",
+      "Romanization": "ektu jol niye esho",
+      "Bengali": "একটু জল নিয়ে এসো",
+      "Notes": "lit. 'having taken water, come'; niye esho = bring"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "title": "Core words and 'it's X'",
+  "focus": "Everyday nouns and adjectives; present-tense descriptions with no verb (aaj khub thanda, jol ta gorom); the -ta 'the' ending.",
+  "body": "# Core words and 'it's X'\n\nIn everyday Kolkata Bengali you don't need a word for \"is\" when you describe something. You just put the thing next to its description:\n\n**aaj khub thanda** = today very cold = *It's very cold today.*\n\nTo say **\"the\"**, add **-ta** to the end of the noun: **kukur** (dog) → **kukur-ta** (the dog). In these lessons it's written with a hyphen so you can see the ending. People also write it joined up (kukurta) or with a space (jol ta). All three mean the same thing.\n\nTo say **\"a\"** or **\"one\"**, put **ekta** in front: **ekta kukur** = a dog.\n\n| Pattern | Example | Meaning |\n|---|---|---|\n| thing + description | aaj gorom | It's hot today |\n| noun-ta + description | jol-ta thanda | The water is cold |\n| noun-ta + khub + description | beral-ta khub bhalo | The cat is very good |\n| eta + noun / description | eta jol | This is water |\n| ekta + noun | ekta beral | a cat |\n\n**Examples**\n\n- **aaj thanda**: It's cold today\n- **aaj khub gorom**: It's very hot today\n- **jol-ta gorom**: The water is hot\n- **kukur-ta choto**: The dog is small\n- **beral-ta boro**: The cat is big\n- **cha-ta khub gorom**: The tea is very hot\n- **bhat-ta thanda**: The rice is cold\n- **eta bhalo**: This is good\n- **ekta choto beral**: a small cat\n- **cha-ta gorom, kintu jol-ta thanda**: The tea is hot, but the water is cold\n- **kukur-ta boro aar beral-ta choto**: The dog is big and the cat is small\n\n**Word order:** Bengali goes *thing → (khub) → description*, and **khub** always comes right before the adjective. Adjectives before a noun don't change form: **choto kukur** (small dog), **kukur-ta choto** (the dog is small).\n\n**Common mistakes**\n\n1. **Don't add \"is\".** Saying *jol-ta hoy thanda* or *jol-ta ache thanda* is wrong. Just say **jol-ta thanda**.\n2. **-ta goes at the end, never in front.** It's **kukur-ta**, not *ta kukur*. And remember: water is **jol** in Kolkata, not *pani*.\n",
+  "cards": [
+    {
+      "English": "good",
+      "Romanization": "bhalo",
+      "Bengali": "ভালো",
+      "Notes": "Adjective; stays the same before or after the noun."
+    },
+    {
+      "English": "the dog",
+      "Romanization": "kukur-ta",
+      "Bengali": "কুকুরটা",
+      "Notes": "kukur (dog) + -ta (the); -ta always goes at the end of the noun."
+    },
+    {
+      "English": "a dog",
+      "Romanization": "ekta kukur",
+      "Bengali": "একটা কুকুর",
+      "Notes": "ekta = a/one, placed before the noun; compare kukur-ta = the dog."
+    },
+    {
+      "English": "The water is cold",
+      "Romanization": "jol-ta thanda",
+      "Bengali": "জলটা ঠান্ডা",
+      "Notes": "the-water cold; no word for 'is' needed."
+    },
+    {
+      "English": "It's hot today",
+      "Romanization": "aaj gorom",
+      "Bengali": "আজ গরম",
+      "Notes": "today hot; no 'it' or 'is' in Bengali."
+    },
+    {
+      "English": "The cat is very good",
+      "Romanization": "beral-ta khub bhalo",
+      "Bengali": "বেড়ালটা খুব ভালো",
+      "Notes": "the-cat very good; khub goes right before the adjective."
+    },
+    {
+      "English": "The dog is small",
+      "Romanization": "kukur-ta choto",
+      "Bengali": "কুকুরটা ছোট",
+      "Notes": "the-dog small; choto = small/little (also 'younger')."
+    },
+    {
+      "English": "big",
+      "Romanization": "boro",
+      "Bengali": "বড়",
+      "Notes": "Opposite of choto; also means 'older' for siblings."
+    },
+    {
+      "English": "The house is big",
+      "Romanization": "bari-ta boro",
+      "Bengali": "বাড়িটা বড়",
+      "Notes": "the-house big; bari = house/home."
+    },
+    {
+      "English": "The tea is hot",
+      "Romanization": "cha-ta gorom",
+      "Bengali": "চা-টা গরম",
+      "Notes": "the-tea hot; cha + -ta, often written chata."
+    },
+    {
+      "English": "The rice is hot",
+      "Romanization": "bhat-ta gorom",
+      "Bengali": "ভাতটা গরম",
+      "Notes": "the-rice hot; bhat = cooked rice, the everyday staple."
+    },
+    {
+      "English": "The food is good",
+      "Romanization": "khabar-ta bhalo",
+      "Bengali": "খাবারটা ভালো",
+      "Notes": "the-food good; khabar = food (related to khaoa, to eat)."
+    },
+    {
+      "English": "The book is good",
+      "Romanization": "boi-ta bhalo",
+      "Bengali": "বইটা ভালো",
+      "Notes": "the-book good; boi = book."
+    },
+    {
+      "English": "This is water",
+      "Romanization": "eta jol",
+      "Bengali": "এটা জল",
+      "Notes": "eta = this (one), built from e (this) + -ta; no 'is' needed."
+    },
+    {
+      "English": "This is very good",
+      "Romanization": "eta khub bhalo",
+      "Bengali": "এটা খুব ভালো",
+      "Notes": "this very good; a handy everyday compliment."
+    },
+    {
+      "English": "a small dog",
+      "Romanization": "ekta choto kukur",
+      "Bengali": "একটা ছোট কুকুর",
+      "Notes": "a small dog; order is ekta + adjective + noun, like English."
+    },
+    {
+      "English": "The cat is small and the dog is big",
+      "Romanization": "beral-ta choto aar kukur-ta boro",
+      "Bengali": "বেড়ালটা ছোট আর কুকুরটা বড়",
+      "Notes": "the-cat small and the-dog big; aar joins two descriptions."
+    },
+    {
+      "English": "The tea is hot, but the water is cold",
+      "Romanization": "cha-ta gorom, kintu jol-ta thanda",
+      "Bengali": "চা-টা গরম, কিন্তু জলটা ঠান্ডা",
+      "Notes": "the-tea hot, but the-water cold; kintu = but."
+    },
+    {
+      "English": "It's very hot today, but the water is cold",
+      "Romanization": "aaj khub gorom, kintu jol-ta thanda",
+      "Bengali": "আজ খুব গরম, কিন্তু জলটা ঠান্ডা",
+      "Notes": "today very hot, but the-water cold; two verbless descriptions joined by kintu."
+    },
+    {
+      "English": "The house is very beautiful",
+      "Romanization": "bari-ta khub shundor",
+      "Bengali": "বাড়িটা খুব সুন্দর",
+      "Notes": "the-house very beautiful; shundor = beautiful/lovely."
+    }
+  ]
+}

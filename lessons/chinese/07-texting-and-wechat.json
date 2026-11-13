@@ -1,0 +1,203 @@
+{
+  "title": "Texting and WeChat",
+  "focus": "Written chat language: 好的 没事 怎么 什么 为什么 哈哈 谢谢 不客气 等一下 马上 到了 吗 呢 吧 啊.",
+  "body": "# Texting and WeChat\n\nChat Chinese is written the way people talk, so you already know every word here. What's new is seeing them typed: the particles (吗 呢 吧 啊), the set replies (好的, 收到, 没事), and the little tone markers that make a message sound friendly or cold.\n\n| Typed | Pinyin | What it does |\n|---|---|---|\n| 好的 / 收到 | hǎode / shōudào | OK / got it |\n| 没事 / 不客气 | méishì / bú kèqi | no worries / you're welcome |\n| 等一下 / 稍等 | děng yíxià / shāoděng | hang on / one moment |\n| 马上 / 到了 | mǎshàng / dào le | right away / I'm here |\n| 吗 呢 吧 啊 | ma ne ba a | question, 'and you?', suggestion, softener |\n| 哈哈哈 / 笑死 | hāhāhā / xiàosǐ | LOL / I'm dying |\n| 在吗? | zài ma | you there? |\n\n**Number and letter shorthand** you'll also see: 666 (liùliùliù, \"nice, well played\"), 88 (bābā, bye-bye), 3Q (thank you), hhh (哈哈哈), yyds (永远的神, \"the GOAT\").\n\n## Examples\n\n- 在吗? zài ma: You there?\n- 好的,明天见! hǎode, míngtiān jiàn: OK, see you tomorrow!\n- 收到,谢谢! shōudào, xièxie: Got it, thanks!\n- 等一下,我马上来。 děng yíxià, wǒ mǎshàng lái: Hang on, I'll be right there.\n- 我到了,你在哪儿? wǒ dào le, nǐ zài nǎr: I'm here, where are you?\n- 你到哪儿了? nǐ dào nǎr le: Where are you now?\n- 我在路上了。 wǒ zài lùshang le: I'm on my way.\n- 怎么了? zěnme le: What's up?\n- 为什么不回我? wèishénme bù huí wǒ: Why aren't you replying?\n- 不好意思,我来晚了。 bù hǎoyìsi, wǒ lái wǎn le: Sorry I'm late.\n- 哈哈哈,笑死我了。 hāhāhā, xiào sǐ wǒ le: Hahaha, I'm dying.\n- 早点睡,晚安! zǎo diǎn shuì, wǎn'ān: Get some sleep, good night!\n\n## Common mistakes\n\n- **Particles all have 口.** 吗 呢 吧 啊 哈 嗯 share the mouth radical, so read the right side: 马 mǎ, 尼 ní, 巴 bā, 阿 ā, 合 hé.\n- **A bare 哦 or 嗯 can read as cold.** Doubling (嗯嗯, 好的好的) or adding 啊/呀 makes it warmer.\n",
+  "cards": [
+    {
+      "Hanzi": "好的",
+      "Pinyin": "hǎode",
+      "Meaning": "OK, sure",
+      "Example": "好的,明天见! hǎode, míngtiān jiàn: OK, see you tomorrow!",
+      "Notes": "The standard 'OK' reply; also typed 好滴 or 好哒 to sound cute"
+    },
+    {
+      "Hanzi": "没事",
+      "Pinyin": "méishì",
+      "Meaning": "no worries; it's fine",
+      "Example": "没事,别担心。 méishì, bié dānxīn: It's fine, don't worry.",
+      "Notes": "没 = 氵 + 殳; often typed 没事儿 in the north"
+    },
+    {
+      "Hanzi": "怎么",
+      "Pinyin": "zěnme",
+      "Meaning": "how; why",
+      "Example": "怎么了? zěnme le: What's up? / What's wrong?",
+      "Notes": "怎 = 乍 zhà + 心 heart"
+    },
+    {
+      "Hanzi": "什么",
+      "Pinyin": "shénme",
+      "Meaning": "what",
+      "Example": "你说什么? nǐ shuō shénme: What did you say?",
+      "Notes": "什 = 亻 + 十 shí; jokingly typed 神马 (shénmǎ)"
+    },
+    {
+      "Hanzi": "为什么",
+      "Pinyin": "wèishénme",
+      "Meaning": "why",
+      "Example": "为什么不回我? wèishénme bù huí wǒ: Why aren't you replying?",
+      "Notes": "为 is wèi here; it's wéi in 以为"
+    },
+    {
+      "Hanzi": "哈哈哈",
+      "Pinyin": "hāhāhā",
+      "Meaning": "hahaha",
+      "Example": "哈哈哈,太好笑了! hāhāhā, tài hǎoxiào le: Hahaha, so funny!",
+      "Notes": "口 + 合 hé; the more 哈, the harder the laugh; also typed hhh"
+    },
+    {
+      "Hanzi": "谢谢",
+      "Pinyin": "xièxie",
+      "Meaning": "thanks",
+      "Example": "谢谢你啊! xièxie nǐ a: Thank you!",
+      "Notes": "讠 speech + 射 shè"
+    },
+    {
+      "Hanzi": "不客气",
+      "Pinyin": "bú kèqi",
+      "Meaning": "you're welcome",
+      "Example": "不客气,应该的。 bú kèqi, yīnggāi de: You're welcome, it's nothing.",
+      "Notes": "不 is bú before the 4th-tone 客"
+    },
+    {
+      "Hanzi": "等一下",
+      "Pinyin": "děng yíxià",
+      "Meaning": "hang on, wait a sec",
+      "Example": "等一下,我马上来。 děng yíxià, wǒ mǎshàng lái: Hang on, I'll be right there.",
+      "Notes": "等 = ⺮ bamboo + 寺 sì; 一 is yí before 下"
+    },
+    {
+      "Hanzi": "马上",
+      "Pinyin": "mǎshàng",
+      "Meaning": "right away",
+      "Example": "马上到! mǎshàng dào: Almost there!",
+      "Notes": "Literally 'on horseback'; 马上到 often means 'still ten minutes away'"
+    },
+    {
+      "Hanzi": "到了",
+      "Pinyin": "dào le",
+      "Meaning": "arrived; I'm here",
+      "Example": "我到了,你在哪儿? wǒ dào le, nǐ zài nǎr: I'm here, where are you?",
+      "Notes": "到 = 至 arrive + 刂 knife"
+    },
+    {
+      "Hanzi": "吗",
+      "Pinyin": "ma",
+      "Meaning": "question particle",
+      "Example": "你吃了吗? nǐ chī le ma: Have you eaten?",
+      "Notes": "口 + 马 mǎ for the sound"
+    },
+    {
+      "Hanzi": "呢",
+      "Pinyin": "ne",
+      "Meaning": "and ...?; particle",
+      "Example": "我很好,你呢? wǒ hěn hǎo, nǐ ne: I'm good, and you?",
+      "Notes": "口 + 尼 ní for the sound"
+    },
+    {
+      "Hanzi": "吧",
+      "Pinyin": "ba",
+      "Meaning": "suggestion particle: let's, I guess",
+      "Example": "走吧! zǒu ba: Let's go!",
+      "Notes": "口 + 巴 bā; also in 酒吧 (jiǔbā, bar)"
+    },
+    {
+      "Hanzi": "啊",
+      "Pinyin": "a",
+      "Meaning": "softening particle",
+      "Example": "好啊! hǎo a: Sure!",
+      "Notes": "口 + 阿 ā; turns a flat 好 into an eager 'sure!'"
+    },
+    {
+      "Hanzi": "在吗?",
+      "Pinyin": "zài ma",
+      "Meaning": "You there?",
+      "Example": "",
+      "Notes": "The classic WeChat opener, usually followed by a favour"
+    },
+    {
+      "Hanzi": "收到",
+      "Pinyin": "shōudào",
+      "Meaning": "got it, received",
+      "Example": "收到,谢谢! shōudào, xièxie: Got it, thanks!",
+      "Notes": "The standard 'noted' in work and family group chats"
+    },
+    {
+      "Hanzi": "稍等",
+      "Pinyin": "shāoděng",
+      "Meaning": "one moment",
+      "Example": "稍等,我看一下。 shāoděng, wǒ kàn yíxià: One sec, let me check.",
+      "Notes": "稍 = 禾 + 肖 xiāo; compare 消 in 消息"
+    },
+    {
+      "Hanzi": "嗯嗯",
+      "Pinyin": "ǹg ǹg",
+      "Meaning": "mm-hm, yeah",
+      "Example": "嗯嗯,好的。 ǹg ǹg, hǎode: Mm-hm, OK.",
+      "Notes": "Usually said 'en en'; doubled sounds warmer than a single 嗯"
+    },
+    {
+      "Hanzi": "晚安",
+      "Pinyin": "wǎn'ān",
+      "Meaning": "good night",
+      "Example": "早点睡,晚安! zǎo diǎn shuì, wǎn'ān: Get some sleep, good night!",
+      "Notes": "安 = 宀 roof + 女"
+    },
+    {
+      "Hanzi": "语音",
+      "Pinyin": "yǔyīn",
+      "Meaning": "voice message",
+      "Example": "我发语音给你。 wǒ fā yǔyīn gěi nǐ: I'll send you a voice message.",
+      "Notes": "语 = 讠 speech + 吾 wú; 音 means sound"
+    },
+    {
+      "Hanzi": "红包",
+      "Pinyin": "hóngbāo",
+      "Meaning": "red envelope (money)",
+      "Example": "发个红包吧! fā ge hóngbāo ba: Send a red envelope!",
+      "Notes": "红 = 纟 silk + 工 gōng for the sound; 包 = bag"
+    },
+    {
+      "Hanzi": "不好意思",
+      "Pinyin": "bù hǎoyìsi",
+      "Meaning": "sorry; excuse me",
+      "Example": "不好意思,我来晚了。 bù hǎoyìsi, wǒ lái wǎn le: Sorry I'm late.",
+      "Notes": "不 stays bù before the 3rd-tone 好"
+    },
+    {
+      "Hanzi": "消息",
+      "Pinyin": "xiāoxi",
+      "Meaning": "message",
+      "Example": "看到消息回我一下。 kàndào xiāoxi huí wǒ yíxià: Reply when you see this.",
+      "Notes": "消 = 氵 + 肖 xiāo; 息 = 自 + 心"
+    },
+    {
+      "Hanzi": "笑死我了",
+      "Pinyin": "xiào sǐ wǒ le",
+      "Meaning": "I'm dying (LOL).",
+      "Example": "",
+      "Notes": "Often shortened to 笑死; 笑 has ⺮ bamboo on top"
+    },
+    {
+      "Hanzi": "辛苦了",
+      "Pinyin": "xīnkǔ le",
+      "Meaning": "Thanks for your hard work.",
+      "Example": "",
+      "Notes": "Set reply when someone did a job for you; 辛 vs 幸 (xìng, lucky)"
+    },
+    {
+      "Hanzi": "你到哪儿了?",
+      "Pinyin": "nǐ dào nǎr le",
+      "Meaning": "Where are you now?",
+      "Example": "",
+      "Notes": "哪 (where) has 口; 那 (there) doesn't"
+    },
+    {
+      "Hanzi": "我在路上了。",
+      "Pinyin": "wǒ zài lùshang le",
+      "Meaning": "I'm on my way.",
+      "Example": "",
+      "Notes": "路 = 足 foot + 各 gè"
+    }
+  ]
+}

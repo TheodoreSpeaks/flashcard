@@ -1,0 +1,147 @@
+{
+  "title": "The most common characters",
+  "focus": "Top-frequency characters that appear in every sentence: 的 是 不 了 在 有 我 你 他 她 这 那 个 人 一 大 小 上 下 和 也 都 就, plus numbers.",
+  "body": "# The most common characters\n\nYou already use these words all the time when you speak. A small group of characters makes up a big part of any Chinese text. Once you can recognise them, every page has fewer gaps.\n\nMost of them are short and simple. Learn them as shapes that match sounds you already know.\n\n| Character | Pinyin | What it does |\n|---|---|---|\n| 我 你 他 她 | wǒ nǐ tā tā | I, you, he, she (他 and 她 sound the same) |\n| 们 | men | makes them plural: 我们, 你们, 他们 |\n| 是 不 | shì bù | is / not |\n| 有 在 | yǒu zài | to have; to be at a place |\n| 的 了 | de le | 's (of); marks something done or changed |\n| 这 那 个 | zhè nà gè | this / that, plus the general measure word |\n| 也 都 就 和 | yě dōu jiù hé | also, all, just/exactly, and |\n| 人 大 小 上 下 | rén dà xiǎo shàng xià | person, big, small, up, down |\n\n**Numbers:** 一 yī · 二 èr · 三 sān · 四 sì · 五 wǔ · 六 liù · 七 qī · 八 bā · 九 jiǔ · 十 shí\n\nNumbers above ten are built the way they sound: 十八 = ten + eight = 18, and 三十 = three tens = 30.\n\n## Examples\n\n- 这是我的。 zhè shì wǒ de: This is mine.\n- 那个不是你的。 nàge bú shì nǐ de: That one isn't yours.\n- 他不在。 tā bú zài: He's not here.\n- 她也在。 tā yě zài: She's here too.\n- 我们都在。 wǒmen dōu zài: We're all here.\n- 我有一个。 wǒ yǒu yí ge: I have one.\n- 就是他! jiù shì tā: That's him!\n- 这个大,那个小。 zhège dà, nàge xiǎo: This one's big, that one's small.\n- 他和她都是大人了。 tā hé tā dōu shì dàrén le: He and she are both grown-ups now.\n- 上一个,下一个 shàng yí ge, xià yí ge: the previous one, the next one\n- 十八个人 shíbā ge rén: eighteen people\n\n## Common mistakes\n\n- **他 vs 她.** Both are read tā, so you only see the difference in writing. 他 has 亻 (person) on the left, and 她 has 女 (woman).\n- **了 vs 子.** 了 (le) has no line across the middle. 子 (zǐ, \"child\") has one.\n",
+  "cards": [
+    {
+      "Hanzi": "我们",
+      "Pinyin": "wǒmen",
+      "Meaning": "we, us",
+      "Example": "我们都在。 wǒmen dōu zài: We're all here.",
+      "Notes": "们 = 亻 person + 门 mén for the sound; it makes pronouns plural"
+    },
+    {
+      "Hanzi": "他们",
+      "Pinyin": "tāmen",
+      "Meaning": "they, them",
+      "Example": "他们不在。 tāmen bú zài: They're not here.",
+      "Notes": "他 has 亻 (person) on the left; compare 她 with 女 (woman)"
+    },
+    {
+      "Hanzi": "她",
+      "Pinyin": "tā",
+      "Meaning": "she, her",
+      "Example": "她也在。 tā yě zài: She's here too.",
+      "Notes": "女 woman + 也 yě; sounds exactly like 他"
+    },
+    {
+      "Hanzi": "这个",
+      "Pinyin": "zhège",
+      "Meaning": "this one",
+      "Example": "这个是我的。 zhège shì wǒ de: This one is mine.",
+      "Notes": "这 has the 辶 'walk' radical wrapping the bottom left"
+    },
+    {
+      "Hanzi": "那个",
+      "Pinyin": "nàge",
+      "Meaning": "that one",
+      "Example": "那个不是你的。 nàge bú shì nǐ de: That one isn't yours.",
+      "Notes": "那 (nà, that) vs 哪 (nǎ, which): 哪 adds 口 mouth for the question"
+    },
+    {
+      "Hanzi": "不是",
+      "Pinyin": "búshì",
+      "Meaning": "is not; no",
+      "Example": "他不是大人。 tā bú shì dàrén: He's not a grown-up.",
+      "Notes": "不 is read bú before a 4th tone, as in 不是 and 不在"
+    },
+    {
+      "Hanzi": "有人",
+      "Pinyin": "yǒurén",
+      "Meaning": "someone; there's somebody",
+      "Example": "有人在吗? yǒu rén zài ma: Is anyone there?",
+      "Notes": "有 vs 右 (yòu, right): same top, but 有 has 月 underneath"
+    },
+    {
+      "Hanzi": "大人",
+      "Pinyin": "dàrén",
+      "Meaning": "adult, grown-up",
+      "Example": "我们都是大人了。 wǒmen dōu shì dàrén le: We're all grown-ups now.",
+      "Notes": "大 is a person 人 with arms stretched wide"
+    },
+    {
+      "Hanzi": "上",
+      "Pinyin": "shàng",
+      "Meaning": "up, on, above; previous",
+      "Example": "上一个是我的。 shàng yí ge shì wǒ de: The previous one was mine.",
+      "Notes": "Mirror image of 下: the short stroke points up"
+    },
+    {
+      "Hanzi": "下",
+      "Pinyin": "xià",
+      "Meaning": "down, below; next",
+      "Example": "下一个是你。 xià yí ge shì nǐ: You're next.",
+      "Notes": "Mirror image of 上: the short stroke hangs down"
+    },
+    {
+      "Hanzi": "的",
+      "Pinyin": "de",
+      "Meaning": "'s, of (possessive)",
+      "Example": "这是我的。 zhè shì wǒ de: This is mine.",
+      "Notes": "白 + 勺 sháo; the most common character in Chinese"
+    },
+    {
+      "Hanzi": "了",
+      "Pinyin": "le",
+      "Meaning": "particle: something is done or has changed",
+      "Example": "他大了。 tā dà le: He's grown up.",
+      "Notes": "Lookalike: 子 (zǐ, child) has a line across the middle; 了 does not"
+    },
+    {
+      "Hanzi": "都",
+      "Pinyin": "dōu",
+      "Meaning": "all, both",
+      "Example": "他们都不在。 tāmen dōu bú zài: None of them are here.",
+      "Notes": "阝 on the right means 'city'; also read dū in 首都 (capital)"
+    },
+    {
+      "Hanzi": "就",
+      "Pinyin": "jiù",
+      "Meaning": "just, exactly; then",
+      "Example": "就是他! jiù shì tā: That's him!",
+      "Notes": "京 jīng (capital) + 尤 yóu"
+    },
+    {
+      "Hanzi": "和",
+      "Pinyin": "hé",
+      "Meaning": "and, with",
+      "Example": "他和她都在。 tā hé tā dōu zài: He and she are both here.",
+      "Notes": "禾 grain + 口 mouth; 和 only joins nouns, never two sentences"
+    },
+    {
+      "Hanzi": "一个人",
+      "Pinyin": "yí ge rén",
+      "Meaning": "one person; alone",
+      "Example": "就他一个人。 jiù tā yí ge rén: It's just him, alone.",
+      "Notes": "一 is read yí before 个; 个 is the all-purpose measure word"
+    },
+    {
+      "Hanzi": "十八",
+      "Pinyin": "shíbā",
+      "Meaning": "eighteen",
+      "Example": "他十八了。 tā shíbā le: He's eighteen now.",
+      "Notes": "Ten + eight; 十 vs 千 (qiān, thousand), which has an extra stroke on top"
+    },
+    {
+      "Hanzi": "他不在。",
+      "Pinyin": "tā bú zài",
+      "Meaning": "He's not here.",
+      "Example": "",
+      "Notes": "在 vs 有: same top, but 在 has 土 earth underneath"
+    },
+    {
+      "Hanzi": "这个大,那个小。",
+      "Pinyin": "zhège dà, nàge xiǎo",
+      "Meaning": "This one's big, that one's small.",
+      "Example": "",
+      "Notes": "小 vs 少 (shǎo, few): 少 has an extra slash at the bottom"
+    },
+    {
+      "Hanzi": "我们也都是大人。",
+      "Pinyin": "wǒmen yě dōu shì dàrén",
+      "Meaning": "We're all grown-ups too.",
+      "Example": "",
+      "Notes": "也 always comes before 都: 也都, never 都也"
+    }
+  ]
+}

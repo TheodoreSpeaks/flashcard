@@ -1,0 +1,127 @@
+{
+  "title": "Recent past -echi vs -lam",
+  "focus": "Present perfect (kheyechi / khechi, giyechi) vs simple past; when each is natural; khaoa hoyeche?",
+  "body": "# Recent past -echi vs -lam\n\nYou already know the simple past: **ami khelam** (I ate), **ami gelam** (I went). Bengali has a second past form, the **present perfect**. It ends in **-echi**: **ami kheyechi**, \"I have eaten.\" You've already used it without noticing: **amar khide peyeche** literally means \"hunger has got me.\"\n\n**When to use which:**\n- **-echi**: something has happened and still matters now. *I've eaten (so I'm full). He's gone (he isn't here). I've been to Paris (it's part of my experience).*\n- **-lam**: a finished event at a particular time, often with **kal** (yesterday), or when you're telling a story.\n\n| | eat (khaoa) | go (jaoa) | read (pora) |\n|---|---|---|---|\n| ami | kheyechi (*khechi*) | giyechi (*gechi*) | porechi |\n| tumi | kheyecho | giyecho (*gecho*) | porecho |\n| o | kheyeche | giyeche (*geche*) | poreche |\n| simple past (ami) | khelam | gelam | porlam |\n\nThe short forms in brackets (khechi, gechi) are very common in quick Kolkata speech.\n\n**Khaoa hoyeche?** literally means \"has eating happened?\" It's the everyday way to say \"Have you eaten?\", and Kolkata people use it almost as a greeting. **Hoyeche** on its own means \"it's done / it's ready.\"\n\n**Examples**\n- **khaoa hoyeche?** – Have you eaten?\n- **hya, kheyechi** – Yes, I've eaten.\n- **tumi kheyecho?** – Have you eaten?\n- **kukur-ta kheyeche?** – Has the dog eaten?\n- **o geche** – He/she has gone (isn't here now).\n- **ami Paris giyechi** – I've been to Paris.\n- **cha hoyeche** – The tea's ready.\n- **bujhechi!** – Got it! (lit. I've understood)\n- **ami ektu bangla shikhechi** – I've learned a little Bengali.\n- **ami kal bhat khelam** – I ate rice yesterday. (specific time → -lam)\n- **ami kal gelam** – I went yesterday.\n\n**Common mistakes**\n1. Mixing up **kheyechi** (I've eaten) with **khacchi** (I'm eating right now). The **-ye-** in kheyechi tells you it's already done.\n2. Putting **-echi** with **kal** for a single event. \"I ate yesterday\" is **kal khelam**, not *kal kheyechi*. Save -echi for \"it's done, and it matters now.\"\n",
+  "cards": [
+    {
+      "English": "Have you eaten? (everyday greeting)",
+      "Romanization": "khaoa hoyeche?",
+      "Bengali": "খাওয়া হয়েছে?",
+      "Notes": "khaoa = eating, hoyeche = has happened; lit. 'has eating happened?'"
+    },
+    {
+      "English": "Yes, I've eaten",
+      "Romanization": "hya, kheyechi",
+      "Bengali": "হ্যাঁ, খেয়েছি",
+      "Notes": "hya = yes; kheyechi = I have eaten (ami dropped); also said 'khechi'"
+    },
+    {
+      "English": "I have eaten (already)",
+      "Romanization": "ami kheyechi",
+      "Bengali": "আমি খেয়েছি",
+      "Notes": "present perfect: khe + -yechi; done and still relevant (I'm full)"
+    },
+    {
+      "English": "Have you eaten? (to a friend)",
+      "Romanization": "tumi kheyecho?",
+      "Bengali": "তুমি খেয়েছ?",
+      "Notes": "tumi takes -echo; a rising tone makes it a question"
+    },
+    {
+      "English": "He/she has eaten",
+      "Romanization": "o kheyeche",
+      "Bengali": "ও খেয়েছে",
+      "Notes": "o takes -eche: kheyechi / kheyecho / kheyeche"
+    },
+    {
+      "English": "I've been to Paris",
+      "Romanization": "ami Paris giyechi",
+      "Bengali": "আমি প্যারিস গিয়েছি",
+      "Notes": "giyechi = I have gone; perfect for life experience"
+    },
+    {
+      "English": "He/she has gone (isn't here now)",
+      "Romanization": "o geche",
+      "Bengali": "ও গেছে",
+      "Notes": "geche = short colloquial form of giyeche (has gone)"
+    },
+    {
+      "English": "I ate rice yesterday",
+      "Romanization": "ami kal bhat khelam",
+      "Bengali": "আমি কাল ভাত খেলাম",
+      "Notes": "kal = yesterday (new); a specific time takes simple past -lam, not -echi"
+    },
+    {
+      "English": "I went yesterday",
+      "Romanization": "ami kal gelam",
+      "Bengali": "আমি কাল গেলাম",
+      "Notes": "kal + simple past gelam; compare 'ami giyechi' = I have gone"
+    },
+    {
+      "English": "I've had tea (already)",
+      "Romanization": "ami cha kheyechi",
+      "Bengali": "আমি চা খেয়েছি",
+      "Notes": "Bengali 'eats' tea: cha khaoa = drink tea; kheyechi = have had"
+    },
+    {
+      "English": "The tea's ready",
+      "Romanization": "cha hoyeche",
+      "Bengali": "চা হয়েছে",
+      "Notes": "lit. 'tea has happened'; hoyeche = it's done / it's ready"
+    },
+    {
+      "English": "Has the dog eaten?",
+      "Romanization": "kukur-ta kheyeche?",
+      "Bengali": "কুকুরটা খেয়েছে?",
+      "Notes": "kukur-ta = the dog; kheyeche = has eaten (o-form)"
+    },
+    {
+      "English": "Ollie has fallen asleep",
+      "Romanization": "Ollie ghumiyeche",
+      "Bengali": "অলি ঘুমিয়েছে",
+      "Notes": "ghumono (to sleep) → ghumiyeche = has fallen asleep (and is still asleep)"
+    },
+    {
+      "English": "You've come! (greeting a friend)",
+      "Romanization": "tumi eshecho!",
+      "Bengali": "তুমি এসেছ!",
+      "Notes": "asha = to come (new); eshecho = you have come (you're here now)"
+    },
+    {
+      "English": "Got it! (I've understood)",
+      "Romanization": "bujhechi!",
+      "Bengali": "বুঝেছি!",
+      "Notes": "bojha = to understand (new); bujhechi = I have understood"
+    },
+    {
+      "English": "Did you get it? (to a friend)",
+      "Romanization": "bujhecho?",
+      "Bengali": "বুঝেছ?",
+      "Notes": "lit. 'have you understood?'; tumi-form -echo"
+    },
+    {
+      "English": "I've learned a little Bengali",
+      "Romanization": "ami ektu bangla shikhechi",
+      "Bengali": "আমি একটু বাংলা শিখেছি",
+      "Notes": "shekha → shikhechi = I have learned; ektu = a little"
+    },
+    {
+      "English": "I've read the book",
+      "Romanization": "ami boi-ta porechi",
+      "Bengali": "আমি বইটা পড়েছি",
+      "Notes": "pora → porechi = have read; simple past would be porlam"
+    },
+    {
+      "English": "The cat has eaten, but the dog is hungry",
+      "Romanization": "beral-ta kheyeche, kintu kukur-tar khide peyeche",
+      "Bengali": "বেড়ালটা খেয়েছে, কিন্তু কুকুরটার খিদে পেয়েছে",
+      "Notes": "both verbs are perfect: kheyeche = has eaten; khide peyeche = hunger has got (it)"
+    },
+    {
+      "English": "I've said it (already)",
+      "Romanization": "ami bolechi",
+      "Bengali": "আমি বলেছি",
+      "Notes": "bola → bolechi = I have said; simple past would be ami bollam"
+    }
+  ]
+}

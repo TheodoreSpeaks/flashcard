@@ -1,0 +1,26 @@
+{
+  "name": "zhvocab",
+  "fields": [
+    "English",
+    "Hanzi",
+    "Pinyin",
+    "Example",
+    "Notes"
+  ],
+  "front": [
+    "English"
+  ],
+  "back": [
+    "Hanzi",
+    "Pinyin",
+    "Example",
+    "Notes"
+  ],
+  "new_per_day": 20,
+  "guide": {
+    "instructions": "Mandarin production vocab, English -> Chinese. The learner is a heritage speaker: handles everyday family conversation fluently but lacks adult vocabulary (work, money, health, news, opinions, abstract ideas). They read very little, so pinyin matters as much as characters. Skip anything a kid raised speaking Mandarin at home would know (family, food, daily routine, basic feelings). Target words an educated adult uses in conversation: 处理, 影响, 合同, 保险, 症状, 观点, 效率. The card front is English and must pin down ONE Chinese answer: add a disambiguating hint in parentheses when English is vague, e.g. 'to handle / deal with (a problem, a task)'. Hanzi: simplified. Pinyin: tone marks, words joined. Example: one natural spoken sentence in simplified characters, then pinyin, then English, e.g. '这件事我来处理。 zhè jiàn shì wǒ lái chǔlǐ: I'll handle this'. Notes: one line on usage: near-synonyms and how they differ (处理 vs 解决), register (spoken vs written/formal), common collocations. Empty if nothing useful.",
+    "level": "heritage speaker, fluent at home-level conversation, building adult vocabulary"
+  },
+  "unlocked_through": 1,
+  "opened": []
+}

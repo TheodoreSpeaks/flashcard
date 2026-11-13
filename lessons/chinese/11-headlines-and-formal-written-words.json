@@ -1,0 +1,217 @@
+{
+  "title": "Headlines and formal written words",
+  "focus": "Words common in writing but rarer in speech: 进行 表示 发展 认为 通过 关于 根据 目前 增加 影响; reading simple news headlines.",
+  "body": "# Headlines and formal written words\n\nWritten Chinese, especially news, uses a different set of words for things you already say every day. You would say 他说, but a newspaper writes 他表示 or 他称. Most of these written words have a spoken word you already know. If you match each written word to its spoken one, a news headline gets much easier to read.\n\nHeadlines also cut words. They drop 了 and 的, and use single characters like 将, 已 and 未 where speech uses two (会/要, 已经, 还没).\n\n| Written | Pinyin | Spoken |\n|---|---|---|\n| 进行 | jìnxíng | 做, 搞 |\n| 表示 · 称 · 宣布 | biǎoshì · chēng · xuānbù | 说 |\n| 认为 | rènwéi | 觉得 |\n| 目前 | mùqián | 现在 |\n| 增加 · 减少 | zēngjiā · jiǎnshǎo | 多了 · 少了 |\n| 举行 | jǔxíng | 办, 开 |\n| 将 | jiāng | 会, 要 |\n| 于 | yú | 在 |\n| 已 · 未 | yǐ · wèi | 已经 · 还没 |\n| 均 | jūn | 都 |\n| 及 | jí | 和 |\n| 此 · 其 | cǐ · qí | 这 · 他的/它的 |\n\n## Examples\n\n- 双方进行了会谈。 shuāngfāng jìnxíngle huìtán: The two sides held talks.\n- 他表示同意。 tā biǎoshì tóngyì: He said he agreed.\n- 目前还没有消息。 mùqián hái méiyǒu xiāoxi: There's no news yet.\n- 根据天气预报,明天有雨。 gēnjù tiānqì yùbào, míngtiān yǒu yǔ: According to the forecast, it will rain tomorrow.\n- 大雨影响了交通。 dàyǔ yǐngxiǎngle jiāotōng: Heavy rain disrupted traffic.\n- 会议将在明天举行。 huìyì jiāng zài míngtiān jǔxíng: The meeting will be held tomorrow.\n- 结果未公布。 jiéguǒ wèi gōngbù: The results have not been announced.\n- 据报道,已有三人受伤。 jù bàodào, yǐ yǒu sān rén shòushāng: Three people are reported injured.\n- 北京明天将有大雨 Běijīng míngtiān jiāng yǒu dàyǔ: Heavy rain expected in Beijing tomorrow\n- 物价继续上涨 wùjià jìxù shàngzhǎng: Prices keep rising\n\n## Common mistakes\n\n- **未 vs 末.** 未 (wèi, not yet) has the longer line at the bottom. 末 (mò, end, as in 周末) has the longer line on top.\n- **于 vs 干, 已 vs 己.** 于 (yú) ends in a hook, and 干 (gàn) ends in a straight line. 已 (yǐ, already) is half closed, 己 (jǐ, self) is open, and 巳 (sì) is fully closed.\n",
+  "cards": [
+    {
+      "Hanzi": "进行",
+      "Pinyin": "jìnxíng",
+      "Meaning": "carry out, conduct",
+      "Example": "双方进行了会谈。 shuāngfāng jìnxíngle huìtán: The two sides held talks.",
+      "Notes": "Written counterpart of 做 / 搞; 行 is xíng here, not háng"
+    },
+    {
+      "Hanzi": "表示",
+      "Pinyin": "biǎoshì",
+      "Meaning": "state, express",
+      "Example": "他表示同意。 tā biǎoshì tóngyì: He said he agreed.",
+      "Notes": "Written counterpart of 说; 表 is the same as in 手表 (watch)"
+    },
+    {
+      "Hanzi": "发展",
+      "Pinyin": "fāzhǎn",
+      "Meaning": "develop; development",
+      "Example": "这个城市发展得很快。 zhège chéngshì fāzhǎn de hěn kuài: This city is developing fast.",
+      "Notes": "Written counterpart of 变大 / 变好 / 越来越好; 展 has 尸 on top"
+    },
+    {
+      "Hanzi": "认为",
+      "Pinyin": "rènwéi",
+      "Meaning": "believe, hold the view",
+      "Example": "专家认为问题不大。 zhuānjiā rènwéi wèntí bú dà: Experts think it's not a big problem.",
+      "Notes": "Written counterpart of 觉得; 为 is wéi here, wèi in 为什么"
+    },
+    {
+      "Hanzi": "通过",
+      "Pinyin": "tōngguò",
+      "Meaning": "pass (a vote); by means of",
+      "Example": "这个计划已经通过了。 zhège jìhuà yǐjīng tōngguò le: The plan has been approved.",
+      "Notes": "Written counterpart of 过了 (passed) or 用 / 靠 (by means of); both have 辶"
+    },
+    {
+      "Hanzi": "关于",
+      "Pinyin": "guānyú",
+      "Meaning": "about, concerning",
+      "Example": "关于这个问题,大家有什么意见? guānyú zhège wèntí, dàjiā yǒu shénme yìjiàn: What does everyone think about this?",
+      "Notes": "Speech says 说到… or …的事; 关 is the 关 in 关门"
+    },
+    {
+      "Hanzi": "根据",
+      "Pinyin": "gēnjù",
+      "Meaning": "according to; basis",
+      "Example": "根据天气预报,明天有雨。 gēnjù tiānqì yùbào, míngtiān yǒu yǔ: According to the forecast, it will rain tomorrow.",
+      "Notes": "Written counterpart of 按照 / 听…说; 根 = 木 + 艮 gèn, 据 = 扌 + 居 jū"
+    },
+    {
+      "Hanzi": "目前",
+      "Pinyin": "mùqián",
+      "Meaning": "at present, so far",
+      "Example": "目前还没有消息。 mùqián hái méiyǒu xiāoxi: There's no news yet.",
+      "Notes": "Written counterpart of 现在; 目 is 'eye', literally 'before the eyes'"
+    },
+    {
+      "Hanzi": "增加",
+      "Pinyin": "zēngjiā",
+      "Meaning": "increase",
+      "Example": "学生人数增加了。 xuésheng rénshù zēngjiā le: The number of students went up.",
+      "Notes": "Written counterpart of 多了 / 加; 增 = 土 + 曾 céng for the sound"
+    },
+    {
+      "Hanzi": "影响",
+      "Pinyin": "yǐngxiǎng",
+      "Meaning": "affect; influence",
+      "Example": "大雨影响了交通。 dàyǔ yǐngxiǎngle jiāotōng: Heavy rain disrupted traffic.",
+      "Notes": "Speech often says 搞得 / 弄得; 影 = 景 jǐng + 彡, 响 = 口 + 向 xiàng"
+    },
+    {
+      "Hanzi": "举行",
+      "Pinyin": "jǔxíng",
+      "Meaning": "hold (an event)",
+      "Example": "婚礼在上海举行。 hūnlǐ zài Shànghǎi jǔxíng: The wedding is being held in Shanghai.",
+      "Notes": "Written counterpart of 办 / 开; 举 is the 举 in 举手 (raise a hand)"
+    },
+    {
+      "Hanzi": "提高",
+      "Pinyin": "tígāo",
+      "Meaning": "raise, improve",
+      "Example": "公司提高了工资。 gōngsī tígāole gōngzī: The company raised salaries.",
+      "Notes": "Written counterpart of 加 / 变高; 提 = 扌 hand + 是 shì"
+    },
+    {
+      "Hanzi": "减少",
+      "Pinyin": "jiǎnshǎo",
+      "Meaning": "reduce, decrease",
+      "Example": "车祸减少了。 chēhuò jiǎnshǎo le: Car accidents have gone down.",
+      "Notes": "Written counterpart of 少了; 减 has 冫, while 喊 (hǎn, shout) has 口"
+    },
+    {
+      "Hanzi": "宣布",
+      "Pinyin": "xuānbù",
+      "Meaning": "announce",
+      "Example": "公司宣布明天放假。 gōngsī xuānbù míngtiān fàngjià: The company announced tomorrow is a day off.",
+      "Notes": "Written counterpart of 说 / 告诉大家; 宣 = 宀 roof + 亘"
+    },
+    {
+      "Hanzi": "继续",
+      "Pinyin": "jìxù",
+      "Meaning": "continue",
+      "Example": "大雨还会继续。 dàyǔ hái huì jìxù: The heavy rain will continue.",
+      "Notes": "Written counterpart of 接着 / 还在; 继 has 纟 silk, unlike 断 (duàn, break)"
+    },
+    {
+      "Hanzi": "将",
+      "Pinyin": "jiāng",
+      "Meaning": "will, be going to",
+      "Example": "会议将在明天举行。 huìyì jiāng zài míngtiān jǔxíng: The meeting will be held tomorrow.",
+      "Notes": "Written counterpart of 会 / 要; 丬 + 夕 + 寸"
+    },
+    {
+      "Hanzi": "于",
+      "Pinyin": "yú",
+      "Meaning": "at, in, on (formal)",
+      "Example": "他生于北京。 tā shēng yú Běijīng: He was born in Beijing.",
+      "Notes": "Written counterpart of 在; 于 ends in a hook, 干 (gàn) does not"
+    },
+    {
+      "Hanzi": "已",
+      "Pinyin": "yǐ",
+      "Meaning": "already (formal)",
+      "Example": "会议已结束。 huìyì yǐ jiéshù: The meeting has ended.",
+      "Notes": "Written counterpart of 已经; lookalikes 己 jǐ (open) / 已 yǐ (half closed) / 巳 sì (closed)"
+    },
+    {
+      "Hanzi": "均",
+      "Pinyin": "jūn",
+      "Meaning": "all, both (formal)",
+      "Example": "两人均已离开。 liǎng rén jūn yǐ líkāi: Both have left.",
+      "Notes": "Written counterpart of 都; 均 = 土 + 匀 yún"
+    },
+    {
+      "Hanzi": "未",
+      "Pinyin": "wèi",
+      "Meaning": "not yet, not (formal)",
+      "Example": "结果未公布。 jiéguǒ wèi gōngbù: The results have not been announced.",
+      "Notes": "Written counterpart of 没 / 还没; 未 has the long line at the bottom, 末 (mò) on top"
+    },
+    {
+      "Hanzi": "称",
+      "Pinyin": "chēng",
+      "Meaning": "say, state, claim",
+      "Example": "他称自己不知道。 tā chēng zìjǐ bù zhīdào: He says he didn't know.",
+      "Notes": "Written counterpart of 说; 称 = 禾 grain + 尔 ěr; 据称 = reportedly"
+    },
+    {
+      "Hanzi": "及",
+      "Pinyin": "jí",
+      "Meaning": "and (formal)",
+      "Example": "老师及学生 lǎoshī jí xuésheng: teachers and students",
+      "Notes": "Written counterpart of 和; lookalike 乃 (nǎi)"
+    },
+    {
+      "Hanzi": "其中",
+      "Pinyin": "qízhōng",
+      "Meaning": "among them, of which",
+      "Example": "其中一人受伤。 qízhōng yì rén shòushāng: One of them was injured.",
+      "Notes": "其 is written for 他的 / 它的 / 他们的; it is also the sound part in 期 qī and 旗 qí"
+    },
+    {
+      "Hanzi": "因此",
+      "Pinyin": "yīncǐ",
+      "Meaning": "therefore, so",
+      "Example": "因此会议推迟了。 yīncǐ huìyì tuīchí le: So the meeting was postponed.",
+      "Notes": "Written counterpart of 所以; 此 (= 这) is 止 + 匕"
+    },
+    {
+      "Hanzi": "据报道",
+      "Pinyin": "jù bàodào",
+      "Meaning": "according to reports",
+      "Example": "据报道,已有三人受伤。 jù bàodào, yǐ yǒu sān rén shòushāng: Three people are reported injured.",
+      "Notes": "Written counterpart of 听说 / 新闻说; 据 alone is short for 根据"
+    },
+    {
+      "Hanzi": "记者",
+      "Pinyin": "jìzhě",
+      "Meaning": "reporter, journalist",
+      "Example": "记者在现场。 jìzhě zài xiànchǎng: Reporters are at the scene.",
+      "Notes": "者 (person who) is also the left half of 都"
+    },
+    {
+      "Hanzi": "政府",
+      "Pinyin": "zhèngfǔ",
+      "Meaning": "government",
+      "Example": "政府表示会尽快解决。 zhèngfǔ biǎoshì huì jǐnkuài jiějué: The government says it will deal with it soon.",
+      "Notes": "政 = 正 zhèng for the sound + 攵; 府 = 广 + 付 fù"
+    },
+    {
+      "Hanzi": "北京明天将有大雨",
+      "Pinyin": "Běijīng míngtiān jiāng yǒu dàyǔ",
+      "Meaning": "Heavy rain expected in Beijing tomorrow",
+      "Example": "",
+      "Notes": "Headline style: 将 replaces 会, and there's no 。 at the end"
+    },
+    {
+      "Hanzi": "物价继续上涨",
+      "Pinyin": "wùjià jìxù shàngzhǎng",
+      "Meaning": "Prices keep rising",
+      "Example": "",
+      "Notes": "涨 is zhǎng (rise) here; 张 zhāng has 弓 instead of 氵"
+    },
+    {
+      "Hanzi": "两国领导人举行会谈",
+      "Pinyin": "liǎng guó lǐngdǎorén jǔxíng huìtán",
+      "Meaning": "Leaders of the two countries hold talks",
+      "Example": "",
+      "Notes": "两国 = 两个国家; headlines drop the measure word"
+    }
+  ]
+}

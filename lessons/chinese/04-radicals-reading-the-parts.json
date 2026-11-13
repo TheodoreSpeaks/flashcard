@@ -1,0 +1,217 @@
+{
+  "title": "Radicals: reading the parts",
+  "focus": "Common meaning radicals (氵 口 扌 亻 讠 艹 女 木 心/忄 钅) and sound components (马 妈 吗 骂; 青 清 请 晴) to guess unknown characters.",
+  "body": "# Radicals: reading the parts\n\nMost characters are built from two parts: a **radical** that hints at the meaning, and a **sound component** that hints at the pronunciation. You already know thousands of words by ear, so this is your best tool: when you see an unknown character, use the radical to guess the topic, use the sound part to guess the syllable, then pick the word you know that fits the sentence.\n\nFor example, 晴 = 日 (sun) + 青 (qīng). Something about the weather that sounds like qing: 晴天 qíngtiān, a sunny day.\n\n| Radical | Meaning | Seen in |\n|---|---|---|\n| 氵 | water | 汽 洗 澡 清 汤 |\n| 口 | mouth, sound | 吃 喝 叫 唱 吗 |\n| 扌 | hand | 抱 打 找 |\n| 亻 | person | 他 们 住 休 做 |\n| 讠 | speech | 说 话 请 记 |\n| 艹 | plant | 花 茶 菜 |\n| 女 | woman | 妈 姐 妹 奶 姓 |\n| 木 | tree, wood | 树 林 |\n| 心 忄 | heart, feelings, mind | 想 忘 快 怕 情 |\n| 钅 | metal, money | 钱 银 |\n\n| Sound part | Family |\n|---|---|\n| 马 mǎ | 妈 mā · 吗 ma · 骂 mà · 码 mǎ |\n| 青 qīng | 清 qīng · 请 qǐng · 晴 qíng · 情 qíng · 睛 jīng |\n| 包 bāo | 饱 bǎo · 抱 bào · 跑 pǎo |\n\nThe sound part usually gets you the syllable but not always the tone, and sometimes only a near rhyme (睛 jīng). That is close enough to jog your memory of the word.\n\n## Examples\n\n- 请喝水。 qǐng hē shuǐ: Please have some water.\n- 请你说清楚。 qǐng nǐ shuō qīngchu: Please say it clearly.\n- 今天是晴天。 jīntiān shì qíngtiān: It's sunny today.\n- 我吃饱了。 wǒ chībǎo le: I'm full.\n- 他跑了! tā pǎo le: He ran off!\n- 妈妈骂他了。 māma mà tā le: Mom told him off.\n- 快来! kuài lái: Come quick!\n- 我忘记他的号码了。 wǒ wàngjì tā de hàomǎ le: I forgot his number.\n- 爷爷每天都喝茶。 yéye měitiān dōu hē chá: Grandpa drinks tea every day.\n- 他在树下睡觉。 tā zài shù xià shuìjiào: He's sleeping under the tree.\n\n## Common mistakes\n\n- **Same sound part, different radical.** 情 (feeling, 忄), 晴 (sunny, 日), 请 (please, 讠) and 清 (clear, 氵) all sound like qing. Look at the left side to tell them apart.\n- **讠 vs 氵.** 讠 (speech) is one hooked stroke; 氵 (water) is three dots.\n",
+  "cards": [
+    {
+      "Hanzi": "马",
+      "Pinyin": "mǎ",
+      "Meaning": "horse",
+      "Example": "我喜欢马。 wǒ xǐhuan mǎ: I like horses.",
+      "Notes": "The sound part in 妈 mā, 吗 ma, 骂 mà, 码 mǎ"
+    },
+    {
+      "Hanzi": "骂",
+      "Pinyin": "mà",
+      "Meaning": "to scold, tell off",
+      "Example": "妈妈骂他了。 māma mà tā le: Mom told him off.",
+      "Notes": "Two 口 mouths over 马 mǎ for the sound"
+    },
+    {
+      "Hanzi": "号码",
+      "Pinyin": "hàomǎ",
+      "Meaning": "number (phone, etc.)",
+      "Example": "这是我的号码。 zhè shì wǒ de hàomǎ: This is my number.",
+      "Notes": "码 = 石 stone + 马 mǎ for the sound"
+    },
+    {
+      "Hanzi": "请",
+      "Pinyin": "qǐng",
+      "Meaning": "please; to invite, to treat",
+      "Example": "请喝水。 qǐng hē shuǐ: Please have some water.",
+      "Notes": "讠 speech + 青 qīng: polite words"
+    },
+    {
+      "Hanzi": "清楚",
+      "Pinyin": "qīngchu",
+      "Meaning": "clear",
+      "Example": "我听不清楚。 wǒ tīng bu qīngchu: I can't hear clearly.",
+      "Notes": "清 = 氵 water + 青 qīng: clear like water"
+    },
+    {
+      "Hanzi": "晴天",
+      "Pinyin": "qíngtiān",
+      "Meaning": "sunny day",
+      "Example": "今天是晴天。 jīntiān shì qíngtiān: It's sunny today.",
+      "Notes": "晴 = 日 sun + 青 qīng for the sound"
+    },
+    {
+      "Hanzi": "事情",
+      "Pinyin": "shìqing",
+      "Meaning": "matter, thing (to deal with)",
+      "Example": "这个事情我知道。 zhège shìqing wǒ zhīdào: I know about this.",
+      "Notes": "情 = 忄 heart + 青; 情 and 晴 differ only in the radical"
+    },
+    {
+      "Hanzi": "眼睛",
+      "Pinyin": "yǎnjing",
+      "Meaning": "eye",
+      "Example": "她的眼睛大大的。 tā de yǎnjing dàdà de: She has big eyes.",
+      "Notes": "Both have 目 eye: 眼 = 目 + 艮, 睛 = 目 + 青"
+    },
+    {
+      "Hanzi": "抱",
+      "Pinyin": "bào",
+      "Meaning": "to hug, hold in your arms",
+      "Example": "抱一下! bào yíxià: Give me a hug!",
+      "Notes": "扌 hand + 包 bāo for the sound"
+    },
+    {
+      "Hanzi": "饱",
+      "Pinyin": "bǎo",
+      "Meaning": "full (after eating)",
+      "Example": "我吃饱了。 wǒ chībǎo le: I'm full.",
+      "Notes": "饣 food + 包 bāo for the sound"
+    },
+    {
+      "Hanzi": "跑",
+      "Pinyin": "pǎo",
+      "Meaning": "to run",
+      "Example": "他跑了! tā pǎo le: He ran off!",
+      "Notes": "足 foot + 包 bāo, sound shifted to pǎo"
+    },
+    {
+      "Hanzi": "洗澡",
+      "Pinyin": "xǐzǎo",
+      "Meaning": "to take a bath or shower",
+      "Example": "弟弟在洗澡。 dìdi zài xǐzǎo: Little brother's in the shower.",
+      "Notes": "Both have 氵 water: 洗 = 氵 + 先 xiān, 澡 = 氵 + 喿 zào"
+    },
+    {
+      "Hanzi": "汽水",
+      "Pinyin": "qìshuǐ",
+      "Meaning": "soda, fizzy drink",
+      "Example": "我要喝汽水。 wǒ yào hē qìshuǐ: I want a soda.",
+      "Notes": "汽 = 氵 water + 气 qì (air, gas): steam, fizz"
+    },
+    {
+      "Hanzi": "叫",
+      "Pinyin": "jiào",
+      "Meaning": "to call; to be called",
+      "Example": "妈妈叫你。 māma jiào nǐ: Mom's calling you.",
+      "Notes": "口 mouth on the left: things you do with your voice"
+    },
+    {
+      "Hanzi": "唱歌",
+      "Pinyin": "chànggē",
+      "Meaning": "to sing",
+      "Example": "她喜欢唱歌。 tā xǐhuan chànggē: She likes singing.",
+      "Notes": "唱 = 口 + 昌 chāng; 歌 = 哥 gē + 欠 (open mouth)"
+    },
+    {
+      "Hanzi": "住",
+      "Pinyin": "zhù",
+      "Meaning": "to live (somewhere), to stay",
+      "Example": "我住在这儿。 wǒ zhù zài zhèr: I live here.",
+      "Notes": "亻 person + 主 zhǔ; 住 vs 往 (wǎng): 往 has the double-person 彳"
+    },
+    {
+      "Hanzi": "休息",
+      "Pinyin": "xiūxi",
+      "Meaning": "to rest",
+      "Example": "你休息一下。 nǐ xiūxi yíxià: Take a rest.",
+      "Notes": "休 = 亻 person leaning against 木 tree; 息 has 心 heart underneath"
+    },
+    {
+      "Hanzi": "说话",
+      "Pinyin": "shuōhuà",
+      "Meaning": "to talk, speak",
+      "Example": "他不说话。 tā bù shuōhuà: He won't talk.",
+      "Notes": "Both have 讠 speech; 话 = 讠 + 舌 tongue"
+    },
+    {
+      "Hanzi": "花",
+      "Pinyin": "huā",
+      "Meaning": "flower; to spend",
+      "Example": "这是妈妈买的花。 zhè shì māma mǎi de huā: These are flowers Mom bought.",
+      "Notes": "艹 plant + 化 huà for the sound"
+    },
+    {
+      "Hanzi": "茶",
+      "Pinyin": "chá",
+      "Meaning": "tea",
+      "Example": "爷爷每天都喝茶。 yéye měitiān dōu hē chá: Grandpa drinks tea every day.",
+      "Notes": "艹 leaves on top, 木 a bush at the bottom"
+    },
+    {
+      "Hanzi": "姓",
+      "Pinyin": "xìng",
+      "Meaning": "surname; to be surnamed",
+      "Example": "她姓马。 tā xìng mǎ: Her surname is Ma.",
+      "Notes": "女 + 生 shēng: old surnames came from the mother's line"
+    },
+    {
+      "Hanzi": "树",
+      "Pinyin": "shù",
+      "Meaning": "tree",
+      "Example": "他在树下睡觉。 tā zài shù xià shuìjiào: He's sleeping under the tree.",
+      "Notes": "木 tree + 对 duì"
+    },
+    {
+      "Hanzi": "快",
+      "Pinyin": "kuài",
+      "Meaning": "fast; quick!",
+      "Example": "快来! kuài lái: Come quick!",
+      "Notes": "忄 heart + 夬; the same right side gives the sound in 块 kuài and 筷 kuài"
+    },
+    {
+      "Hanzi": "怕",
+      "Pinyin": "pà",
+      "Meaning": "to be afraid",
+      "Example": "我不怕。 wǒ bú pà: I'm not scared.",
+      "Notes": "忄 heart + 白 bái, sound shifted to pà"
+    },
+    {
+      "Hanzi": "忘记",
+      "Pinyin": "wàngjì",
+      "Meaning": "to forget",
+      "Example": "我忘记了。 wǒ wàngjì le: I forgot.",
+      "Notes": "忘 = 亡 wáng over 心 heart; 记 = 讠 + 己 jǐ (己 vs 已 yǐ)"
+    },
+    {
+      "Hanzi": "钱",
+      "Pinyin": "qián",
+      "Meaning": "money",
+      "Example": "我有钱了! wǒ yǒu qián le: I've got money now!",
+      "Notes": "钅 metal (coins) + 戋 on the right"
+    },
+    {
+      "Hanzi": "银行",
+      "Pinyin": "yínháng",
+      "Meaning": "bank",
+      "Example": "我去银行。 wǒ qù yínháng: I'm going to the bank.",
+      "Notes": "银 = 钅 metal + 艮; 行 is háng here but xíng in 不行"
+    },
+    {
+      "Hanzi": "请你说清楚。",
+      "Pinyin": "qǐng nǐ shuō qīngchu",
+      "Meaning": "Please say it clearly.",
+      "Example": "",
+      "Notes": "请 and 清: same 青 sound part, 讠 speech vs 氵 water"
+    },
+    {
+      "Hanzi": "他怕妈妈骂他。",
+      "Pinyin": "tā pà māma mà tā",
+      "Meaning": "He's afraid Mom will scold him.",
+      "Example": "",
+      "Notes": "妈 and 骂 share 马 for the sound; 女 vs 口口 for meaning"
+    },
+    {
+      "Hanzi": "我忘记他的号码了。",
+      "Pinyin": "wǒ wàngjì tā de hàomǎ le",
+      "Meaning": "I forgot his number.",
+      "Example": "",
+      "Notes": "忘 has 心 underneath: forgetting happens in the mind"
+    }
+  ]
+}

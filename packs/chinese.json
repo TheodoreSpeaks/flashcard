@@ -1,0 +1,26 @@
+{
+  "name": "chinese",
+  "fields": [
+    "Hanzi",
+    "Pinyin",
+    "Meaning",
+    "Example",
+    "Notes"
+  ],
+  "front": [
+    "Hanzi"
+  ],
+  "back": [
+    "Pinyin",
+    "Meaning",
+    "Example",
+    "Notes"
+  ],
+  "new_per_day": 10,
+  "guide": {
+    "instructions": "Mandarin Chinese, simplified characters. The learner is a heritage speaker: conversational, understands everyday spoken Mandarin well, but can barely read (a few hundred characters at most). Goals: read simplified characters and grow vocabulary. The card front is ONLY the characters: the learner reads it aloud and recalls the meaning, so the challenge is recognition, not meaning. Prefer words they almost certainly already know by ear; introduce genuinely new vocabulary gradually as the curriculum advances. Mix: mostly common 2-character words, some high-frequency single characters, and short sentences (12 characters or fewer) built from characters already in the pack. Pinyin: tone marks, words joined (péngyou, not péng you). Meaning: short English gloss. Example: one short sentence in simplified characters, then pinyin, then English, e.g. '我想喝水。 wǒ xiǎng hē shuǐ: I want some water'. Leave Example empty when the card is itself a sentence. Notes: one line of reading help: the radical / sound component (妈 = 女 woman + 马 mǎ for the sound), or a lookalike to watch out for (己 / 已 / 巳). Empty if there is nothing useful to say.",
+    "level": "heritage speaker, beginner reader"
+  },
+  "unlocked_through": 1,
+  "opened": []
+}

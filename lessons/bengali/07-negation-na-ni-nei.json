@@ -1,0 +1,133 @@
+{
+  "title": "Negation",
+  "focus": "na with present/future, ni for past (ami khaini), nei for 'there isn't / don't have', na for 'not' with adjectives.",
+  "body": "# Negation\n\nBengali has three little words for \"not\", and each tense picks one.\n\n**na** goes **after** the verb in the present, the future and the continuous: **ami cha khai na** (I don't drink tea), **ami jabo na** (I won't go), **ami khacchi na** (I'm not eating).\n\n**-ni** is for the past. Don't use the past forms (khelam, kheyechi) at all. Take the **present** form and stick **-ni** on the end: **ami khai** → **ami khaini** (I didn't eat / I haven't eaten). One form covers both \"didn't\" and \"haven't\".\n\n**nei** means \"there isn't\" or \"don't have\". It's the opposite of **ache** (there is / is at): **jol nei** (there's no water), **amar boi nei** (I don't have a book), **Ollie barite nei** (Ollie isn't home).\n\n**na** also negates adjectives and descriptions: **eta bhalo na** (this isn't good), **cha-ta gorom na** (the tea isn't hot).\n\n| | Positive | Negative |\n|---|---|---|\n| present | ami khai | ami khai **na** |\n| future | ami jabo | ami jabo **na** |\n| continuous | ami khacchi | ami khacchi **na** |\n| past | ami khelam / kheyechi | ami **khaini** |\n| tumi past | tumi khele | tumi **khaoni** |\n| o past | o khelo | o **khayni** |\n| have / there is | amar boi ache | amar boi **nei** |\n| adjective | eta bhalo | eta bhalo **na** |\n\n## Examples\n\n- **ami aaj jabo na**: I won't go today\n- **ami khaini**: I didn't eat / I haven't eaten\n- **tumi khaoni?**: haven't you eaten?\n- **Ollie khayni**: Ollie hasn't eaten\n- **o asheni**: he/she hasn't come\n- **ami tomake bolini**: I didn't tell you\n- **tomake jete hobe na**: you don't have to go\n- **jol nei**: there's no water\n- **ekhane keu nei**: there's nobody here\n- **Ollie dushtu na, o lokkhi beral**: Ollie isn't naughty, he's a good cat\n\n## Common mistakes\n\n- ❌ **ami khelam na**. The past never takes na. Use the present form + ni: ✅ **ami khaini**.\n- ❌ **amar boi na**. For \"don't have\" and \"isn't there\", use ✅ **amar boi nei**.\n",
+  "cards": [
+    {
+      "English": "I don't drink tea (in general)",
+      "Romanization": "ami cha khai na",
+      "Bengali": "আমি চা খাই না",
+      "Notes": "ami cha khai (I drink tea) + na at the end"
+    },
+    {
+      "English": "The cat doesn't eat rice (in general)",
+      "Romanization": "beral-ta bhat khay na",
+      "Bengali": "বেড়ালটা ভাত খায় না",
+      "Notes": "na comes after the verb khay"
+    },
+    {
+      "English": "I won't go today",
+      "Romanization": "ami aaj jabo na",
+      "Bengali": "আমি আজ যাবো না",
+      "Notes": "future jabo + na"
+    },
+    {
+      "English": "I'm not eating (right now)",
+      "Romanization": "ami ekhon khacchi na",
+      "Bengali": "আমি এখন খাচ্ছি না",
+      "Notes": "continuous khacchi + na"
+    },
+    {
+      "English": "I didn't eat / I haven't eaten",
+      "Romanization": "ami khaini",
+      "Bengali": "আমি খাইনি",
+      "Notes": "present khai + -ni; negates both khelam and kheyechi"
+    },
+    {
+      "English": "I didn't go / I haven't gone",
+      "Romanization": "ami jaini",
+      "Bengali": "আমি যাইনি",
+      "Notes": "present jai + -ni; never 'gelam na'"
+    },
+    {
+      "English": "Haven't you eaten?",
+      "Romanization": "tumi khaoni?",
+      "Bengali": "তুমি খাওনি?",
+      "Notes": "tumi khao + -ni"
+    },
+    {
+      "English": "Ollie hasn't eaten",
+      "Romanization": "Ollie khayni",
+      "Bengali": "অলি খায়নি",
+      "Notes": "o form khay + -ni"
+    },
+    {
+      "English": "I didn't see (it)",
+      "Romanization": "ami dekhini",
+      "Bengali": "আমি দেখিনি",
+      "Notes": "ami dekhi (I see) + -ni"
+    },
+    {
+      "English": "He/she hasn't come",
+      "Romanization": "o asheni",
+      "Bengali": "ও আসেনি",
+      "Notes": "o ashe (he/she comes) + -ni"
+    },
+    {
+      "English": "I didn't tell you",
+      "Romanization": "ami tomake bolini",
+      "Bengali": "আমি তোমাকে বলিনি",
+      "Notes": "tomake = (to) you; ami boli + -ni"
+    },
+    {
+      "English": "You don't have to go",
+      "Romanization": "tomake jete hobe na",
+      "Bengali": "তোমাকে যেতে হবে না",
+      "Notes": "tomake jete hobe (you have to go) + na"
+    },
+    {
+      "English": "There's no water",
+      "Romanization": "jol nei",
+      "Bengali": "জল নেই",
+      "Notes": "nei = there isn't; opposite of ache"
+    },
+    {
+      "English": "I don't have a book",
+      "Romanization": "amar boi nei",
+      "Bengali": "আমার বই নেই",
+      "Notes": "lit. 'my book there-isn't'; amar ... nei = I don't have"
+    },
+    {
+      "English": "Ollie isn't home",
+      "Romanization": "Ollie barite nei",
+      "Bengali": "অলি বাড়িতে নেই",
+      "Notes": "barite = at home; nei = isn't (somewhere)"
+    },
+    {
+      "English": "There's nobody here",
+      "Romanization": "ekhane keu nei",
+      "Bengali": "এখানে কেউ নেই",
+      "Notes": "ekhane (here) + keu (anyone) + nei"
+    },
+    {
+      "English": "The tea isn't hot",
+      "Romanization": "cha-ta gorom na",
+      "Bengali": "চা-টা গরম না",
+      "Notes": "adjective + na; no verb needed"
+    },
+    {
+      "English": "This isn't good",
+      "Romanization": "eta bhalo na",
+      "Bengali": "এটা ভালো না",
+      "Notes": "eta (this) + bhalo (good) + na"
+    },
+    {
+      "English": "Not now",
+      "Romanization": "ekhon na",
+      "Bengali": "এখন না",
+      "Notes": "ekhon (now) + na; a handy short reply"
+    },
+    {
+      "English": "I don't understand (right now)",
+      "Romanization": "bujhte parchi na",
+      "Bengali": "বুঝতে পারছি না",
+      "Notes": "lit. 'I am not able to understand'; ami is usually dropped"
+    },
+    {
+      "English": "Ollie isn't naughty, he's a good cat",
+      "Romanization": "Ollie dushtu na, o lokkhi beral",
+      "Bengali": "অলি দুষ্টু না, ও লক্ষ্মী বেড়াল",
+      "Notes": "dushtu na = not naughty; o = he/she"
+    }
+  ]
+}

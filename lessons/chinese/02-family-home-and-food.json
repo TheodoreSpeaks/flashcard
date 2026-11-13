@@ -1,0 +1,203 @@
+{
+  "title": "Family, home and food",
+  "focus": "Words they say daily: 妈妈 爸爸 家 吃饭 喝水 睡觉 朋友 名字 东西; reading short sentences about home.",
+  "body": "# Family, home and food\n\nYou say these words every day at home. Now you get to see them. The good news is that many family words are just one character said twice, so once you can read 妈 you can read 妈妈.\n\nThe left side of a character is often a clue to its meaning. Most words for women in the family have 女 (woman), and food words often have 饣 (food) or 口 (mouth).\n\n| Word | Pinyin | Clue in the character |\n|---|---|---|\n| 妈妈 爸爸 | māma bàba | 妈 = 女 + 马 mǎ; 爸 = 父 father + 巴 bā |\n| 哥哥 弟弟 | gēge dìdi | 哥 is 可 stacked twice |\n| 姐姐 妹妹 奶奶 | jiějie mèimei nǎinai | all have 女 woman on the left |\n| 爷爷 | yéye | 父 father on top |\n| 儿子 女儿 孩子 | érzi nǚ'ér háizi | 子 child |\n| 家 回家 房间 | jiā huíjiā fángjiān | 家 = 宀 roof over a pig |\n| 吃饭 喝水 做饭 | chīfàn hē shuǐ zuòfàn | 吃 喝 have 口 mouth; 饭 has 饣 food |\n| 睡觉 | shuìjiào | 睡 has 目 eye |\n| 朋友 名字 东西 | péngyou míngzi dōngxi | second syllable is toneless |\n\nIn doubled words (妈妈, 哥哥, 奶奶) the second character is always read toneless.\n\n## Examples\n\n- 妈妈在家。 māma zài jiā: Mom's at home.\n- 你吃饭了吗? nǐ chīfàn le ma: Have you eaten?\n- 我回家了。 wǒ huíjiā le: I'm home.\n- 爸爸在做饭。 bàba zài zuòfàn: Dad's cooking.\n- 弟弟睡觉了。 dìdi shuìjiào le: Little brother's asleep.\n- 我有一个哥哥和一个妹妹。 wǒ yǒu yí ge gēge hé yí ge mèimei: I have an older brother and a younger sister.\n- 爷爷和奶奶都在家。 yéye hé nǎinai dōu zài jiā: Grandpa and Grandma are both home.\n- 这是我的朋友。 zhè shì wǒ de péngyou: This is my friend.\n- 这是我儿子,那是我女儿。 zhè shì wǒ érzi, nà shì wǒ nǚ'ér: This is my son, that's my daughter.\n- 他在房间睡觉。 tā zài fángjiān shuìjiào: He's sleeping in his room.\n\n## Common mistakes\n\n- **妹 vs 末.** 妹 has 未 (wèi) on the right, whose top stroke is shorter. In 末 (mò, end) the top stroke is longer.\n- **儿 vs 几.** 儿 (ér) is two open legs. 几 (jǐ, how many) has a lid on top.\n- **友 vs 反.** Both end in 又. 反 (fǎn, the sound part of 饭) has a 厂 cliff on top; 友 has a cross.\n",
+  "cards": [
+    {
+      "Hanzi": "妈妈",
+      "Pinyin": "māma",
+      "Meaning": "mom",
+      "Example": "妈妈在家。 māma zài jiā: Mom's at home.",
+      "Notes": "妈 = 女 woman + 马 mǎ for the sound"
+    },
+    {
+      "Hanzi": "爸爸",
+      "Pinyin": "bàba",
+      "Meaning": "dad",
+      "Example": "我爸爸也在。 wǒ bàba yě zài: My dad's here too.",
+      "Notes": "爸 = 父 father + 巴 bā for the sound"
+    },
+    {
+      "Hanzi": "家",
+      "Pinyin": "jiā",
+      "Meaning": "home, family",
+      "Example": "我不在家。 wǒ bú zài jiā: I'm not home.",
+      "Notes": "宀 roof over 豕 (pig): a pig under a roof"
+    },
+    {
+      "Hanzi": "吃饭",
+      "Pinyin": "chīfàn",
+      "Meaning": "to eat (a meal)",
+      "Example": "吃饭了! chīfàn le: Time to eat!",
+      "Notes": "吃 has 口 mouth; 饭 = 饣 food + 反 fǎn for the sound"
+    },
+    {
+      "Hanzi": "喝水",
+      "Pinyin": "hē shuǐ",
+      "Meaning": "to drink water",
+      "Example": "你喝水吗? nǐ hē shuǐ ma: Want some water?",
+      "Notes": "喝 = 口 mouth + 曷 hé; 水 vs 永 (yǒng, forever), which has a dot on top"
+    },
+    {
+      "Hanzi": "睡觉",
+      "Pinyin": "shuìjiào",
+      "Meaning": "to sleep, go to bed",
+      "Example": "他睡觉了。 tā shuìjiào le: He's gone to bed.",
+      "Notes": "睡 = 目 eye + 垂 chuí; 觉 is jiào here but jué in 觉得"
+    },
+    {
+      "Hanzi": "朋友",
+      "Pinyin": "péngyou",
+      "Meaning": "friend",
+      "Example": "他是我的朋友。 tā shì wǒ de péngyou: He's my friend.",
+      "Notes": "朋 is two 月 side by side; 友 vs 反: 反 has a 厂 cliff on top"
+    },
+    {
+      "Hanzi": "名字",
+      "Pinyin": "míngzi",
+      "Meaning": "name",
+      "Example": "这是我的名字。 zhè shì wǒ de míngzi: This is my name.",
+      "Notes": "名 = 夕 evening + 口; 字 = 宀 roof + 子 zǐ"
+    },
+    {
+      "Hanzi": "东西",
+      "Pinyin": "dōngxi",
+      "Meaning": "thing, stuff",
+      "Example": "这是我的东西。 zhè shì wǒ de dōngxi: That's my stuff.",
+      "Notes": "Literally east + west; read dōngxī it means 'east and west'"
+    },
+    {
+      "Hanzi": "哥哥",
+      "Pinyin": "gēge",
+      "Meaning": "older brother",
+      "Example": "我有一个哥哥。 wǒ yǒu yí ge gēge: I have an older brother.",
+      "Notes": "哥 is 可 kě stacked twice"
+    },
+    {
+      "Hanzi": "姐姐",
+      "Pinyin": "jiějie",
+      "Meaning": "older sister",
+      "Example": "我姐姐不在家。 wǒ jiějie bú zài jiā: My older sister isn't home.",
+      "Notes": "姐 = 女 woman + 且 qiě for the sound"
+    },
+    {
+      "Hanzi": "弟弟",
+      "Pinyin": "dìdi",
+      "Meaning": "younger brother",
+      "Example": "弟弟睡觉了。 dìdi shuìjiào le: Little brother's asleep.",
+      "Notes": "弟 vs 第 (dì, used for 'number ...'): 第 has 竹 bamboo on top"
+    },
+    {
+      "Hanzi": "妹妹",
+      "Pinyin": "mèimei",
+      "Meaning": "younger sister",
+      "Example": "她是我妹妹。 tā shì wǒ mèimei: She's my little sister.",
+      "Notes": "妹 = 女 + 未 wèi; 未 vs 末 (mò): in 末 the top stroke is longer"
+    },
+    {
+      "Hanzi": "爷爷",
+      "Pinyin": "yéye",
+      "Meaning": "grandpa (dad's father)",
+      "Example": "爷爷和奶奶都在家。 yéye hé nǎinai dōu zài jiā: Grandpa and Grandma are both home.",
+      "Notes": "父 father on top, like 爸"
+    },
+    {
+      "Hanzi": "奶奶",
+      "Pinyin": "nǎinai",
+      "Meaning": "grandma (dad's mother)",
+      "Example": "奶奶做饭了。 nǎinai zuòfàn le: Grandma's made food.",
+      "Notes": "奶 = 女 woman + 乃 nǎi, which gives the exact sound"
+    },
+    {
+      "Hanzi": "孩子",
+      "Pinyin": "háizi",
+      "Meaning": "child, kid",
+      "Example": "他们有三个孩子。 tāmen yǒu sān ge háizi: They have three kids.",
+      "Notes": "孩 = 子 child + 亥 hài for the sound"
+    },
+    {
+      "Hanzi": "儿子",
+      "Pinyin": "érzi",
+      "Meaning": "son",
+      "Example": "这是我儿子。 zhè shì wǒ érzi: This is my son.",
+      "Notes": "儿 vs 几 (jǐ, how many): 几 has a lid on top"
+    },
+    {
+      "Hanzi": "女儿",
+      "Pinyin": "nǚ'ér",
+      "Meaning": "daughter",
+      "Example": "她女儿十八了。 tā nǚ'ér shíbā le: Her daughter is eighteen now.",
+      "Notes": "女 is the radical in 妈 她 姐 妹 奶"
+    },
+    {
+      "Hanzi": "回家",
+      "Pinyin": "huíjiā",
+      "Meaning": "to go home",
+      "Example": "我回家了。 wǒ huíjiā le: I'm home. / I'm heading home.",
+      "Notes": "回 is a small box inside a big one"
+    },
+    {
+      "Hanzi": "房间",
+      "Pinyin": "fángjiān",
+      "Meaning": "room",
+      "Example": "他在房间睡觉。 tā zài fángjiān shuìjiào: He's sleeping in his room.",
+      "Notes": "房 = 户 door + 方 fāng; 间 = 门 gate + 日 sun"
+    },
+    {
+      "Hanzi": "米饭",
+      "Pinyin": "mǐfàn",
+      "Meaning": "cooked rice",
+      "Example": "我吃米饭。 wǒ chī mǐfàn: I'll have rice.",
+      "Notes": "米 looks like rice grains around a cross; 米 vs 来 (lái), which has an extra stroke on top"
+    },
+    {
+      "Hanzi": "菜",
+      "Pinyin": "cài",
+      "Meaning": "dish; vegetables",
+      "Example": "这个菜是我妈妈做的。 zhège cài shì wǒ māma zuò de: My mom made this dish.",
+      "Notes": "艹 plant on top + 采 cǎi for the sound"
+    },
+    {
+      "Hanzi": "做饭",
+      "Pinyin": "zuòfàn",
+      "Meaning": "to cook",
+      "Example": "爸爸在做饭。 bàba zài zuòfàn: Dad's cooking.",
+      "Notes": "做 = 亻 person + 故 gù; 做 and 作 are both zuò, but cooking is always 做"
+    },
+    {
+      "Hanzi": "你吃饭了吗?",
+      "Pinyin": "nǐ chīfàn le ma",
+      "Meaning": "Have you eaten?",
+      "Example": "",
+      "Notes": "吗 = 口 mouth + 马 mǎ: the question particle borrows 马's sound"
+    },
+    {
+      "Hanzi": "我家有五个人。",
+      "Pinyin": "wǒ jiā yǒu wǔ ge rén",
+      "Meaning": "There are five people in my family.",
+      "Example": "",
+      "Notes": "我家 = my family / my home; no 的 needed"
+    },
+    {
+      "Hanzi": "爸爸和妈妈都在家。",
+      "Pinyin": "bàba hé māma dōu zài jiā",
+      "Meaning": "Mom and Dad are both home.",
+      "Example": "",
+      "Notes": "爸 and 妈 both take their sound from the right side: 巴 bā, 马 mǎ"
+    },
+    {
+      "Hanzi": "他是我哥哥的朋友。",
+      "Pinyin": "tā shì wǒ gēge de péngyou",
+      "Meaning": "He's my older brother's friend.",
+      "Example": "",
+      "Notes": "Read 的 as 's: 我哥哥的 = my brother's"
+    },
+    {
+      "Hanzi": "孩子睡觉了。",
+      "Pinyin": "háizi shuìjiào le",
+      "Meaning": "The kids have gone to bed.",
+      "Example": "",
+      "Notes": "孩 vs 该 (gāi, should): same 亥 right side, 子 vs 讠"
+    }
+  ]
+}

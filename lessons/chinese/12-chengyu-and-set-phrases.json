@@ -1,0 +1,217 @@
+{
+  "title": "Chengyu and set phrases",
+  "focus": "Common four-character idioms heard in speech, now read: 一路平安 马马虎虎 乱七八糟 一模一样 半途而废 入乡随俗.",
+  "body": "# Chengyu and set phrases\n\nYou have heard these phrases all your life: from parents, at New Year, in TV dramas. Most are 成语 (chéngyǔ), fixed four-character idioms. Because the wording never changes, they are easy to recognise once you know the characters.\n\nReading them also shows you what the parts mean. 一模一样 is literally \"one mould, one look\". Many chengyu keep old grammar: 而 means \"and / yet\", 其 means \"its\", and 莫 means \"no one\".\n\nMost chengyu follow a few patterns:\n\n| Pattern | Examples | How it works |\n|---|---|---|\n| 一X一Y | 一模一样, 一心一意 | one … one …: total, complete |\n| Number pairs | 乱七八糟, 七上八下, 三心二意, 千方百计 | numbers mean \"lots\", \"messy\" or \"all over\" |\n| AABB | 马马虎虎 | a doubled word, written out in full |\n| 自X自Y | 自言自语, 自作自受 | self … self … |\n| Wishes | 一路平安, 万事如意, 心想事成 | said to someone, often at New Year |\n| Story idioms | 画蛇添足, 对牛弹琴 | short for a well-known fable |\n\n## Examples\n\n- 祝你一路平安! zhù nǐ yílù píng'ān: Have a safe trip!\n- 我的中文马马虎虎。 wǒ de Zhōngwén mǎma-hūhū: My Chinese is so-so.\n- 房间乱七八糟的。 fángjiān luànqībāzāo de: The room is a total mess.\n- 他和他爸长得一模一样。 tā hé tā bà zhǎng de yìmú-yíyàng: He looks exactly like his dad.\n- 做事不能半途而废。 zuòshì bù néng bàntú-érfèi: You can't give up halfway.\n- 入乡随俗嘛。 rùxiāng-suísú ma: When in Rome.\n- 别胡说八道! bié húshuō-bādào: Stop talking nonsense!\n- 不知不觉,已经十二点了。 bùzhī-bùjué, yǐjīng shí'èr diǎn le: Before we knew it, it was midnight.\n- 周末公园里人山人海。 zhōumò gōngyuán li rénshān-rénhǎi: The park is packed at weekends.\n- 好,一言为定! hǎo, yìyán-wéidìng: OK, it's a deal!\n\n## Common mistakes\n\n- **Readings that change.** 模 is mú in 一模一样 (a mould), not mó as in 模特. 为 is wéi in 一言为定, not wèi. 干 is gān (dry) in 一干二净, not gàn.\n- **入 vs 人.** 入 (rù, enter) in 入乡随俗 has the long stroke going right. In 人 (rén) it goes left.\n",
+  "cards": [
+    {
+      "Hanzi": "一路平安",
+      "Pinyin": "yílù píng'ān",
+      "Meaning": "have a safe trip",
+      "Example": "祝你一路平安! zhù nǐ yílù píng'ān: Have a safe trip!",
+      "Notes": "Literally one-road-flat-safe: the whole road, smooth and safe"
+    },
+    {
+      "Hanzi": "一路顺风",
+      "Pinyin": "yílù shùnfēng",
+      "Meaning": "bon voyage",
+      "Example": "明天就走?一路顺风! míngtiān jiù zǒu? yílù shùnfēng: Leaving tomorrow? Safe travels!",
+      "Notes": "Literally one-road-following-wind: a tailwind the whole way; 顺 = 川 + 页"
+    },
+    {
+      "Hanzi": "马马虎虎",
+      "Pinyin": "mǎma-hūhū",
+      "Meaning": "so-so; careless",
+      "Example": "我的中文马马虎虎。 wǒ de Zhōngwén mǎma-hūhū: My Chinese is so-so.",
+      "Notes": "Literally horse-horse-tiger-tiger; 虎 has the 虍 'tiger' top"
+    },
+    {
+      "Hanzi": "乱七八糟",
+      "Pinyin": "luànqībāzāo",
+      "Meaning": "a total mess",
+      "Example": "房间乱七八糟的。 fángjiān luànqībāzāo de: The room is a total mess.",
+      "Notes": "Literally chaotic-seven-eight-messy; 糟 = 米 rice + 曹 cáo for the sound"
+    },
+    {
+      "Hanzi": "一模一样",
+      "Pinyin": "yìmú-yíyàng",
+      "Meaning": "exactly alike",
+      "Example": "他和他爸长得一模一样。 tā hé tā bà zhǎng de yìmú-yíyàng: He looks exactly like his dad.",
+      "Notes": "Literally one-mould-one-look; 模 is mú here, not mó as in 模特"
+    },
+    {
+      "Hanzi": "半途而废",
+      "Pinyin": "bàntú-érfèi",
+      "Meaning": "give up halfway",
+      "Example": "做事不能半途而废。 zuòshì bù néng bàntú-érfèi: You can't give up halfway.",
+      "Notes": "Literally half-road-and-abandon; 而 is the old written 'and'"
+    },
+    {
+      "Hanzi": "入乡随俗",
+      "Pinyin": "rùxiāng-suísú",
+      "Meaning": "when in Rome, do as the Romans do",
+      "Example": "到了国外,入乡随俗吧。 dàole guówài, rùxiāng-suísú ba: You're abroad now, so follow local ways.",
+      "Notes": "Literally enter-village-follow-custom; 入 (rù) leans right, 人 (rén) leans left"
+    },
+    {
+      "Hanzi": "一心一意",
+      "Pinyin": "yìxīn-yíyì",
+      "Meaning": "wholeheartedly",
+      "Example": "他一心一意想学好中文。 tā yìxīn-yíyì xiǎng xuéhǎo Zhōngwén: He's set on learning Chinese well.",
+      "Notes": "Literally one-heart-one-mind; 意 is the 意 in 意思"
+    },
+    {
+      "Hanzi": "三心二意",
+      "Pinyin": "sānxīn-èryì",
+      "Meaning": "half-hearted, can't decide",
+      "Example": "做事别三心二意。 zuòshì bié sānxīn-èryì: Don't do things half-heartedly.",
+      "Notes": "Literally three-hearts-two-minds: the opposite of 一心一意"
+    },
+    {
+      "Hanzi": "自言自语",
+      "Pinyin": "zìyán-zìyǔ",
+      "Meaning": "talk to oneself",
+      "Example": "他一个人在自言自语。 tā yí ge rén zài zìyán-zìyǔ: He's talking to himself.",
+      "Notes": "Literally self-speak-self-talk; 言 is the full form of the 讠 radical"
+    },
+    {
+      "Hanzi": "莫名其妙",
+      "Pinyin": "mòmíng-qímiào",
+      "Meaning": "baffling, for no reason",
+      "Example": "他莫名其妙地生气了。 tā mòmíng-qímiào de shēngqì le: He got angry for no reason.",
+      "Notes": "Literally none-can-name-its-subtlety; 莫 = 'no one', 其 = 'its'"
+    },
+    {
+      "Hanzi": "不知不觉",
+      "Pinyin": "bùzhī-bùjué",
+      "Meaning": "without realising",
+      "Example": "不知不觉,已经十二点了。 bùzhī-bùjué, yǐjīng shí'èr diǎn le: Before we knew it, it was midnight.",
+      "Notes": "Literally not-know-not-feel; 觉 is jué here, jiào in 睡觉"
+    },
+    {
+      "Hanzi": "胡说八道",
+      "Pinyin": "húshuō-bādào",
+      "Meaning": "talk nonsense",
+      "Example": "别胡说八道! bié húshuō-bādào: Stop talking nonsense!",
+      "Notes": "Literally wild-talk-eight-say; 胡 = 古 gǔ + 月"
+    },
+    {
+      "Hanzi": "七上八下",
+      "Pinyin": "qīshàng-bāxià",
+      "Meaning": "nervous, on edge",
+      "Example": "我心里七上八下的。 wǒ xīnli qīshàng-bāxià de: I'm really on edge.",
+      "Notes": "Literally seven-up-eight-down: a heart bouncing up and down"
+    },
+    {
+      "Hanzi": "人山人海",
+      "Pinyin": "rénshān-rénhǎi",
+      "Meaning": "huge crowds",
+      "Example": "周末公园里人山人海。 zhōumò gōngyuán li rénshān-rénhǎi: The park is packed at weekends.",
+      "Notes": "Literally people-mountain-people-sea"
+    },
+    {
+      "Hanzi": "东张西望",
+      "Pinyin": "dōngzhāng-xīwàng",
+      "Meaning": "look around everywhere",
+      "Example": "他在门口东张西望。 tā zài ménkǒu dōngzhāng-xīwàng: He's at the door, looking all around.",
+      "Notes": "Literally east-glance-west-gaze; 张 = 弓 + 长"
+    },
+    {
+      "Hanzi": "一举两得",
+      "Pinyin": "yìjǔ-liǎngdé",
+      "Meaning": "kill two birds with one stone",
+      "Example": "又能运动又能省钱,一举两得。 yòu néng yùndòng yòu néng shěng qián, yìjǔ-liǎngdé: Exercise and save money: two birds, one stone.",
+      "Notes": "Literally one-move-two-gains; 举 as in 举手"
+    },
+    {
+      "Hanzi": "千方百计",
+      "Pinyin": "qiānfāng-bǎijì",
+      "Meaning": "by every possible means",
+      "Example": "他千方百计想见她。 tā qiānfāng-bǎijì xiǎng jiàn tā: He tried everything to see her.",
+      "Notes": "Literally thousand-methods-hundred-plans; 千 has a slanted stroke on top of 十"
+    },
+    {
+      "Hanzi": "对牛弹琴",
+      "Pinyin": "duìniú-tánqín",
+      "Meaning": "talk to a brick wall",
+      "Example": "跟他说这个,就是对牛弹琴。 gēn tā shuō zhège, jiù shì duìniú-tánqín: Telling him this is pointless.",
+      "Notes": "Literally to-cow-play-zither; 弹 is tán here, dàn (bullet) in 子弹"
+    },
+    {
+      "Hanzi": "一言为定",
+      "Pinyin": "yìyán-wéidìng",
+      "Meaning": "it's a deal",
+      "Example": "好,一言为定! hǎo, yìyán-wéidìng: OK, it's a deal!",
+      "Notes": "Literally one-word-makes-settled; 为 is wéi here, not wèi"
+    },
+    {
+      "Hanzi": "自作自受",
+      "Pinyin": "zìzuò-zìshòu",
+      "Meaning": "you asked for it",
+      "Example": "这是他自作自受。 zhè shì tā zìzuò-zìshòu: He brought it on himself.",
+      "Notes": "Literally self-do-self-receive; 受 vs 爱 (ài): 爱 has 友 at the bottom"
+    },
+    {
+      "Hanzi": "一干二净",
+      "Pinyin": "yìgān-èrjìng",
+      "Meaning": "completely, every last bit",
+      "Example": "饭吃得一干二净。 fàn chī de yìgān-èrjìng: The food was eaten down to the last bite.",
+      "Notes": "Literally one-dry-two-clean; 干 is gān (dry) here, not gàn (do)"
+    },
+    {
+      "Hanzi": "万事如意",
+      "Pinyin": "wànshì-rúyì",
+      "Meaning": "may everything go your way",
+      "Example": "祝你新年万事如意! zhù nǐ xīnnián wànshì-rúyì: May everything go your way this year!",
+      "Notes": "Literally ten-thousand-matters-as-wished; 万 vs 方 (fāng): 方 has a dot on top"
+    },
+    {
+      "Hanzi": "恭喜发财",
+      "Pinyin": "gōngxǐ fācái",
+      "Meaning": "wishing you prosperity (New Year greeting)",
+      "Example": "过年好,恭喜发财! guònián hǎo, gōngxǐ fācái: Happy New Year, may you prosper!",
+      "Notes": "Literally respectfully-congratulate, get-rich; 财 = 贝 money + 才 cái"
+    },
+    {
+      "Hanzi": "心想事成",
+      "Pinyin": "xīnxiǎng-shìchéng",
+      "Meaning": "may your wishes come true",
+      "Example": "祝你心想事成! zhù nǐ xīnxiǎng-shìchéng: May all your wishes come true!",
+      "Notes": "Literally heart-thinks-thing-becomes"
+    },
+    {
+      "Hanzi": "画蛇添足",
+      "Pinyin": "huàshé-tiānzú",
+      "Meaning": "overdo it, spoil it by adding more",
+      "Example": "这句话是画蛇添足。 zhè jù huà shì huàshé-tiānzú: That sentence is unnecessary.",
+      "Notes": "Literally draw-snake-add-feet; 蛇 = 虫 + 它 tā"
+    },
+    {
+      "Hanzi": "不三不四",
+      "Pinyin": "bùsān-búsì",
+      "Meaning": "shady, disreputable",
+      "Example": "别跟不三不四的人来往。 bié gēn bùsān-búsì de rén láiwǎng: Don't hang out with shady people.",
+      "Notes": "Literally not-three-not-four; the second 不 is bú before 四"
+    },
+    {
+      "Hanzi": "好久不见!",
+      "Pinyin": "hǎojiǔ bújiàn",
+      "Meaning": "Long time no see!",
+      "Example": "",
+      "Notes": "Literally very-long-not-see; 久 vs 欠 (qiàn)"
+    },
+    {
+      "Hanzi": "说曹操,曹操到。",
+      "Pinyin": "shuō Cáo Cāo, Cáo Cāo dào",
+      "Meaning": "Speak of the devil.",
+      "Example": "",
+      "Notes": "Literally speak-of-Cao-Cao, Cao-Cao-arrives; 曹 is also the sound part of 糟"
+    },
+    {
+      "Hanzi": "车到山前必有路。",
+      "Pinyin": "chē dào shānqián bì yǒu lù",
+      "Meaning": "Things will work out somehow.",
+      "Example": "",
+      "Notes": "Literally cart-reaches-mountain-front, surely-has-road; 必 (= 一定) vs 心: 必 has a slash through it"
+    }
+  ]
+}

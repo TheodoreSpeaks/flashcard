@@ -1,0 +1,203 @@
+{
+  "title": "Signs and getting around",
+  "focus": "Public signs and places: 出口 入口 厕所 男 女 地铁 站 机场 医院 禁止 推 拉 小心 营业时间.",
+  "body": "# Signs and getting around\n\nYou know all of these words by ear. On a sign they are usually just two to four characters with no context, so you have to recognise them at a glance. Sign language is also a bit more formal than speech: 请勿 instead of 不要, 禁止 instead of 不能.\n\n| Sign | Pinyin | Where you see it |\n|---|---|---|\n| 出口 / 入口 | chūkǒu / rùkǒu | exit / entrance |\n| 厕所 / 洗手间 | cèsuǒ / xǐshǒujiān | toilet / restroom |\n| 男 / 女 | nán / nǚ | men's / women's doors |\n| 推 / 拉 | tuī / lā | push / pull, on doors |\n| 禁止 / 请勿 | jìnzhǐ / qǐng wù | forbidden / please don't |\n| 小心 | xiǎoxīn | caution, mind... |\n| 地铁 站 机场 医院 | dìtiě zhàn jīchǎng yīyuàn | subway, station, airport, hospital |\n| 营业时间 | yíngyè shíjiān | opening hours |\n\n## Examples\n\n- 出口在那边。 chūkǒu zài nàbiān: The exit is over there.\n- 厕所在哪儿? cèsuǒ zài nǎr: Where's the toilet?\n- 禁止吸烟 jìnzhǐ xīyān: No smoking.\n- 禁止停车 jìnzhǐ tíngchē: No parking.\n- 小心台阶 xiǎoxīn táijiē: Mind the step.\n- 小心地滑 xiǎoxīn dì huá: Caution, wet floor.\n- 请排队 qǐng páiduì: Please queue.\n- 下一站是机场。 xià yí zhàn shì jīchǎng: The next stop is the airport.\n- 在这站换乘二号线。 zài zhè zhàn huànchéng èr hào xiàn: Change here for Line 2.\n- 营业时间:早九点到晚十点 yíngyè shíjiān: zǎo jiǔ diǎn dào wǎn shí diǎn: Open 9am to 10pm.\n- 电梯坏了,走楼梯吧。 diàntī huài le, zǒu lóutī ba: The elevator's broken, take the stairs.\n- 非工作人员禁止入内 fēi gōngzuò rényuán jìnzhǐ rùnèi: Staff only.\n\n## Common mistakes\n\n- **入 vs 人.** 入 (rù, enter) has the right-hand stroke on top; 人 (rén, person) has the left-hand stroke on top. 入口 is the entrance.\n- **推 vs 拉.** Both have 扌 (hand) on the left, so look at the right side: 推 has 隹, 拉 has 立.\n- **地 in 小心地滑** is dì (floor), not the particle de: \"careful, the floor is slippery\".\n",
+  "cards": [
+    {
+      "Hanzi": "出口",
+      "Pinyin": "chūkǒu",
+      "Meaning": "exit",
+      "Example": "出口在那边。 chūkǒu zài nàbiān: The exit is over there.",
+      "Notes": "出 looks like two 山 stacked; 口 here means an opening"
+    },
+    {
+      "Hanzi": "入口",
+      "Pinyin": "rùkǒu",
+      "Meaning": "entrance",
+      "Example": "入口在前面。 rùkǒu zài qiánmiàn: The entrance is up ahead.",
+      "Notes": "入 vs 人: in 入 the right-hand stroke is on top"
+    },
+    {
+      "Hanzi": "厕所",
+      "Pinyin": "cèsuǒ",
+      "Meaning": "toilet",
+      "Example": "厕所在哪儿? cèsuǒ zài nǎr: Where's the toilet?",
+      "Notes": "厕 = 厂 + 则 zé; 所 is the same one as in 所以"
+    },
+    {
+      "Hanzi": "洗手间",
+      "Pinyin": "xǐshǒujiān",
+      "Meaning": "restroom",
+      "Example": "洗手间在二楼。 xǐshǒujiān zài èr lóu: The restroom is on the second floor.",
+      "Notes": "洗 = 氵 water + 先 xiān; 间 = 门 door + 日"
+    },
+    {
+      "Hanzi": "男厕",
+      "Pinyin": "náncè",
+      "Meaning": "men's toilet",
+      "Example": "男厕在左边。 náncè zài zuǒbiān: The men's is on the left.",
+      "Notes": "男 = 田 field + 力 strength; doors often say just 男"
+    },
+    {
+      "Hanzi": "女厕",
+      "Pinyin": "nǚcè",
+      "Meaning": "women's toilet",
+      "Example": "女厕要排队。 nǚcè yào páiduì: There's a queue for the women's.",
+      "Notes": "女 alone on a door means women's; same 女 as in 妈 and 她"
+    },
+    {
+      "Hanzi": "地铁",
+      "Pinyin": "dìtiě",
+      "Meaning": "subway, metro",
+      "Example": "我坐地铁去。 wǒ zuò dìtiě qù: I'll take the subway.",
+      "Notes": "铁 = 钅 metal + 失 shī; 地 = 土 earth + 也"
+    },
+    {
+      "Hanzi": "站",
+      "Pinyin": "zhàn",
+      "Meaning": "station, stop; to stand",
+      "Example": "我在地铁站等你。 wǒ zài dìtiězhàn děng nǐ: I'll wait for you at the subway station.",
+      "Notes": "立 stand + 占 zhàn for the sound"
+    },
+    {
+      "Hanzi": "机场",
+      "Pinyin": "jīchǎng",
+      "Meaning": "airport",
+      "Example": "我去机场接你。 wǒ qù jīchǎng jiē nǐ: I'll pick you up at the airport.",
+      "Notes": "机 = 木 + 几 jī for the sound; 场 = 土 + a place"
+    },
+    {
+      "Hanzi": "医院",
+      "Pinyin": "yīyuàn",
+      "Meaning": "hospital",
+      "Example": "他还在医院。 tā hái zài yīyuàn: He's still in hospital.",
+      "Notes": "医 = 匚 box + 矢 arrow; 院 has 阝 on the left"
+    },
+    {
+      "Hanzi": "禁止",
+      "Pinyin": "jìnzhǐ",
+      "Meaning": "forbidden, no ...",
+      "Example": "禁止停车 jìnzhǐ tíngchē: No parking.",
+      "Notes": "禁 = 林 woods over 示; 止 means stop"
+    },
+    {
+      "Hanzi": "推",
+      "Pinyin": "tuī",
+      "Meaning": "push (on doors)",
+      "Example": "门要推,不要拉。 mén yào tuī, bú yào lā: Push the door, don't pull.",
+      "Notes": "扌 hand + 隹 zhuī; compare 拉 with 立 on the right"
+    },
+    {
+      "Hanzi": "拉",
+      "Pinyin": "lā",
+      "Meaning": "pull (on doors)",
+      "Example": "这个门是拉的。 zhège mén shì lā de: This door is a pull.",
+      "Notes": "扌 hand + 立 lì; compare 推 with 隹 on the right"
+    },
+    {
+      "Hanzi": "小心",
+      "Pinyin": "xiǎoxīn",
+      "Meaning": "careful; caution",
+      "Example": "小心台阶 xiǎoxīn táijiē: Mind the step.",
+      "Notes": "Literally 'small heart'; the standard warning-sign word"
+    },
+    {
+      "Hanzi": "营业时间",
+      "Pinyin": "yíngyè shíjiān",
+      "Meaning": "opening hours",
+      "Example": "营业时间:早九点到晚十点 yíngyè shíjiān: zǎo jiǔ diǎn dào wǎn shí diǎn: Open 9am to 10pm.",
+      "Notes": "营 has 艹 on top; 业 is also in 作业 and 毕业"
+    },
+    {
+      "Hanzi": "暂停营业",
+      "Pinyin": "zàntíng yíngyè",
+      "Meaning": "temporarily closed",
+      "Example": "",
+      "Notes": "暂 = 斩 zhǎn + 日; 停 = 亻 + 亭 tíng for the sound"
+    },
+    {
+      "Hanzi": "停车场",
+      "Pinyin": "tíngchēchǎng",
+      "Meaning": "car park, parking lot",
+      "Example": "停车场在地下一层。 tíngchēchǎng zài dìxià yī céng: The car park is on B1.",
+      "Notes": "车 is car; 场 is the same as in 机场"
+    },
+    {
+      "Hanzi": "电梯",
+      "Pinyin": "diàntī",
+      "Meaning": "elevator, lift",
+      "Example": "电梯坏了,走楼梯吧。 diàntī huài le, zǒu lóutī ba: The elevator's broken, take the stairs.",
+      "Notes": "梯 = 木 wood + 弟 dì for the sound"
+    },
+    {
+      "Hanzi": "安全出口",
+      "Pinyin": "ānquán chūkǒu",
+      "Meaning": "emergency exit",
+      "Example": "",
+      "Notes": "The green running-man sign; 安全 = safe"
+    },
+    {
+      "Hanzi": "售票处",
+      "Pinyin": "shòupiàochù",
+      "Meaning": "ticket office",
+      "Example": "售票处在哪儿? shòupiàochù zài nǎr: Where's the ticket office?",
+      "Notes": "票 = 西 over 示; also in 车票 and 门票"
+    },
+    {
+      "Hanzi": "换乘",
+      "Pinyin": "huànchéng",
+      "Meaning": "transfer, change lines",
+      "Example": "在这站换乘二号线。 zài zhè zhàn huànchéng èr hào xiàn: Change here for Line 2.",
+      "Notes": "换 = 扌 + 奂 huàn; 乘 is the formal word for 'ride'"
+    },
+    {
+      "Hanzi": "公交车",
+      "Pinyin": "gōngjiāochē",
+      "Meaning": "city bus",
+      "Example": "公交车来了! gōngjiāochē lái le: The bus is here!",
+      "Notes": "Bus stops say 公交站; 交 is also in 交通"
+    },
+    {
+      "Hanzi": "左转",
+      "Pinyin": "zuǒzhuǎn",
+      "Meaning": "turn left",
+      "Example": "前面路口左转。 qiánmiàn lùkǒu zuǒzhuǎn: Turn left at the next intersection.",
+      "Notes": "左 has 工 at the bottom; 右 (right) has 口"
+    },
+    {
+      "Hanzi": "银行",
+      "Pinyin": "yínháng",
+      "Meaning": "bank",
+      "Example": "附近有银行吗? fùjìn yǒu yínháng ma: Is there a bank nearby?",
+      "Notes": "行 is háng here, but xíng in 自行车 and 不行"
+    },
+    {
+      "Hanzi": "小心地滑",
+      "Pinyin": "xiǎoxīn dì huá",
+      "Meaning": "Caution: wet floor.",
+      "Example": "",
+      "Notes": "地 here is dì (floor), not the particle de"
+    },
+    {
+      "Hanzi": "请勿吸烟",
+      "Pinyin": "qǐng wù xīyān",
+      "Meaning": "Please don't smoke.",
+      "Example": "",
+      "Notes": "勿 is formal 'don't'; 匆 (cōng) has one more stroke inside"
+    },
+    {
+      "Hanzi": "请排队",
+      "Pinyin": "qǐng páiduì",
+      "Meaning": "Please queue.",
+      "Example": "",
+      "Notes": "排 = 扌 + 非 fēi; 队 = 阝 + 人"
+    },
+    {
+      "Hanzi": "非工作人员禁止入内",
+      "Pinyin": "fēi gōngzuò rényuán jìnzhǐ rùnèi",
+      "Meaning": "Staff only.",
+      "Example": "",
+      "Notes": "非 means 'not': literally 'non-staff are forbidden to enter'"
+    }
+  ]
+}

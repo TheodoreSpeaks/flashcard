@@ -1,0 +1,121 @@
+{
+  "title": "Present tense and -te chai",
+  "focus": "Simple present for ami / tumi / o (ami khai, tumi khao, o khay); wanting to do things with -te chai (ami khete chai).",
+  "body": "# Present tense and -te chai\n\nBengali verbs change their ending depending on **who** does the action. They don't change for gender: **o** means both \"he\" and \"she\".\n\nThe simple present covers what you do in general or as a habit (\"I eat rice\", \"she goes every day\").\n\n## The pattern\n\n| Person | Ending | khaoa (eat) | jaoa (go) | chaoa (want) |\n|---|---|---|---|---|\n| ami (I) | -i | ami khai | ami jai | ami chai |\n| tumi (you) | -o | tumi khao | tumi jao | tumi chao |\n| o (he/she) | -y / -e | o khay | o jay | o chay |\n\n## Wanting to do something: -te chai\n\nTo say \"want to do X\", put the **-te form** of the verb before **chai / chao / chay**. Only chai changes for the person. The -te form never changes.\n\n| Verb | -te form | \"I want to...\" |\n|---|---|---|\n| khaoa (eat) | khete | ami khete chai |\n| jaoa (go) | jete | ami jete chai |\n| pora (read) | porte | ami porte chai |\n\n## Examples\n\n- **tumi khao**: you eat\n- **o jay**: he/she goes\n- **ami cha khai**: I drink tea (lit. \"I eat tea\")\n- **tumi jol chao**: you want water\n- **beral-ta bhat khay**: the cat eats rice\n- **ami boi pori**: I read books\n- **tumi jete chao**: you want to go\n- **o aaj jete chay**: he/she wants to go today\n- **beral-ta ghumote chay**: the cat wants to sleep\n- **ami khete chai, kintu khabar-ta gorom**: I want to eat, but the food is hot\n\nThe object goes **before** the verb: *ami cha khai* = \"I tea eat\".\n\n## Common mistakes\n\n1. **Conjugating both verbs.** It's *ami khete chai*, not ~~ami khai chai~~. Only *chai* takes the person ending.\n2. **Using a separate \"drink\" verb.** In Kolkata you *khao* tea and water: *cha khai*, *jol khai*.\n",
+  "cards": [
+    {
+      "English": "You eat (in general)",
+      "Romanization": "tumi khao",
+      "Bengali": "তুমি খাও",
+      "Notes": "tumi = you; kha- + -o (the tumi ending)"
+    },
+    {
+      "English": "He/she eats (in general)",
+      "Romanization": "o khay",
+      "Bengali": "ও খায়",
+      "Notes": "o = he or she (no gender); kha- + -y (the o ending)"
+    },
+    {
+      "English": "I go (in general)",
+      "Romanization": "ami jai",
+      "Bengali": "আমি যাই",
+      "Notes": "from jaoa (to go); ja- + -i (the ami ending)"
+    },
+    {
+      "English": "You go (in general)",
+      "Romanization": "tumi jao",
+      "Bengali": "তুমি যাও",
+      "Notes": "ja- + -o; same pattern as tumi khao"
+    },
+    {
+      "English": "He/she goes (in general)",
+      "Romanization": "o jay",
+      "Bengali": "ও যায়",
+      "Notes": "ja- + -y; same pattern as o khay"
+    },
+    {
+      "English": "I want tea",
+      "Romanization": "ami cha chai",
+      "Bengali": "আমি চা চাই",
+      "Notes": "lit. I tea want; the object comes before the verb"
+    },
+    {
+      "English": "You want water",
+      "Romanization": "tumi jol chao",
+      "Bengali": "তুমি জল চাও",
+      "Notes": "lit. you water want; chao = want (tumi form)"
+    },
+    {
+      "English": "The cat eats rice (in general)",
+      "Romanization": "beral-ta bhat khay",
+      "Bengali": "বেড়ালটা ভাত খায়",
+      "Notes": "lit. cat-the rice eats; a noun subject takes the o ending (-y)"
+    },
+    {
+      "English": "I drink tea (in general)",
+      "Romanization": "ami cha khai",
+      "Bengali": "আমি চা খাই",
+      "Notes": "lit. I tea eat; Bengali uses khaoa (eat) for drinks too"
+    },
+    {
+      "English": "You drink water (in general)",
+      "Romanization": "tumi jol khao",
+      "Bengali": "তুমি জল খাও",
+      "Notes": "lit. you water eat; drinks take khaoa"
+    },
+    {
+      "English": "You want to go",
+      "Romanization": "tumi jete chao",
+      "Bengali": "তুমি যেতে চাও",
+      "Notes": "jete = to go (-te form); only chao changes for the person"
+    },
+    {
+      "English": "He/she wants to go today",
+      "Romanization": "o aaj jete chay",
+      "Bengali": "ও আজ যেতে চায়",
+      "Notes": "lit. he/she today to-go wants; aaj usually comes early in the sentence"
+    },
+    {
+      "English": "I read books (in general)",
+      "Romanization": "ami boi pori",
+      "Bengali": "আমি বই পড়ি",
+      "Notes": "new verb: pora = to read; por- + -i"
+    },
+    {
+      "English": "I want to read a book",
+      "Romanization": "ami boi porte chai",
+      "Bengali": "আমি বই পড়তে চাই",
+      "Notes": "porte = to read (-te form of pora); lit. I book to-read want"
+    },
+    {
+      "English": "The dog sleeps a lot",
+      "Romanization": "kukur-ta khub ghumay",
+      "Bengali": "কুকুরটা খুব ঘুমোয়",
+      "Notes": "new verb: ghumono = to sleep; lit. dog-the very sleeps"
+    },
+    {
+      "English": "The cat wants to sleep",
+      "Romanization": "beral-ta ghumote chay",
+      "Bengali": "বেড়ালটা ঘুমোতে চায়",
+      "Notes": "ghumote = to sleep (-te form); chay = wants (o form)"
+    },
+    {
+      "English": "Do you want to drink tea?",
+      "Romanization": "tumi cha khete chao?",
+      "Bengali": "তুমি চা খেতে চাও?",
+      "Notes": "lit. you tea to-eat want?; a yes/no question just uses rising intonation"
+    },
+    {
+      "English": "I want to eat, but the food is hot",
+      "Romanization": "ami khete chai, kintu khabar-ta gorom",
+      "Bengali": "আমি খেতে চাই, কিন্তু খাবারটা গরম",
+      "Notes": "khete chai = want to eat; 'is' is left out in khabar-ta gorom"
+    },
+    {
+      "English": "I want to go and you want to eat",
+      "Romanization": "ami jete chai aar tumi khete chao",
+      "Bengali": "আমি যেতে চাই আর তুমি খেতে চাও",
+      "Notes": "chai (ami) vs chao (tumi); jete and khete stay the same"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "bengali",
+  "fields": [
+    "English",
+    "Romanization",
+    "Bengali",
+    "Notes"
+  ],
+  "front": [
+    "English"
+  ],
+  "back": [
+    "Romanization",
+    "Bengali",
+    "Notes"
+  ],
+  "new_per_day": 20,
+  "guide": {
+    "instructions": "Colloquial Kolkata / West Bengal Bengali (cholito bhasha) as actually spoken in Kolkata, not Bangladeshi forms (e.g. jol not pani, mashi/pishi, etc.). The learner cannot read the script and does not want to learn it: the Romanization field is the answer they study; the Bengali field is the script for reference only. Use casual, intuitive romanization without diacritics (amar, khide, jabo, korchi). Informal register only: use tumi forms, never formal apni forms. Mix single words with short everyday phrases. For verbs and verb phrases, include a smattering of tenses as separate cards (e.g. 'I eat' / 'I ate' / 'I will eat' / 'I am eating'), and mark the tense in the English front when it would otherwise be ambiguous. Use Notes for a word-by-word breakdown or literal meaning and any useful grammar point, kept to one line.",
+    "level": "beginner"
+  },
+  "unlocked_through": 1,
+  "opened": []
+}

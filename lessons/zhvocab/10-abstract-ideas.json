@@ -1,0 +1,217 @@
+{
+  "title": "Abstract Ideas",
+  "focus": "机会, 责任, 影响, 条件, 结果, 原因, 价值, 经验, 能力, 意义, 方面, 程度, 情况, 现象, 本质, 趋势, 过程, 关键, 标准, 范围, 优势, 缺点",
+  "body": "Adult conversation runs on abstract nouns: reasons, results, conditions, value, extent. Without them you end up describing everything with 这个 and 那个. These words let you give opinions, weigh options and explain why something happened.\n\n## Words\n\n| Chinese | Pinyin | Meaning |\n|---|---|---|\n| 机会 | jīhuì | opportunity / chance |\n| 责任 | zérèn | responsibility |\n| 影响 | yǐngxiǎng | influence / to affect |\n| 条件 | tiáojiàn | conditions / circumstances |\n| 结果 | jiéguǒ | result / outcome |\n| 原因 | yuányīn | reason / cause |\n| 价值 | jiàzhí | value / worth |\n| 经验 | jīngyàn | experience |\n| 能力 | nénglì | ability / capability |\n| 意义 | yìyì | meaning / significance |\n| 方面 | fāngmiàn | aspect / respect |\n| 程度 | chéngdù | degree / extent |\n| 情况 | qíngkuàng | situation / what's going on |\n| 现象 | xiànxiàng | phenomenon |\n| 本质 | běnzhì | essence / fundamental nature |\n| 趋势 | qūshì | trend / tendency |\n| 过程 | guòchéng | process |\n| 关键 | guānjiàn | key / crucial point |\n| 标准 | biāozhǔn | standard / criterion |\n| 范围 | fànwéi | scope / range |\n| 优势 | yōushì | advantage / competitive edge |\n| 缺点 | quēdiǎn | shortcoming / weakness |\n| 优点 | yōudiǎn | good quality / strong point |\n| 前提 | qiántí | prerequisite / premise |\n| 作用 | zuòyòng | role / effect |\n| 目标 | mùbiāo | goal / target |\n| 概念 | gàiniàn | concept / sense of |\n| 在一定程度上 | zài yídìng chéngdù shàng | to some extent |\n\n## Which word?\n\n- **经验 vs 经历**: 经验 is what you learned (工作经验). 经历 is what happened to you (他经历过很多事).\n- **原因 vs 理由**: 原因 is the real cause. 理由 is the reason someone offers, which may be an excuse (这不是理由).\n- **影响 vs 作用**: 影响 is any effect, often negative (影响睡眠). 作用 is the role or useful effect something has (药起作用了).\n- **优点 vs 优势**: 优点 is a good trait. 优势 is an edge in a comparison or competition.\n- **意义 vs 意思**: 意思 is what words mean. 意义 is whether something matters (没意义 pointless).\n- **条件 vs 前提**: 条件 are conditions or circumstances, often several. 前提 is the one thing that must be true first.\n- **过程 vs 流程**: 过程 is how something unfolds; 流程 is a fixed sequence of steps (办事流程).\n\n## Examples\n\n- 这是个难得的机会，你别错过。 zhè shì ge nándé de jīhuì, nǐ bié cuòguò: This is a rare opportunity, don't miss it\n- 熬夜会影响你的健康。 áoyè huì yǐngxiǎng nǐ de jiànkāng: Staying up late will affect your health\n- 我等了他半天，结果他没来。 wǒ děng le tā bàntiān, jiéguǒ tā méi lái: I waited ages for him, and in the end he didn't show\n- 他没什么工作经验。 tā méi shénme gōngzuò jīngyàn: He doesn't have much work experience\n- 这样做有什么意义？ zhèyàng zuò yǒu shénme yìyì: What's the point of doing it this way?\n- 问题严重到什么程度了？ wèntí yánzhòng dào shénme chéngdù le: How serious has the problem gotten?\n- 房价有下降的趋势。 fángjià yǒu xiàjiàng de qūshì: Housing prices are trending down\n- 关键是你自己想不想做。 guānjiàn shì nǐ zìjǐ xiǎng bù xiǎng zuò: The key thing is whether you actually want to do it\n- 你的优势是会说两种语言。 nǐ de yōushì shì huì shuō liǎng zhǒng yǔyán: Your edge is that you speak two languages\n- 可以出去玩，前提是作业写完。 kěyǐ chūqù wán, qiántí shì zuòyè xiě wán: You can go out, provided your homework is done\n",
+  "cards": [
+    {
+      "English": "opportunity / chance",
+      "Hanzi": "机会",
+      "Pinyin": "jīhuì",
+      "Example": "这是个难得的机会，你别错过。 zhè shì ge nándé de jīhuì, nǐ bié cuòguò: This is a rare opportunity, don't miss it",
+      "Notes": "机遇 is more formal and bigger, like a historic opportunity."
+    },
+    {
+      "English": "responsibility",
+      "Hanzi": "责任",
+      "Pinyin": "zérèn",
+      "Example": "这件事我也有责任。 zhè jiàn shì wǒ yě yǒu zérèn: I'm partly responsible for this too",
+      "Notes": "责任 is the noun; 负责 is the verb (be in charge of, be responsible for)."
+    },
+    {
+      "English": "influence / to affect",
+      "Hanzi": "影响",
+      "Pinyin": "yǐngxiǎng",
+      "Example": "熬夜会影响你的健康。 áoyè huì yǐngxiǎng nǐ de jiànkāng: Staying up late will affect your health",
+      "Notes": "对……有影响 = to have an effect on. Neutral or negative; for a positive role use 作用."
+    },
+    {
+      "English": "conditions / circumstances (incl. material circumstances)",
+      "Hanzi": "条件",
+      "Pinyin": "tiáojiàn",
+      "Example": "他们家条件不错。 tāmen jiā tiáojiàn búcuò: Their family is pretty well off",
+      "Notes": "Also terms of a deal: 你有什么条件？ 前提 is the one prerequisite everything depends on."
+    },
+    {
+      "English": "result / outcome",
+      "Hanzi": "结果",
+      "Pinyin": "jiéguǒ",
+      "Example": "我等了他半天，结果他没来。 wǒ děng le tā bàntiān, jiéguǒ tā méi lái: I waited ages for him, and in the end he didn't show",
+      "Notes": "In speech 结果 often means 'and then, as it turned out' (usually a let-down)."
+    },
+    {
+      "English": "reason / cause",
+      "Hanzi": "原因",
+      "Pinyin": "yuányīn",
+      "Example": "你知道他辞职的原因吗？ nǐ zhīdào tā cízhí de yuányīn ma: Do you know why he quit?",
+      "Notes": "原因 = the actual cause; 理由 = the justification someone gives."
+    },
+    {
+      "English": "value / worth",
+      "Hanzi": "价值",
+      "Pinyin": "jiàzhí",
+      "Example": "这些老照片对我很有价值。 zhèxiē lǎo zhàopiàn duì wǒ hěn yǒu jiàzhí: These old photos are very valuable to me",
+      "Notes": "价值观 = one's values; 价格 = price."
+    },
+    {
+      "English": "experience (know-how gained over time)",
+      "Hanzi": "经验",
+      "Pinyin": "jīngyàn",
+      "Example": "他没什么工作经验。 tā méi shénme gōngzuò jīngyàn: He doesn't have much work experience",
+      "Notes": "经验 = skill or lessons learned; 经历 = things you went through."
+    },
+    {
+      "English": "ability / capability",
+      "Hanzi": "能力",
+      "Pinyin": "nénglì",
+      "Example": "她能力很强，什么都能搞定。 tā nénglì hěn qiáng, shénme dōu néng gǎodìng: She's very capable, she can handle anything",
+      "Notes": "本事 is the colloquial equivalent: 他有本事."
+    },
+    {
+      "English": "meaning / significance (the point of something)",
+      "Hanzi": "意义",
+      "Pinyin": "yìyì",
+      "Example": "这样做有什么意义？ zhèyàng zuò yǒu shénme yìyì: What's the point of doing it this way?",
+      "Notes": "意思 = meaning of words or 'interesting'; 意义 = significance or purpose."
+    },
+    {
+      "English": "aspect / respect (in terms of ...)",
+      "Hanzi": "方面",
+      "Pinyin": "fāngmiàn",
+      "Example": "在工作方面，他很认真。 zài gōngzuò fāngmiàn, tā hěn rènzhēn: When it comes to work, he's very conscientious",
+      "Notes": "一方面……另一方面…… = on the one hand ... on the other."
+    },
+    {
+      "English": "degree / extent",
+      "Hanzi": "程度",
+      "Pinyin": "chéngdù",
+      "Example": "问题严重到什么程度了？ wèntí yánzhòng dào shénme chéngdù le: How serious has the problem gotten?",
+      "Notes": "Also level of education: 文化程度."
+    },
+    {
+      "English": "situation / what's going on (specific case)",
+      "Hanzi": "情况",
+      "Pinyin": "qíngkuàng",
+      "Example": "我先了解一下情况。 wǒ xiān liǎojiě yíxià qíngkuàng: Let me find out what's going on first",
+      "Notes": "情况 = a concrete situation; 形势 = the broad political or economic situation."
+    },
+    {
+      "English": "phenomenon",
+      "Hanzi": "现象",
+      "Pinyin": "xiànxiàng",
+      "Example": "年轻人不想结婚，这是个普遍现象。 niánqīngrén bù xiǎng jiéhūn, zhè shì ge pǔbiàn xiànxiàng: Young people not wanting to marry is a widespread phenomenon",
+      "Notes": "Often paired with 本质: 透过现象看本质 see through the surface to the essence."
+    },
+    {
+      "English": "essence / fundamental nature",
+      "Hanzi": "本质",
+      "Pinyin": "běnzhì",
+      "Example": "这两个问题本质上是一样的。 zhè liǎng gè wèntí běnzhì shàng shì yíyàng de: These two problems are essentially the same",
+      "Notes": "本质上 = essentially, at heart."
+    },
+    {
+      "English": "trend / tendency",
+      "Hanzi": "趋势",
+      "Pinyin": "qūshì",
+      "Example": "房价有下降的趋势。 fángjià yǒu xiàjiàng de qūshì: Housing prices are trending down",
+      "Notes": "趋势 = a direction of change; 潮流 = a fashion or cultural trend."
+    },
+    {
+      "English": "process (the course of something)",
+      "Hanzi": "过程",
+      "Pinyin": "guòchéng",
+      "Example": "学语言是个慢慢积累的过程。 xué yǔyán shì ge mànmàn jīlěi de guòchéng: Learning a language is a slow process of building up",
+      "Notes": "过程 = how something unfolds; 流程 = a set procedure or workflow."
+    },
+    {
+      "English": "key / crucial point",
+      "Hanzi": "关键",
+      "Pinyin": "guānjiàn",
+      "Example": "关键是你自己想不想做。 guānjiàn shì nǐ zìjǐ xiǎng bù xiǎng zuò: The key thing is whether you actually want to do it",
+      "Notes": "关键是…… is a very common way to start a sentence."
+    },
+    {
+      "English": "standard / criterion",
+      "Hanzi": "标准",
+      "Pinyin": "biāozhǔn",
+      "Example": "每个人的标准不一样。 měi gè rén de biāozhǔn bù yíyàng: Everyone has different standards",
+      "Notes": "Also an adjective: 他普通话很标准 his Mandarin is very standard."
+    },
+    {
+      "English": "scope / range",
+      "Hanzi": "范围",
+      "Pinyin": "fànwéi",
+      "Example": "这不在我的工作范围内。 zhè bú zài wǒ de gōngzuò fànwéi nèi: That's outside the scope of my job",
+      "Notes": "在……范围内 = within the scope of."
+    },
+    {
+      "English": "advantage / competitive edge",
+      "Hanzi": "优势",
+      "Pinyin": "yōushì",
+      "Example": "你的优势是会说两种语言。 nǐ de yōushì shì huì shuō liǎng zhǒng yǔyán: Your edge is that you speak two languages",
+      "Notes": "优势 = an advantage over others; 优点 = a good quality."
+    },
+    {
+      "English": "shortcoming / weakness (of a person or thing)",
+      "Hanzi": "缺点",
+      "Pinyin": "quēdiǎn",
+      "Example": "这个方案的缺点是太贵。 zhège fāng'àn de quēdiǎn shì tài guì: The downside of this plan is that it's too expensive",
+      "Notes": "Opposite: 优点. Colloquial: 毛病."
+    },
+    {
+      "English": "good quality / strong point (of a person or thing)",
+      "Hanzi": "优点",
+      "Pinyin": "yōudiǎn",
+      "Example": "他最大的优点是有耐心。 tā zuì dà de yōudiǎn shì yǒu nàixīn: His best quality is that he's patient",
+      "Notes": ""
+    },
+    {
+      "English": "prerequisite / premise",
+      "Hanzi": "前提",
+      "Pinyin": "qiántí",
+      "Example": "可以出去玩，前提是作业写完。 kěyǐ chūqù wán, qiántí shì zuòyè xiě wán: You can go out, provided your homework is done",
+      "Notes": "在……的前提下 = on the condition that."
+    },
+    {
+      "English": "role / effect (what something does)",
+      "Hanzi": "作用",
+      "Pinyin": "zuòyòng",
+      "Example": "这个药没什么作用。 zhège yào méi shénme zuòyòng: This medicine doesn't really do anything",
+      "Notes": "起作用 = to take effect, to work."
+    },
+    {
+      "English": "goal / target",
+      "Hanzi": "目标",
+      "Pinyin": "mùbiāo",
+      "Example": "我今年的目标是存够十万块。 wǒ jīnnián de mùbiāo shì cún gòu shí wàn kuài: My goal this year is to save 100,000 yuan",
+      "Notes": "目标 = a concrete target; 目的 = the purpose behind an action."
+    },
+    {
+      "English": "concept / sense of (something)",
+      "Hanzi": "概念",
+      "Pinyin": "gàiniàn",
+      "Example": "他对钱一点概念都没有。 tā duì qián yìdiǎn gàiniàn dōu méiyǒu: He has no sense of money at all",
+      "Notes": "没概念 = have no idea / no sense of."
+    },
+    {
+      "English": "to some extent",
+      "Hanzi": "在一定程度上",
+      "Pinyin": "zài yídìng chéngdù shàng",
+      "Example": "你说的在一定程度上是对的。 nǐ shuō de zài yídìng chéngdù shàng shì duì de: What you said is right to some extent",
+      "Notes": "Slightly formal; good for sounding measured in a discussion."
+    },
+    {
+      "English": "The key question is whether it's worth it.",
+      "Hanzi": "关键问题是值不值得。",
+      "Pinyin": "guānjiàn wèntí shì zhí bù zhíde",
+      "Example": "",
+      "Notes": "值得 = worth it; the 值不值得 pattern asks whether."
+    },
+    {
+      "English": "It depends on the situation.",
+      "Hanzi": "那得看情况。",
+      "Pinyin": "nà děi kàn qíngkuàng",
+      "Example": "",
+      "Notes": "看 here = depends on: 看你 it's up to you."
+    }
+  ]
+}

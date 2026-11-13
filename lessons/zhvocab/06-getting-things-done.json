@@ -1,0 +1,217 @@
+{
+  "title": "Getting things done",
+  "focus": "应对, 解决, 安排, 协调, 推迟, 取消, 优先, 进展, 落实, 确认, 提醒, 调整, 来不及, 拖延, 搞定, 赶工, 督促, 分配, 对接, 落后",
+  "body": "# Getting things done\n\nThese are the words for running tasks, at work or at home: who does what, when it's due, whether it's on track. Most of them show up in every work chat and meeting, and many have a near-twin you need to keep apart. (处理, 负责, 效率 and 截止日期 are in the work lesson.)\n\n| Chinese | Pinyin | Meaning |\n|---|---|---|\n| 应对 | yìngduì | to respond to / cope with (a situation, a challenge) |\n| 解决 | jiějué | to solve / resolve (a problem, for good) |\n| 安排 | ānpái | to arrange / schedule (time, people, plans) |\n| 协调 | xiétiáo | to coordinate (between people or departments) |\n| 推迟 | tuīchí | to postpone / push back (to a later time) |\n| 取消 | qǔxiāo | to cancel |\n| 优先 | yōuxiān | to give priority to / do first |\n| 拖后腿 | tuō hòutuǐ | to hold others back / be a drag on the team |\n| 进展 | jìnzhǎn | progress / developments (on a matter) |\n| 落实 | luòshí | to carry out / make sure it actually happens (a plan, a policy) |\n| 确认 | quèrèn | to confirm |\n| 提醒 | tíxǐng | to remind (someone) |\n| 计划 | jìhuà | plan (formal, detailed) |\n| 期限 | qīxiàn | time limit / deadline (formal) |\n| 步骤 | bùzhòu | step (in a process) |\n| 检查 | jiǎnchá | to check / inspect (for mistakes or problems) |\n| 调整 | tiáozhěng | to adjust |\n| 来不及 | láibují | to not have enough time (to make it) |\n| 拖延 | tuōyán | to procrastinate / drag things out |\n| 搞定 | gǎodìng | to get it done / sort it out (colloquial) |\n| 赶工 | gǎngōng | to rush to finish (work against a deadline) |\n| 督促 | dūcù | to keep pushing (someone to get something done) |\n| 分配 | fēnpèi | to assign / allocate (tasks, resources) |\n| 对接 | duìjiē | to liaise with (the person handling the other side) |\n| 按时 | ànshí | on time (by the scheduled date) |\n| 落后 | luòhòu | to fall behind (schedule, others) |\n| 分工 | fēngōng | to divide up the work |\n\n## Which word?\n\n- **应对 vs 解决 vs 应付**: 应对 is how you respond to a situation (怎么应对). 解决 means the problem is actually fixed (解决了). 应付 is getting by with the minimum, often a criticism (应付一下).\n- **推迟 vs 拖延 vs 取消**: 推迟 moves a plan later, neutrally. 拖延 is procrastinating, which is a criticism. 取消 means it's off entirely.\n- **进展 vs 进步 vs 落后**: 进展 = developments on a matter (有进展吗?). 进步 = a person getting better. 落后 = behind schedule or behind others.\n- **确认 vs 确定**: 确认 checks a fact with someone (确认时间). 确定 is to decide or be sure (还没确定).\n- **分配 vs 分工**: 分配 is a boss handing out tasks. 分工 is a team splitting the work among themselves.\n- **督促 vs 催**: 督促 is ongoing pressure from someone responsible for you. 催 is a one-off nudge: 帮我催一下.\n- **搞定 vs 完成**: 搞定 is casual and implies you overcame some trouble; 完成 is neutral 'complete'.\n\n## Examples\n\n- 遇到这种情况该怎么应对？ yùdào zhè zhǒng qíngkuàng gāi zěnme yìngduì: How should we respond when this kind of thing happens?\n- 我帮你安排一下时间。 wǒ bāng nǐ ānpái yíxià shíjiān: Let me set up a time for you\n- 会议推迟到下周了。 huìyì tuīchí dào xiàzhōu le: The meeting's been pushed to next week\n- 客户的问题要优先处理。 kèhù de wèntí yào yōuxiān chǔlǐ: Customer issues get handled first\n- 那个项目有什么进展吗？ nàge xiàngmù yǒu shénme jìnzhǎn ma: Any progress on that project?\n- 我再跟你确认一下时间。 wǒ zài gēn nǐ quèrèn yíxià shíjiān: Let me double-check the time with you\n- 现在出发已经来不及了。 xiànzài chūfā yǐjīng láibují le: It's too late to leave now\n- 他总是拖延，最后一天才开始写。 tā zǒngshì tuōyán, zuìhòu yì tiān cái kāishǐ xiě: He always procrastinates and only starts writing on the last day\n- 放心，明天之前肯定搞定。 fàngxīn, míngtiān zhīqián kěndìng gǎodìng: Don't worry, it'll definitely be done before tomorrow\n- 你得督促他按时交。 nǐ děi dūcù tā ànshí jiāo: You'll have to keep on him to hand it in on time\n",
+  "cards": [
+    {
+      "English": "to respond to / cope with (a situation, a challenge)",
+      "Hanzi": "应对",
+      "Pinyin": "yìngduì",
+      "Example": "遇到这种情况该怎么应对？ yùdào zhè zhǒng qíngkuàng gāi zěnme yìngduì: How should we respond when this kind of thing happens?",
+      "Notes": "应对 = respond to a situation or challenge; 处理 = handle a task; 应付 = just get by, often half-heartedly"
+    },
+    {
+      "English": "to solve / resolve (a problem, for good)",
+      "Hanzi": "解决",
+      "Pinyin": "jiějué",
+      "Example": "问题已经解决了，不用担心。 wèntí yǐjīng jiějué le, búyòng dānxīn: The problem's been solved, no need to worry",
+      "Notes": "解决问题 is the standard collocation; 处理问题 just means you're working on it"
+    },
+    {
+      "English": "to arrange / schedule (time, people, plans)",
+      "Hanzi": "安排",
+      "Pinyin": "ānpái",
+      "Example": "我帮你安排一下时间。 wǒ bāng nǐ ānpái yíxià shíjiān: Let me set up a time for you",
+      "Notes": "Also a noun: 你明天有什么安排？ = what are your plans tomorrow?"
+    },
+    {
+      "English": "to coordinate (between people or departments)",
+      "Hanzi": "协调",
+      "Pinyin": "xiétiáo",
+      "Example": "这件事得跟几个部门协调一下。 zhè jiàn shì děi gēn jǐ gè bùmén xiétiáo yíxià: This needs to be coordinated with several departments",
+      "Notes": "Also an adjective: 动作很协调 = well-coordinated movements"
+    },
+    {
+      "English": "to postpone / push back (to a later time)",
+      "Hanzi": "推迟",
+      "Pinyin": "tuīchí",
+      "Example": "会议推迟到下周了。 huìyì tuīchí dào xiàzhōu le: The meeting's been pushed to next week",
+      "Notes": "推迟 = move later; 延期 = extend or delay a deadline (more formal); 拖延 = procrastinate"
+    },
+    {
+      "English": "to cancel",
+      "Hanzi": "取消",
+      "Pinyin": "qǔxiāo",
+      "Example": "航班取消了，只能改明天的。 hángbān qǔxiāo le, zhǐ néng gǎi míngtiān de: The flight was cancelled, so I had to switch to tomorrow's",
+      "Notes": "取消订单 = cancel an order"
+    },
+    {
+      "English": "to give priority to / do first",
+      "Hanzi": "优先",
+      "Pinyin": "yōuxiān",
+      "Example": "客户的问题要优先处理。 kèhù de wèntí yào yōuxiān chǔlǐ: Customer issues get handled first",
+      "Notes": "优先级 = priority level; 首先 = first of all (in a sequence of points)"
+    },
+    {
+      "English": "to hold others back / be a drag on the team",
+      "Hanzi": "拖后腿",
+      "Pinyin": "tuō hòutuǐ",
+      "Example": "我可不想给大家拖后腿。 wǒ kě bù xiǎng gěi dàjiā tuō hòutuǐ: I really don't want to hold everyone back",
+      "Notes": "Pattern: 给……拖后腿 or 拖……的后腿"
+    },
+    {
+      "English": "progress / developments (on a matter)",
+      "Hanzi": "进展",
+      "Pinyin": "jìnzhǎn",
+      "Example": "那个项目有什么进展吗？ nàge xiàngmù yǒu shénme jìnzhǎn ma: Any progress on that project?",
+      "Notes": "进展 = how a matter is moving; 进步 = a person improving"
+    },
+    {
+      "English": "to carry out / make sure it actually happens (a plan, a policy)",
+      "Hanzi": "落实",
+      "Pinyin": "luòshí",
+      "Example": "计划定了，关键是怎么落实。 jìhuà dìng le, guānjiàn shì zěnme luòshí: The plan is set, the key is how to follow through",
+      "Notes": "Office and government register; 执行 = execute (more neutral)"
+    },
+    {
+      "English": "to confirm",
+      "Hanzi": "确认",
+      "Pinyin": "quèrèn",
+      "Example": "我再跟你确认一下时间。 wǒ zài gēn nǐ quèrèn yíxià shíjiān: Let me double-check the time with you",
+      "Notes": "确认 = confirm a fact; 确定 = decide for sure / be certain"
+    },
+    {
+      "English": "to remind (someone)",
+      "Hanzi": "提醒",
+      "Pinyin": "tíxǐng",
+      "Example": "到时候提醒我一下，我怕忘了。 dào shíhou tíxǐng wǒ yíxià, wǒ pà wàng le: Remind me when it's time, I'm afraid I'll forget",
+      "Notes": "提醒 = remind someone else; 想起来 = remember on your own"
+    },
+    {
+      "English": "plan (formal, detailed)",
+      "Hanzi": "计划",
+      "Pinyin": "jìhuà",
+      "Example": "计划赶不上变化。 jìhuà gǎn bu shàng biànhuà: Plans can never keep up with changes",
+      "Notes": "计划 is a concrete plan; 打算 is a looser intention, more spoken"
+    },
+    {
+      "English": "time limit / deadline (formal)",
+      "Hanzi": "期限",
+      "Pinyin": "qīxiàn",
+      "Example": "必须在规定期限内完成。 bìxū zài guīdìng qīxiàn nèi wánchéng: It has to be finished within the set time limit",
+      "Notes": "Written and official; in conversation people say 截止日期 or just deadline"
+    },
+    {
+      "English": "step (in a process)",
+      "Hanzi": "步骤",
+      "Pinyin": "bùzhòu",
+      "Example": "操作步骤都写在说明书上了。 cāozuò bùzhòu dōu xiě zài shuōmíngshū shang le: The steps are all written in the manual",
+      "Notes": "Written-leaning; in speech people often just say 一步"
+    },
+    {
+      "English": "to check / inspect (for mistakes or problems)",
+      "Hanzi": "检查",
+      "Pinyin": "jiǎnchá",
+      "Example": "交之前再检查一遍。 jiāo zhīqián zài jiǎnchá yí biàn: Check it once more before you hand it in",
+      "Notes": "Also a medical checkup: 去医院检查"
+    },
+    {
+      "English": "to adjust",
+      "Hanzi": "调整",
+      "Pinyin": "tiáozhěng",
+      "Example": "时间可能要调整一下。 shíjiān kěnéng yào tiáozhěng yíxià: We may need to adjust the timing",
+      "Notes": "调 is tiáo here, not diào"
+    },
+    {
+      "English": "to not have enough time (to make it)",
+      "Hanzi": "来不及",
+      "Pinyin": "láibují",
+      "Example": "现在出发已经来不及了。 xiànzài chūfā yǐjīng láibují le: It's too late to leave now",
+      "Notes": "Opposite: 来得及 = there's still time"
+    },
+    {
+      "English": "to procrastinate / drag things out",
+      "Hanzi": "拖延",
+      "Pinyin": "tuōyán",
+      "Example": "他总是拖延，最后一天才开始写。 tā zǒngshì tuōyán, zuìhòu yì tiān cái kāishǐ xiě: He always procrastinates and only starts writing on the last day",
+      "Notes": "拖延症 = chronic procrastination; spoken: 别拖了"
+    },
+    {
+      "English": "to get it done / sort it out (colloquial)",
+      "Hanzi": "搞定",
+      "Pinyin": "gǎodìng",
+      "Example": "放心，明天之前肯定搞定。 fàngxīn, míngtiān zhīqián kěndìng gǎodìng: Don't worry, it'll definitely be done before tomorrow",
+      "Notes": "Casual; also works for people: 老板搞定了 = the boss is on board"
+    },
+    {
+      "English": "to rush to finish (work against a deadline)",
+      "Hanzi": "赶工",
+      "Pinyin": "gǎngōng",
+      "Example": "这几天都在赶工，周末也没休息。 zhè jǐ tiān dōu zài gǎngōng, zhōumò yě méi xiūxi: We've been rushing to finish all week, no weekend either",
+      "Notes": "赶 = rush: 赶进度 = catch up on schedule, 赶时间 = be in a hurry"
+    },
+    {
+      "English": "to keep pushing (someone to get something done)",
+      "Hanzi": "督促",
+      "Pinyin": "dūcù",
+      "Example": "你得督促他按时交。 nǐ děi dūcù tā ànshí jiāo: You'll have to keep on him to hand it in on time",
+      "Notes": "督促 = keep supervising and pushing; 催 = hurry someone up (spoken, one-off): 催一下"
+    },
+    {
+      "English": "to assign / allocate (tasks, resources)",
+      "Hanzi": "分配",
+      "Pinyin": "fēnpèi",
+      "Example": "任务都已经分配好了。 rènwu dōu yǐjīng fēnpèi hǎo le: The tasks have all been assigned",
+      "Notes": "分配 = handed out from above; 分工 = people split the work among themselves"
+    },
+    {
+      "English": "to liaise with (the person handling the other side)",
+      "Hanzi": "对接",
+      "Pinyin": "duìjiē",
+      "Example": "这件事你跟财务那边对接一下。 zhè jiàn shì nǐ gēn cáiwù nàbiān duìjiē yíxià: Liaise with finance on this",
+      "Notes": "Office jargon; 对接人 = contact person"
+    },
+    {
+      "English": "on time (by the scheduled date)",
+      "Hanzi": "按时",
+      "Pinyin": "ànshí",
+      "Example": "这些活儿能按时做完吗？ zhèxiē huór néng ànshí zuòwán ma: Can this work be finished on time?",
+      "Notes": "按时 = by the scheduled time; 准时 = punctual, at the exact moment"
+    },
+    {
+      "English": "to fall behind (schedule, others)",
+      "Hanzi": "落后",
+      "Pinyin": "luòhòu",
+      "Example": "我们比原计划落后了一个星期。 wǒmen bǐ yuán jìhuà luòhòu le yí gè xīngqī: We're a week behind the original plan",
+      "Notes": "Also an adjective for places: 落后地区 = underdeveloped region"
+    },
+    {
+      "English": "to divide up the work",
+      "Hanzi": "分工",
+      "Pinyin": "fēngōng",
+      "Example": "我们先分一下工吧。 wǒmen xiān fēn yíxià gōng ba: Let's split up the work first",
+      "Notes": "Separable: 分一下工; also a noun: 分工明确 = clear division of labor"
+    },
+    {
+      "English": "Let's take it one step at a time.",
+      "Hanzi": "一步一步来。",
+      "Pinyin": "yí bù yí bù lái",
+      "Example": "",
+      "Notes": "Also said to calm someone who's overwhelmed"
+    },
+    {
+      "English": "I'll get back to you as soon as possible.",
+      "Hanzi": "我尽快回复你。",
+      "Pinyin": "wǒ jǐnkuài huífù nǐ",
+      "Example": "",
+      "Notes": "尽快 = as soon as possible; 回复 = reply (messages, emails)"
+    },
+    {
+      "English": "Something came up. Can we do it another day?",
+      "Hanzi": "我临时有事，能不能改天？",
+      "Pinyin": "wǒ línshí yǒu shì, néng bu néng gǎitiān",
+      "Example": "",
+      "Notes": "临时 = last-minute; 改天 = another day"
+    }
+  ]
+}

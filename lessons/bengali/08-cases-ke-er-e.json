@@ -1,0 +1,133 @@
+{
+  "title": "Cases: -ke, -er, -e",
+  "focus": "Object/to -ke (tomake), possession -er / -r (amar, kukurer), location -e / -te (barite, Kolkatay).",
+  "body": "# Cases: -ke, -er, -e\n\nBengali adds short endings to nouns where English uses words like *to*, *'s* and *in*. You've already met all three: **amake jete hobe**, **amar khide peyeche**, **ami barite khai**.\n\n**-ke: to / object.** Use it for the person (or pet) something is done to or given to: **ami tomake bhalobashi** (I love you), **Ollie-ke khabar dao** (give Ollie food). Things usually don't take -ke: **ami boi porchi**, not boi-ke.\n\n**-er / -r: possession ('s / of).** After a consonant, add **-er**: kukur → **kukurer**. After a vowel, add **-r**: bondhu → **bondhur**, Ollie → **Ollie-r**, bari → **barir**.\n\n**-e / -te / -y: location (in, at, on).** After a consonant, add **-e**: ghor → **ghore**, dokan → **dokane**. After i or u, add **-te**: bari → **barite**. After a or o, add **-y**: Kolkata → **Kolkatay**, bichana → **bichanay**.\n\n| | -ke (to) | -r (of) | location |\n|---|---|---|---|\n| ami | **amake** | **amar** | |\n| tumi | **tomake** | **tomar** | |\n| o | **oke** | **or** | |\n| ke (who) | **kake** (whom) | **kar** (whose) | |\n| Ollie | Ollie-ke | Ollie-r | |\n| kukur | kukur-ke | kukurer | |\n| bari | | barir | barite |\n| ghor | | | ghore |\n| Kolkata | | Kolkatar | Kolkatay |\n\n## Examples\n\n- **amake ektu jol dao**: give me a little water\n- **ami tomake bhalobashi**: I love you\n- **ami oke dekhlam**: I saw him/her\n- **tumi kake bolle?**: who did you tell?\n- **Ollie-r khabar**: Ollie's food\n- **amar bondhur bari**: my friend's house\n- **tomar bari kothay?**: where's your house?\n- **ami Kolkatay thaki**: I live in Kolkata\n- **Ollie ghore ache**: Ollie is in the room\n- **Ollie bichanay ghumocche**: Ollie is sleeping on the bed\n\n## Common mistakes\n\n- ❌ **ami tumi bhalobashi**. When you is the object, it becomes ✅ **ami tomake bhalobashi**. The same goes for ami → **amake** and o → **oke**.\n- ❌ **amer**, **tumir**. The pronouns have their own forms: ✅ **amar**, ✅ **tomar**, ✅ **or**.\n",
+  "cards": [
+    {
+      "English": "Give me a little water",
+      "Romanization": "amake ektu jol dao",
+      "Bengali": "আমাকে একটু জল দাও",
+      "Notes": "amake = (to) me; ektu = a little; dao = give (to a friend)"
+    },
+    {
+      "English": "Tell me",
+      "Romanization": "amake bolo",
+      "Bengali": "আমাকে বলো",
+      "Notes": "amake = (to) me; bolo = say/tell (to a friend)"
+    },
+    {
+      "English": "I love you",
+      "Romanization": "ami tomake bhalobashi",
+      "Bengali": "আমি তোমাকে ভালোবাসি",
+      "Notes": "tomake = you (object); bhalobasha = to love"
+    },
+    {
+      "English": "I'll call you",
+      "Romanization": "ami tomake phone korbo",
+      "Bengali": "আমি তোমাকে ফোন করবো",
+      "Notes": "lit. 'I to-you phone will-do'"
+    },
+    {
+      "English": "I'm telling you",
+      "Romanization": "ami tomake bolchi",
+      "Bengali": "আমি তোমাকে বলছি",
+      "Notes": "tomake + bolchi (I am saying)"
+    },
+    {
+      "English": "I saw him/her",
+      "Romanization": "ami oke dekhlam",
+      "Bengali": "আমি ওকে দেখলাম",
+      "Notes": "o → oke when it's the object"
+    },
+    {
+      "English": "Give Ollie food",
+      "Romanization": "Ollie-ke khabar dao",
+      "Bengali": "অলিকে খাবার দাও",
+      "Notes": "Ollie + -ke = to Ollie; khabar = food"
+    },
+    {
+      "English": "Call Ollie (call him over)",
+      "Romanization": "Ollie-ke dako",
+      "Bengali": "অলিকে ডাকো",
+      "Notes": "daka = to call someone over; -ke marks who"
+    },
+    {
+      "English": "Who did you tell?",
+      "Romanization": "tumi kake bolle?",
+      "Bengali": "তুমি কাকে বললে?",
+      "Notes": "ke (who) → kake (whom); bolle = you said"
+    },
+    {
+      "English": "my cat",
+      "Romanization": "amar beral",
+      "Bengali": "আমার বেড়াল",
+      "Notes": "amar = my (ami + r)"
+    },
+    {
+      "English": "your house",
+      "Romanization": "tomar bari",
+      "Bengali": "তোমার বাড়ি",
+      "Notes": "tomar = your (tumi → tomar)"
+    },
+    {
+      "English": "his/her name",
+      "Romanization": "or naam",
+      "Bengali": "ওর নাম",
+      "Notes": "or = his/her (o + r)"
+    },
+    {
+      "English": "Ollie's food",
+      "Romanization": "Ollie-r khabar",
+      "Bengali": "অলির খাবার",
+      "Notes": "ends in a vowel sound, so just -r"
+    },
+    {
+      "English": "the dog's food",
+      "Romanization": "kukurer khabar",
+      "Bengali": "কুকুরের খাবার",
+      "Notes": "kukur ends in a consonant, so -er"
+    },
+    {
+      "English": "my friend's house",
+      "Romanization": "amar bondhur bari",
+      "Bengali": "আমার বন্ধুর বাড়ি",
+      "Notes": "bondhu (friend) + -r; amar = my"
+    },
+    {
+      "English": "Where's your house?",
+      "Romanization": "tomar bari kothay?",
+      "Bengali": "তোমার বাড়ি কোথায়?",
+      "Notes": "tomar (your) + bari + kothay (where)"
+    },
+    {
+      "English": "This is my book",
+      "Romanization": "eta amar boi",
+      "Bengali": "এটা আমার বই",
+      "Notes": "no verb needed: 'this my book'"
+    },
+    {
+      "English": "I live in Kolkata",
+      "Romanization": "ami Kolkatay thaki",
+      "Bengali": "আমি কলকাতায় থাকি",
+      "Notes": "Kolkata ends in a, so -y for 'in'; thaki = I live"
+    },
+    {
+      "English": "Ollie is in the room",
+      "Romanization": "Ollie ghore ache",
+      "Bengali": "অলি ঘরে আছে",
+      "Notes": "ghor + -e = in the room; ache = is (somewhere)"
+    },
+    {
+      "English": "Ollie is sleeping on the bed",
+      "Romanization": "Ollie bichanay ghumocche",
+      "Bengali": "অলি বিছানায় ঘুমোচ্ছে",
+      "Notes": "bichana (bed) + -y = on the bed"
+    },
+    {
+      "English": "The cat is eating at home",
+      "Romanization": "beral-ta barite khacche",
+      "Bengali": "বেড়ালটা বাড়িতে খাচ্ছে",
+      "Notes": "bari + -te = at home; khacche = is eating"
+    }
+  ]
+}

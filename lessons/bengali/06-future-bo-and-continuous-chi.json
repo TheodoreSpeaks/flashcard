@@ -1,0 +1,133 @@
+{
+  "title": "Future -bo and continuous -chi",
+  "focus": "Future (ami jabo, tumi jabe, o jabe) and present continuous (ami khacchi, tumi korcho); plans and what's happening now.",
+  "body": "# Future -bo and continuous -chi\n\nTwo new tenses this time: the **future** (*I will eat*) and the **present continuous** (*I am eating right now*). Both work like the simple past: take the stem and add an ending for the person.\n\n**Future:** ami → **-bo**, tumi → **-be**, o → **-be**. So **ami jabo** (I'll go), **tumi jabe** (you'll go), **o jabe** (he/she'll go). Use it for plans, offers and promises, often with **kal** (tomorrow).\n\n**Continuous:** ami → **-chi**, tumi → **-cho**, o → **-che**. So **ami korchi** (I'm doing), **tumi korcho** (you're doing), **o korche** (he/she's doing). When the stem ends in a vowel (kha-, ja-, de-), the ch doubles: **khacchi**, **jacchi**, **dicchi**.\n\n| Verb | Future: ami / tumi, o | Continuous: ami / tumi / o |\n|---|---|---|\n| khaoa (eat) | khabo / khabe | khacchi / khaccho / khacche |\n| jaoa (go) | jabo / jabe | jacchi / jaccho / jacche |\n| kora (do) | korbo / korbe | korchi / korcho / korche |\n| asha (come) | ashbo / ashbe | ashchi / ashcho / ashche |\n| deoa (give) | debo / debe | dicchi / diccho / dicche |\n| kena (buy) | **kinbo** / kinbe | **kinchi** / kincho / kinche |\n| ghumono (sleep) | ghumobo / ghumobe | ghumocchi / ghumoccho / ghumocche |\n\n**kena** uses the same **kin-** stem you met in the past (kinlam). For \"we\" (amra) use the ami forms, and for \"they\" (ora) use the o forms.\n\n## Examples\n\n- **tumi cha khabe?**: will you have some tea? (the normal way to offer)\n- **ami kal korbo**: I'll do it tomorrow\n- **o kal jabe**: he/she will go tomorrow\n- **ami tomake debo**: I'll give it to you\n- **kal dekha hobe**: see you tomorrow\n- **tumi ki korcho?**: what are you doing?\n- **Ollie ghumocche**: Ollie is sleeping\n- **ami ashchi!**: I'm coming!\n- **brishti hocche**: it's raining\n- **Ollie ekhon khacche, ami pore khabo**: Ollie is eating now, I'll eat later\n\n## Common mistakes\n\n- ❌ **ami kheyechi** for \"I'm eating\". That means *I've eaten*. Right now is ✅ **ami khacchi**.\n- ❌ **tumi khabo**. The -bo ending is only for ami. With tumi and o, use ✅ **tumi khabe**, ✅ **o khabe**.\n",
+  "cards": [
+    {
+      "English": "You will eat",
+      "Romanization": "tumi khabe",
+      "Bengali": "তুমি খাবে",
+      "Notes": "khaoa → kha- + -be (the tumi/o future ending)"
+    },
+    {
+      "English": "He/she will eat",
+      "Romanization": "o khabe",
+      "Bengali": "ও খাবে",
+      "Notes": "same -be ending as tumi; only ami gets -bo"
+    },
+    {
+      "English": "You will go",
+      "Romanization": "tumi jabe",
+      "Bengali": "তুমি যাবে",
+      "Notes": "jaoa → ja- + -be; the future uses the plain stem ja-, not ge-"
+    },
+    {
+      "English": "He/she will go tomorrow",
+      "Romanization": "o kal jabe",
+      "Bengali": "ও কাল যাবে",
+      "Notes": "kal + future = tomorrow; kal + past = yesterday"
+    },
+    {
+      "English": "Will you have some tea?",
+      "Romanization": "tumi cha khabe?",
+      "Bengali": "তুমি চা খাবে?",
+      "Notes": "lit. 'you tea will-eat?'; the everyday way to offer tea"
+    },
+    {
+      "English": "What will you eat?",
+      "Romanization": "tumi ki khabe?",
+      "Bengali": "তুমি কী খাবে?",
+      "Notes": "ki (what) goes right before the verb"
+    },
+    {
+      "English": "Where will you go?",
+      "Romanization": "tumi kothay jabe?",
+      "Bengali": "তুমি কোথায় যাবে?",
+      "Notes": "kothay (where) + jabe (you will go)"
+    },
+    {
+      "English": "I'll do it tomorrow",
+      "Romanization": "ami kal korbo",
+      "Bengali": "আমি কাল করবো",
+      "Notes": "kora → kor- + -bo; 'it' is left out"
+    },
+    {
+      "English": "I'll buy tea",
+      "Romanization": "ami cha kinbo",
+      "Bengali": "আমি চা কিনবো",
+      "Notes": "kena → kin- + -bo; same kin- stem as kinlam"
+    },
+    {
+      "English": "I'll give it to you",
+      "Romanization": "ami tomake debo",
+      "Bengali": "আমি তোমাকে দেবো",
+      "Notes": "tomake = to you; deoa → de- + -bo"
+    },
+    {
+      "English": "See you tomorrow",
+      "Romanization": "kal dekha hobe",
+      "Bengali": "কাল দেখা হবে",
+      "Notes": "lit. 'tomorrow seeing will happen'; hobe = will happen"
+    },
+    {
+      "English": "I'm going (right now)",
+      "Romanization": "ami jacchi",
+      "Bengali": "আমি যাচ্ছি",
+      "Notes": "ja- + -cchi; the ch doubles after a vowel stem"
+    },
+    {
+      "English": "What are you doing?",
+      "Romanization": "tumi ki korcho?",
+      "Bengali": "তুমি কী করছো?",
+      "Notes": "kor- + -cho (the tumi continuous ending)"
+    },
+    {
+      "English": "You are eating (right now)",
+      "Romanization": "tumi khaccho",
+      "Bengali": "তুমি খাচ্ছো",
+      "Notes": "kha- + -ccho; compare tumi khao = you eat (in general)"
+    },
+    {
+      "English": "Ollie is sleeping (right now)",
+      "Romanization": "Ollie ghumocche",
+      "Bengali": "অলি ঘুমোচ্ছে",
+      "Notes": "ghumono → ghumo- + -cche (the o ending)"
+    },
+    {
+      "English": "I'm coming!",
+      "Romanization": "ami ashchi!",
+      "Bengali": "আমি আসছি!",
+      "Notes": "asha → ash- + -chi; also said when you're about to leave: 'I'm off'"
+    },
+    {
+      "English": "I'm reading a book (right now)",
+      "Romanization": "ami boi porchi",
+      "Bengali": "আমি বই পড়ছি",
+      "Notes": "pora → por- + -chi; no 'a' needed before boi"
+    },
+    {
+      "English": "It's raining",
+      "Romanization": "brishti hocche",
+      "Bengali": "বৃষ্টি হচ্ছে",
+      "Notes": "lit. 'rain is happening'; hoa → ho- + -cche"
+    },
+    {
+      "English": "Where are you going?",
+      "Romanization": "tumi kothay jaccho?",
+      "Bengali": "তুমি কোথায় যাচ্ছো?",
+      "Notes": "ja- + -ccho; compare kothay jabe? = where will you go?"
+    },
+    {
+      "English": "I'm watching you (to Ollie)",
+      "Romanization": "ami tomake dekhchi",
+      "Bengali": "আমি তোমাকে দেখছি",
+      "Notes": "tomake = you (object); dekh- + -chi"
+    },
+    {
+      "English": "Ollie is eating now, I'll eat later",
+      "Romanization": "Ollie ekhon khacche, ami pore khabo",
+      "Bengali": "অলি এখন খাচ্ছে, আমি পরে খাবো",
+      "Notes": "khacche = is eating; pore = later; khabo = I will eat"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "title": "News and society",
+  "focus": "政府, 政策, 经济, 选举, 法律, 抗议, 物价, 失业, 移民, 环境污染, 气候变化, 社会, 新闻, 报道, 媒体, 舆论, 腐败, 改革, 发展, 贫富差距, 老龄化",
+  "body": "# News and society\n\nFamily dinners turn to the news sooner or later: prices, jobs, elections, housing. These words let you follow a news segment and give an opinion without switching to English. Many are formal, but they are used in ordinary conversation about current events.\n\n| Chinese | Pinyin | Meaning |\n|---|---|---|\n| 政府 | zhèngfǔ | government |\n| 政策 | zhèngcè | policy (government or company) |\n| 政治 | zhèngzhì | politics |\n| 经济 | jīngjì | the economy |\n| 选举 | xuǎnjǔ | election |\n| 投票 | tóupiào | to vote / cast a ballot |\n| 法律 | fǎlǜ | law (the legal system) |\n| 抗议 | kàngyì | to protest |\n| 物价 | wùjià | prices (of goods in general) / cost of living |\n| 失业 | shīyè | to be unemployed / lose one's job |\n| 移民 | yímín | to immigrate / immigrant |\n| 环境污染 | huánjìng wūrǎn | environmental pollution |\n| 气候变化 | qìhòu biànhuà | climate change |\n| 社会 | shèhuì | society |\n| 新闻 | xīnwén | the news |\n| 报道 | bàodào | to report (in the news) / news report |\n| 媒体 | méitǐ | the media |\n| 舆论 | yúlùn | public opinion |\n| 腐败 | fǔbài | corruption |\n| 改革 | gǎigé | reform |\n| 发展 | fāzhǎn | development / to develop (a city, economy) |\n| 贫富差距 | pínfù chājù | wealth gap / gap between rich and poor |\n| 老龄化 | lǎolínghuà | population aging |\n| 争议 | zhēngyì | controversy / dispute |\n| 战争 | zhànzhēng | war |\n| 关注 | guānzhù | to follow closely / keep an eye on (news, an issue) |\n| 房价 | fángjià | housing prices |\n\n## Which word?\n\n- **政策 vs 政治**: 政策 is a specific policy (新政策). 政治 is politics as a whole (不聊政治).\n- **选举 vs 投票**: 选举 is the election as an event. 投票 is what you do on the day (去投票).\n- **新闻 vs 消息**: 新闻 is news coverage. 消息 is a piece of information or a message (有消息吗?).\n- **报道 vs 报告**: 报道 is what journalists do. 报告 is a formal report to a boss or an official body.\n- **舆论 vs 媒体**: 媒体 are the outlets. 舆论 is public opinion, the pressure that builds up because of them.\n- **腐败 vs 贪污**: 腐败 is corruption in general. 贪污 is specifically embezzling public money.\n- **关注 vs 注意**: 关注 means you follow an issue over time. 注意 means notice or watch out.\n\n## Examples\n\n- 这个政策对小企业影响很大。 zhège zhèngcè duì xiǎo qǐyè yǐngxiǎng hěn dà: This policy hits small businesses hard\n- 今年经济不太好，工作很难找。 jīnnián jīngjì bú tài hǎo, gōngzuò hěn nán zhǎo: The economy's bad this year and jobs are hard to find\n- 大家都在关注这次选举。 dàjiā dōu zài guānzhù zhè cì xuǎnjǔ: Everyone is following this election\n- 这两年物价涨得太厉害了。 zhè liǎng nián wùjià zhǎng de tài lìhai le: Prices have shot up these past two years\n- 他失业半年了，还在找工作。 tā shīyè bàn nián le, hái zài zhǎo gōngzuò: He's been out of work for six months and is still looking\n- 很多媒体都报道了这件事。 hěn duō méitǐ dōu bàodào le zhè jiàn shì: Lots of outlets reported on this\n- 舆论压力太大，公司只好道歉。 yúlùn yālì tài dà, gōngsī zhǐhǎo dàoqiàn: Under heavy public pressure, the company had to apologize\n- 贫富差距越来越大。 pínfù chājù yuè lái yuè dà: The gap between rich and poor keeps growing\n- 人口老龄化是个大问题。 rénkǒu lǎolínghuà shì gè dà wèntí: The aging population is a big problem\n- 我一直在关注这件事。 wǒ yìzhí zài guānzhù zhè jiàn shì: I've been following this closely\n",
+  "cards": [
+    {
+      "English": "government",
+      "Hanzi": "政府",
+      "Pinyin": "zhèngfǔ",
+      "Example": "政府最近出台了新的补贴。 zhèngfǔ zuìjìn chūtái le xīn de bǔtiē: The government just rolled out new subsidies",
+      "Notes": "出台 = to roll out (a policy)"
+    },
+    {
+      "English": "policy (government or company)",
+      "Hanzi": "政策",
+      "Pinyin": "zhèngcè",
+      "Example": "这个政策对小企业影响很大。 zhège zhèngcè duì xiǎo qǐyè yǐngxiǎng hěn dà: This policy hits small businesses hard",
+      "Notes": "政策 = policy; 政治 = politics"
+    },
+    {
+      "English": "politics",
+      "Hanzi": "政治",
+      "Pinyin": "zhèngzhì",
+      "Example": "我们家吃饭的时候不聊政治。 wǒmen jiā chīfàn de shíhou bù liáo zhèngzhì: We don't talk politics at the dinner table",
+      "Notes": "政治敏感 = politically sensitive"
+    },
+    {
+      "English": "the economy",
+      "Hanzi": "经济",
+      "Pinyin": "jīngjì",
+      "Example": "今年经济不太好，工作很难找。 jīnnián jīngjì bú tài hǎo, gōngzuò hěn nán zhǎo: The economy's bad this year and jobs are hard to find",
+      "Notes": "Also 'economical' in some phrases: 经济舱 = economy class"
+    },
+    {
+      "English": "election",
+      "Hanzi": "选举",
+      "Pinyin": "xuǎnjǔ",
+      "Example": "大家都在关注这次选举。 dàjiā dōu zài guānzhù zhè cì xuǎnjǔ: Everyone is following this election",
+      "Notes": "选举 = the election as an event; 投票 = the act of voting"
+    },
+    {
+      "English": "to vote / cast a ballot",
+      "Hanzi": "投票",
+      "Pinyin": "tóupiào",
+      "Example": "你昨天去投票了吗？ nǐ zuótiān qù tóupiào le ma: Did you go vote yesterday?",
+      "Notes": "投……一票 = vote for someone"
+    },
+    {
+      "English": "law (the legal system)",
+      "Hanzi": "法律",
+      "Pinyin": "fǎlǜ",
+      "Example": "这在法律上是不允许的。 zhè zài fǎlǜ shang shì bù yǔnxǔ de: That's not allowed by law",
+      "Notes": "法律 = law in general; 违法 = illegal; 律师 = lawyer"
+    },
+    {
+      "English": "to protest",
+      "Hanzi": "抗议",
+      "Pinyin": "kàngyì",
+      "Example": "很多人上街抗议新政策。 hěn duō rén shàngjiē kàngyì xīn zhèngcè: Lots of people took to the streets to protest the new policy",
+      "Notes": "上街 = take to the streets; 示威 = demonstrate (more formal)"
+    },
+    {
+      "English": "prices (of goods in general) / cost of living",
+      "Hanzi": "物价",
+      "Pinyin": "wùjià",
+      "Example": "这两年物价涨得太厉害了。 zhè liǎng nián wùjià zhǎng de tài lìhai le: Prices have shot up these past two years",
+      "Notes": "物价 = the general price level; 价格 = the price of one item; 通胀 = inflation"
+    },
+    {
+      "English": "to be unemployed / lose one's job",
+      "Hanzi": "失业",
+      "Pinyin": "shīyè",
+      "Example": "他失业半年了，还在找工作。 tā shīyè bàn nián le, hái zài zhǎo gōngzuò: He's been out of work for six months and is still looking",
+      "Notes": "失业率 = unemployment rate; 被裁员 = laid off; 辞职 = quit"
+    },
+    {
+      "English": "to immigrate / immigrant",
+      "Hanzi": "移民",
+      "Pinyin": "yímín",
+      "Example": "他们一家十年前移民到了加拿大。 tāmen yìjiā shí nián qián yímín dào le Jiānádà: Their family immigrated to Canada ten years ago",
+      "Notes": "Both verb and noun; 新移民 = recent immigrants"
+    },
+    {
+      "English": "environmental pollution",
+      "Hanzi": "环境污染",
+      "Pinyin": "huánjìng wūrǎn",
+      "Example": "这个城市的环境污染很严重。 zhège chéngshì de huánjìng wūrǎn hěn yánzhòng: Pollution in this city is serious",
+      "Notes": "空气污染 = air pollution; 雾霾 = smog"
+    },
+    {
+      "English": "climate change",
+      "Hanzi": "气候变化",
+      "Pinyin": "qìhòu biànhuà",
+      "Example": "气候变化让夏天越来越热。 qìhòu biànhuà ràng xiàtiān yuè lái yuè rè: Climate change is making summers hotter and hotter",
+      "Notes": "全球变暖 = global warming"
+    },
+    {
+      "English": "society",
+      "Hanzi": "社会",
+      "Pinyin": "shèhuì",
+      "Example": "现在社会节奏太快了。 xiànzài shèhuì jiézòu tài kuài le: Society moves too fast these days",
+      "Notes": "社会问题 = social issue"
+    },
+    {
+      "English": "the news",
+      "Hanzi": "新闻",
+      "Pinyin": "xīnwén",
+      "Example": "你看今天的新闻了吗？ nǐ kàn jīntiān de xīnwén le ma: Did you see today's news?",
+      "Notes": "新闻 = news reports; 消息 = a piece of information or a message"
+    },
+    {
+      "English": "to report (in the news) / news report",
+      "Hanzi": "报道",
+      "Pinyin": "bàodào",
+      "Example": "很多媒体都报道了这件事。 hěn duō méitǐ dōu bàodào le zhè jiàn shì: Lots of outlets reported on this",
+      "Notes": "报道 = journalism; 报告 = a formal report to a boss or an official body"
+    },
+    {
+      "English": "the media",
+      "Hanzi": "媒体",
+      "Pinyin": "méitǐ",
+      "Example": "社交媒体上什么说法都有。 shèjiāo méitǐ shang shénme shuōfǎ dōu yǒu: On social media you hear every version of the story",
+      "Notes": "社交媒体 = social media; 自媒体 = independent creators"
+    },
+    {
+      "English": "public opinion",
+      "Hanzi": "舆论",
+      "Pinyin": "yúlùn",
+      "Example": "舆论压力太大，公司只好道歉。 yúlùn yālì tài dà, gōngsī zhǐhǎo dàoqiàn: Under heavy public pressure, the company had to apologize",
+      "Notes": "Formal; 网上的舆论 = online opinion"
+    },
+    {
+      "English": "corruption",
+      "Hanzi": "腐败",
+      "Pinyin": "fǔbài",
+      "Example": "那个官员因为腐败被抓了。 nàge guānyuán yīnwèi fǔbài bèi zhuā le: That official was arrested for corruption",
+      "Notes": "腐败 = corruption in general; 贪污 = embezzle; 反腐 = anti-corruption"
+    },
+    {
+      "English": "reform",
+      "Hanzi": "改革",
+      "Pinyin": "gǎigé",
+      "Example": "教育改革一直都有争议。 jiàoyù gǎigé yìzhí dōu yǒu zhēngyì: Education reform has always been controversial",
+      "Notes": "改革开放 = China's 'reform and opening up'"
+    },
+    {
+      "English": "development / to develop (a city, economy)",
+      "Hanzi": "发展",
+      "Pinyin": "fāzhǎn",
+      "Example": "这几年这个城市发展得很快。 zhè jǐ nián zhège chéngshì fāzhǎn de hěn kuài: This city has developed fast in the last few years",
+      "Notes": "发展中国家 = developing country"
+    },
+    {
+      "English": "wealth gap / gap between rich and poor",
+      "Hanzi": "贫富差距",
+      "Pinyin": "pínfù chājù",
+      "Example": "贫富差距越来越大。 pínfù chājù yuè lái yuè dà: The gap between rich and poor keeps growing",
+      "Notes": "差距 = gap: 拉大差距 = widen the gap"
+    },
+    {
+      "English": "population aging",
+      "Hanzi": "老龄化",
+      "Pinyin": "lǎolínghuà",
+      "Example": "人口老龄化是个大问题。 rénkǒu lǎolínghuà shì gè dà wèntí: The aging population is a big problem",
+      "Notes": "老龄化社会 = aging society; 养老 = elder care / retirement"
+    },
+    {
+      "English": "controversy / dispute",
+      "Hanzi": "争议",
+      "Pinyin": "zhēngyì",
+      "Example": "这个决定引起了很大的争议。 zhège juédìng yǐnqǐ le hěn dà de zhēngyì: The decision caused a lot of controversy",
+      "Notes": "有争议 = controversial; 争论 = to argue a point"
+    },
+    {
+      "English": "war",
+      "Hanzi": "战争",
+      "Pinyin": "zhànzhēng",
+      "Example": "战争让很多人失去了家园。 zhànzhēng ràng hěn duō rén shīqù le jiāyuán: The war cost many people their homes",
+      "Notes": "打仗 = fight a war (spoken)"
+    },
+    {
+      "English": "to follow closely / keep an eye on (news, an issue)",
+      "Hanzi": "关注",
+      "Pinyin": "guānzhù",
+      "Example": "我一直在关注这件事。 wǒ yìzhí zài guānzhù zhè jiàn shì: I've been following this closely",
+      "Notes": "关注 = follow with interest (also on social media); 注意 = notice or be careful"
+    },
+    {
+      "English": "housing prices",
+      "Hanzi": "房价",
+      "Pinyin": "fángjià",
+      "Example": "房价太高，年轻人买不起房。 fángjià tài gāo, niánqīngrén mǎi bu qǐ fáng: Housing is so expensive young people can't afford to buy",
+      "Notes": "房价涨/跌 = prices rise/fall"
+    },
+    {
+      "English": "What do you think about this?",
+      "Hanzi": "你怎么看这件事？",
+      "Pinyin": "nǐ zěnme kàn zhè jiàn shì",
+      "Example": "",
+      "Notes": "怎么看 = what's your view; more natural than 你的意见是什么"
+    },
+    {
+      "English": "It's hard to say who's right and who's wrong.",
+      "Hanzi": "很难说谁对谁错。",
+      "Pinyin": "hěn nán shuō shéi duì shéi cuò",
+      "Example": "",
+      "Notes": "A neutral way to stay out of an argument"
+    },
+    {
+      "English": "I saw it on the news.",
+      "Hanzi": "我在新闻上看到的。",
+      "Pinyin": "wǒ zài xīnwén shang kàndào de",
+      "Example": "",
+      "Notes": "The 是……的 pattern (with 是 dropped) stresses where you saw it"
+    }
+  ]
+}

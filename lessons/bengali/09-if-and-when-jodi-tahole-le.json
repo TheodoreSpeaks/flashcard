@@ -1,0 +1,127 @@
+{
+  "title": "If and when: jodi ... tahole, -le",
+  "focus": "Conditionals with jodi ... tahole and the -le conditional (brishti hole = if it rains); time clauses.",
+  "body": "# If and when: jodi ... tahole, -le\n\nThere are two ways to say \"if\".\n\n**1. jodi ... tahole.** **jodi** means \"if\" and **tahole** means \"then\". The if-part uses the ordinary present tense: **jodi tumi jao, tahole ami-o jabo** (if you go, then I'll go too). In speech, **tahole** is often dropped.\n\n**2. The -le form.** Add **-le** to the verb stem and drop jodi: **brishti hole** (if it rains), **tumi gele** (if you go), **somoy pele** (if I get time). It's shorter and very common in Kolkata speech. It works for any person, because the -le form doesn't change.\n\nThe -le form also means **when** or **once**: **tumi ele amra cha khabo** (when you come, we'll have tea). The context tells you whether it's \"if\" or \"when\".\n\n| Verb | -le form | Example |\n|---|---|---|\n| hoa (happen, be) | **hole** | brishti hole = if it rains |\n| jaoa (go) | **gele** | tumi gele = if you go |\n| asha (come) | **ele** | tumi ele = if/when you come |\n| paoa (get) | **pele** | somoy pele = if I get time |\n| chaoa (want) | **chaile** | tumi chaile = if you want |\n| para (can) | **parle** | parle = if I can |\n| khaoa (eat) | **khele** | Ollie khele = if/once Ollie eats |\n| bola (say) | **bolle** | aste bolle = if you speak slowly |\n\nTo say \"if not\", put **na** before the -le verb: **tumi na gele** (if you don't go).\n\n## Examples\n\n- **kal brishti hole ami jabo na**: if it rains tomorrow, I won't go\n- **thanda hole ami barite thakbo**: if it's cold, I'll stay home\n- **parle ashbo**: I'll come if I can\n- **tumi chaile ami tomake debo**: if you want, I'll give it to you\n- **Ollie-ke dekhle amake bolo**: if you see Ollie, tell me\n- **tomake jete hole jao**: if you have to go, go\n- **tumi aste aste bolle ami bujhte pari**: if you speak slowly, I can understand\n- **jodi Ollie-r khide pay, tahole oke khabar dao**: if Ollie is hungry, give him food\n\n## Common mistakes\n\n- ❌ **jodi tumi gele**. Don't combine jodi with -le. Use either ✅ **jodi tumi jao** or ✅ **tumi gele**.\n- Don't confuse the -le conditional with the tumi past: **tumi gele** can mean \"you went\" or \"if you go\". The second half of the sentence makes it clear.\n",
+  "cards": [
+    {
+      "English": "If it rains",
+      "Romanization": "brishti hole",
+      "Bengali": "বৃষ্টি হলে",
+      "Notes": "hoa → hole = if (it) happens; lit. 'rain if-happens'"
+    },
+    {
+      "English": "If it rains tomorrow, I won't go",
+      "Romanization": "kal brishti hole ami jabo na",
+      "Bengali": "কাল বৃষ্টি হলে আমি যাবো না",
+      "Notes": "brishti hole = if it rains; jabo na = won't go"
+    },
+    {
+      "English": "What will happen if it rains?",
+      "Romanization": "brishti hole ki hobe?",
+      "Bengali": "বৃষ্টি হলে কী হবে?",
+      "Notes": "hole = if it happens; hobe = will happen"
+    },
+    {
+      "English": "If it's cold, I'll stay home",
+      "Romanization": "thanda hole ami barite thakbo",
+      "Bengali": "ঠান্ডা হলে আমি বাড়িতে থাকবো",
+      "Notes": "thanda hole = if it's cold; thakbo = I'll stay"
+    },
+    {
+      "English": "If you go, I'll go too",
+      "Romanization": "jodi tumi jao, tahole ami-o jabo",
+      "Bengali": "যদি তুমি যাও, তাহলে আমিও যাবো",
+      "Notes": "jodi = if; tahole = then; ami-o = me too"
+    },
+    {
+      "English": "If you don't go, I won't go either",
+      "Romanization": "tumi na gele ami-o jabo na",
+      "Bengali": "তুমি না গেলে আমিও যাবো না",
+      "Notes": "na goes before the -le verb: na gele = if (you) don't go"
+    },
+    {
+      "English": "If you want, you can come",
+      "Romanization": "tumi chaile ashte paro",
+      "Bengali": "তুমি চাইলে আসতে পারো",
+      "Notes": "chaoa → chaile = if (you) want; ashte paro = you can come"
+    },
+    {
+      "English": "If you want, I'll give it to you",
+      "Romanization": "tumi chaile ami tomake debo",
+      "Bengali": "তুমি চাইলে আমি তোমাকে দেবো",
+      "Notes": "chaile = if you want; tomake = to you"
+    },
+    {
+      "English": "If you want to eat, eat",
+      "Romanization": "khete chaile khao",
+      "Bengali": "খেতে চাইলে খাও",
+      "Notes": "khete chai (want to eat) → khete chaile (if want to eat)"
+    },
+    {
+      "English": "I'll come if I can",
+      "Romanization": "parle ashbo",
+      "Bengali": "পারলে আসবো",
+      "Notes": "para → parle = if (I) can; ashbo = I'll come"
+    },
+    {
+      "English": "If I get time, I'll come",
+      "Romanization": "somoy pele ami ashbo",
+      "Bengali": "সময় পেলে আমি আসবো",
+      "Notes": "somoy (time) + pele (if get); paoa → pe-"
+    },
+    {
+      "English": "If it's good, I'll buy it",
+      "Romanization": "bhalo hole kinbo",
+      "Bengali": "ভালো হলে কিনবো",
+      "Notes": "bhalo hole = if (it) is good; kinbo = I'll buy"
+    },
+    {
+      "English": "If you see Ollie, tell me",
+      "Romanization": "Ollie-ke dekhle amake bolo",
+      "Bengali": "অলিকে দেখলে আমাকে বলো",
+      "Notes": "dekhle = if (you) see; Ollie-ke and amake both take -ke"
+    },
+    {
+      "English": "If you have to go, go",
+      "Romanization": "tomake jete hole jao",
+      "Bengali": "তোমাকে যেতে হলে যাও",
+      "Notes": "tomake jete hobe (you have to go) → jete hole (if you have to go)"
+    },
+    {
+      "English": "If you speak slowly, I can understand",
+      "Romanization": "tumi aste aste bolle ami bujhte pari",
+      "Bengali": "তুমি আস্তে আস্তে বললে আমি বুঝতে পারি",
+      "Notes": "bola → bolle = if (you) speak; the l doubles"
+    },
+    {
+      "English": "If you come to Kolkata, tell me",
+      "Romanization": "tumi Kolkatay ele amake bolo",
+      "Bengali": "তুমি কলকাতায় এলে আমাকে বলো",
+      "Notes": "asha → ele = if/when (you) come (irregular)"
+    },
+    {
+      "English": "When you come, we'll have tea",
+      "Romanization": "tumi ele amra cha khabo",
+      "Bengali": "তুমি এলে আমরা চা খাবো",
+      "Notes": "ele = when you come; amra (we) takes -bo like ami"
+    },
+    {
+      "English": "Once Ollie eats, he'll sleep",
+      "Romanization": "Ollie khele ghumobe",
+      "Bengali": "অলি খেলে ঘুমোবে",
+      "Notes": "khele = once/if (he) eats; ghumobe = will sleep"
+    },
+    {
+      "English": "If the food is hot, I won't eat",
+      "Romanization": "khabar-ta gorom hole ami khabo na",
+      "Bengali": "খাবারটা গরম হলে আমি খাবো না",
+      "Notes": "gorom hole = if (it) is hot; khabo na = won't eat"
+    },
+    {
+      "English": "If Ollie is hungry, give him food",
+      "Romanization": "jodi Ollie-r khide pay, tahole oke khabar dao",
+      "Bengali": "যদি অলির খিদে পায়, তাহলে ওকে খাবার দাও",
+      "Notes": "lit. 'if Ollie's hunger gets, then to-him food give'; oke = (to) him/her"
+    }
+  ]
+}

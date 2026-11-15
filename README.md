@@ -16,6 +16,7 @@ Packs are per-machine: install only the ones you're studying. `fc` with no argum
 fc list              # installed (✓) and available packs
 fc install <pack>    # start a pack
 fc uninstall <pack>  # delete a pack's cards and history (asks first)
+fc sync <pack>       # after git pull: update cards you already have from edited lessons
 ```
 
 ## Use

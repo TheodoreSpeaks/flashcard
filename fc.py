@@ -36,7 +36,7 @@ import readline  # noqa: F401  (line editing for input())
 ROOT = Path(__file__).resolve().parent
 PACKS_DIR = ROOT / "packs"
 LESSONS_DIR = ROOT / "lessons"
-COMMANDS = {"install", "uninstall", "new", "edit", "lesson", "unlock", "import", "cards", "add", "stats", "list", "help"}
+COMMANDS = {"install", "uninstall", "sync", "new", "edit", "lesson", "unlock", "import", "cards", "add", "stats", "list", "help"}
 DAY_ROLLOVER_HOURS = 4  # like Anki: a "day" starts at 4am
 REQUEUE_GAP = 5  # failed cards come back this many cards later
 KNOWN_IVL = 21  # cards added with --known start as mature reviews
@@ -901,6 +901,43 @@ def cmd_uninstall(name: str, args: list[str]) -> None:
     print(f"uninstalled {name}. lessons stay in {lesson_dir(name).relative_to(ROOT)}; reinstall with: fc install {name}")
 
 
+def cmd_sync(name: str, args: list[str]) -> None:
+    """Copy edited lesson files (and the shared pack guide) into cards already added.
+
+    A lesson card matches the note in the same unit with the same prompt and answer;
+    review history is untouched. Run after `git pull` or after editing lesson JSON.
+    """
+    if args:
+        raise SystemExit("usage: fc sync <pack>")
+    db = open_pack(name)
+    meta = read_meta(db)
+    notes = {}
+    for r in db.execute("select id, tags, flds from notes"):
+        unit = unit_of(r["tags"])
+        if unit is not None:
+            notes[(unit, dup_key(meta, note_fields(meta, r["flds"])))] = r
+    updated = 0
+    now = int(time.time())
+    for lesson in load_lessons(name, meta):
+        for card in lesson["cards"]:
+            r = notes.get((lesson["n"], dup_key(meta, card)))
+            if r is None:
+                continue
+            flds = "\x1f".join(card[f].strip() for f in meta["fields"])
+            if flds != r["flds"]:
+                sfld = card[meta["front"][0]].strip()
+                db.execute("update notes set flds = ?, sfld = ?, csum = ?, mod = ?, usn = -1 where id = ?",
+                           (flds, sfld, field_checksum(sfld), now, r["id"]))
+                updated += 1
+    shared = shared_meta_path(name)
+    guide_changed = shared.exists() and read_json_arg(str(shared))["guide"] != meta["guide"]
+    if guide_changed:
+        meta["guide"] = read_json_arg(str(shared))["guide"]
+        save_meta(db, meta)
+    db.commit()
+    print(f"{name}: updated {updated} cards from lesson files" + ("; pack guide updated" if guide_changed else ""))
+
+
 def cmd_list() -> None:
     installed = {p.stem for p in PACKS_DIR.glob("*.anki2")} if PACKS_DIR.exists() else set()
     available = {p.stem for p in PACKS_DIR.glob("*.json")} if PACKS_DIR.exists() else set()
@@ -922,6 +959,7 @@ USAGE = """usage:
   fc list                         installed packs (✓) and ones you can install
   fc install <pack>               start a pack from packs/<pack>.json
   fc uninstall <pack>             delete a pack's cards and review history
+  fc sync <pack>                  update your cards from edited lesson files (after git pull)
 
 for writing content (e.g. Claude):
   fc cards <pack> [--json]        every card with its review state
@@ -956,6 +994,7 @@ def main(argv: list[str]) -> None:
     {
         "install": lambda: cmd_install(name, args),
         "uninstall": lambda: cmd_uninstall(name, args),
+        "sync": lambda: cmd_sync(name, args),
         "new": lambda: cmd_new(name, args),
         "edit": lambda: cmd_edit(name),
         "lesson": lambda: cmd_lesson(name, args),

@@ -8,203 +8,203 @@
       "Hanzi": "会议",
       "Pinyin": "huìyì",
       "Example": "下午三点有个会议。 xiàwǔ sān diǎn yǒu ge huìyì: There's a meeting at three this afternoon",
-      "Notes": "开会 is the everyday verb 'have a meeting'; 会议 is the noun, more formal: 参加会议, 会议室."
+      "Notes": "会 huì meet, gather (开会, 晚会) + 议 yì discuss, 讠 speech (建议, 议论) = a gathering to discuss, so a meeting. 开会 is the everyday verb; 会议 is the noun, more formal: 参加会议, 会议室."
     },
     {
       "English": "project (at work)",
       "Hanzi": "项目",
       "Pinyin": "xiàngmù",
       "Example": "这个项目下个月要交。 zhège xiàngmù xià ge yuè yào jiāo: This project is due next month",
-      "Notes": "Also 'item' or 'event' in a list: 比赛项目 = sporting events."
+      "Notes": "项 xiàng item; originally nape of the neck, 页 head (项链 necklace) + 目 mù eye; item in a list (节目, 题目) = an item on the list, so a project. Also 'item / event': 比赛项目 = sporting events."
     },
     {
       "English": "deadline",
       "Hanzi": "截止日期",
       "Pinyin": "jiézhǐ rìqī",
       "Example": "截止日期是这周五。 jiézhǐ rìqī shì zhè zhōuwǔ: The deadline is this Friday",
-      "Notes": "Spoken often just 截止 / 最晚: 周五截止."
+      "Notes": "截 jié cut off (截图 screenshot) + 止 zhǐ stop (停止, 禁止) = cut off and stop; + 日期 date = the cutoff date, a deadline. Spoken often just 截止 / 最晚: 周五截止."
     },
     {
       "English": "to be in charge of / responsible for",
       "Hanzi": "负责",
       "Pinyin": "fùzé",
       "Example": "这个项目由小王负责。 zhège xiàngmù yóu Xiǎo Wáng fùzé: Xiao Wang is in charge of this project",
-      "Notes": "负责人 = person in charge. 对…负责 = be accountable for."
+      "Notes": "负 fù carry on the back, bear (负担) + 责 zé duty, blame (责任) = bear the duty, so be responsible / in charge. 负责人 = person in charge. 对…负责 = be accountable for."
     },
     {
       "English": "to report (to a superior, on progress)",
       "Hanzi": "汇报",
       "Pinyin": "huìbào",
       "Example": "我得跟领导汇报一下进度。 wǒ děi gēn lǐngdǎo huìbào yíxià jìndù: I need to report on progress to my boss",
-      "Notes": "汇报 goes upward, to superiors; 报告 is a written report or a formal announcement."
+      "Notes": "汇 huì converge, collect, 氵 water: streams flowing together (汇合) + 报 bào report (报告, 报纸) = gather it up and report, so report upward on progress. vs 报告 = a written report or formal announcement."
     },
     {
       "English": "to get promoted",
       "Hanzi": "升职",
       "Pinyin": "shēngzhí",
       "Example": "恭喜你升职了! gōngxǐ nǐ shēngzhí le: Congratulations on your promotion!",
-      "Notes": "升职加薪 = promotion and a raise, a common pair."
+      "Notes": "升 shēng rise (上升, 升旗) + 职 zhí post, job (职业, 职员) = rise in post, so get promoted. Shares 职 with 辞职. 升职加薪 = promotion and a raise, a common pair."
     },
     {
       "English": "to resign / quit (a job)",
       "Hanzi": "辞职",
       "Pinyin": "cízhí",
       "Example": "她上个月辞职了。 tā shàng ge yuè cízhí le: She quit last month",
-      "Notes": "辞职 = you quit; 被辞退 / 被开除 = you got fired."
+      "Notes": "辞 cí take leave, decline (告辞, 辞别) + 职 zhí post, job (职业, 职员) = take leave of your post, so resign. Shares 职 with 升职. 辞职 = you quit; 被辞退 / 被开除 = you got fired."
     },
     {
       "English": "job interview / to interview",
       "Hanzi": "面试",
       "Pinyin": "miànshì",
       "Example": "我明天上午有个面试。 wǒ míngtiān shàngwǔ yǒu ge miànshì: I have a job interview tomorrow morning",
-      "Notes": ""
+      "Notes": "面 miàn face (见面, 面对) + 试 shì try, test, 讠 speech (考试, 试试) = a face-to-face test, so a job interview. Mirror: 笔试 (笔 pen) = written test."
     },
     {
       "English": "résumé / CV",
       "Hanzi": "简历",
       "Pinyin": "jiǎnlì",
       "Example": "你把简历发给我看看。 nǐ bǎ jiǎnlì fā gěi wǒ kànkan: Send me your résumé and I'll take a look",
-      "Notes": ""
+      "Notes": "简 jiǎn simple, brief (简单) + 历 lì past experience (经历, 历史) = a brief history of you, so a résumé. 投简历 = send in a résumé."
     },
     {
       "English": "client (business customer)",
       "Hanzi": "客户",
       "Pinyin": "kèhù",
       "Example": "客户对这个方案不太满意。 kèhù duì zhège fāng'àn bú tài mǎnyì: The client isn't very happy with this proposal",
-      "Notes": "客户 = business client; 顾客 = shop customer."
+      "Notes": "客 kè guest (客人) + 户 hù household; originally a one-leaf door (窗户, 户口) = a guest household, a client account. 客户 = business client; 顾客 = shop customer."
     },
     {
       "English": "to cooperate / work together (between people or companies)",
       "Hanzi": "合作",
       "Pinyin": "hézuò",
       "Example": "希望以后有机会多合作。 xīwàng yǐhòu yǒu jīhuì duō hézuò: Hope we get to work together more in future",
-      "Notes": "合作愉快! = 'Here's to a good partnership!'"
+      "Notes": "合 hé join, combine (合适, 合唱) + 作 zuò do, work (工作, 作业) = work joined together, so cooperate. 合作愉快! = 'Here's to a good partnership!'"
     },
     {
       "English": "department (in a company)",
       "Hanzi": "部门",
       "Pinyin": "bùmén",
       "Example": "你在哪个部门? nǐ zài nǎge bùmén: Which department are you in?",
-      "Notes": ""
+      "Notes": "部 bù part, section (部分, 全部) + 门 mén door; also branch, category (专门) = a section-branch, so a department. 部 also names ministries: 外交部."
     },
     {
       "English": "manager (job title)",
       "Hanzi": "经理",
       "Pinyin": "jīnglǐ",
       "Example": "我们经理今天出差了。 wǒmen jīnglǐ jīntiān chūchāi le: Our manager is on a business trip today",
-      "Notes": "经理 is a title; 领导 is anyone above you."
+      "Notes": "经 jīng manage, pass through (经过, 经营) + 理 lǐ put in order, manage (管理, 整理) = manage and order things, so manager. 经理 is a job title; 领导 is anyone above you."
     },
     {
       "English": "the higher-ups / one's superior (mainland workplace word)",
       "Hanzi": "领导",
       "Pinyin": "lǐngdǎo",
       "Example": "这事得问问领导。 zhè shì děi wènwen lǐngdǎo: We'll have to ask the higher-ups about this",
-      "Notes": "Mainland offices say 领导 more than 老板 for one's superior."
+      "Notes": "领 lǐng lead; collar (领子, 带领) + 导 dǎo guide (导游 tour guide, 导演 director) = lead and guide, so the higher-ups. Mainland offices say 领导 more than 老板 for one's superior."
     },
     {
       "English": "to recruit / hire (staff)",
       "Hanzi": "招聘",
       "Pinyin": "zhāopìn",
       "Example": "我们部门最近在招聘。 wǒmen bùmén zuìjìn zài zhāopìn: Our department is hiring right now",
-      "Notes": "招人 is the casual spoken version."
+      "Notes": "招 zhāo beckon, 扌 hand (招手, 打招呼) + 聘 pìn engage, hire (聘请) = beckon and engage, so recruit staff. 招人 is the casual spoken version."
     },
     {
       "English": "training (for staff) / to train",
       "Hanzi": "培训",
       "Pinyin": "péixùn",
       "Example": "新员工要先培训一周。 xīn yuángōng yào xiān péixùn yì zhōu: New employees train for a week first",
-      "Notes": "培训 = job training; 训练 = athletic or military drills."
+      "Notes": "培 péi cultivate, 土 earth: bank soil around a plant (培养) + 训 xùn instruct, 讠 speech (训练, 教训) = cultivate and instruct, so staff training. 培训 = job training; 训练 = athletic or military drills."
     },
     {
       "English": "job performance (as evaluated)",
       "Hanzi": "绩效",
       "Pinyin": "jìxiào",
       "Example": "年底要做绩效考核。 niándǐ yào zuò jìxiào kǎohé: There's a performance review at year end",
-      "Notes": "绩效考核 = performance review; 绩效奖金 = performance bonus."
+      "Notes": "绩 jì achievement, results (成绩 school grades) + 效 xiào effect (效果) = results and effect, so performance as evaluated. Shares 效 with 效率. 绩效考核 = performance review; 绩效奖金 = performance bonus."
     },
     {
       "English": "to switch jobs (to another company)",
       "Hanzi": "跳槽",
       "Pinyin": "tiàocáo",
       "Example": "他又跳槽了,工资涨了不少。 tā yòu tiàocáo le, gōngzī zhǎng le bù shǎo: He switched jobs again and got a big pay rise",
-      "Notes": "Informal but universal."
+      "Notes": "跳 tiào jump, 足 foot (跳舞, 跳高) + 槽 cáo trough (水槽 sink, 马槽 manger) = jump to another feeding trough, like a horse changing mangers, so switch employers. Informal but universal."
     },
     {
       "English": "to ask a superior for instructions / approval",
       "Hanzi": "请示",
       "Pinyin": "qǐngshì",
       "Example": "这件事我得先请示一下经理。 zhè jiàn shì wǒ děi xiān qǐngshì yíxià jīnglǐ: I need to check with my manager first",
-      "Notes": "Formal office word; goes upward, like 汇报."
+      "Notes": "请 qǐng ask, request, 讠 speech (请问) + 示 shì show, instruct (表示, 指示) = ask to be shown instructions, so ask a superior for approval. Formal office word; goes upward, like 汇报."
     },
     {
       "English": "someone in the same industry / line of work",
       "Hanzi": "同行",
       "Pinyin": "tóngháng",
       "Example": "他是我同行,也做设计。 tā shì wǒ tóngháng, yě zuò shèjì: He's in my line of work, he's a designer too",
-      "Notes": "Read tóngháng here; tóngxíng means 'travel together'."
+      "Notes": "同 tóng same (同学, 同事) + 行 háng trade, line of business (银行, 行业) = same trade, so a peer in your industry. Read tóngháng here; tóngxíng (行 xíng go, 旅行) means 'travel together'."
     },
     {
       "English": "efficiency",
       "Hanzi": "效率",
       "Pinyin": "xiàolǜ",
       "Example": "这样做效率太低了。 zhèyàng zuò xiàolǜ tài dī le: Doing it this way is too inefficient",
-      "Notes": "效率高 / 效率低 = efficient / inefficient."
+      "Notes": "效 xiào effect, result (效果, 有效) + 率 lǜ rate (利率, 汇率) = rate of results, so efficiency. 效率高 / 效率低 = efficient / inefficient."
     },
     {
       "English": "progress (against a schedule)",
       "Hanzi": "进度",
       "Pinyin": "jìndù",
       "Example": "项目进度怎么样了? xiàngmù jìndù zěnmeyàng le: How's the project coming along?",
-      "Notes": "赶进度 = rush to catch up on schedule. 进步 is personal improvement."
+      "Notes": "进 jìn advance, go in (进来, 进步) + 度 dù degree, measure (温度, 速度) = degree of advance, so progress against a schedule. 赶进度 = rush to catch up. 进步 is personal improvement."
     },
     {
       "English": "pay and benefits (the whole package)",
       "Hanzi": "待遇",
       "Pinyin": "dàiyù",
       "Example": "那家公司待遇不错。 nà jiā gōngsī dàiyù búcuò: That company pays well and has good benefits",
-      "Notes": "待遇 = the whole package; 工资 = salary only."
+      "Notes": "待 dài treat (对待, 招待) + 遇 yù meet with, encounter (遇到) = the treatment you meet with, so pay and benefits. 待遇 = the whole package; 工资 = salary only."
     },
     {
       "English": "contract",
       "Hanzi": "合同",
       "Pinyin": "hétong",
       "Example": "签合同之前一定要看清楚。 qiān hétong zhīqián yídìng yào kàn qīngchu: Read it carefully before you sign the contract",
-      "Notes": "签合同 = sign a contract; 续签 = renew."
+      "Notes": "合 hé join, agree (合作, 合适) + 同 tóng same (同意) = joined in the same terms, so a contract. 签合同 = sign a contract; 续签 = renew."
     },
     {
       "English": "to handle / deal with (a problem, a task)",
       "Hanzi": "处理",
       "Pinyin": "chǔlǐ",
       "Example": "这件事我来处理。 zhè jiàn shì wǒ lái chǔlǐ: I'll handle this",
-      "Notes": "处理 = deal with it; 解决 = actually solve it."
+      "Notes": "处 chǔ deal with, get along (相处; chù in 到处) + 理 lǐ put in order (整理, 管理) = handle and put in order, so deal with a problem or task. 处理 = deal with it; 解决 = actually solve it."
     },
     {
       "English": "year-end bonus",
       "Hanzi": "年终奖",
       "Pinyin": "niánzhōngjiǎng",
       "Example": "今年的年终奖发了吗? jīnnián de niánzhōngjiǎng fā le ma: Has this year's bonus been paid out?",
-      "Notes": ""
+      "Notes": "年 nián year + 终 zhōng end (终于, 最终) + 奖 jiǎng prize, reward (奖金, 得奖) = year-end reward, so the year-end bonus."
     },
     {
       "English": "to follow up (on a client, a matter)",
       "Hanzi": "跟进",
       "Pinyin": "gēnjìn",
       "Example": "这个客户你继续跟进一下。 zhège kèhù nǐ jìxù gēnjìn yíxià: Keep following up with this client",
-      "Notes": ""
+      "Notes": "跟 gēn follow; heel, 足 foot (跟着, 跟我来) + 进 jìn advance (进步, 进来) = follow along as it advances, so follow up on a client or matter. 跟进一下 = follow up on it."
     },
     {
       "English": "Let me check and get back to you.",
       "Hanzi": "我确认一下再回复你。",
       "Pinyin": "wǒ quèrèn yíxià zài huífù nǐ",
       "Example": "",
-      "Notes": "回复 = reply (messages, email); 答复 is a formal official reply."
+      "Notes": "确认 quèrèn: 确 què certain, solid (正确, 的确) + 认 rèn recognize (认识) = make certain, confirm. 回复 = 回 back + 复 reply = write back (messages, email); 答复 is a formal official reply."
     },
     {
       "English": "I've got too much on my plate right now, let's talk later.",
       "Hanzi": "我现在手上事情太多,晚点再说吧。",
       "Pinyin": "wǒ xiànzài shǒushang shìqing tài duō, wǎndiǎn zài shuō ba",
       "Example": "",
-      "Notes": "手上 / 手头 = what you're currently handling."
+      "Notes": "手上 = on your hands, so what you're currently handling; 手头 is the same (头 is a suffix, as in 里头). 晚点 = a bit later. 再说 = talk again, i.e. later."
     }
   ]
 }

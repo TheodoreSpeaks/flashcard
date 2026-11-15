@@ -8,196 +8,196 @@
       "Hanzi": "症状",
       "Pinyin": "zhèngzhuàng",
       "Example": "你还有别的症状吗? nǐ hái yǒu bié de zhèngzhuàng ma: Do you have any other symptoms?",
-      "Notes": ""
+      "Notes": "症 zhèng disease, 疒 sickness radical (病, 疼, 痛 share it) + 状 zhuàng shape, condition (状态, 形状) = the shape a disease takes, so a symptom. 抑郁症 = depression (症 as illness name)."
     },
     {
       "English": "to be allergic / allergy",
       "Hanzi": "过敏",
       "Pinyin": "guòmǐn",
       "Example": "我对青霉素过敏。 wǒ duì qīngméisù guòmǐn: I'm allergic to penicillin",
-      "Notes": "Pattern: 对…过敏 = allergic to …"
+      "Notes": "过 guò too much, exceed (过分, 太过) + 敏 mǐn quick, sensitive (敏感) = overly sensitive, so allergic. Pattern: 对…过敏 = allergic to …"
     },
     {
       "English": "to become inflamed (a wound, throat)",
       "Hanzi": "发炎",
       "Pinyin": "fāyán",
       "Example": "伤口发炎了。 shāngkǒu fāyán le: The wound is inflamed",
-      "Notes": "嗓子发炎 = sore, inflamed throat."
+      "Notes": "发 fā break out, give off (发烧, 发火) + 炎 yán blaze, 火 + 火 (炎热) = break out in flames, so become inflamed. 嗓子发炎 = sore, inflamed throat. 炎 ends many illnesses: 肺炎, 肠胃炎."
     },
     {
       "English": "prescription (written by a doctor)",
       "Hanzi": "处方",
       "Pinyin": "chǔfāng",
       "Example": "这个药要有处方才能买。 zhège yào yào yǒu chǔfāng cái néng mǎi: You need a prescription to buy this medicine",
-      "Notes": "处方药 = prescription drug. Spoken: 医生给我开了药."
+      "Notes": "处 chǔ deal with (处理) + 方 fāng method, recipe (方法, 药方) = how to handle it, so a prescription. 处方药 = prescription drug. Spoken: 医生给我开了药 (开 write out)."
     },
     {
       "English": "to register / get a queue number (at a hospital)",
       "Hanzi": "挂号",
       "Pinyin": "guàhào",
       "Example": "你先去挂个号。 nǐ xiān qù guà ge hào: Go and register first",
-      "Notes": "Separable: 挂个号, 挂急诊. Chinese hospitals require this before seeing a doctor."
+      "Notes": "挂 guà hang, 扌 hand (挂电话); also put on record (挂失 report a loss) + 号 hào number (号码, 几号) = put your number on record, so register for a queue number. Separable: 挂个号, 挂急诊. Required before seeing a doctor in China."
     },
     {
       "English": "medical checkup / physical exam",
       "Hanzi": "体检",
       "Pinyin": "tǐjiǎn",
       "Example": "公司每年安排一次体检。 gōngsī měi nián ānpái yí cì tǐjiǎn: The company arranges a checkup every year",
-      "Notes": ""
+      "Notes": "体 tǐ body (身体, 体育) + 检 jiǎn check, inspect (检查) = body check, a medical checkup. Short for 身体检查. 年度体检 = annual physical."
     },
     {
       "English": "vaccine",
       "Hanzi": "疫苗",
       "Pinyin": "yìmiáo",
       "Example": "你打疫苗了吗? nǐ dǎ yìmiáo le ma: Have you had the vaccine?",
-      "Notes": "打疫苗 = get vaccinated."
+      "Notes": "疫 yì epidemic, 疒 sickness (疫情, 防疫) + 苗 miáo seedling, 艹 grass (树苗) = disease 'seedling'; the term comes from 痘苗, the old smallpox vaccine. 打疫苗 = get vaccinated."
     },
     {
       "English": "side effect",
       "Hanzi": "副作用",
       "Pinyin": "fùzuòyòng",
       "Example": "这个药有什么副作用吗? zhège yào yǒu shénme fùzuòyòng ma: Does this medicine have any side effects?",
-      "Notes": ""
+      "Notes": "副 fù secondary, deputy (副经理; mirror 正) + 作用 zuòyòng effect (作 do + 用 use) = secondary effect, so a side effect. 有副作用 = has side effects."
     },
     {
       "English": "to make a full recovery (formal, also wishes)",
       "Hanzi": "康复",
       "Pinyin": "kāngfù",
       "Example": "祝你早日康复! zhù nǐ zǎorì kāngfù: Wishing you a speedy recovery!",
-      "Notes": "康复 is formal and final; 恢复 is the ongoing process."
+      "Notes": "康 kāng healthy (健康) + 复 fù return, restore (恢复, 复习) = return to health, a full recovery. Formal and final, also in wishes: 祝你早日康复. 恢复 is the ongoing process."
     },
     {
       "English": "to recover / get back to normal (gradually)",
       "Hanzi": "恢复",
       "Pinyin": "huīfù",
       "Example": "他手术后恢复得很好。 tā shǒushù hòu huīfù de hěn hǎo: He's recovering well after the operation",
-      "Notes": "Also for non-medical things: 恢复正常 = back to normal."
+      "Notes": "恢 huī (opaque on its own; seen almost only in this word) + 复 fù return, back again (复习, 回复) = get back to how it was, so recover gradually. Also non-medical: 恢复正常 = back to normal. Shares 复 with 康复."
     },
     {
       "English": "surgery / operation",
       "Hanzi": "手术",
       "Pinyin": "shǒushù",
       "Example": "我爸下周要做手术。 wǒ bà xià zhōu yào zuò shǒushù: My dad is having surgery next week",
-      "Notes": "做手术 = have (or perform) surgery."
+      "Notes": "手 shǒu hand + 术 shù skill, technique (技术, 美术, 艺术) = hand technique, so surgery. 做手术 = have (or perform) surgery."
     },
     {
       "English": "chronic illness",
       "Hanzi": "慢性病",
       "Pinyin": "mànxìngbìng",
       "Example": "高血压是一种慢性病。 gāoxuèyā shì yì zhǒng mànxìngbìng: High blood pressure is a chronic illness",
-      "Notes": "Opposite: 急性 (acute), as in 急性肠胃炎."
+      "Notes": "慢 màn slow, 忄 heart (慢慢) + 性 xìng nature, 忄 heart (性格) + 病 bìng illness, 疒 = slow-natured illness, so chronic. Opposite: 急性 (急 urgent, 着急) = acute, as in 急性肠胃炎."
     },
     {
       "English": "blood pressure",
       "Hanzi": "血压",
       "Pinyin": "xuèyā",
       "Example": "我帮你量一下血压。 wǒ bāng nǐ liáng yíxià xuèyā: Let me take your blood pressure",
-      "Notes": "血 is xuè in compounds; xiě on its own in speech (流血了 liú xiě le)."
+      "Notes": "血 xuè blood (流血) + 压 yā press (压力 pressure) = blood pressure, literally. 高血压 = high blood pressure. 血 is xuè in compounds; xiě on its own in speech (流血了 liú xiě le)."
     },
     {
       "English": "to diagnose / diagnosis",
       "Hanzi": "诊断",
       "Pinyin": "zhěnduàn",
       "Example": "医生诊断是肺炎。 yīshēng zhěnduàn shì fèiyán: The doctor diagnosed pneumonia",
-      "Notes": ""
+      "Notes": "诊 zhěn examine a patient, 讠 speech (诊所 clinic, 门诊) + 断 duàn break; decide (判断, 断了) = examine and decide, so diagnose. Shares 诊 with 急诊."
     },
     {
       "English": "emergency department / ER",
       "Hanzi": "急诊",
       "Pinyin": "jízhěn",
       "Example": "他半夜被送去急诊了。 tā bànyè bèi sòng qù jízhěn le: He was taken to the ER in the middle of the night",
-      "Notes": "看急诊 / 挂急诊 = go to the ER."
+      "Notes": "急 jí urgent (着急, 急事) + 诊 zhěn examine a patient, 讠 speech (诊所, 诊断) = urgent consultation, so the ER. 看急诊 / 挂急诊 = go to the ER. Mirror: 门诊 = outpatient clinic."
     },
     {
       "English": "to be hospitalized / stay in hospital",
       "Hanzi": "住院",
       "Pinyin": "zhùyuàn",
       "Example": "奶奶住院一个星期了。 nǎinai zhùyuàn yí ge xīngqī le: Grandma has been in hospital for a week",
-      "Notes": "出院 = be discharged."
+      "Notes": "住 zhù live, stay (住在) + 院 yuàn courtyard, institution (医院, 院子, 电影院) = stay in the hospital. Mirror: 出院 = be discharged."
     },
     {
       "English": "insomnia / can't sleep",
       "Hanzi": "失眠",
       "Pinyin": "shīmián",
       "Example": "我最近老失眠。 wǒ zuìjìn lǎo shīmián: I keep having trouble sleeping lately",
-      "Notes": ""
+      "Notes": "失 shī lose (失去, 丢失) + 眠 mián sleep, 目 eye (睡眠, 冬眠) = lose sleep, so insomnia / can't sleep."
     },
     {
       "English": "depressed (mood) / depression",
       "Hanzi": "抑郁",
       "Pinyin": "yìyù",
       "Example": "他压力太大,有点抑郁。 tā yālì tài dà, yǒudiǎn yìyù: He's under too much pressure and a bit depressed",
-      "Notes": "抑郁症 = clinical depression; 焦虑 = anxious."
+      "Notes": "抑 yì press down, 扌 hand (压抑) + 郁 yù gloomy, pent-up (忧郁) = pressed-down gloom, so depressed. 抑郁症 = clinical depression (症 as in 症状); 焦虑 = anxious."
     },
     {
       "English": "immunity / immune system",
       "Hanzi": "免疫力",
       "Pinyin": "miǎnyìlì",
       "Example": "多运动可以提高免疫力。 duō yùndòng kěyǐ tígāo miǎnyìlì: Exercise boosts your immunity",
-      "Notes": "提高 / 增强免疫力 = boost immunity."
+      "Notes": "免 miǎn exempt, avoid (免费 free of charge) + 疫 yì epidemic, 疒 (疫情, 疫苗) + 力 lì power = power to be exempt from disease, so immunity. Shares 疫 with 疫苗. 提高 / 增强免疫力 = boost immunity."
     },
     {
       "English": "follow-up appointment / to go back for a recheck",
       "Hanzi": "复查",
       "Pinyin": "fùchá",
       "Example": "医生让我一个月后来复查。 yīshēng ràng wǒ yí ge yuè hòu lái fùchá: The doctor told me to come back in a month for a follow-up",
-      "Notes": "复诊 is similar: a return visit to the doctor."
+      "Notes": "复 fù again, repeat (复习, 恢复) + 查 chá check (检查, 查字典) = check again, a follow-up exam. 复诊 (诊 as in 急诊) is similar: a return visit to the doctor."
     },
     {
       "English": "public medical insurance (China)",
       "Hanzi": "医保",
       "Pinyin": "yībǎo",
       "Example": "这个药医保能报吗? zhège yào yībǎo néng bào ma: Does public insurance cover this medicine?",
-      "Notes": "Short for 医疗保险. 报 here = reimburse."
+      "Notes": "医 yī medicine (医生, 医院) + 保 bǎo insure (保险) = short for 医疗保险, public medical insurance. 报 here = reimburse, as in 报销."
     },
     {
       "English": "to get infected / infection",
       "Hanzi": "感染",
       "Pinyin": "gǎnrǎn",
       "Example": "别用手摸伤口,容易感染。 bié yòng shǒu mō shāngkǒu, róngyì gǎnrǎn: Don't touch the wound, it can get infected",
-      "Notes": "感染 = germs get in; 发炎 = inflammation (often the result)."
+      "Notes": "感 gǎn feel, be affected, 心 heart (感冒, 感觉) + 染 rǎn dye, 氵 water (染发, 污染) = be affected and dyed through, so infected. 感染 = germs get in; 发炎 = inflammation (often the result)."
     },
     {
       "English": "contagious / to spread (disease, person to person)",
       "Hanzi": "传染",
       "Pinyin": "chuánrǎn",
       "Example": "这个病会传染吗? zhège bìng huì chuánrǎn ma: Is this illness contagious?",
-      "Notes": "传染给 = pass it on to someone."
+      "Notes": "传 chuán pass on (传给, 传说) + 染 rǎn dye, stain, 氵 water (染发, 感染) = pass on like a stain, so contagious. Shares 染 with 感染. 传染给 = pass it on to someone."
     },
     {
       "English": "lab test (blood, urine)",
       "Hanzi": "化验",
       "Pinyin": "huàyàn",
       "Example": "先去抽血化验一下。 xiān qù chōuxiě huàyàn yíxià: First go and get a blood test",
-      "Notes": "化验单 = lab results sheet."
+      "Notes": "化 huà change; chemistry (化学, 变化) + 验 yàn test, examine (检验, 经验) = chemical test, so a lab test of blood or urine. 化验单 = lab results sheet."
     },
     {
       "English": "stomach and digestion / digestive system",
       "Hanzi": "肠胃",
       "Pinyin": "chángwèi",
       "Example": "我肠胃不太好。 wǒ chángwèi bú tài hǎo: I have a sensitive stomach",
-      "Notes": "肠胃炎 = gastroenteritis."
+      "Notes": "肠 cháng intestine (香肠 sausage) + 胃 wèi stomach (胃口 appetite) = intestines and stomach, the gut. 月 in both is 'flesh', not moon (as in 肚, 脸). 肠胃炎 = gastroenteritis."
     },
     {
       "English": "therapist / psychologist",
       "Hanzi": "心理医生",
       "Pinyin": "xīnlǐ yīshēng",
       "Example": "你可以考虑去看看心理医生。 nǐ kěyǐ kǎolǜ qù kànkan xīnlǐ yīshēng: You might consider seeing a therapist",
-      "Notes": "心理咨询 = counseling."
+      "Notes": "心理 xīnlǐ: 心 xīn heart, mind (心情, 小心) + 理 lǐ reason, pattern (道理) = workings of the mind, psychology; + 医生 = therapist / psychologist. 心理咨询 = counseling."
     },
     {
       "English": "Do I need to take this on an empty stomach?",
       "Hanzi": "这个药要空腹吃吗?",
       "Pinyin": "zhège yào yào kōngfù chī ma",
       "Example": "",
-      "Notes": "饭后吃 = take after meals."
+      "Notes": "空腹 kōngfù: 空 kōng empty (空气; kòng in 有空) + 腹 fù belly, 月 flesh (腹部) = empty belly, on an empty stomach. Opposite: 饭后吃 = take after meals."
     },
     {
       "English": "When will the results be ready?",
       "Hanzi": "结果什么时候能出来?",
       "Pinyin": "jiéguǒ shénme shíhou néng chūlai",
       "Example": "",
-      "Notes": "出结果 = results come out."
+      "Notes": "结果 jiéguǒ: 结 jié tie, form (结婚, 结束) + 果 guǒ fruit (水果, 苹果) = the fruit that forms, so the result. 出结果 = results come out."
     }
   ]
 }

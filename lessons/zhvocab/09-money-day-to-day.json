@@ -1,0 +1,119 @@
+{
+  "title": "Money day to day",
+  "focus": "收入 · 开销 · 省钱 · 浪费 · 划算 · 涨价 · 欠 · 预算",
+  "body": "# Money day to day\n\nEveryday money talk: what comes in, what goes out, and whether something is worth it. These are the words for prices, debts and budgets that come up with friends and parents.\n\n| Chinese | Pinyin | Meaning | Why |\n|---|---|---|---|\n| 收入 | shōurù | income | receive + come in → income |\n| 开销 | kāixiāo | living expenses / spending (spoken) | pay out + melt away → spending |\n| 省钱 | shěngqián | to save money (by spending less) | economize on money → spend less |\n| 浪费 | làngfèi | to waste (money, time, food) | spend without restraint → waste |\n| 划算 | huásuàn | worth it / good value | reckon it up, comes out ahead |\n| 涨价 | zhǎngjià | to go up in price | water rising + price |\n| 欠 | qiàn | to owe (money) | open mouth, lacking → owe |\n| 预算 | yùsuàn | budget | calculate beforehand → budget |\n\n## Which word?\n\n**省钱 vs 存钱**: 省钱 is spending less (cooking at home). 存钱 is putting money aside in savings.\n\n**收入 vs 工资**: 收入 is all your income; 工资 is just the salary.\n\n## Sentences\n\n- 菜又涨价了，难怪这个月开销这么大。 cài yòu zhǎngjià le, nánguài zhège yuè kāixiāo zhème dà: Vegetables went up again. No wonder we spent so much this month.\n- 既然收入不稳定，开销就得按预算来。 jìrán shōurù bù wěndìng, kāixiāo jiù děi àn yùsuàn lái: Since our income isn't steady, spending has to stick to the budget.\n- 健身卡从来不用，太浪费了，取消吧。 jiànshēnkǎ cónglái bú yòng, tài làngfèi le, qǔxiāo ba: I never use the gym card. What a waste. Let's cancel it.\n- 说实话，在家做饭又省钱又健康。 shuō shíhuà, zài jiā zuòfàn yòu shěngqián yòu jiànkāng: Honestly, cooking at home saves money and is healthier.\n- 机票涨价了，说不定等等更划算。 jīpiào zhǎngjià le, shuōbudìng děngdeng gèng huásuàn: Flights have gone up. Waiting a bit might be better value.\n- 朋友欠钱不还，最影响感情。 péngyou qiàn qián bù huán, zuì yǐngxiǎng gǎnqíng: A friend owing you money and not paying it back hurts the friendship more than anything.\n- 我还欠我妈两千块，这个月得省钱了。 wǒ hái qiàn wǒ mā liǎngqiān kuài, zhège yuè děi shěngqián le: I still owe my mum two thousand, so I need to save money this month.\n- 这个项目已经超预算了，得跟领导汇报。 zhège xiàngmù yǐjīng chāo yùsuàn le, děi gēn lǐngdǎo huìbào: This project is already over budget. We have to report it to the boss.\n",
+  "cards": [
+    {
+      "English": "income",
+      "Hanzi": "收入",
+      "Pinyin": "shōurù",
+      "Example": "他的收入还算稳定。 tā de shōurù hái suàn wěndìng: His income is fairly stable",
+      "Notes": "收 shōu receive, collect (收到, 收拾) + 入 rù enter (进入, 入口) = what is received and comes in, so income. Mirror: 支出 = expenditure. 收入 is all income; 工资 is salary only."
+    },
+    {
+      "English": "living expenses / spending (spoken)",
+      "Hanzi": "开销",
+      "Pinyin": "kāixiāo",
+      "Example": "在大城市生活开销很大。 zài dà chéngshì shēnghuó kāixiāo hěn dà: Living in a big city is expensive",
+      "Notes": "开 kāi open; pay out (开支, 开工资 pay wages) + 销 xiāo melt away, spend; 金 metal: melt metal (销售) = money paid out and used up, so living expenses. Spoken counterpart of formal 支出."
+    },
+    {
+      "English": "to save money (by spending less)",
+      "Hanzi": "省钱",
+      "Pinyin": "shěngqián",
+      "Example": "自己做饭能省不少钱。 zìjǐ zuòfàn néng shěng bù shǎo qián: Cooking for yourself saves a lot of money",
+      "Notes": "省 shěng save, economize (节省, 省事; also shěng 'province', 广东省) + 钱 qián money = save money by spending less. 省钱 = spend less; 存钱 = put money aside."
+    },
+    {
+      "English": "to waste (money, time, food)",
+      "Hanzi": "浪费",
+      "Pinyin": "làngfèi",
+      "Example": "别浪费时间了。 bié làngfèi shíjiān le: Stop wasting time",
+      "Notes": "浪 làng wave, 氵 water (海浪); also unrestrained (流浪) + 费 fèi spend, fee, 贝 money (学费, 免费) = spend without restraint, so waste money, time or food."
+    },
+    {
+      "English": "worth it / good value",
+      "Hanzi": "划算",
+      "Pinyin": "huásuàn",
+      "Example": "这么买比较划算。 zhème mǎi bǐjiào huásuàn: It's better value to buy it this way",
+      "Notes": "划 huá reckon, plan (related to 计划 jìhuà) + 算 suàn calculate (算账, 计算) = reckon it up and it comes out ahead, so good value. 不划算 = not worth it. 值 is similar: 值不值?"
+    },
+    {
+      "English": "to go up in price",
+      "Hanzi": "涨价",
+      "Pinyin": "zhǎngjià",
+      "Example": "最近什么都在涨价。 zuìjìn shénme dōu zài zhǎngjià: Everything's getting more expensive lately",
+      "Notes": "涨 zhǎng rise, 氵 water: water rising (涨潮 tide comes in) + 价 jià price (价格, 价钱) = price rises, go up in price. Mirror: 降价 (降 fall). 涨工资 = get a raise."
+    },
+    {
+      "English": "to owe (money)",
+      "Hanzi": "欠",
+      "Pinyin": "qiàn",
+      "Example": "他还欠我两千块。 tā hái qiàn wǒ liǎngqiān kuài: He still owes me two thousand",
+      "Notes": "欠 qiàn owe, lack: the character pictures a person with mouth open, yawning (打哈欠), later extended to 'lacking'. 欠钱 = owe money; 欠人情 = owe someone a favor."
+    },
+    {
+      "English": "budget",
+      "Hanzi": "预算",
+      "Pinyin": "yùsuàn",
+      "Example": "我们的预算只有五千块。 wǒmen de yùsuàn zhǐ yǒu wǔqiān kuài: Our budget is only five thousand",
+      "Notes": "预 yù beforehand (天气预报, 预习) + 算 suàn calculate (算账, 计算) = calculate in advance, so a budget. 超预算 = over budget."
+    },
+    {
+      "English": "Vegetables went up again. No wonder we spent so much this month.",
+      "Hanzi": "菜又涨价了，难怪这个月开销这么大。",
+      "Pinyin": "cài yòu zhǎngjià le, nánguài zhège yuè kāixiāo zhème dà.",
+      "Example": "",
+      "Notes": "涨价 (L9) + 开销 (L9) + 难怪 (L7). 又 = again (already happened); 再 is for the future."
+    },
+    {
+      "English": "Since our income isn't steady, spending has to stick to the budget.",
+      "Hanzi": "既然收入不稳定，开销就得按预算来。",
+      "Pinyin": "jìrán shōurù bù wěndìng, kāixiāo jiù děi àn yùsuàn lái.",
+      "Example": "",
+      "Notes": "收入 (L9) + 开销 (L9) + 预算 (L9) + 既然 (L5). 按……来 = go by ..., follow ..."
+    },
+    {
+      "English": "I never use the gym card. What a waste. Let's cancel it.",
+      "Hanzi": "健身卡从来不用，太浪费了，取消吧。",
+      "Pinyin": "jiànshēnkǎ cónglái bú yòng, tài làngfèi le, qǔxiāo ba.",
+      "Example": "",
+      "Notes": "浪费 (L9) + 取消 (L5). 从来不 = never (as a habit)."
+    },
+    {
+      "English": "Honestly, cooking at home saves money and is healthier.",
+      "Hanzi": "说实话，在家做饭又省钱又健康。",
+      "Pinyin": "shuō shíhuà, zài jiā zuòfàn yòu shěngqián yòu jiànkāng.",
+      "Example": "",
+      "Notes": "省钱 (L9) + 说实话 (L1). 又……又…… = both ... and ..."
+    },
+    {
+      "English": "Flights have gone up. Waiting a bit might be better value.",
+      "Hanzi": "机票涨价了，说不定等等更划算。",
+      "Pinyin": "jīpiào zhǎngjià le, shuōbudìng děngdeng gèng huásuàn.",
+      "Example": "",
+      "Notes": "涨价 (L9) + 划算 (L9) + 说不定 (L7). 等等 = wait a bit; 不划算 = not worth it."
+    },
+    {
+      "English": "A friend owing you money and not paying it back hurts the friendship more than anything.",
+      "Hanzi": "朋友欠钱不还，最影响感情。",
+      "Pinyin": "péngyou qiàn qián bù huán, zuì yǐngxiǎng gǎnqíng.",
+      "Example": "",
+      "Notes": "欠 (L9) + 影响 (L2). 还 here is huán, 'pay back', not hái."
+    },
+    {
+      "English": "I still owe my mum two thousand, so I need to save money this month.",
+      "Hanzi": "我还欠我妈两千块，这个月得省钱了。",
+      "Pinyin": "wǒ hái qiàn wǒ mā liǎngqiān kuài, zhège yuè děi shěngqián le.",
+      "Example": "",
+      "Notes": "欠 (L9) + 省钱 (L9). 得 děi = have to."
+    },
+    {
+      "English": "This project is already over budget. We have to report it to the boss.",
+      "Hanzi": "这个项目已经超预算了，得跟领导汇报。",
+      "Pinyin": "zhège xiàngmù yǐjīng chāo yùsuàn le, děi gēn lǐngdǎo huìbào.",
+      "Example": "",
+      "Notes": "预算 (L9) + 项目 (L6) + 领导 (L6) + 汇报 (L6). 超预算 = over budget."
+    }
+  ]
+}

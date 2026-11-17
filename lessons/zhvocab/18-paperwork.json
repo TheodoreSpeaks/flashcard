@@ -1,0 +1,119 @@
+{
+  "title": "Paperwork",
+  "focus": "申请 · 手续 · 材料 · 证件 · 预约 · 签字 · 过期 · 办理",
+  "body": "The vocabulary of offices, banks and visa counters: what you hand in, what you sign, and what has run out. Sentences bring back 怀疑 from L17 and the job words from L16.\n\n| Chinese | Pinyin | Meaning | Why |\n|---|---|---|---|\n| 申请 | shēnqǐng | to apply (for a job, visa, school) | state a request formally |\n| 手续 | shǒuxù | formalities / paperwork procedures | steps passed hand to hand |\n| 材料 | cáiliào | documents to submit (for an application) | raw material → papers you submit |\n| 证件 | zhèngjiàn | ID documents / papers | items that prove who you are |\n| 预约 | yùyuē | to make an appointment (in advance) | arrange in advance |\n| 签字 | qiānzì | to sign (your name on a document) | sign your characters |\n| 过期 | guòqī | to have expired | the period has passed |\n| 办理 | bànlǐ | to process / go through (official business, formal) | handle + sort out (formal) |\n\n## Which word?\n\n**预约 vs 预订:** 预约 books a time with a person or office (doctor, bank, visa); 预订 reserves a thing (hotel room, table, ticket).\n\n**办理 vs 办:** same meaning; 办理 is what the sign says, 办 is what people say.\n\n## Sentences\n\n- 我的证件过期了，得重新申请。 wǒ de zhèngjiàn guòqī le, děi chóngxīn shēnqǐng: My ID has expired, so I have to apply again.\n- 办签证的手续太麻烦了，我差点崩溃。 bàn qiānzhèng de shǒuxù tài máfan le, wǒ chàdiǎn bēngkuì: The visa paperwork was such a hassle I nearly lost it.\n- 材料都准备好了，就差领导签字。 cáiliào dōu zhǔnbèi hǎo le, jiù chà lǐngdǎo qiānzì: The documents are all ready; we just need the boss's signature.\n- 按理说，办理护照不需要预约。 ànlǐ shuō, bànlǐ hùzhào bù xūyào yùyuē: Normally you shouldn't need an appointment to get a passport done.\n- 签字之前，一定要把合同看清楚。 qiānzì zhīqián, yídìng yào bǎ hétong kàn qīngchu: Read the contract carefully before you sign.\n- 别忘了带证件，否则办不了手续。 bié wàng le dài zhèngjiàn, fǒuzé bàn bù liǎo shǒuxù: Don't forget your ID, or you won't be able to do the paperwork.\n- 我怀疑他们根本没看我的材料。 wǒ huáiyí tāmen gēnběn méi kàn wǒ de cáiliào: I suspect they didn't even look at my documents.\n- 申请的截止日期快到了，我还在等材料。 shēnqǐng de jiézhǐ rìqī kuài dào le, wǒ hái zài děng cáiliào: The application deadline is coming up and I'm still waiting on documents.\n",
+  "cards": [
+    {
+      "English": "to apply (for a job, visa, school)",
+      "Hanzi": "申请",
+      "Pinyin": "shēnqǐng",
+      "Example": "他申请了三所大学。 tā shēnqǐng le sān suǒ dàxué: He applied to three universities",
+      "Notes": "申 shēn state, declare (申报, 重申) + 请 qǐng request, 讠 (请问, 邀请) = state your request formally. 申请 = formal application; 报名 = report your 名 name: sign up for a class, event or exam"
+    },
+    {
+      "English": "formalities / paperwork procedures",
+      "Hanzi": "手续",
+      "Pinyin": "shǒuxù",
+      "Example": "手续太麻烦了，我跑了三趟。 shǒuxù tài máfan le, wǒ pǎo le sān tàng: The paperwork was such a hassle, I had to go three times",
+      "Notes": "手 shǒu hand + 续 xù continue (继续) = steps passed hand to hand one after another. 办手续 = do the paperwork; 入住手续 = check-in"
+    },
+    {
+      "English": "documents to submit (for an application)",
+      "Hanzi": "材料",
+      "Pinyin": "cáiliào",
+      "Example": "材料不齐，下次再来吧。 cáiliào bù qí, xià cì zài lái ba: Your documents are incomplete, come back next time",
+      "Notes": "材 cái material, 木 timber (身材, 木材) + 料 liào stuff: 米 rice + 斗 measuring scoop (饮料, 原料) = raw material; in bureaucracy, the paperwork you hand in. vs 资料 = information, reference material"
+    },
+    {
+      "English": "ID documents / papers",
+      "Hanzi": "证件",
+      "Pinyin": "zhèngjiàn",
+      "Example": "请出示一下您的证件。 qǐng chūshì yíxià nín de zhèngjiàn: Please show your ID",
+      "Notes": "证 zhèng proof (证明) + 件 jiàn item (文件, 邮件) = items that prove who you are. Umbrella word for ID card, passport, license; 出示 = present (formal)"
+    },
+    {
+      "English": "to make an appointment (in advance)",
+      "Hanzi": "预约",
+      "Pinyin": "yùyuē",
+      "Example": "去银行办事最好先预约。 qù yínháng bànshì zuìhǎo xiān yùyuē: Better book an appointment before going to the bank",
+      "Notes": "预 yù in advance (预报, 预习) + 约 yuē arrange, agree (约会) = arrange in advance. 预约 = appointment (doctor, bank, office); 预订 = 订 book: reserve (hotel, table, ticket)"
+    },
+    {
+      "English": "to sign (your name on a document)",
+      "Hanzi": "签字",
+      "Pinyin": "qiānzì",
+      "Example": "请在这里签字。 qǐng zài zhèlǐ qiānzì: Please sign here",
+      "Notes": "签 qiān sign, ⺮ bamboo (签证) + 字 zì character (写字, 汉字) = sign your characters. 签字 = sign a document; 签名 = signature, also an autograph"
+    },
+    {
+      "English": "to have expired",
+      "Hanzi": "过期",
+      "Pinyin": "guòqī",
+      "Example": "我的驾照过期了，得去换。 wǒ de jiàzhào guòqī le, děi qù huàn: My driver's license expired, I need to renew it",
+      "Notes": "过 guò pass (过去, 过年) + 期 qī period (日期) = the period has passed. vs 到期 = 到 arrive + 期: the date arrives, comes due. 过期 also for food"
+    },
+    {
+      "English": "to process / go through (official business, formal)",
+      "Hanzi": "办理",
+      "Pinyin": "bànlǐ",
+      "Example": "请问在哪儿办理入住？ qǐngwèn zài nǎr bànlǐ rùzhù: Excuse me, where do I check in?",
+      "Notes": "办 bàn handle (办法, 办公室) + 理 lǐ manage, sort out (处理, 管理) = handle and sort out. Formal and written; in speech people say 办"
+    },
+    {
+      "English": "My ID has expired, so I have to apply again.",
+      "Hanzi": "我的证件过期了，得重新申请。",
+      "Pinyin": "wǒ de zhèngjiàn guòqī le, děi chóngxīn shēnqǐng.",
+      "Example": "",
+      "Notes": "证件 (L18) + 过期 (L18) + 申请 (L18). 得 děi = have to."
+    },
+    {
+      "English": "The visa paperwork was such a hassle I nearly lost it.",
+      "Hanzi": "办签证的手续太麻烦了，我差点崩溃。",
+      "Pinyin": "bàn qiānzhèng de shǒuxù tài máfan le, wǒ chàdiǎn bēngkuì.",
+      "Example": "",
+      "Notes": "手续 (L18) + 崩溃 (L15). 办手续 = do the paperwork."
+    },
+    {
+      "English": "The documents are all ready; we just need the boss's signature.",
+      "Hanzi": "材料都准备好了，就差领导签字。",
+      "Pinyin": "cáiliào dōu zhǔnbèi hǎo le, jiù chà lǐngdǎo qiānzì.",
+      "Example": "",
+      "Notes": "材料 (L18) + 签字 (L18) + 领导 (L6). 就差 = all that's missing is."
+    },
+    {
+      "English": "Normally you shouldn't need an appointment to get a passport done.",
+      "Hanzi": "按理说，办理护照不需要预约。",
+      "Pinyin": "ànlǐ shuō, bànlǐ hùzhào bù xūyào yùyuē.",
+      "Example": "",
+      "Notes": "办理 (L18) + 预约 (L18) + 按理说 (L14). 按理说 hints 'but in practice…'."
+    },
+    {
+      "English": "Read the contract carefully before you sign.",
+      "Hanzi": "签字之前，一定要把合同看清楚。",
+      "Pinyin": "qiānzì zhīqián, yídìng yào bǎ hétong kàn qīngchu.",
+      "Example": "",
+      "Notes": "签字 (L18) + 合同 (L16)."
+    },
+    {
+      "English": "Don't forget your ID, or you won't be able to do the paperwork.",
+      "Hanzi": "别忘了带证件，否则办不了手续。",
+      "Pinyin": "bié wàng le dài zhèngjiàn, fǒuzé bàn bù liǎo shǒuxù.",
+      "Example": "",
+      "Notes": "证件 (L18) + 手续 (L18) + 否则 (L2). 办不了 = can't get done."
+    },
+    {
+      "English": "I suspect they didn't even look at my documents.",
+      "Hanzi": "我怀疑他们根本没看我的材料。",
+      "Pinyin": "wǒ huáiyí tāmen gēnběn méi kàn wǒ de cáiliào.",
+      "Example": "",
+      "Notes": "材料 (L18) + 怀疑 (L17). 材料 = papers you submit; 资料 = reference info."
+    },
+    {
+      "English": "The application deadline is coming up and I'm still waiting on documents.",
+      "Hanzi": "申请的截止日期快到了，我还在等材料。",
+      "Pinyin": "shēnqǐng de jiézhǐ rìqī kuài dào le, wǒ hái zài děng cáiliào.",
+      "Example": "",
+      "Notes": "申请 (L18) + 材料 (L18) + 截止日期 (L6). 快…了 = about to."
+    }
+  ]
+}

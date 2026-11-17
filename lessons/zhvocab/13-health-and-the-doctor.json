@@ -1,0 +1,119 @@
+{
+  "title": "Health and the doctor",
+  "focus": "症状 · 过敏 · 发炎 · 恢复 · 体检 · 失眠 · 住院 · 手术",
+  "body": "# Health and the doctor\n\nWords for the doctor's office and the hospital: symptoms, allergies, checkups and surgery. You need them for your own health and for looking after parents.\n\n| Chinese | Pinyin | Meaning | Why |\n|---|---|---|---|\n| 症状 | zhèngzhuàng | symptom | the shape a disease takes |\n| 过敏 | guòmǐn | to be allergic / allergy | overly sensitive → allergic |\n| 发炎 | fāyán | to become inflamed (a wound, throat) | break out in flames → inflamed |\n| 恢复 | huīfù | to recover / get back to normal (gradually) | get back to how it was |\n| 体检 | tǐjiǎn | medical checkup / physical exam | body check → medical checkup |\n| 失眠 | shīmián | insomnia / can't sleep | lose sleep → insomnia |\n| 住院 | zhùyuàn | to be hospitalized / stay in hospital | stay in the institution → hospitalized |\n| 手术 | shǒushù | surgery / operation | hand technique → surgery |\n\n## Which word?\n\n**体检 vs 检查 (L10)**: 体检 is the routine full-body checkup. 检查 is any check or test, including a specific one the doctor orders (去医院检查一下).\n\n## Sentences\n\n- 压力一大，我就失眠。 yālì yí dà, wǒ jiù shīmián: Whenever I'm under a lot of stress, I can't sleep.\n- 嗓子发炎了，吃药也没什么作用。 sǎngzi fāyán le, chī yào yě méi shénme zuòyòng: My throat's inflamed, and the medicine isn't doing anything.\n- 体检才发现我对猫过敏，可Ollie怎么办？ tǐjiǎn cái fāxiàn wǒ duì māo guòmǐn, kě Ollie zěnme bàn: I only found out at my checkup that I'm allergic to cats. What about Ollie?\n- 住院之前，医生要再检查一次。 zhùyuàn zhīqián, yīshēng yào zài jiǎnchá yí cì: Before you're admitted, the doctor wants to run one more check.\n- 失眠也是一种症状，别不当回事。 shīmián yě shì yì zhǒng zhèngzhuàng, bié bú dàng huí shì: Insomnia is a symptom too. Don't brush it off.\n- 因为发炎，手术推迟到下周了。 yīnwèi fāyán, shǒushù tuīchí dào xià zhōu le: Because of the inflammation, the surgery has been pushed to next week.\n- 我爸太固执，还没恢复就要出院。 wǒ bà tài gùzhí, hái méi huīfù jiù yào chūyuàn: My dad is so stubborn. He wants to leave hospital before he's even recovered.\n- 手术以后恢复得慢也正常，要有耐心。 shǒushù yǐhòu huīfù de màn yě zhèngcháng, yào yǒu nàixīn: It's normal to recover slowly after surgery. Be patient.\n",
+  "cards": [
+    {
+      "English": "symptom",
+      "Hanzi": "症状",
+      "Pinyin": "zhèngzhuàng",
+      "Example": "你还有别的症状吗? nǐ hái yǒu bié de zhèngzhuàng ma: Do you have any other symptoms?",
+      "Notes": "症 zhèng disease, 疒 sickness radical (病, 疼, 痛 share it) + 状 zhuàng shape, condition (状态, 形状) = the shape a disease takes, so a symptom. 抑郁症 = depression (症 as illness name)."
+    },
+    {
+      "English": "to be allergic / allergy",
+      "Hanzi": "过敏",
+      "Pinyin": "guòmǐn",
+      "Example": "我对青霉素过敏。 wǒ duì qīngméisù guòmǐn: I'm allergic to penicillin",
+      "Notes": "过 guò too much, exceed (过分, 太过) + 敏 mǐn quick, sensitive (敏感) = overly sensitive, so allergic. Pattern: 对…过敏 = allergic to …"
+    },
+    {
+      "English": "to become inflamed (a wound, throat)",
+      "Hanzi": "发炎",
+      "Pinyin": "fāyán",
+      "Example": "伤口发炎了。 shāngkǒu fāyán le: The wound is inflamed",
+      "Notes": "发 fā break out, give off (发烧, 发火) + 炎 yán blaze, 火 + 火 (炎热) = break out in flames, so become inflamed. 嗓子发炎 = sore, inflamed throat. 炎 ends many illnesses: 肺炎, 肠胃炎."
+    },
+    {
+      "English": "to recover / get back to normal (gradually)",
+      "Hanzi": "恢复",
+      "Pinyin": "huīfù",
+      "Example": "他手术后恢复得很好。 tā shǒushù hòu huīfù de hěn hǎo: He's recovering well after the operation",
+      "Notes": "恢 huī (opaque on its own; seen almost only in this word) + 复 fù return, back again (复习, 回复) = get back to how it was, so recover gradually. Also non-medical: 恢复正常 = back to normal. Shares 复 with 康复."
+    },
+    {
+      "English": "medical checkup / physical exam",
+      "Hanzi": "体检",
+      "Pinyin": "tǐjiǎn",
+      "Example": "公司每年安排一次体检。 gōngsī měi nián ānpái yí cì tǐjiǎn: The company arranges a checkup every year",
+      "Notes": "体 tǐ body (身体, 体育) + 检 jiǎn check, inspect (检查) = body check, a medical checkup. Short for 身体检查. 年度体检 = annual physical."
+    },
+    {
+      "English": "insomnia / can't sleep",
+      "Hanzi": "失眠",
+      "Pinyin": "shīmián",
+      "Example": "我最近老失眠。 wǒ zuìjìn lǎo shīmián: I keep having trouble sleeping lately",
+      "Notes": "失 shī lose (失去, 丢失) + 眠 mián sleep, 目 eye (睡眠, 冬眠) = lose sleep, so insomnia / can't sleep."
+    },
+    {
+      "English": "to be hospitalized / stay in hospital",
+      "Hanzi": "住院",
+      "Pinyin": "zhùyuàn",
+      "Example": "奶奶住院一个星期了。 nǎinai zhùyuàn yí ge xīngqī le: Grandma has been in hospital for a week",
+      "Notes": "住 zhù live, stay (住在) + 院 yuàn courtyard, institution (医院, 院子, 电影院) = stay in the hospital. Mirror: 出院 = be discharged."
+    },
+    {
+      "English": "surgery / operation",
+      "Hanzi": "手术",
+      "Pinyin": "shǒushù",
+      "Example": "我爸下周要做手术。 wǒ bà xià zhōu yào zuò shǒushù: My dad is having surgery next week",
+      "Notes": "手 shǒu hand + 术 shù skill, technique (技术, 美术, 艺术) = hand technique, so surgery. 做手术 = have (or perform) surgery."
+    },
+    {
+      "English": "Whenever I'm under a lot of stress, I can't sleep.",
+      "Hanzi": "压力一大，我就失眠。",
+      "Pinyin": "yālì yí dà, wǒ jiù shīmián.",
+      "Example": "",
+      "Notes": "失眠 (L13) + 压力 (L4). 一……就…… = whenever ..., then ..."
+    },
+    {
+      "English": "My throat's inflamed, and the medicine isn't doing anything.",
+      "Hanzi": "嗓子发炎了，吃药也没什么作用。",
+      "Pinyin": "sǎngzi fāyán le, chī yào yě méi shénme zuòyòng.",
+      "Example": "",
+      "Notes": "发炎 (L13) + 作用 (L11). 嗓子发炎 = sore, inflamed throat."
+    },
+    {
+      "English": "I only found out at my checkup that I'm allergic to cats. What about Ollie?",
+      "Hanzi": "体检才发现我对猫过敏，可Ollie怎么办？",
+      "Pinyin": "tǐjiǎn cái fāxiàn wǒ duì māo guòmǐn, kě Ollie zěnme bàn?",
+      "Example": "",
+      "Notes": "体检 (L13) + 过敏 (L13). 对……过敏 = allergic to ..."
+    },
+    {
+      "English": "Before you're admitted, the doctor wants to run one more check.",
+      "Hanzi": "住院之前，医生要再检查一次。",
+      "Pinyin": "zhùyuàn zhīqián, yīshēng yào zài jiǎnchá yí cì.",
+      "Example": "",
+      "Notes": "住院 (L13) + 检查 (L10). Mirror: 出院 = be discharged."
+    },
+    {
+      "English": "Insomnia is a symptom too. Don't brush it off.",
+      "Hanzi": "失眠也是一种症状，别不当回事。",
+      "Pinyin": "shīmián yě shì yì zhǒng zhèngzhuàng, bié bú dàng huí shì.",
+      "Example": "",
+      "Notes": "失眠 (L13) + 症状 (L13). 不当回事 = not take seriously."
+    },
+    {
+      "English": "Because of the inflammation, the surgery has been pushed to next week.",
+      "Hanzi": "因为发炎，手术推迟到下周了。",
+      "Pinyin": "yīnwèi fāyán, shǒushù tuīchí dào xià zhōu le.",
+      "Example": "",
+      "Notes": "发炎 (L13) + 手术 (L13) + 推迟 (L5). 推迟到 + time = postpone until."
+    },
+    {
+      "English": "My dad is so stubborn. He wants to leave hospital before he's even recovered.",
+      "Hanzi": "我爸太固执，还没恢复就要出院。",
+      "Pinyin": "wǒ bà tài gùzhí, hái méi huīfù jiù yào chūyuàn.",
+      "Example": "",
+      "Notes": "恢复 (L13) + 固执 (L12). 还没……就…… = already ... before even ..."
+    },
+    {
+      "English": "It's normal to recover slowly after surgery. Be patient.",
+      "Hanzi": "手术以后恢复得慢也正常，要有耐心。",
+      "Pinyin": "shǒushù yǐhòu huīfù de màn yě zhèngcháng, yào yǒu nàixīn.",
+      "Example": "",
+      "Notes": "手术 (L13) + 恢复 (L13) + 耐心 (L12). 恢复 is gradual; also 恢复正常 = back to normal."
+    }
+  ]
+}

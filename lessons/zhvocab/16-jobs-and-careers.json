@@ -1,0 +1,119 @@
+{
+  "title": "Jobs and careers",
+  "focus": "面试 · 简历 · 辞职 · 跳槽 · 升职 · 待遇 · 合同 · 部门",
+  "body": "# Jobs and careers\n\nThe words for working life beyond the daily grind: interviews, CVs, contracts, promotions and moving on. Friends and parents ask about all of these.\n\n| Chinese | Pinyin | Meaning | Why |\n|---|---|---|---|\n| 面试 | miànshì | job interview / to interview | face-to-face test → interview |\n| 简历 | jiǎnlì | résumé / CV | a brief history of you |\n| 辞职 | cízhí | to resign / quit (a job) | take leave of your post |\n| 跳槽 | tiàocáo | to switch jobs (to another company) | jump to another feeding trough |\n| 升职 | shēngzhí | to get promoted | rise in post → promoted |\n| 待遇 | dàiyù | pay and benefits (the whole package) | the treatment you meet with |\n| 合同 | hétong | contract | joined in the same terms |\n| 部门 | bùmén | department (in a company) | section-branch → department |\n\n## Which word?\n\n**辞职 vs 跳槽**: 辞职 is just quitting; 跳槽 is leaving for another company.\n\n**待遇 vs 工资**: 待遇 is the whole package (pay, benefits, holidays); 工资 is the salary only.\n\n## Sentences\n\n- 明天面试，我有点焦虑。 míngtiān miànshì, wǒ yǒudiǎn jiāolǜ: I have an interview tomorrow and I'm a bit anxious.\n- 面试之前，把简历再检查一遍。 miànshì zhīqián, bǎ jiǎnlì zài jiǎnchá yí biàn: Before the interview, check your CV once more.\n- 尽管待遇不错，她还是辞职了。 jǐnguǎn dàiyù búcuò, tā háishi cízhí le: Even though the pay and benefits were good, she still quit.\n- 跳槽不见得待遇更好。 tiàocáo bújiànde dàiyù gèng hǎo: Switching companies doesn't necessarily get you a better package.\n- 他升职以后压力更大了。 tā shēngzhí yǐhòu yālì gèng dà le: Since his promotion, he's been under even more pressure.\n- 辞职之前，先看看合同怎么写。 cízhí zhīqián, xiān kànkan hétong zěnme xiě: Before you resign, see what your contract says.\n- 我们部门的领导很靠谱。 wǒmen bùmén de lǐngdǎo hěn kàopǔ: The boss in our department is really dependable.\n- 没机会升职，我只好跳槽了。 méi jīhuì shēngzhí, wǒ zhǐhǎo tiàocáo le: There was no chance of promotion, so I had to move to another company.\n",
+  "cards": [
+    {
+      "English": "job interview / to interview",
+      "Hanzi": "面试",
+      "Pinyin": "miànshì",
+      "Example": "我明天上午有个面试。 wǒ míngtiān shàngwǔ yǒu ge miànshì: I have a job interview tomorrow morning",
+      "Notes": "面 miàn face (见面, 面对) + 试 shì try, test, 讠 speech (考试, 试试) = a face-to-face test, so a job interview. Mirror: 笔试 (笔 pen) = written test."
+    },
+    {
+      "English": "résumé / CV",
+      "Hanzi": "简历",
+      "Pinyin": "jiǎnlì",
+      "Example": "你把简历发给我看看。 nǐ bǎ jiǎnlì fā gěi wǒ kànkan: Send me your résumé and I'll take a look",
+      "Notes": "简 jiǎn simple, brief (简单) + 历 lì past experience (经历, 历史) = a brief history of you, so a résumé. 投简历 = send in a résumé."
+    },
+    {
+      "English": "to resign / quit (a job)",
+      "Hanzi": "辞职",
+      "Pinyin": "cízhí",
+      "Example": "她上个月辞职了。 tā shàng ge yuè cízhí le: She quit last month",
+      "Notes": "辞 cí take leave, decline (告辞, 辞别) + 职 zhí post, job (职业, 职员) = take leave of your post, so resign. Shares 职 with 升职. 辞职 = you quit; 被辞退 / 被开除 = you got fired."
+    },
+    {
+      "English": "to switch jobs (to another company)",
+      "Hanzi": "跳槽",
+      "Pinyin": "tiàocáo",
+      "Example": "他又跳槽了,工资涨了不少。 tā yòu tiàocáo le, gōngzī zhǎng le bù shǎo: He switched jobs again and got a big pay rise",
+      "Notes": "跳 tiào jump, 足 foot (跳舞, 跳高) + 槽 cáo trough (水槽 sink, 马槽 manger) = jump to another feeding trough, like a horse changing mangers, so switch employers. Informal but universal."
+    },
+    {
+      "English": "to get promoted",
+      "Hanzi": "升职",
+      "Pinyin": "shēngzhí",
+      "Example": "恭喜你升职了! gōngxǐ nǐ shēngzhí le: Congratulations on your promotion!",
+      "Notes": "升 shēng rise (上升, 升旗) + 职 zhí post, job (职业, 职员) = rise in post, so get promoted. Shares 职 with 辞职. 升职加薪 = promotion and a raise, a common pair."
+    },
+    {
+      "English": "pay and benefits (the whole package)",
+      "Hanzi": "待遇",
+      "Pinyin": "dàiyù",
+      "Example": "那家公司待遇不错。 nà jiā gōngsī dàiyù búcuò: That company pays well and has good benefits",
+      "Notes": "待 dài treat (对待, 招待) + 遇 yù meet with, encounter (遇到) = the treatment you meet with, so pay and benefits. 待遇 = the whole package; 工资 = salary only."
+    },
+    {
+      "English": "contract",
+      "Hanzi": "合同",
+      "Pinyin": "hétong",
+      "Example": "签合同之前一定要看清楚。 qiān hétong zhīqián yídìng yào kàn qīngchu: Read it carefully before you sign the contract",
+      "Notes": "合 hé join, agree (合作, 合适) + 同 tóng same (同意) = joined in the same terms, so a contract. 签合同 = sign a contract; 续签 = renew."
+    },
+    {
+      "English": "department (in a company)",
+      "Hanzi": "部门",
+      "Pinyin": "bùmén",
+      "Example": "你在哪个部门? nǐ zài nǎge bùmén: Which department are you in?",
+      "Notes": "部 bù part, section (部分, 全部) + 门 mén door; also branch, category (专门) = a section-branch, so a department. 部 also names ministries: 外交部."
+    },
+    {
+      "English": "I have an interview tomorrow and I'm a bit anxious.",
+      "Hanzi": "明天面试，我有点焦虑。",
+      "Pinyin": "míngtiān miànshì, wǒ yǒudiǎn jiāolǜ.",
+      "Example": "",
+      "Notes": "面试 (L16) + 焦虑 (L15). 面试 is both the noun and the verb."
+    },
+    {
+      "English": "Before the interview, check your CV once more.",
+      "Hanzi": "面试之前，把简历再检查一遍。",
+      "Pinyin": "miànshì zhīqián, bǎ jiǎnlì zài jiǎnchá yí biàn.",
+      "Example": "",
+      "Notes": "面试 (L16) + 简历 (L16) + 检查 (L10). 投简历 = send in a CV."
+    },
+    {
+      "English": "Even though the pay and benefits were good, she still quit.",
+      "Hanzi": "尽管待遇不错，她还是辞职了。",
+      "Pinyin": "jǐnguǎn dàiyù búcuò, tā háishi cízhí le.",
+      "Example": "",
+      "Notes": "待遇 (L16) + 辞职 (L16) + 尽管 (L14). 辞职 = you quit; 被辞退 = you were let go."
+    },
+    {
+      "English": "Switching companies doesn't necessarily get you a better package.",
+      "Hanzi": "跳槽不见得待遇更好。",
+      "Pinyin": "tiàocáo bújiànde dàiyù gèng hǎo.",
+      "Example": "",
+      "Notes": "跳槽 (L16) + 待遇 (L16) + 不见得 (L14). 跳槽 = jump to another trough: informal but universal."
+    },
+    {
+      "English": "Since his promotion, he's been under even more pressure.",
+      "Hanzi": "他升职以后压力更大了。",
+      "Pinyin": "tā shēngzhí yǐhòu yālì gèng dà le.",
+      "Example": "",
+      "Notes": "升职 (L16) + 压力 (L4). 升职加薪 = promotion and a raise."
+    },
+    {
+      "English": "Before you resign, see what your contract says.",
+      "Hanzi": "辞职之前，先看看合同怎么写。",
+      "Pinyin": "cízhí zhīqián, xiān kànkan hétong zěnme xiě.",
+      "Example": "",
+      "Notes": "辞职 (L16) + 合同 (L16). 同 is neutral tone in 合同: hétong."
+    },
+    {
+      "English": "The boss in our department is really dependable.",
+      "Hanzi": "我们部门的领导很靠谱。",
+      "Pinyin": "wǒmen bùmén de lǐngdǎo hěn kàopǔ.",
+      "Example": "",
+      "Notes": "部门 (L16) + 领导 (L6) + 靠谱 (L12). 哪个部门？ = which department?"
+    },
+    {
+      "English": "There was no chance of promotion, so I had to move to another company.",
+      "Hanzi": "没机会升职，我只好跳槽了。",
+      "Pinyin": "méi jīhuì shēngzhí, wǒ zhǐhǎo tiàocáo le.",
+      "Example": "",
+      "Notes": "升职 (L16) + 跳槽 (L16) + 机会 (L4). 只好 = had no choice but to."
+    }
+  ]
+}

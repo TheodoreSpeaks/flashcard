@@ -1,0 +1,119 @@
+{
+  "title": "Renting and moving",
+  "focus": "租房 · 房租 · 房东 · 搬家 · 装修 · 中介 · 押金 · 水电费",
+  "body": "Finding a flat, dealing with the landlord and moving in. Sentences bring back 转账 from L20, 让步 from L17 and the money words from L9.\n\n| Chinese | Pinyin | Meaning | Why |\n|---|---|---|---|\n| 租房 | zūfáng | to rent a place (as a tenant) | rent + house → to rent |\n| 房租 | fángzū | rent (the monthly payment) | house + rent → the payment |\n| 房东 | fángdōng | landlord | house + east (host's seat) |\n| 搬家 | bānjiā | to move (house) | carry your home elsewhere |\n| 装修 | zhuāngxiū | to renovate / decorate (a home) | fit out + repair |\n| 中介 | zhōngjiè | agent / agency (real estate) | the one in the middle |\n| 押金 | yājīn | deposit (for a rental, refundable) | pledged money → deposit |\n| 水电费 | shuǐdiànfèi | utilities (water and electricity bills) | water + power + fee |\n\n## Which word?\n\n**租房 vs 房租:** same two characters, flipped. 租房 (verb first) is the action, to rent a place; 房租 (noun) is the monthly payment.\n\n## Sentences\n\n- 在上海租房，房租差不多占收入一半。 zài Shànghǎi zūfáng, fángzū chàbuduō zhàn shōurù yíbàn: If you rent in Shanghai, the rent takes almost half your income.\n- 房东又要涨房租了，真无奈。 fángdōng yòu yào zhǎng fángzū le, zhēn wúnài: The landlord's raising the rent again. Nothing we can do.\n- 搬家那天，Ollie躲在床底下不出来。 bānjiā nà tiān, Ollie duǒ zài chuáng dǐxia bù chūlai: On moving day, Ollie hid under the bed and wouldn't come out.\n- 通过中介租房，还得多付一个月房租。 tōngguò zhōngjiè zūfáng, hái děi duō fù yí ge yuè fángzū: If you rent through an agent, you pay an extra month's rent.\n- 房东不肯让步，押金一分都不退。 fángdōng bù kěn ràngbù, yājīn yì fēn dōu bú tuì: The landlord won't budge and won't return a cent of the deposit.\n- 押金和水电费都转账给房东了。 yājīn hé shuǐdiànfèi dōu zhuǎnzhàng gěi fángdōng le: I've transferred the deposit and the utilities to the landlord.\n- 楼上在装修，吵得我失眠了一个星期。 lóushàng zài zhuāngxiū, chǎo de wǒ shīmián le yí ge xīngqī: Upstairs is being renovated, and the noise has kept me awake for a week.\n- 房子还在装修，我们只能推迟搬家。 fángzi hái zài zhuāngxiū, wǒmen zhǐ néng tuīchí bānjiā: The flat is still being renovated, so we have to push back the move.\n",
+  "cards": [
+    {
+      "English": "to rent a place (as a tenant)",
+      "Hanzi": "租房",
+      "Pinyin": "zūfáng",
+      "Example": "我在公司附近租房住。 wǒ zài gōngsī fùjìn zūfáng zhù: I rent a place near my office",
+      "Notes": "租 zū rent, 禾 grain: rent was once paid in grain + 房 fáng house (房子, 房间) = rent a house. 出租 = rent out (出租车 = taxi, a car for hire); 房租 flips it: the rent itself"
+    },
+    {
+      "English": "rent (the monthly payment)",
+      "Hanzi": "房租",
+      "Pinyin": "fángzū",
+      "Example": "这边房租一个月多少？ zhèbiān fángzū yí gè yuè duōshao: How much is rent here per month?",
+      "Notes": "房 fáng house + 租 zū rent (禾 grain: rent once paid in grain) = the house's rent. Flip of 租房 (to rent a place). 交房租 = pay rent"
+    },
+    {
+      "English": "landlord",
+      "Hanzi": "房东",
+      "Pinyin": "fángdōng",
+      "Example": "热水器坏了，得找房东修。 rèshuǐqì huài le, děi zhǎo fángdōng xiū: The water heater broke, I need the landlord to fix it",
+      "Notes": "房 fáng house + 东 dōng east = the host of the house: in old etiquette the host took the east side, guests the west (hence 做东 = to host, 东道主). Tenant = 房客 (house guest) or 租客"
+    },
+    {
+      "English": "to move (house)",
+      "Hanzi": "搬家",
+      "Pinyin": "bānjiā",
+      "Example": "下个月我们要搬家，东西还没收拾。 xià gè yuè wǒmen yào bānjiā, dōngxi hái méi shōushi: We're moving next month and haven't packed yet",
+      "Notes": "搬 bān move, carry, 扌 hand (搬东西) + 家 jiā home = carry your home somewhere else. 搬家公司 = moving company"
+    },
+    {
+      "English": "to renovate / decorate (a home)",
+      "Hanzi": "装修",
+      "Pinyin": "zhuāngxiū",
+      "Example": "楼上在装修，每天吵死了。 lóushàng zài zhuāngxiū, měitiān chǎo sǐ le: Upstairs is renovating and it's deafening every day",
+      "Notes": "装 zhuāng fit out, install (安装, 装饰) + 修 xiū repair (修理, 修车) = fit out and fix up. 精装修 = finely done, move-in ready; 毛坯房 = bare shell, unfinished"
+    },
+    {
+      "English": "agent / agency (real estate)",
+      "Hanzi": "中介",
+      "Pinyin": "zhōngjiè",
+      "Example": "通过中介找房要交中介费。 tōngguò zhōngjiè zhǎo fáng yào jiāo zhōngjièfèi: Finding a place through an agent means paying a fee",
+      "Notes": "中 zhōng middle + 介 jiè between, introduce (介绍) = the one in the middle who introduces both sides. 房产中介 = real estate agency"
+    },
+    {
+      "English": "deposit (for a rental, refundable)",
+      "Hanzi": "押金",
+      "Pinyin": "yājīn",
+      "Example": "租房要交两个月押金。 zūfáng yào jiāo liǎng ge yuè yājīn: Renting needs two months' deposit",
+      "Notes": "押 yā pledge, pawn, 扌 hand (抵押) + 金 jīn money (现金) = pledged money, so a refundable deposit. 押金 = refundable deposit; 定金 (定 settle) = down payment that secures a deal."
+    },
+    {
+      "English": "utilities (water and electricity bills)",
+      "Hanzi": "水电费",
+      "Pinyin": "shuǐdiànfèi",
+      "Example": "房租不包水电费。 fángzū bù bāo shuǐdiànfèi: Rent doesn't include utilities",
+      "Notes": "水 water + 电 diàn electricity (电话, 电视) + 费 fèi fee, 贝 shell = money (学费, 小费) = water and power fees. 包水电 = utilities included; 燃气费 = 燃 burn + 气 gas: gas bill"
+    },
+    {
+      "English": "If you rent in Shanghai, the rent takes almost half your income.",
+      "Hanzi": "在上海租房，房租差不多占收入一半。",
+      "Pinyin": "zài Shànghǎi zūfáng, fángzū chàbuduō zhàn shōurù yíbàn.",
+      "Example": "",
+      "Notes": "租房 (L21) + 房租 (L21) + 收入 (L9). 占 = take up (a share)."
+    },
+    {
+      "English": "The landlord's raising the rent again. Nothing we can do.",
+      "Hanzi": "房东又要涨房租了，真无奈。",
+      "Pinyin": "fángdōng yòu yào zhǎng fángzū le, zhēn wúnài.",
+      "Example": "",
+      "Notes": "房东 (L21) + 房租 (L21) + 无奈 (L7). 涨房租 = raise the rent."
+    },
+    {
+      "English": "On moving day, Ollie hid under the bed and wouldn't come out.",
+      "Hanzi": "搬家那天，Ollie躲在床底下不出来。",
+      "Pinyin": "bānjiā nà tiān, Ollie duǒ zài chuáng dǐxia bù chūlai.",
+      "Example": "",
+      "Notes": "搬家 (L21)."
+    },
+    {
+      "English": "If you rent through an agent, you pay an extra month's rent.",
+      "Hanzi": "通过中介租房，还得多付一个月房租。",
+      "Pinyin": "tōngguò zhōngjiè zūfáng, hái děi duō fù yí ge yuè fángzū.",
+      "Example": "",
+      "Notes": "中介 (L21) + 租房 (L21) + 房租 (L21). 多付 = pay extra."
+    },
+    {
+      "English": "The landlord won't budge and won't return a cent of the deposit.",
+      "Hanzi": "房东不肯让步，押金一分都不退。",
+      "Pinyin": "fángdōng bù kěn ràngbù, yājīn yì fēn dōu bú tuì.",
+      "Example": "",
+      "Notes": "房东 (L21) + 押金 (L21) + 让步 (L17). 退押金 = return the deposit."
+    },
+    {
+      "English": "I've transferred the deposit and the utilities to the landlord.",
+      "Hanzi": "押金和水电费都转账给房东了。",
+      "Pinyin": "yājīn hé shuǐdiànfèi dōu zhuǎnzhàng gěi fángdōng le.",
+      "Example": "",
+      "Notes": "押金 (L21) + 水电费 (L21) + 房东 (L21) + 转账 (L20)."
+    },
+    {
+      "English": "Upstairs is being renovated, and the noise has kept me awake for a week.",
+      "Hanzi": "楼上在装修，吵得我失眠了一个星期。",
+      "Pinyin": "lóushàng zài zhuāngxiū, chǎo de wǒ shīmián le yí ge xīngqī.",
+      "Example": "",
+      "Notes": "装修 (L21) + 失眠 (L13). 吵得… = so noisy that…"
+    },
+    {
+      "English": "The flat is still being renovated, so we have to push back the move.",
+      "Hanzi": "房子还在装修，我们只能推迟搬家。",
+      "Pinyin": "fángzi hái zài zhuāngxiū, wǒmen zhǐ néng tuīchí bānjiā.",
+      "Example": "",
+      "Notes": "装修 (L21) + 搬家 (L21) + 推迟 (L5)."
+    }
+  ]
+}

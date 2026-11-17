@@ -1,0 +1,119 @@
+{
+  "title": "How it made you feel",
+  "focus": "失望、后悔、尴尬、感动、无奈、情绪、难怪、说不定",
+  "body": "# How it made you feel\n\nNaming how something made you feel: let down, sorry, awkward, touched, or stuck.\n\n| Chinese | Pinyin | Meaning | Why |\n|---|---|---|---|\n| 失望 | shīwàng | disappointed | lost hope → disappointed |\n| 后悔 | hòuhuǐ | to regret (something you did or didn't do) | regret that comes after |\n| 尴尬 | gāngà | awkward / embarrassing (a social situation) | walking off balance → awkward |\n| 感动 | gǎndòng | moved / touched (emotionally) | feeling moved |\n| 无奈 | wúnài | resigned / helpless (nothing you can do about it) | no way to cope → resigned |\n| 情绪 | qíngxù | emotions / mood (often agitated or negative) | threads of feeling → mood |\n| 难怪 | nánguài | no wonder | hard to find it strange |\n| 说不定 | shuōbudìng | maybe / who knows, it could be (a possibility) | can't say for sure → maybe |\n\n## Which word?\n\n**情绪 vs 心情.** 心情 is how you feel, good or bad (心情很好). 情绪 is your emotional state, often a bad one: 情绪不好, 有情绪 = upset.\n\n## Sentences\n\n- 项目又推迟了，难怪客户很失望。 xiàngmù yòu tuīchí le, nánguài kèhù hěn shīwàng: The project's been delayed again, so no wonder the client is disappointed.\n- 我真后悔当时没接受那个机会。 wǒ zhēn hòuhuǐ dāngshí méi jiēshòu nàge jīhuì: I really regret not taking that opportunity back then.\n- 我叫错了领导的名字，好尴尬。 wǒ jiàocuò le lǐngdǎo de míngzi, hǎo gāngà: I called my boss by the wrong name. So awkward.\n- 他当众道歉，我又感动又尴尬。 tā dāngzhòng dàoqiàn, wǒ yòu gǎndòng yòu gāngà: He apologised in front of everyone. I was touched, and a bit embarrassed.\n- 截止日期改不了，大家又失望又无奈。 jiézhǐ rìqī gǎi bu liǎo, dàjiā yòu shīwàng yòu wúnài: The deadline can't be moved. Everyone's disappointed, but there's nothing we can do.\n- 他压力太大，难怪情绪不好。 tā yālì tài dà, nánguài qíngxù bù hǎo: He's under so much pressure. No wonder he's in a bad mood.\n- Ollie今天情绪不好，说不定是饿了。 Ollie jīntiān qíngxù bù hǎo, shuōbudìng shì è le: Ollie's in a mood today. Maybe he's hungry.\n- 别后悔了，说不定反而是好事。 bié hòuhuǐ le, shuōbudìng fǎn'ér shì hǎoshì: Stop regretting it. It might turn out to be a good thing.\n",
+  "cards": [
+    {
+      "English": "disappointed",
+      "Hanzi": "失望",
+      "Pinyin": "shīwàng",
+      "Example": "这个结果让大家很失望。 zhège jiéguǒ ràng dàjiā hěn shīwàng: Everyone was disappointed by the result",
+      "Notes": "失 shī lose (失去, 失败) + 望 wàng hope, look toward (希望, 看望) = lost hope. Stronger: 绝望 = hope cut off (绝 as in 拒绝), despair. 对……很失望 = disappointed in someone"
+    },
+    {
+      "English": "to regret (something you did or didn't do)",
+      "Hanzi": "后悔",
+      "Pinyin": "hòuhuǐ",
+      "Example": "我很后悔当时没听你的。 wǒ hěn hòuhuǐ dāngshí méi tīng nǐ de: I really regret not listening to you back then",
+      "Notes": "后 hòu after (以后, 后来) + 悔 huǐ regret, 忄 heart (悔改) = regret that comes after the fact. 后悔 = regret your own choice; 遗憾 = it's a pity, often out of your control"
+    },
+    {
+      "English": "awkward / embarrassing (a social situation)",
+      "Hanzi": "尴尬",
+      "Pinyin": "gāngà",
+      "Example": "他叫错了我的名字，场面有点尴尬。 tā jiàocuò le wǒ de míngzi, chǎngmiàn yǒudiǎn gāngà: He got my name wrong, and it was a bit awkward",
+      "Notes": "尴 gān + 尬 gà: both carry 尢, a lame, crooked leg; together they first meant walking unsteadily, off balance. Not built from meanings beyond that, so learn it as one word. 尴尬 describes the situation or the feeling in it; 不好意思 is the lighter, personal 'sorry / embarrassed'"
+    },
+    {
+      "English": "moved / touched (emotionally)",
+      "Hanzi": "感动",
+      "Pinyin": "gǎndòng",
+      "Example": "他说的话让我特别感动。 tā shuō de huà ràng wǒ tèbié gǎndòng: What he said really touched me",
+      "Notes": "感 gǎn feel (感觉, 感冒) + 动 dòng move (运动, 动作) = feeling moved, the same image as English 'moved'. vs 激动 = 激 surge, 氵 water dashing (刺激) + 动: stirred up, excited or worked up"
+    },
+    {
+      "English": "resigned / helpless (nothing you can do about it)",
+      "Hanzi": "无奈",
+      "Pinyin": "wúnài",
+      "Example": "房租又涨了，我也很无奈。 fángzū yòu zhǎng le, wǒ yě hěn wúnài: The rent went up again, and there's nothing I can do",
+      "Notes": "无 wú without (无聊, 无所谓) + 奈 nài way to cope (literary 奈何 'what can be done'; rarely seen outside these words) = no way to deal with it. Slightly literary; the spoken equivalent 没办法 maps exactly: 没 = 无, 办法 = 奈"
+    },
+    {
+      "English": "emotions / mood (often agitated or negative)",
+      "Hanzi": "情绪",
+      "Pinyin": "qíngxù",
+      "Example": "他今天情绪不太好，你别惹他。 tā jīntiān qíngxù bú tài hǎo, nǐ bié rě tā: He's in a bad mood today, don't provoke him",
+      "Notes": "情 qíng feeling, 忄 heart (感情, 心情) + 绪 xù thread end, 纟 silk (头绪, 思绪) = threads of feeling, a mood that can tangle. 心情 = how you feel (good or bad); 情绪 = emotional state, and 有情绪 means upset or disgruntled"
+    },
+    {
+      "English": "no wonder",
+      "Hanzi": "难怪",
+      "Pinyin": "nánguài",
+      "Example": "他昨晚加班到两点，难怪这么累。 tā zuówǎn jiābān dào liǎng diǎn, nánguài zhème lèi: He worked until 2 last night, no wonder he's so tired",
+      "Notes": "难 nán hard (困难) + 怪 guài find strange, 忄 heart (奇怪) = hard to find it strange: no wonder. 怪不得 (can't find it odd) means the same and is slightly more colloquial."
+    },
+    {
+      "English": "maybe / who knows, it could be (a possibility)",
+      "Hanzi": "说不定",
+      "Pinyin": "shuōbudìng",
+      "Example": "别急着走，他说不定一会儿就来了。 bié jízhe zǒu, tā shuōbudìng yíhuìr jiù lái le: Don't rush off, he might show up any minute",
+      "Notes": "说 say + 不 not + 定 dìng settle, fix (决定, 一定) = can't say for sure: maybe. Mirror: 说定了 = it's settled. Livelier than 也许; suggests an open possibility."
+    },
+    {
+      "English": "The project's been delayed again, so no wonder the client is disappointed.",
+      "Hanzi": "项目又推迟了，难怪客户很失望。",
+      "Pinyin": "xiàngmù yòu tuīchí le, nánguài kèhù hěn shīwàng.",
+      "Example": "",
+      "Notes": "难怪 (L7) + 失望 (L7) + 项目 (L6) + 推迟 (L5) + 客户 (L6)."
+    },
+    {
+      "English": "I really regret not taking that opportunity back then.",
+      "Hanzi": "我真后悔当时没接受那个机会。",
+      "Pinyin": "wǒ zhēn hòuhuǐ dāngshí méi jiēshòu nàge jīhuì.",
+      "Example": "",
+      "Notes": "后悔 (L7) + 机会 (L4). 后悔 is for your own choices."
+    },
+    {
+      "English": "I called my boss by the wrong name. So awkward.",
+      "Hanzi": "我叫错了领导的名字，好尴尬。",
+      "Pinyin": "wǒ jiàocuò le lǐngdǎo de míngzi, hǎo gāngà.",
+      "Example": "",
+      "Notes": "尴尬 (L7) + 领导 (L6)."
+    },
+    {
+      "English": "He apologised in front of everyone. I was touched, and a bit embarrassed.",
+      "Hanzi": "他当众道歉，我又感动又尴尬。",
+      "Pinyin": "tā dāngzhòng dàoqiàn, wǒ yòu gǎndòng yòu gāngà.",
+      "Example": "",
+      "Notes": "感动 (L7) + 尴尬 (L7). 又A又B = both A and B."
+    },
+    {
+      "English": "The deadline can't be moved. Everyone's disappointed, but there's nothing we can do.",
+      "Hanzi": "截止日期改不了，大家又失望又无奈。",
+      "Pinyin": "jiézhǐ rìqī gǎi bu liǎo, dàjiā yòu shīwàng yòu wúnài.",
+      "Example": "",
+      "Notes": "失望 (L7) + 无奈 (L7) + 截止日期 (L6)."
+    },
+    {
+      "English": "He's under so much pressure. No wonder he's in a bad mood.",
+      "Hanzi": "他压力太大，难怪情绪不好。",
+      "Pinyin": "tā yālì tài dà, nánguài qíngxù bù hǎo.",
+      "Example": "",
+      "Notes": "难怪 (L7) + 情绪 (L7) + 压力 (L4)."
+    },
+    {
+      "English": "Ollie's in a mood today. Maybe he's hungry.",
+      "Hanzi": "Ollie今天情绪不好，说不定是饿了。",
+      "Pinyin": "Ollie jīntiān qíngxù bù hǎo, shuōbudìng shì è le.",
+      "Example": "",
+      "Notes": "情绪 (L7) + 说不定 (L7)."
+    },
+    {
+      "English": "Stop regretting it. It might turn out to be a good thing.",
+      "Hanzi": "别后悔了，说不定反而是好事。",
+      "Pinyin": "bié hòuhuǐ le, shuōbudìng fǎn'ér shì hǎoshì.",
+      "Example": "",
+      "Notes": "后悔 (L7) + 说不定 (L7) + 反而 (L2)."
+    }
+  ]
+}

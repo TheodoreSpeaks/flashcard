@@ -1,0 +1,119 @@
+{
+  "title": "Phones, apps and the internet",
+  "focus": "软件 · 账号 · 密码 · 数据 · 隐私 · 更新 · 网络 · 人工智能",
+  "body": "Everyday tech words: logging in, updating, and worrying about where your data goes. Sentences bring back the news words from L22 and 转账 from L20.\n\n| Chinese | Pinyin | Meaning | Why |\n|---|---|---|---|\n| 软件 | ruǎnjiàn | software / app (general term) | soft items → software |\n| 账号 | zhànghào | account (online, for logging in) | ledger number → login ID |\n| 密码 | mìmǎ | password | secret code |\n| 数据 | shùjù | data | numbers you can go by |\n| 隐私 | yǐnsī | privacy | hidden private matters |\n| 更新 | gēngxīn | to update (software, an app) | change to the new (gēng) |\n| 网络 | wǎngluò | network / internet connection | a web of threads |\n| 人工智能 | réngōng zhìnéng | artificial intelligence (AI) | man-made intelligence |\n\n## Which word?\n\n**账号 vs 账户:** 账号 is a login (WeChat, email, games); 账户 is where money sits (银行账户).\n\n**更新 vs 升级:** 更新 refreshes to the latest; 升级 moves up a version or level.\n\n## Sentences\n\n- 有人登录了我的账号，我赶紧改了密码。 yǒu rén dēnglù le wǒ de zhànghào, wǒ gǎnjǐn gǎi le mìmǎ: Someone logged into my account, so I changed my password right away.\n- 银行软件每次转账都要输密码。 yínháng ruǎnjiàn měi cì zhuǎnzhàng dōu yào shū mìmǎ: The banking app asks for a password every time you transfer money.\n- 更新以后，网络反而更慢了。 gēngxīn yǐhòu, wǎngluò fǎn'ér gèng màn le: After the update, the connection actually got slower.\n- 网络不好，会议只能推迟了。 wǎngluò bù hǎo, huìyì zhǐ néng tuīchí le: The connection is bad, so the meeting has to be pushed back.\n- 政府应该出台政策保护个人隐私。 zhèngfǔ yīnggāi chūtái zhèngcè bǎohù gèrén yǐnsī: The government should bring in a policy to protect people's privacy.\n- 人工智能发展得太快了，我有点焦虑。 réngōng zhìnéng fāzhǎn de tài kuài le, wǒ yǒudiǎn jiāolǜ: AI is moving so fast it makes me a bit anxious.\n- 我怀疑这个软件在偷偷收集数据。 wǒ huáiyí zhège ruǎnjiàn zài tōutōu shōují shùjù: I suspect this app is secretly collecting data.\n- 用人工智能分析数据，效率高多了。 yòng réngōng zhìnéng fēnxī shùjù, xiàolǜ gāo duō le: Using AI to analyse the data is far more efficient.\n",
+  "cards": [
+    {
+      "English": "software / app (general term)",
+      "Hanzi": "软件",
+      "Pinyin": "ruǎnjiàn",
+      "Example": "这个软件很好用。 zhège ruǎnjiàn hěn hǎoyòng: This software is really easy to use",
+      "Notes": "软 ruǎn soft (软的, 柔软) + 件 jiàn item, piece (文件, 一件衣服) = soft items, a translation of 'software'. Mirror: 硬件 = hardware (硬 hard). Phone apps are usually just App or 应用; 软件 is the general word."
+    },
+    {
+      "English": "account (online, for logging in)",
+      "Hanzi": "账号",
+      "Pinyin": "zhànghào",
+      "Example": "我的账号被盗了。 wǒ de zhànghào bèi dào le: My account got stolen",
+      "Notes": "账 zhàng account, ledger, 贝 money radical (算账, 结账) + 号 hào number (号码, 电话号) = account number, i.e. your login ID. vs 账户 (户 household, 户口) = where money sits (银行账户). 账号 = login (WeChat, email, games)."
+    },
+    {
+      "English": "password",
+      "Hanzi": "密码",
+      "Pinyin": "mìmǎ",
+      "Example": "我忘了密码，得重新设置一下。 wǒ wàng le mìmǎ, děi chóngxīn shèzhì yíxià: I forgot my password, I need to reset it",
+      "Notes": "密 mì secret, dense (秘密, 密切) + 码 mǎ code, number (号码, 二维码) = secret code. Also the PIN for a bank card. 改密码 = change the password."
+    },
+    {
+      "English": "data",
+      "Hanzi": "数据",
+      "Pinyin": "shùjù",
+      "Example": "数据都备份了吗？ shùjù dōu bèifèn le ma: Has all the data been backed up?",
+      "Notes": "数 shù number (数学, 数字) + 据 jù evidence, basis (根据, 证据) = numbers you can go by. 大数据 = big data. 流量 is mobile data allowance, not 数据."
+    },
+    {
+      "English": "privacy",
+      "Hanzi": "隐私",
+      "Pinyin": "yǐnsī",
+      "Example": "现在的App都在收集用户隐私。 xiànzài de App dōu zài shōují yònghù yǐnsī: Apps these days all collect users' private data",
+      "Notes": "隐 yǐn hidden (隐藏, 隐瞒) + 私 sī private, personal (私人, 自私) = hidden private matters. Mirror: 公 public vs 私 private (公私分明). Collocations: 保护隐私 protect privacy, 侵犯隐私 invade privacy, 个人隐私."
+    },
+    {
+      "English": "to update (software, an app)",
+      "Hanzi": "更新",
+      "Pinyin": "gēngxīn",
+      "Example": "手机提示我更新系统。 shǒujī tíshì wǒ gēngxīn xìtǒng: My phone is telling me to update the system",
+      "Notes": "更 gēng change, replace (更换, 更衣室) + 新 xīn new (新年, 新闻) = change to the new. Note 更 is gēng here, not gèng as in 更好. vs 升级 (升 rise + 级 level, 年级) = upgrade to a new version or level."
+    },
+    {
+      "English": "network / internet connection",
+      "Hanzi": "网络",
+      "Pinyin": "wǎngluò",
+      "Example": "今天网络不太稳定。 jīntiān wǎngluò bú tài wěndìng: The connection is a bit unstable today",
+      "Notes": "网 wǎng net (上网) + 络 luò, 纟 silk: a mesh of threads (联络 get in touch) = a web of connections. 网络 = the connection or network; 网速 = how fast it is; 信号 = phone reception."
+    },
+    {
+      "English": "artificial intelligence (AI)",
+      "Hanzi": "人工智能",
+      "Pinyin": "réngōng zhìnéng",
+      "Example": "人工智能会取代很多工作。 réngōng zhìnéng huì qǔdài hěn duō gōngzuò: AI will replace a lot of jobs",
+      "Notes": "人工 = 人 person + 工 work (工人, 工作) = man-made, the opposite of 自然 natural. 智能 = 智 wisdom (智慧) + 能 ability (能力) = intelligence, as in 智能手机 smartphone. So man-made intelligence. Casually people just say AI (A-I)."
+    },
+    {
+      "English": "Someone logged into my account, so I changed my password right away.",
+      "Hanzi": "有人登录了我的账号，我赶紧改了密码。",
+      "Pinyin": "yǒu rén dēnglù le wǒ de zhànghào, wǒ gǎnjǐn gǎi le mìmǎ.",
+      "Example": "",
+      "Notes": "账号 (L23) + 密码 (L23). 改密码 = change a password."
+    },
+    {
+      "English": "The banking app asks for a password every time you transfer money.",
+      "Hanzi": "银行软件每次转账都要输密码。",
+      "Pinyin": "yínháng ruǎnjiàn měi cì zhuǎnzhàng dōu yào shū mìmǎ.",
+      "Example": "",
+      "Notes": "软件 (L23) + 密码 (L23) + 转账 (L20). 输 = type in."
+    },
+    {
+      "English": "After the update, the connection actually got slower.",
+      "Hanzi": "更新以后，网络反而更慢了。",
+      "Pinyin": "gēngxīn yǐhòu, wǎngluò fǎn'ér gèng màn le.",
+      "Example": "",
+      "Notes": "更新 (L23) + 网络 (L23) + 反而 (L2). 更 is gēng in 更新, gèng in 更慢."
+    },
+    {
+      "English": "The connection is bad, so the meeting has to be pushed back.",
+      "Hanzi": "网络不好，会议只能推迟了。",
+      "Pinyin": "wǎngluò bù hǎo, huìyì zhǐ néng tuīchí le.",
+      "Example": "",
+      "Notes": "网络 (L23) + 会议 (L6) + 推迟 (L5)."
+    },
+    {
+      "English": "The government should bring in a policy to protect people's privacy.",
+      "Hanzi": "政府应该出台政策保护个人隐私。",
+      "Pinyin": "zhèngfǔ yīnggāi chūtái zhèngcè bǎohù gèrén yǐnsī.",
+      "Example": "",
+      "Notes": "隐私 (L23) + 政府 (L22) + 政策 (L22). 出台 = bring in (a policy)."
+    },
+    {
+      "English": "AI is moving so fast it makes me a bit anxious.",
+      "Hanzi": "人工智能发展得太快了，我有点焦虑。",
+      "Pinyin": "réngōng zhìnéng fāzhǎn de tài kuài le, wǒ yǒudiǎn jiāolǜ.",
+      "Example": "",
+      "Notes": "人工智能 (L23) + 发展 (L22) + 焦虑 (L15)."
+    },
+    {
+      "English": "I suspect this app is secretly collecting data.",
+      "Hanzi": "我怀疑这个软件在偷偷收集数据。",
+      "Pinyin": "wǒ huáiyí zhège ruǎnjiàn zài tōutōu shōují shùjù.",
+      "Example": "",
+      "Notes": "软件 (L23) + 数据 (L23) + 怀疑 (L17). 收集 = collect."
+    },
+    {
+      "English": "Using AI to analyse the data is far more efficient.",
+      "Hanzi": "用人工智能分析数据，效率高多了。",
+      "Pinyin": "yòng réngōng zhìnéng fēnxī shùjù, xiàolǜ gāo duō le.",
+      "Example": "",
+      "Notes": "人工智能 (L23) + 数据 (L23) + 效率 (L6). 高多了 = much higher."
+    }
+  ]
+}

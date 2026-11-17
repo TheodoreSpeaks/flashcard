@@ -1,0 +1,119 @@
+{
+  "title": "Problems, causes and results",
+  "focus": "解决、影响、原因、结果、情况、责任、反而、否则",
+  "body": "# Problems, causes and results\n\nTalking about what went wrong, why, and what happened next. The lesson 1 opinion words come back in most sentences.\n\n| Chinese | Pinyin | Meaning | Why |\n|---|---|---|---|\n| 解决 | jiějué | to solve / resolve (a problem, for good) | untie + settle → solve for good |\n| 影响 | yǐngxiǎng | influence / to affect | shadow and echo → effect |\n| 原因 | yuányīn | reason / cause | original cause → reason |\n| 结果 | jiéguǒ | result / outcome | the fruit that forms → outcome |\n| 情况 | qíngkuàng | situation / what's going on (specific case) | state of things → situation |\n| 责任 | zérèn | responsibility | duty you answer for |\n| 反而 | fǎn'ér | instead / on the contrary (the opposite of what you'd expect) | reversed, and yet → instead |\n| 否则 | fǒuzé | otherwise (or else) | if not, then → otherwise |\n\n## Which word?\n\n**反而 vs 反对 (L1).** Both start with 反 'reverse'. 反对 is a verb, to oppose. 反而 is an adverb inside a clause: the opposite of what you expected happened.\n\n## Sentences\n\n- 说实话，情况比我想的复杂。 shuō shíhuà, qíngkuàng bǐ wǒ xiǎng de fùzá: Honestly, the situation is more complicated than I thought.\n- 我认为主要原因是钱不够。 wǒ rènwéi zhǔyào yuányīn shì qián bú gòu: I believe the main reason is that there isn't enough money.\n- 我劝了他半天，结果他反而更生气了。 wǒ quàn le tā bàntiān, jiéguǒ tā fǎn'ér gèng shēngqì le: I spent ages trying to calm him down, and he just got angrier instead.\n- 先把问题解决了，责任以后再查。 xiān bǎ wèntí jiějué le, zérèn yǐhòu zài chá: Let's solve the problem first and work out who's responsible later.\n- 问题没解决，他确实有责任。 wèntí méi jiějué, tā quèshí yǒu zérèn: The problem wasn't solved, and he really is partly to blame.\n- 你早点睡吧，否则会影响工作。 nǐ zǎodiǎn shuì ba, fǒuzé huì yǐngxiǎng gōngzuò: Go to bed earlier, or it'll affect your work.\n- 毕竟情况不同，结果也不一样。 bìjìng qíngkuàng bù tóng, jiéguǒ yě bù yíyàng: The circumstances were different after all, so the outcome was too.\n- 他反对的原因是怕影响孩子。 tā fǎnduì de yuányīn shì pà yǐngxiǎng háizi: The reason he's against it is that he's worried it'll affect the kids.\n",
+  "cards": [
+    {
+      "English": "to solve / resolve (a problem, for good)",
+      "Hanzi": "解决",
+      "Pinyin": "jiějué",
+      "Example": "问题已经解决了，不用担心。 wèntí yǐjīng jiějué le, búyòng dānxīn: The problem's been solved, no need to worry",
+      "Notes": "解 jiě untie: 刀 knife cutting the 角 horn off a 牛 ox (解开, 了解) + 决 jué decide, originally water breaking through (决定) = untie it and settle it. 解决问题 is the standard collocation; 处理问题 just means you're working on it"
+    },
+    {
+      "English": "influence / to affect",
+      "Hanzi": "影响",
+      "Pinyin": "yǐngxiǎng",
+      "Example": "熬夜会影响你的健康。 áoyè huì yǐngxiǎng nǐ de jiànkāng: Staying up late will affect your health",
+      "Notes": "影 yǐng shadow (影子, 电影) + 响 xiǎng echo, sound (声响, 响亮) = shadow and echo: what follows a thing the way a shadow follows a body. 对……有影响 = have an effect on. Neutral or negative; for a positive role use 作用."
+    },
+    {
+      "English": "reason / cause",
+      "Hanzi": "原因",
+      "Pinyin": "yuányīn",
+      "Example": "你知道他辞职的原因吗？ nǐ zhīdào tā cízhí de yuányīn ma: Do you know why he quit?",
+      "Notes": "原 yuán original, source (原来) + 因 yīn cause (因为) = the original cause. 原因 = the actual cause; 理由 (理 reason + 由 from) = the justification someone gives."
+    },
+    {
+      "English": "result / outcome",
+      "Hanzi": "结果",
+      "Pinyin": "jiéguǒ",
+      "Example": "我等了他半天，结果他没来。 wǒ děng le tā bàntiān, jiéguǒ tā méi lái: I waited ages for him, and in the end he didn't show",
+      "Notes": "结 jié/jiē bear fruit, tie (结果子 jiē guǒzi = to bear fruit; 结婚, 结束) + 果 guǒ fruit (水果, 苹果) = the fruit that forms: the outcome. In speech 结果 often means 'and then, as it turned out' (usually a let-down)."
+    },
+    {
+      "English": "situation / what's going on (specific case)",
+      "Hanzi": "情况",
+      "Pinyin": "qíngkuàng",
+      "Example": "我先了解一下情况。 wǒ xiān liǎojiě yíxià qíngkuàng: Let me find out what's going on first",
+      "Notes": "情 qíng circumstances, 忄 heart (事情, 心情) + 况 kuàng condition (何况) = the state of things. 情况 = a concrete situation; 形势 (形 shape + 势 force) = the broad political or economic situation."
+    },
+    {
+      "English": "responsibility",
+      "Hanzi": "责任",
+      "Pinyin": "zérèn",
+      "Example": "这件事我也有责任。 zhè jiàn shì wǒ yě yǒu zérèn: I'm partly responsible for this too",
+      "Notes": "责 zé duty, blame, 贝 (负责, 责怪) + 任 rèn duty, post (任务, 主任) = duty you answer for. 责任 is the noun; 负责 (负 carry on your back) is the verb: be in charge of, be responsible for."
+    },
+    {
+      "English": "instead / on the contrary (the opposite of what you'd expect)",
+      "Hanzi": "反而",
+      "Pinyin": "fǎn'ér",
+      "Example": "吃了药，病反而更重了。 chī le yào, bìng fǎn'ér gèng zhòng le: I took the medicine, but I got worse instead",
+      "Notes": "反 fǎn reverse, opposite (反对, 相反) + 而 ér and yet (而且, 然而) = reversed, instead. 反而 goes before the verb inside a clause; 相反 stands alone as a connector."
+    },
+    {
+      "English": "otherwise (or else)",
+      "Hanzi": "否则",
+      "Pinyin": "fǒuzé",
+      "Example": "快点儿走，否则赶不上车了。 kuài diǎnr zǒu, fǒuzé gǎn bú shàng chē le: Hurry up, or we'll miss the bus",
+      "Notes": "否 fǒu not, no (是否, 否认) + 则 zé then (classical) = if not, then: otherwise. 不然 (if not so) is the more colloquial equivalent."
+    },
+    {
+      "English": "Honestly, the situation is more complicated than I thought.",
+      "Hanzi": "说实话，情况比我想的复杂。",
+      "Pinyin": "shuō shíhuà, qíngkuàng bǐ wǒ xiǎng de fùzá.",
+      "Example": "",
+      "Notes": "情况 (L2) + 说实话 (L1)."
+    },
+    {
+      "English": "I believe the main reason is that there isn't enough money.",
+      "Hanzi": "我认为主要原因是钱不够。",
+      "Pinyin": "wǒ rènwéi zhǔyào yuányīn shì qián bú gòu.",
+      "Example": "",
+      "Notes": "原因 (L2) + 认为 (L1)."
+    },
+    {
+      "English": "I spent ages trying to calm him down, and he just got angrier instead.",
+      "Hanzi": "我劝了他半天，结果他反而更生气了。",
+      "Pinyin": "wǒ quàn le tā bàntiān, jiéguǒ tā fǎn'ér gèng shēngqì le.",
+      "Example": "",
+      "Notes": "结果 (L2) + 反而 (L2). 结果 here = 'and then, as it turned out'."
+    },
+    {
+      "English": "Let's solve the problem first and work out who's responsible later.",
+      "Hanzi": "先把问题解决了，责任以后再查。",
+      "Pinyin": "xiān bǎ wèntí jiějué le, zérèn yǐhòu zài chá.",
+      "Example": "",
+      "Notes": "解决 (L2) + 责任 (L2). 再 = 'then / at that point', not 'again'."
+    },
+    {
+      "English": "The problem wasn't solved, and he really is partly to blame.",
+      "Hanzi": "问题没解决，他确实有责任。",
+      "Pinyin": "wèntí méi jiějué, tā quèshí yǒu zérèn.",
+      "Example": "",
+      "Notes": "解决 (L2) + 责任 (L2) + 确实 (L1). 有责任 = bear some of the responsibility."
+    },
+    {
+      "English": "Go to bed earlier, or it'll affect your work.",
+      "Hanzi": "你早点睡吧，否则会影响工作。",
+      "Pinyin": "nǐ zǎodiǎn shuì ba, fǒuzé huì yǐngxiǎng gōngzuò.",
+      "Example": "",
+      "Notes": "否则 (L2) + 影响 (L2). 否则 is a little more formal than 不然."
+    },
+    {
+      "English": "The circumstances were different after all, so the outcome was too.",
+      "Hanzi": "毕竟情况不同，结果也不一样。",
+      "Pinyin": "bìjìng qíngkuàng bù tóng, jiéguǒ yě bù yíyàng.",
+      "Example": "",
+      "Notes": "情况 (L2) + 结果 (L2) + 毕竟 (L1)."
+    },
+    {
+      "English": "The reason he's against it is that he's worried it'll affect the kids.",
+      "Hanzi": "他反对的原因是怕影响孩子。",
+      "Pinyin": "tā fǎnduì de yuányīn shì pà yǐngxiǎng háizi.",
+      "Example": "",
+      "Notes": "原因 (L2) + 影响 (L2) + 反对 (L1). X的原因是… = the reason for X is…"
+    }
+  ]
+}

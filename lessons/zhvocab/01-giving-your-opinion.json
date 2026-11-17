@@ -1,0 +1,119 @@
+{
+  "title": "Giving your opinion",
+  "focus": "认为、同意、反对、支持、有道理、说实话、确实、毕竟",
+  "body": "# Giving your opinion\n\nWords for saying what you think, agreeing, and pushing back. These are the building blocks for most of the later lessons, so they will keep coming back.\n\n| Chinese | Pinyin | Meaning | Why |\n|---|---|---|---|\n| 认为 | rènwéi | to believe / hold that (considered opinion) | recognize X as Y → considered view |\n| 同意 | tóngyì | to agree (with a person or proposal) | same idea → agree |\n| 反对 | fǎnduì | to oppose / be against | face against → oppose |\n| 支持 | zhīchí | to support / back (a person, a decision) | prop up and hold → back |\n| 有道理 | yǒu dàolǐ | to make sense / have a point (what you say ___) | has way and reason → makes sense |\n| 说实话 | shuō shíhuà | to be honest… (sentence opener) | speak the real words → honestly |\n| 确实 | quèshí | indeed / really (confirming) | firm + real → indeed |\n| 毕竟 | bìjìng | after all (giving the reason to accept something) | finished, to the end → after all |\n\n## Which word?\n\n**认为 vs 觉得.** 觉得 is a gut feeling (我觉得有点冷). 认为 is a view you have thought through and would defend (我认为这个办法不行).\n\n## Sentences\n\n- 说实话，我不同意你的看法。 shuō shíhuà, wǒ bù tóngyì nǐ de kànfǎ: To be honest, I don't agree with you.\n- 我妈反对，可是我爸支持我。 wǒ mā fǎnduì, kěshì wǒ bà zhīchí wǒ: My mum's against it, but my dad's backing me.\n- 他的话确实有道理。 tā de huà quèshí yǒu dàolǐ: What he said really does make sense.\n- 我同意，毕竟是你的钱。 wǒ tóngyì, bìjìng shì nǐ de qián: I agree. It's your money, after all.\n- 很多人认为房价太高了。 hěn duō rén rènwéi fángjià tài gāo le: A lot of people believe house prices are too high.\n- 他毕竟是老板，你反对也没用。 tā bìjìng shì lǎobǎn, nǐ fǎnduì yě méi yòng: He's the boss after all, so objecting won't help.\n- 我认为你应该支持她。 wǒ rènwéi nǐ yīnggāi zhīchí tā: I believe you should back her up.\n- 说实话，你妈说得也有道理。 shuō shíhuà, nǐ mā shuō de yě yǒu dàolǐ: To be honest, your mum has a point too.\n",
+  "cards": [
+    {
+      "English": "to believe / hold that (considered opinion)",
+      "Hanzi": "认为",
+      "Pinyin": "rènwéi",
+      "Example": "我认为这个方案可行。 wǒ rènwéi zhège fāng'àn kěxíng: I believe this plan is workable",
+      "Notes": "认 rèn recognize, 讠 speech (认识, 认真) + 为 wéi take as, become (成为, 以为) = recognize X as Y, so hold a considered view. More reasoned and formal than 觉得 (a gut feeling); 以为 = thought (wrongly)."
+    },
+    {
+      "English": "to agree (with a person or proposal)",
+      "Hanzi": "同意",
+      "Pinyin": "tóngyì",
+      "Example": "你同意的话,我们就这么定了。 nǐ tóngyì de huà, wǒmen jiù zhème dìng le: If you agree, then it's settled",
+      "Notes": "同 tóng same (同学, 不同) + 意 yì idea, intention (意思, 注意) = same idea, so agree / give consent. Mirror: 不同意. vs 赞成 = more formal 'be in favor of'."
+    },
+    {
+      "English": "to oppose / be against",
+      "Hanzi": "反对",
+      "Pinyin": "fǎnduì",
+      "Example": "很多人反对这个政策。 hěn duō rén fǎnduì zhège zhèngcè: A lot of people oppose this policy",
+      "Notes": "反 fǎn reverse, against (相反, 反正) + 对 duì face, toward (对面, 对手) = face against, so oppose. Mirror: 支持 / 赞成. 坚决反对 = firmly oppose."
+    },
+    {
+      "English": "to support / back (a person, a decision)",
+      "Hanzi": "支持",
+      "Pinyin": "zhīchí",
+      "Example": "不管你做什么决定,我都支持你。 bùguǎn nǐ zuò shénme juédìng, wǒ dōu zhīchí nǐ: Whatever you decide, I'll support you",
+      "Notes": "支 zhī prop up (支撑; 一支笔 a stick) + 持 chí hold, 扌 hand (坚持, 保持) = prop up and hold, so back a person or decision. Mirror: 反对. Shares 持 with 坚持."
+    },
+    {
+      "English": "to make sense / have a point (what you say ___)",
+      "Hanzi": "有道理",
+      "Pinyin": "yǒu dàolǐ",
+      "Example": "你说的也有道理。 nǐ shuō de yě yǒu dàolǐ: You have a point there",
+      "Notes": "道理 dàolǐ: 道 dào way, road (知道, 道路) + 理 lǐ reason, logic (理由, 合理) = the way and reason of things, so 有道理 = makes sense. Adding 也 softens it: 'you have a point too' before you push back."
+    },
+    {
+      "English": "to be honest… (sentence opener)",
+      "Hanzi": "说实话",
+      "Pinyin": "shuō shíhuà",
+      "Example": "说实话,我不太喜欢这个方案。 shuō shíhuà, wǒ bú tài xǐhuan zhège fāng'àn: To be honest, I don't really like this plan",
+      "Notes": "说 shuō speak + 实 shí real, solid (其实, 老实) + 话 huà words (说话, 电话) = speak the real words, so 'to be honest…'. Also 说实在的 / 老实说, same meaning."
+    },
+    {
+      "English": "indeed / really (confirming)",
+      "Hanzi": "确实",
+      "Pinyin": "quèshí",
+      "Example": "你说得确实有道理。 nǐ shuō de quèshí yǒu dàolǐ: You really do have a point",
+      "Notes": "确 què firm, certain, 石 stone (确定, 正确) + 实 shí real, solid (真实, 老实) = solidly true: indeed. 的确 means the same and is a bit more written."
+    },
+    {
+      "English": "after all (giving the reason to accept something)",
+      "Hanzi": "毕竟",
+      "Pinyin": "bìjìng",
+      "Example": "别怪他了，他毕竟还是个孩子。 bié guài tā le, tā bìjìng hái shì ge háizi: Don't blame him, he's still a kid after all",
+      "Notes": "毕 bì finish (毕业 graduate) + 竟 jìng to the end (竟然, 究竟) = when all is said and done: after all. Don't confuse with 究竟 (究 investigate to the end = exactly, in questions: 究竟怎么回事？)."
+    },
+    {
+      "English": "To be honest, I don't agree with you.",
+      "Hanzi": "说实话，我不同意你的看法。",
+      "Pinyin": "shuō shíhuà, wǒ bù tóngyì nǐ de kànfǎ.",
+      "Example": "",
+      "Notes": "说实话 (L1) + 同意 (L1). 不 stays bù before a 2nd tone; it only changes before a 4th."
+    },
+    {
+      "English": "My mum's against it, but my dad's backing me.",
+      "Hanzi": "我妈反对，可是我爸支持我。",
+      "Pinyin": "wǒ mā fǎnduì, kěshì wǒ bà zhīchí wǒ.",
+      "Example": "",
+      "Notes": "反对 (L1) + 支持 (L1). 反对 and 支持 are a mirror pair."
+    },
+    {
+      "English": "What he said really does make sense.",
+      "Hanzi": "他的话确实有道理。",
+      "Pinyin": "tā de huà quèshí yǒu dàolǐ.",
+      "Example": "",
+      "Notes": "确实 (L1) + 有道理 (L1). 确实 sits right before the verb phrase."
+    },
+    {
+      "English": "I agree. It's your money, after all.",
+      "Hanzi": "我同意，毕竟是你的钱。",
+      "Pinyin": "wǒ tóngyì, bìjìng shì nǐ de qián.",
+      "Example": "",
+      "Notes": "同意 (L1) + 毕竟 (L1). 毕竟 gives the reason you accept something."
+    },
+    {
+      "English": "A lot of people believe house prices are too high.",
+      "Hanzi": "很多人认为房价太高了。",
+      "Pinyin": "hěn duō rén rènwéi fángjià tài gāo le.",
+      "Example": "",
+      "Notes": "认为 (L1)."
+    },
+    {
+      "English": "He's the boss after all, so objecting won't help.",
+      "Hanzi": "他毕竟是老板，你反对也没用。",
+      "Pinyin": "tā bìjìng shì lǎobǎn, nǐ fǎnduì yě méi yòng.",
+      "Example": "",
+      "Notes": "毕竟 (L1) + 反对 (L1). X 也没用 = 'even if you X, it's no use'."
+    },
+    {
+      "English": "I believe you should back her up.",
+      "Hanzi": "我认为你应该支持她。",
+      "Pinyin": "wǒ rènwéi nǐ yīnggāi zhīchí tā.",
+      "Example": "",
+      "Notes": "认为 (L1) + 支持 (L1)."
+    },
+    {
+      "English": "To be honest, your mum has a point too.",
+      "Hanzi": "说实话，你妈说得也有道理。",
+      "Pinyin": "shuō shíhuà, nǐ mā shuō de yě yǒu dàolǐ.",
+      "Example": "",
+      "Notes": "说实话 (L1) + 有道理 (L1). 也 softens it: 'she has a point too'."
+    }
+  ]
+}

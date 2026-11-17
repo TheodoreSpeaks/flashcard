@@ -1,0 +1,119 @@
+{
+  "title": "Making and changing plans",
+  "focus": "安排、取消、推迟、确认、提醒、来不及、既然、无论如何",
+  "body": "# Making and changing plans\n\nSetting things up, moving them, calling them off, and making sure everyone knows.\n\n| Chinese | Pinyin | Meaning | Why |\n|---|---|---|---|\n| 安排 | ānpái | to arrange / schedule (time, people, plans) | settle things into rows |\n| 取消 | qǔxiāo | to cancel | take it away, it vanishes |\n| 推迟 | tuīchí | to postpone / push back (to a later time) | push it later |\n| 确认 | quèrèn | to confirm | acknowledge as certain → confirm |\n| 提醒 | tíxǐng | to remind (someone) | raise it so they wake |\n| 来不及 | láibují | to not have enough time (to make it) | can't come in time |\n| 既然 | jìrán | since / given that | since it's already so |\n| 无论如何 | wúlùn rúhé | no matter what / in any case | regardless of how → no matter what |\n\n## Which word?\n\n**确认 vs 确实 (L1).** Both start with 确 'certain'. 确认 is a verb, to confirm (确认一下时间). 确实 is an adverb, indeed (确实有道理).\n\n**既然 vs 因为.** 因为 gives a cause. 既然 starts from a fact you both accept and goes to what follows: 既然……就…….\n\n## Sentences\n\n- 我估计活动会推迟。 wǒ gūjì huódòng huì tuīchí: I reckon the event will be pushed back.\n- 既然你压力这么大，就取消吧。 jìrán nǐ yālì zhème dà, jiù qǔxiāo ba: Since you're under so much pressure, just cancel it.\n- 我负责确认时间，你负责提醒大家。 wǒ fùzé quèrèn shíjiān, nǐ fùzé tíxǐng dàjiā: I'll confirm the time, and you're in charge of reminding everyone.\n- 来不及了，推迟一天吧。 láibují le, tuīchí yì tiān ba: We won't make it in time. Let's push it back a day.\n- 无论如何，这个机会不能错过。 wúlùn rúhé, zhège jīhuì bù néng cuòguò: No matter what, we can't miss this chance.\n- 谢谢你提醒我，否则我就忘了。 xièxie nǐ tíxǐng wǒ, fǒuzé wǒ jiù wàng le: Thanks for reminding me, otherwise I'd have forgotten.\n- 既然已经安排好了，就别取消了。 jìrán yǐjīng ānpái hǎo le, jiù bié qǔxiāo le: Since it's all been arranged, don't cancel it.\n- 我建议提前安排，否则来不及。 wǒ jiànyì tíqián ānpái, fǒuzé láibují: I suggest we arrange it early, or we won't have time.\n",
+  "cards": [
+    {
+      "English": "to arrange / schedule (time, people, plans)",
+      "Hanzi": "安排",
+      "Pinyin": "ānpái",
+      "Example": "我帮你安排一下时间。 wǒ bāng nǐ ānpái yíxià shíjiān: Let me set up a time for you",
+      "Notes": "安 ān settle (安全, 安静) + 排 pái put in a row, 扌 hand (排队) = settle things into order. Also a noun: 你明天有什么安排？ = what are your plans tomorrow?"
+    },
+    {
+      "English": "to cancel",
+      "Hanzi": "取消",
+      "Pinyin": "qǔxiāo",
+      "Example": "航班取消了，只能改明天的。 hángbān qǔxiāo le, zhǐ néng gǎi míngtiān de: The flight was cancelled, so I had to switch to tomorrow's",
+      "Notes": "取 qǔ take: 又 hand grabbing an 耳 ear (取钱) + 消 xiāo vanish, 氵 water melting away (消失) = take it away so it disappears. 取消订单 = cancel an order"
+    },
+    {
+      "English": "to postpone / push back (to a later time)",
+      "Hanzi": "推迟",
+      "Pinyin": "tuīchí",
+      "Example": "会议推迟到下周了。 huìyì tuīchí dào xiàzhōu le: The meeting's been pushed to next week",
+      "Notes": "推 tuī push, 扌 hand (推门) + 迟 chí late (迟到) = push it later. 推迟 = move later; 延期 = extend the period (延 stretch + 期 period), more formal; 拖延 = procrastinate"
+    },
+    {
+      "English": "to confirm",
+      "Hanzi": "确认",
+      "Pinyin": "quèrèn",
+      "Example": "我再跟你确认一下时间。 wǒ zài gēn nǐ quèrèn yíxià shíjiān: Let me double-check the time with you",
+      "Notes": "确 què certain (的确, 正确) + 认 rèn recognize, 讠 (认识, 承认) = acknowledge as certain. vs 确定 = 确 + 定 fixed (决定): decide for sure / be certain"
+    },
+    {
+      "English": "to remind (someone)",
+      "Hanzi": "提醒",
+      "Pinyin": "tíxǐng",
+      "Example": "到时候提醒我一下，我怕忘了。 dào shíhou tíxǐng wǒ yíxià, wǒ pà wàng le: Remind me when it's time, I'm afraid I'll forget",
+      "Notes": "提 tí raise, 扌 hand (提问, 提高) + 醒 xǐng wake up, 酉 wine jar: sobering up (睡醒) = bring it up so they wake up to it. 提醒 = remind someone else; 想起来 = remember on your own"
+    },
+    {
+      "English": "to not have enough time (to make it)",
+      "Hanzi": "来不及",
+      "Pinyin": "láibují",
+      "Example": "现在出发已经来不及了。 xiànzài chūfā yǐjīng láibují le: It's too late to leave now",
+      "Notes": "来 come + 不 not + 及 jí reach, catch: 又 hand catching 人 a person (及时, 及格) = can't come in time to catch it. Opposite: 来得及 = there's still time"
+    },
+    {
+      "English": "since / given that",
+      "Hanzi": "既然",
+      "Pinyin": "jìrán",
+      "Example": "既然你不喜欢，就别勉强了。 jìrán nǐ bù xǐhuan, jiù bié miǎnqiǎng le: Since you don't like it, don't force yourself",
+      "Notes": "既 jì already (classical 已经) + 然 rán so, thus (当然, 虽然) = since it is already so. Pattern: 既然……就……. 因为 gives a cause; 既然 starts from a known fact."
+    },
+    {
+      "English": "no matter what / in any case",
+      "Hanzi": "无论如何",
+      "Pinyin": "wúlùn rúhé",
+      "Example": "无论如何，你得先跟家里人商量。 wúlùn rúhé, nǐ děi xiān gēn jiālǐrén shāngliang: Whatever you decide, you have to talk to your family first",
+      "Notes": "无论 = 无 no + 论 discuss, 讠 (讨论) = regardless; 如何 = how (classical 怎么). So: regardless of how, no matter what. 不管怎么样 is the casual version."
+    },
+    {
+      "English": "I reckon the event will be pushed back.",
+      "Hanzi": "我估计活动会推迟。",
+      "Pinyin": "wǒ gūjì huódòng huì tuīchí.",
+      "Example": "",
+      "Notes": "推迟 (L5) + 估计 (L3)."
+    },
+    {
+      "English": "Since you're under so much pressure, just cancel it.",
+      "Hanzi": "既然你压力这么大，就取消吧。",
+      "Pinyin": "jìrán nǐ yālì zhème dà, jiù qǔxiāo ba.",
+      "Example": "",
+      "Notes": "既然 (L5) + 取消 (L5) + 压力 (L4). 既然……就……: start from a known fact."
+    },
+    {
+      "English": "I'll confirm the time, and you're in charge of reminding everyone.",
+      "Hanzi": "我负责确认时间，你负责提醒大家。",
+      "Pinyin": "wǒ fùzé quèrèn shíjiān, nǐ fùzé tíxǐng dàjiā.",
+      "Example": "",
+      "Notes": "确认 (L5) + 提醒 (L5) + 负责 (L4)."
+    },
+    {
+      "English": "We won't make it in time. Let's push it back a day.",
+      "Hanzi": "来不及了，推迟一天吧。",
+      "Pinyin": "láibují le, tuīchí yì tiān ba.",
+      "Example": "",
+      "Notes": "来不及 (L5) + 推迟 (L5). 一 becomes yì before a 1st tone (天)."
+    },
+    {
+      "English": "No matter what, we can't miss this chance.",
+      "Hanzi": "无论如何，这个机会不能错过。",
+      "Pinyin": "wúlùn rúhé, zhège jīhuì bù néng cuòguò.",
+      "Example": "",
+      "Notes": "无论如何 (L5) + 机会 (L4)."
+    },
+    {
+      "English": "Thanks for reminding me, otherwise I'd have forgotten.",
+      "Hanzi": "谢谢你提醒我，否则我就忘了。",
+      "Pinyin": "xièxie nǐ tíxǐng wǒ, fǒuzé wǒ jiù wàng le.",
+      "Example": "",
+      "Notes": "提醒 (L5) + 否则 (L2)."
+    },
+    {
+      "English": "Since it's all been arranged, don't cancel it.",
+      "Hanzi": "既然已经安排好了，就别取消了。",
+      "Pinyin": "jìrán yǐjīng ānpái hǎo le, jiù bié qǔxiāo le.",
+      "Example": "",
+      "Notes": "既然 (L5) + 安排 (L5) + 取消 (L5)."
+    },
+    {
+      "English": "I suggest we arrange it early, or we won't have time.",
+      "Hanzi": "我建议提前安排，否则来不及。",
+      "Pinyin": "wǒ jiànyì tíqián ānpái, fǒuzé láibují.",
+      "Example": "",
+      "Notes": "安排 (L5) + 来不及 (L5) + 建议 (L3) + 否则 (L2)."
+    }
+  ]
+}

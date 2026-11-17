@@ -1,0 +1,119 @@
+{
+  "title": "Banking and finance",
+  "focus": "存款 · 贷款 · 利息 · 投资 · 保险 · 税 · 理财 · 转账",
+  "body": "Money once it is in the bank: saving, borrowing, paying tax and moving it around. Sentences recycle the money words from L9 and the paperwork from L18.\n\n| Chinese | Pinyin | Meaning | Why |\n|---|---|---|---|\n| 存款 | cúnkuǎn | savings (money in the bank) | stored sum → savings |\n| 贷款 | dàikuǎn | loan / to take out a loan | lent sum → loan |\n| 利息 | lìxī | interest (on money) | profit that grows → interest |\n| 投资 | tóuzī | to invest / investment | throw money in → invest |\n| 保险 | bǎoxiǎn | insurance | protect against risk → insurance |\n| 税 | shuì | tax | grain radical: tax paid in grain |\n| 理财 | lǐcái | to manage one's money / personal finance | manage wealth → personal finance |\n| 转账 | zhuǎnzhàng | to transfer money (bank or app) | turn over to an account |\n\n## Which word?\n\n**存款 vs 存钱:** 存款 is the money sitting in the bank (a noun); 存钱 is the act of putting money away.\n\n**贷款 vs 欠 (L9):** 贷款 is a formal loan from a bank; 欠 is simply owing anyone.\n\n## Sentences\n\n- 现在存款利息太低了，不划算。 xiànzài cúnkuǎn lìxī tài dī le, bú huàsuàn: Interest on savings is so low now, it's not worth it.\n- 买房得贷款，压力确实很大。 mǎi fáng děi dàikuǎn, yālì quèshí hěn dà: Buying a flat means taking out a loan, and that's real pressure.\n- 我妈怀疑网上那些投资都是骗人的。 wǒ mā huáiyí wǎngshang nàxiē tóuzī dōu shì piàn rén de: My mum suspects all those online investments are scams.\n- 我刚转账给你了，你确认一下。 wǒ gāng zhuǎnzhàng gěi nǐ le, nǐ quèrèn yíxià: I've just transferred it to you, can you check it came through?\n- 去银行办理贷款，要带很多材料。 qù yínháng bànlǐ dàikuǎn, yào dài hěn duō cáiliào: To get a loan at the bank, you need to bring a lot of documents.\n- 扣完税和保险，工资就没剩多少了。 kòu wán shuì hé bǎoxiǎn, gōngzī jiù méi shèng duōshao le: After tax and insurance, there's not much salary left.\n- 他太会理财了，难怪存款那么多。 tā tài huì lǐcái le, nánguài cúnkuǎn nàme duō: He's so good with money, no wonder he has so much saved.\n- 我羡慕那些会投资理财的人。 wǒ xiànmù nàxiē huì tóuzī lǐcái de rén: I envy people who know how to invest and manage their money.\n",
+  "cards": [
+    {
+      "English": "savings (money in the bank)",
+      "Hanzi": "存款",
+      "Pinyin": "cúnkuǎn",
+      "Example": "我们的存款不多了。 wǒmen de cúnkuǎn bù duō le: We don't have much savings left",
+      "Notes": "存 cún store, keep (存钱, 保存) + 款 kuǎn sum of money (付款, 贷款) = stored money, so savings. 存钱 = to save (verb); 存款 = the savings themselves. Mirror: 取款 (取 take) = withdraw cash."
+    },
+    {
+      "English": "loan / to take out a loan",
+      "Hanzi": "贷款",
+      "Pinyin": "dàikuǎn",
+      "Example": "他们贷款买了辆车。 tāmen dàikuǎn mǎi le liàng chē: They took out a loan to buy a car",
+      "Notes": "贷 dài lend, 贝 shell = money, as in 贵, 费, 货 + 款 kuǎn sum of money (存款, 付款) = lent money, so a loan. 贷款 is from a bank; 借钱 is borrowing from people."
+    },
+    {
+      "English": "interest (on money)",
+      "Hanzi": "利息",
+      "Pinyin": "lìxī",
+      "Example": "现在银行利息很低。 xiànzài yínháng lìxī hěn dī: Bank interest is really low right now",
+      "Notes": "利 lì profit, benefit (利用, 便利店) + 息 xī rest, breath (休息); also 'grow, breed' = profit that money breeds, so interest. 利率 = interest rate (率 as in 效率)."
+    },
+    {
+      "English": "to invest / investment",
+      "Hanzi": "投资",
+      "Pinyin": "tóuzī",
+      "Example": "他把钱都拿去投资了。 tā bǎ qián dōu ná qù tóuzī le: He put all his money into investments",
+      "Notes": "投 tóu throw, put in, 扌 hand (投篮, 投票) + 资 zī capital, 贝 money (工资, 资金) = throw money in, so invest / investment. Shares 资 with 工资."
+    },
+    {
+      "English": "insurance",
+      "Hanzi": "保险",
+      "Pinyin": "bǎoxiǎn",
+      "Example": "你买保险了吗? nǐ mǎi bǎoxiǎn le ma: Do you have insurance?",
+      "Notes": "保 bǎo protect, keep (保护, 保证) + 险 xiǎn danger, risk (危险) = protect against danger, so insurance. 买保险 = take out insurance. 保险 also means 'safe, a sure bet'."
+    },
+    {
+      "English": "tax",
+      "Hanzi": "税",
+      "Pinyin": "shuì",
+      "Example": "这个价格含税吗? zhège jiàgé hán shuì ma: Does this price include tax?",
+      "Notes": "税 shuì tax: 禾 grain radical (种, 秋) because taxes were once paid in grain; 兑 gives the sound (cf. 说). 交税 = pay tax; 报税 = file taxes; 退税 = tax refund."
+    },
+    {
+      "English": "to manage one's money / personal finance",
+      "Hanzi": "理财",
+      "Pinyin": "lǐcái",
+      "Example": "年轻人也该学学理财。 niánqīngrén yě gāi xuéxue lǐcái: Young people should learn to manage money too",
+      "Notes": "理 lǐ manage, put in order (管理, 整理) + 财 cái wealth, 贝 money (发财, 财富) = manage wealth, so personal finance. 理财产品 = bank investment products."
+    },
+    {
+      "English": "to transfer money (bank or app)",
+      "Hanzi": "转账",
+      "Pinyin": "zhuǎnzhàng",
+      "Example": "我直接转账给你吧。 wǒ zhíjiē zhuǎnzhàng gěi nǐ ba: I'll just transfer it to you",
+      "Notes": "转 zhuǎn turn, transfer (转身, 转告) + 账 zhàng account, 贝 money (账单, 结账) = turn money over to another account, so transfer. 微信转账 = WeChat transfer."
+    },
+    {
+      "English": "Interest on savings is so low now, it's not worth it.",
+      "Hanzi": "现在存款利息太低了，不划算。",
+      "Pinyin": "xiànzài cúnkuǎn lìxī tài dī le, bú huàsuàn.",
+      "Example": "",
+      "Notes": "存款 (L20) + 利息 (L20) + 划算 (L9)."
+    },
+    {
+      "English": "Buying a flat means taking out a loan, and that's real pressure.",
+      "Hanzi": "买房得贷款，压力确实很大。",
+      "Pinyin": "mǎi fáng děi dàikuǎn, yālì quèshí hěn dà.",
+      "Example": "",
+      "Notes": "贷款 (L20) + 压力 (L4) + 确实 (L1). 贷款 works as a verb too."
+    },
+    {
+      "English": "My mum suspects all those online investments are scams.",
+      "Hanzi": "我妈怀疑网上那些投资都是骗人的。",
+      "Pinyin": "wǒ mā huáiyí wǎngshang nàxiē tóuzī dōu shì piàn rén de.",
+      "Example": "",
+      "Notes": "投资 (L20) + 怀疑 (L17). 骗人的 = a con."
+    },
+    {
+      "English": "I've just transferred it to you, can you check it came through?",
+      "Hanzi": "我刚转账给你了，你确认一下。",
+      "Pinyin": "wǒ gāng zhuǎnzhàng gěi nǐ le, nǐ quèrèn yíxià.",
+      "Example": "",
+      "Notes": "转账 (L20) + 确认 (L5). 转账给 someone = send money to them."
+    },
+    {
+      "English": "To get a loan at the bank, you need to bring a lot of documents.",
+      "Hanzi": "去银行办理贷款，要带很多材料。",
+      "Pinyin": "qù yínháng bànlǐ dàikuǎn, yào dài hěn duō cáiliào.",
+      "Example": "",
+      "Notes": "贷款 (L20) + 办理 (L18) + 材料 (L18)."
+    },
+    {
+      "English": "After tax and insurance, there's not much salary left.",
+      "Hanzi": "扣完税和保险，工资就没剩多少了。",
+      "Pinyin": "kòu wán shuì hé bǎoxiǎn, gōngzī jiù méi shèng duōshao le.",
+      "Example": "",
+      "Notes": "税 (L20) + 保险 (L20). 扣 = deduct."
+    },
+    {
+      "English": "He's so good with money, no wonder he has so much saved.",
+      "Hanzi": "他太会理财了，难怪存款那么多。",
+      "Pinyin": "tā tài huì lǐcái le, nánguài cúnkuǎn nàme duō.",
+      "Example": "",
+      "Notes": "理财 (L20) + 存款 (L20) + 难怪 (L7)."
+    },
+    {
+      "English": "I envy people who know how to invest and manage their money.",
+      "Hanzi": "我羡慕那些会投资理财的人。",
+      "Pinyin": "wǒ xiànmù nàxiē huì tóuzī lǐcái de rén.",
+      "Example": "",
+      "Notes": "投资 (L20) + 理财 (L20) + 羡慕 (L15)."
+    }
+  ]
+}

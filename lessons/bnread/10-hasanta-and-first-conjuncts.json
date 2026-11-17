@@ -1,0 +1,77 @@
+{
+  "title": "Hasanta, ড, and the n-conjuncts",
+  "focus": "New: ◌্ ড ন্ত ন্দ ন্ড",
+  "body": "# Lesson 10: Hasanta, ড, and the n-conjuncts\n\n্ (hasanta) means \"no vowel here\". Usually you don't see it: two consonants with no vowel between them fuse into one shape, a conjunct (juktakkhor). Here are three with n on top, plus ড (hard d).\n\n| Script | Sound | Note |\n|---|---|---|\n| ◌্ | hasanta: (no vowel) | A small slash under the letter. Mostly hidden inside conjuncts. |\n| ড | do (hard d) | ড় without the dot. Hard d, the pair of ট. |\n| ন্ত | nto (nt) | Looks like ন with a ত curl stuck on; read nt. |\n| ন্দ | ndo (nd) | ন on the left, দ squeezed on the right. |\n| ন্ড | ndo (hard nd) | Older spelling uses ণ্ড: ঠাণ্ডা. Same word. |\n\n## How they combine\n\nন্ + ত = ন্ত **nt**, ন্ + দ = ন্দ **nd**, ন্ + ড = ন্ড **nd**. Read the conjunct as one cluster: কি + ন্তু = কিন্তু **kintu**.\n\n## Read these\n\nCover the right side, read the script aloud, then check.\n\n- কিন্তু → kintu: but\n- সুন্দর → shundor: beautiful\n- ঠান্ডা → thanda: cold\n- শান্ত → shanto: calm\n- ডাল → dal: lentils (dal)\n",
+  "cards": [
+    {
+      "Script": "◌্",
+      "Sound": "hasanta: (no vowel)",
+      "Meaning": "mark that cancels the built-in o",
+      "Example": "কিন্তু kintu: but",
+      "Notes": "A small slash under the letter. Mostly hidden inside conjuncts."
+    },
+    {
+      "Script": "ড",
+      "Sound": "do (hard d)",
+      "Meaning": "consonant hard d (tongue curled back), with built-in o",
+      "Example": "ডাল dal: lentils",
+      "Notes": "ড় without the dot. Hard d, the pair of ট."
+    },
+    {
+      "Script": "ন্ত",
+      "Sound": "nto (nt)",
+      "Meaning": "conjunct n + t (ন্ + ত)",
+      "Example": "কিন্তু kintu: but",
+      "Notes": "Looks like ন with a ত curl stuck on; read nt."
+    },
+    {
+      "Script": "ন্দ",
+      "Sound": "ndo (nd)",
+      "Meaning": "conjunct n + soft d (ন্ + দ)",
+      "Example": "সুন্দর shundor: beautiful",
+      "Notes": "ন on the left, দ squeezed on the right."
+    },
+    {
+      "Script": "ন্ড",
+      "Sound": "ndo (hard nd)",
+      "Meaning": "conjunct n + hard d (ন্ + ড)",
+      "Example": "ঠান্ডা thanda: cold",
+      "Notes": "Older spelling uses ণ্ড: ঠাণ্ডা. Same word."
+    },
+    {
+      "Script": "কিন্তু",
+      "Sound": "kintu",
+      "Meaning": "but",
+      "Example": "ভালো, কিন্তু গরম bhalo, kintu gorom: good, but hot",
+      "Notes": "ক k + ি i + ন্ত nt + ু u."
+    },
+    {
+      "Script": "সুন্দর",
+      "Sound": "shundor",
+      "Meaning": "beautiful",
+      "Example": "খুব সুন্দর khub shundor: very beautiful",
+      "Notes": "স sh + ু u + ন্দ nd + র r: o after nd, final silent."
+    },
+    {
+      "Script": "ঠান্ডা",
+      "Sound": "thanda",
+      "Meaning": "cold",
+      "Example": "আজ খুব ঠান্ডা aaj khub thanda: it's very cold today",
+      "Notes": "ঠ th + া aa + ন্ড nd + া aa."
+    },
+    {
+      "Script": "শান্ত",
+      "Sound": "shanto",
+      "Meaning": "calm",
+      "Example": "অলি এখন শান্ত Ollie ekhon shanto: Ollie is calm now",
+      "Notes": "শ sh + া aa + ন্ত nt: TRAP, final o spoken after a conjunct."
+    },
+    {
+      "Script": "ডাল",
+      "Sound": "dal",
+      "Meaning": "lentils (dal)",
+      "Example": "ডাল ভাত dal bhat: dal and rice",
+      "Notes": "ড d + া aa + ল l."
+    }
+  ]
+}

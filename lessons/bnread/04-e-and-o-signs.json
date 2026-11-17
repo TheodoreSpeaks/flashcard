@@ -1,0 +1,77 @@
+{
+  "title": "The e and o signs, খ and ভ",
+  "focus": "New: ◌ে ◌ো খ ভ",
+  "body": "# Lesson 4: The e and o signs, খ and ভ\n\nTwo more vowel signs: ে (e) and ো (o). Both are written BEFORE the consonant. Plus two breathy consonants: খ (kh) and ভ (bh).\n\n| Script | Sound | Note |\n|---|---|---|\n| ◌ে | e-kar: e / ae | Looks like a little 7 or loop in front; often sounds like 'ae' (as in cat), e.g. এখন aekhon. |\n| ◌ো | o-kar: o | ে in front + া behind = ো. Spot the pair around the letter. |\n| খ | kho (kh) | Breathy k: say ক with a puff of air. Shape is unlike ক, so learn it fresh. |\n| ভ | bho (bh) | Breathy b. Keep it distinct from ব: bhalo, not balo. |\n\n## How they combine\n\nে sits before: ক + ে = কে **ke**. ো wraps around the letter: ে on the left, া on the right: ল + ো = লো **lo**. Final o is NOT always silent: কেন is **keno**, খাব is **khabo**.\n\n## Read these\n\nCover the right side, read the script aloud, then check.\n\n- ভালো → bhalo: good\n- খাব → khabo: I will eat\n- খুব → khub: very\n- কেন → keno: why\n- তোমার → tomar: your (friend)\n- ভাত → bhat: rice\n",
+  "cards": [
+    {
+      "Script": "◌ে",
+      "Sound": "e-kar: e / ae",
+      "Meaning": "vowel sign e, written BEFORE the consonant",
+      "Example": "কেন keno: why",
+      "Notes": "Looks like a little 7 or loop in front; often sounds like 'ae' (as in cat), e.g. এখন aekhon."
+    },
+    {
+      "Script": "◌ো",
+      "Sound": "o-kar: o",
+      "Meaning": "vowel sign o, written around the consonant",
+      "Example": "ভালো bhalo: good",
+      "Notes": "ে in front + া behind = ো. Spot the pair around the letter."
+    },
+    {
+      "Script": "খ",
+      "Sound": "kho (kh)",
+      "Meaning": "consonant kh (k with a puff of breath), with built-in o",
+      "Example": "খুব khub: very",
+      "Notes": "Breathy k: say ক with a puff of air. Shape is unlike ক, so learn it fresh."
+    },
+    {
+      "Script": "ভ",
+      "Sound": "bho (bh)",
+      "Meaning": "consonant bh (b with a puff of breath), with built-in o",
+      "Example": "ভাত bhat: rice",
+      "Notes": "Breathy b. Keep it distinct from ব: bhalo, not balo."
+    },
+    {
+      "Script": "ভালো",
+      "Sound": "bhalo",
+      "Meaning": "good",
+      "Example": "খুব ভালো khub bhalo: very good",
+      "Notes": "ভ bh + া aa + ল l + ো o."
+    },
+    {
+      "Script": "খাব",
+      "Sound": "khabo",
+      "Meaning": "I will eat",
+      "Example": "আমি ভাত খাব ami bhat khabo: I'll eat rice",
+      "Notes": "খ kh + া aa + ব b: TRAP, the final o is spoken here (khabo). Also spelt খাবো."
+    },
+    {
+      "Script": "খুব",
+      "Sound": "khub",
+      "Meaning": "very",
+      "Example": "খুব নরম khub norom: very soft",
+      "Notes": "খ kh + ু u + ব b: final o silent."
+    },
+    {
+      "Script": "কেন",
+      "Sound": "keno",
+      "Meaning": "why",
+      "Example": "কেন খাব? keno khabo?: why should I eat?",
+      "Notes": "ক k + ে e + ন n: TRAP, final o spoken (keno)."
+    },
+    {
+      "Script": "তোমার",
+      "Sound": "tomar",
+      "Meaning": "your (friend)",
+      "Example": "তোমার নাম tomar naam: your name",
+      "Notes": "ত t + ো o + ম m + া aa + র r."
+    },
+    {
+      "Script": "ভাত",
+      "Sound": "bhat",
+      "Meaning": "rice",
+      "Example": "ভাত খাব bhat khabo: I'll eat rice",
+      "Notes": "ভ bh + া aa + ত t."
+    }
+  ]
+}

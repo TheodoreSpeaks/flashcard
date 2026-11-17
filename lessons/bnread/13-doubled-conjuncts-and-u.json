@@ -1,0 +1,91 @@
+{
+  "title": "ক্ত, ত্ত, ম্ব, উ and ঊ",
+  "focus": "New: ক্ত ত্ত ম্ব উ ঊ",
+  "body": "# Lesson 13: ক্ত, ত্ত, ম্ব, উ and ঊ\n\nThree more conjuncts and the last two u letters. ক্ত is in ডাক্তার, ত্ত is a doubled t, ম্ব is m + b.\n\n| Script | Sound | Note |\n|---|---|---|\n| ক্ত | kto (kt) | Looks like ক with a tail; easy to misread as plain ক. |\n| ত্ত | tto (tt) | Two ত stacked into one shape; hold the t a bit longer. |\n| ম্ব | mbo (mb) | ম with a small ব hung underneath. |\n| উ | u (vowel letter) | Like a 3 with a hook at the top. |\n| ঊ | u (long vowel letter) | উ with an extra loop at the top; same sound. |\n\n## How they combine\n\nক্ত = **kt**: ডাক্তার **daktar**. ত্ত = **tt**: উত্তর **uttor**. ম্ব = **mb**: কম্বল **kombol**. উ and ঊ start words with u; like ু and ূ they sound the same.\n\n## Read these\n\nCover the right side, read the script aloud, then check.\n\n- ডাক্তার → daktar: doctor\n- শক্ত → shokto: hard, difficult\n- উত্তর → uttor: answer / north\n- উনি → uni: he / she (polite)\n- কম্বল → kombol: blanket\n- সত্তর → shottor: seventy\n- ঊনিশ → unish: nineteen\n",
+  "cards": [
+    {
+      "Script": "ক্ত",
+      "Sound": "kto (kt)",
+      "Meaning": "conjunct k + soft t (ক্ + ত)",
+      "Example": "ডাক্তার daktar: doctor",
+      "Notes": "Looks like ক with a tail; easy to misread as plain ক."
+    },
+    {
+      "Script": "ত্ত",
+      "Sound": "tto (tt)",
+      "Meaning": "conjunct doubled soft t (ত্ + ত)",
+      "Example": "উত্তর uttor: answer",
+      "Notes": "Two ত stacked into one shape; hold the t a bit longer."
+    },
+    {
+      "Script": "ম্ব",
+      "Sound": "mbo (mb)",
+      "Meaning": "conjunct m + b (ম্ + ব)",
+      "Example": "কম্বল kombol: blanket",
+      "Notes": "ম with a small ব hung underneath."
+    },
+    {
+      "Script": "উ",
+      "Sound": "u (vowel letter)",
+      "Meaning": "independent vowel u, at a word start",
+      "Example": "উনি uni: he / she (polite)",
+      "Notes": "Like a 3 with a hook at the top."
+    },
+    {
+      "Script": "ঊ",
+      "Sound": "u (long vowel letter)",
+      "Meaning": "independent vowel long u, rare",
+      "Example": "ঊনিশ unish: nineteen",
+      "Notes": "উ with an extra loop at the top; same sound."
+    },
+    {
+      "Script": "ডাক্তার",
+      "Sound": "daktar",
+      "Meaning": "doctor",
+      "Example": "আমি ডাক্তার হব ami daktar hobo: I'll be a doctor",
+      "Notes": "ড d + া aa + ক্ত kt + া aa + র r."
+    },
+    {
+      "Script": "শক্ত",
+      "Sound": "shokto",
+      "Meaning": "hard, difficult",
+      "Example": "খুব শক্ত khub shokto: very hard",
+      "Notes": "শ sh + ক্ত kt: TRAP, final o spoken after a conjunct."
+    },
+    {
+      "Script": "উত্তর",
+      "Sound": "uttor",
+      "Meaning": "answer / north",
+      "Example": "উত্তর দাও uttor dao: answer!",
+      "Notes": "উ u + ত্ত tt + র r: final o silent."
+    },
+    {
+      "Script": "উনি",
+      "Sound": "uni",
+      "Meaning": "he / she (polite)",
+      "Example": "উনি কে? uni ke?: who is he / she?",
+      "Notes": "উ u + ন n + ি i."
+    },
+    {
+      "Script": "কম্বল",
+      "Sound": "kombol",
+      "Meaning": "blanket",
+      "Example": "গরম কম্বল gorom kombol: a warm blanket",
+      "Notes": "ক k + ম্ব mb + ল l."
+    },
+    {
+      "Script": "সত্তর",
+      "Sound": "shottor",
+      "Meaning": "seventy",
+      "Example": "সত্তর টাকা shottor taka: seventy rupees",
+      "Notes": "স sh + ত্ত tt + র r."
+    },
+    {
+      "Script": "ঊনিশ",
+      "Sound": "unish",
+      "Meaning": "nineteen",
+      "Example": "ঊনিশ টাকা unish taka: nineteen rupees",
+      "Notes": "ঊ u + ন n + ি i + শ sh."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "title": "The aa sign, র, ত and আ",
+  "focus": "New: র ◌া ত আ",
+  "body": "# Lesson 2: The aa sign, র, ত and আ\n\nYour first vowel sign: া (aa-kar). It is a straight stroke after the consonant and replaces the built-in o with **aa**. At the start of a word you need the full vowel letter আ instead.\n\n| Script | Sound | Note |\n|---|---|---|\n| র | ro (r) | র has a dot BELOW; ব (coming next) has no dot. Dot = r. |\n| ◌া | aa-kar: aa | Just a vertical bar hanging from the top line; it kills the built-in o. |\n| ত | to (t) | Looks like a figure with a curl on top-right; this is the soft dental t, not English t. |\n| আ | aa (vowel letter) | It's অ (o) with the aa bar added: অ + া. |\n\n## How they combine\n\nক + া = কা **ka**. ন + া + ম = নাম **naam**. A sign can't stand alone, so a word that starts with the aa sound uses আ: আর **aar**.\n\n## Read these\n\nCover the right side, read the script aloud, then check.\n\n- কাল → kal: yesterday / tomorrow\n- নাম → naam: name\n- রাত → raat: night\n- আর → aar: and / more\n- আমার → amar: my\n- নরম → norom: soft\n",
+  "cards": [
+    {
+      "Script": "র",
+      "Sound": "ro (r)",
+      "Meaning": "consonant r, with built-in o",
+      "Example": "নরম norom: soft",
+      "Notes": "র has a dot BELOW; ব (coming next) has no dot. Dot = r."
+    },
+    {
+      "Script": "◌া",
+      "Sound": "aa-kar: aa",
+      "Meaning": "vowel sign aa, written after the consonant",
+      "Example": "কাল kal: yesterday / tomorrow",
+      "Notes": "Just a vertical bar hanging from the top line; it kills the built-in o."
+    },
+    {
+      "Script": "ত",
+      "Sound": "to (t)",
+      "Meaning": "consonant soft t (tongue on teeth), with built-in o",
+      "Example": "রাত raat: night",
+      "Notes": "Looks like a figure with a curl on top-right; this is the soft dental t, not English t."
+    },
+    {
+      "Script": "আ",
+      "Sound": "aa (vowel letter)",
+      "Meaning": "independent vowel aa, used at the start of a word",
+      "Example": "আর aar: and",
+      "Notes": "It's অ (o) with the aa bar added: অ + া."
+    },
+    {
+      "Script": "কাল",
+      "Sound": "kal",
+      "Meaning": "yesterday / tomorrow",
+      "Example": "কাল রাত kal raat: last night",
+      "Notes": "ক k + া aa + ল l: aa-kar replaces the o, final o silent."
+    },
+    {
+      "Script": "নাম",
+      "Sound": "naam",
+      "Meaning": "name",
+      "Example": "আমার নাম amar naam: my name",
+      "Notes": "ন n + া aa + ম m."
+    },
+    {
+      "Script": "রাত",
+      "Sound": "raat",
+      "Meaning": "night",
+      "Example": "কাল রাত kal raat: last night",
+      "Notes": "র r + া aa + ত t."
+    },
+    {
+      "Script": "আর",
+      "Sound": "aar",
+      "Meaning": "and / more",
+      "Example": "নাম আর কলম naam aar kolom: name and pen",
+      "Notes": "আ aa + র r: word-initial aa needs the letter আ."
+    },
+    {
+      "Script": "আমার",
+      "Sound": "amar",
+      "Meaning": "my",
+      "Example": "আমার কলম amar kolom: my pen",
+      "Notes": "আ a + ম m + া a + র r."
+    },
+    {
+      "Script": "নরম",
+      "Sound": "norom",
+      "Meaning": "soft",
+      "Example": "নরম মন norom mon: a soft heart",
+      "Notes": "ন n + র r + ম m: o after n and r, final o silent."
+    }
+  ]
+}

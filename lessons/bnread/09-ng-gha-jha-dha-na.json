@@ -1,0 +1,91 @@
+{
+  "title": "ং, ঘ, ঝ, ধ and ণ",
+  "focus": "New: ং ঘ ঝ ধ ণ",
+  "body": "# Lesson 9: ং, ঘ, ঝ, ধ and ণ\n\nং (anusvar) adds an **ng** sound. ঘ ঝ ধ are the breathy versions of গ জ দ. ণ is a second n letter that sounds exactly like ন.\n\n| Script | Sound | Note |\n|---|---|---|\n| ং | onushshor: ng | A small circle with a tail; no built-in vowel of its own. |\n| ঘ | gho (gh) | Breathy গ, romanized gh: ঘর ghor, ঘুম ghum. |\n| ঝ | jho (jh) | Breathy জ. Rare letter, common verb: বোঝা (to understand). |\n| ধ | dho (dh) | Breathy দ; দুধ (milk) uses both: plain d then breathy dh. |\n| ণ | no (n) | Sounds just like ন; spelling only. |\n\n## How they combine\n\nং sits after a letter and closes the syllable with ng: বা + ং = বাং **bang**, so বাংলা is **bangla**. Breathy letters get an h in the romanization: ঘর **ghor**, দুধ **dudh**.\n\n## Read these\n\nCover the right side, read the script aloud, then check.\n\n- বাংলা → bangla: Bengali (language)\n- বাংলায় → banglay: in Bengali\n- ঘর → ghor: room\n- ঘুম → ghum: sleep\n- বুঝেছি → bujhechi: I've understood, got it\n- দুধ → dudh: milk\n- কারণ → karon: reason, because\n",
+  "cards": [
+    {
+      "Script": "ং",
+      "Sound": "onushshor: ng",
+      "Meaning": "the ng sound, added after a vowel",
+      "Example": "বাংলা bangla: Bengali",
+      "Notes": "A small circle with a tail; no built-in vowel of its own."
+    },
+    {
+      "Script": "ঘ",
+      "Sound": "gho (gh)",
+      "Meaning": "consonant gh (breathy g), with built-in o",
+      "Example": "ঘর ghor: room",
+      "Notes": "Breathy গ, romanized gh: ঘর ghor, ঘুম ghum."
+    },
+    {
+      "Script": "ঝ",
+      "Sound": "jho (jh)",
+      "Meaning": "consonant jh (breathy j), with built-in o",
+      "Example": "বুঝি bujhi: I understand",
+      "Notes": "Breathy জ. Rare letter, common verb: বোঝা (to understand)."
+    },
+    {
+      "Script": "ধ",
+      "Sound": "dho (dh)",
+      "Meaning": "consonant dh (breathy soft d), with built-in o",
+      "Example": "দুধ dudh: milk",
+      "Notes": "Breathy দ; দুধ (milk) uses both: plain d then breathy dh."
+    },
+    {
+      "Script": "ণ",
+      "Sound": "no (n)",
+      "Meaning": "consonant n (murdhonyo no), with built-in o",
+      "Example": "কারণ karon: reason, because",
+      "Notes": "Sounds just like ন; spelling only."
+    },
+    {
+      "Script": "বাংলা",
+      "Sound": "bangla",
+      "Meaning": "Bengali (language)",
+      "Example": "আমি বাংলা শিখছি ami bangla shikhchi: I'm learning Bengali",
+      "Notes": "ব b + া aa + ং ng + ল l + া aa."
+    },
+    {
+      "Script": "বাংলায়",
+      "Sound": "banglay",
+      "Meaning": "in Bengali",
+      "Example": "বাংলায় বলো banglay bolo: say it in Bengali",
+      "Notes": "বাংলা + য় y: the -y ending means 'in'."
+    },
+    {
+      "Script": "ঘর",
+      "Sound": "ghor",
+      "Meaning": "room",
+      "Example": "আমার ঘর amar ghor: my room",
+      "Notes": "ঘ gh + র r: final o silent."
+    },
+    {
+      "Script": "ঘুম",
+      "Sound": "ghum",
+      "Meaning": "sleep",
+      "Example": "ঘুম ভালো হয়েছে ghum bhalo hoyeche: I slept well",
+      "Notes": "ঘ gh + ু u + ম m."
+    },
+    {
+      "Script": "বুঝেছি",
+      "Sound": "bujhechi",
+      "Meaning": "I've understood, got it",
+      "Example": "আমি বুঝেছি ami bujhechi: I've understood",
+      "Notes": "ব b + ু u + ঝ jh + ে e + ছ chh + ি i."
+    },
+    {
+      "Script": "দুধ",
+      "Sound": "dudh",
+      "Meaning": "milk",
+      "Example": "গরম দুধ gorom dudh: hot milk",
+      "Notes": "দ d + ু u + ধ dh."
+    },
+    {
+      "Script": "কারণ",
+      "Sound": "karon",
+      "Meaning": "reason, because",
+      "Example": "কী কারণ? ki karon?: what's the reason?",
+      "Notes": "ক k + া aa + র r + ণ n: ণ = n."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "title": "গ জ দ, the letter এ and long u",
+  "focus": "New: গ জ দ এ ◌ূ",
+  "body": "# Lesson 5: গ জ দ, the letter এ and long u\n\nThree everyday consonants (g, j, d), the vowel letter এ for words that start with e, and the long u sign ূ.\n\n| Script | Sound | Note |\n|---|---|---|\n| গ | go (g) | Like a 7 leaning on a stick; open at the bottom left. |\n| জ | jo (j) | Called borgiyo jo. Another letter, য, ALSO says j: same sound. |\n| দ | do (d) | Like a fishhook. Soft dental d, the pair of ত. |\n| এ | e / ae (vowel letter) | Often 'ae' in Kolkata: এখন is said aekhon. |\n| ◌ূ | dirgho u-kar: u | Like ু with an extra loop; sounds the same as ু. |\n\n## How they combine\n\nএ works like আ: it is the full letter you use at the start of a word. এ + খ + ন = এখন **ekhon**. ূ hangs under the letter like ু and sounds the same: দূর **dur**.\n\n## Read these\n\nCover the right side, read the script aloud, then check.\n\n- জল → jol: water\n- আজ → aaj: today\n- গরম → gorom: hot\n- দোকান → dokan: shop\n- এখন → ekhon: now\n- দূর → dur: far\n- গেলাম → gelam: I went\n",
+  "cards": [
+    {
+      "Script": "গ",
+      "Sound": "go (g)",
+      "Meaning": "consonant g, with built-in o",
+      "Example": "গরম gorom: hot",
+      "Notes": "Like a 7 leaning on a stick; open at the bottom left."
+    },
+    {
+      "Script": "জ",
+      "Sound": "jo (j)",
+      "Meaning": "consonant j, with built-in o",
+      "Example": "জল jol: water",
+      "Notes": "Called borgiyo jo. Another letter, য, ALSO says j: same sound."
+    },
+    {
+      "Script": "দ",
+      "Sound": "do (d)",
+      "Meaning": "consonant soft d (tongue on teeth), with built-in o",
+      "Example": "দোকান dokan: shop",
+      "Notes": "Like a fishhook. Soft dental d, the pair of ত."
+    },
+    {
+      "Script": "এ",
+      "Sound": "e / ae (vowel letter)",
+      "Meaning": "independent vowel e, used at the start of a word",
+      "Example": "এখন ekhon: now",
+      "Notes": "Often 'ae' in Kolkata: এখন is said aekhon."
+    },
+    {
+      "Script": "◌ূ",
+      "Sound": "dirgho u-kar: u",
+      "Meaning": "vowel sign long u, hooked under the consonant",
+      "Example": "দূর dur: far",
+      "Notes": "Like ু with an extra loop; sounds the same as ু."
+    },
+    {
+      "Script": "জল",
+      "Sound": "jol",
+      "Meaning": "water",
+      "Example": "জল খাব jol khabo: I'll drink water",
+      "Notes": "জ j + ল l: o after j, final o silent."
+    },
+    {
+      "Script": "আজ",
+      "Sound": "aaj",
+      "Meaning": "today",
+      "Example": "আজ খুব গরম aaj khub gorom: it's very hot today",
+      "Notes": "আ aa + জ j."
+    },
+    {
+      "Script": "গরম",
+      "Sound": "gorom",
+      "Meaning": "hot",
+      "Example": "গরম ভাত gorom bhat: hot rice",
+      "Notes": "গ g + র r + ম m: o, o, silent."
+    },
+    {
+      "Script": "দোকান",
+      "Sound": "dokan",
+      "Meaning": "shop",
+      "Example": "আমি দোকানে গেলাম ami dokane gelam: I went to the shop",
+      "Notes": "দ d + ো o + ক k + া aa + ন n."
+    },
+    {
+      "Script": "এখন",
+      "Sound": "ekhon",
+      "Meaning": "now",
+      "Example": "এখন খাব ekhon khabo: I'll eat now",
+      "Notes": "এ e + খ kh + ন n: o after kh, final o silent."
+    },
+    {
+      "Script": "দূর",
+      "Sound": "dur",
+      "Meaning": "far",
+      "Example": "খুব দূর khub dur: very far",
+      "Notes": "দ d + ূ u + র r."
+    },
+    {
+      "Script": "গেলাম",
+      "Sound": "gelam",
+      "Meaning": "I went",
+      "Example": "আমি কাল গেলাম ami kal gelam: I went yesterday",
+      "Notes": "গ g + ে e + ল l + া aa + ম m."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "title": "র-ফলা, য-ফলা, ঁ, ও and ফ",
+  "focus": "New: ◌্র ◌্য ◌ঁ ও ফ",
+  "body": "# Lesson 11: র-ফলা, য-ফলা, ঁ, ও and ফ\n\nPhalas are reduced letters stuck onto a consonant: র-ফলা ্র adds r, য-ফলা ্য is a big trap. ঁ nasalises a vowel. Plus ও and ফ.\n\n| Script | Sound | Note |\n|---|---|---|\n| ◌্র | ro-phola: r | A slanted tick at the foot of the letter. In the middle of a word it can double the consonant. |\n| ◌্য | jo-phola: doubles / ae | TRAP: never a y sound. Middle of word = double consonant (সত্যি shotti); start + া = ae (প্যা pae). |\n| ◌ঁ | chondrobindu: nasal | Moon and dot on top. Hum the vowel through your nose. |\n| ও | o (vowel letter) | Looks like a 3 with a flag. Sounds the same as অ (o). |\n| ফ | pho (ph / f) | প with a tail curling up on the right. Kolkata often says f. |\n\n## How they combine\n\nট + ্র = ট্র **tr**: ট্রেন. য-ফলা after a first consonant + া gives **ae** (প্যা pae); mid-word it doubles the consonant: ধন্যবাদ **dhonnobad**. ঁ makes the vowel nasal: পাঁচ.\n\n## Read these\n\nCover the right side, read the script aloud, then check.\n\n- ধন্যবাদ → dhonnobad: thank you\n- প্যারিস → Paris: Paris\n- হ্যাঁ → hya: yes\n- সত্যি → shotti: really, true\n- পাঁচ → panch: five\n- ট্রেন → tren: train\n- ফোন → phon: phone\n- ওখানে → okhane: there\n",
+  "cards": [
+    {
+      "Script": "◌্র",
+      "Sound": "ro-phola: r",
+      "Meaning": "r added after a consonant",
+      "Example": "গ্রাম gram: village",
+      "Notes": "A slanted tick at the foot of the letter. In the middle of a word it can double the consonant."
+    },
+    {
+      "Script": "◌্য",
+      "Sound": "jo-phola: doubles / ae",
+      "Meaning": "y-sign after a consonant",
+      "Example": "সত্যি shotti: really, true",
+      "Notes": "TRAP: never a y sound. Middle of word = double consonant (সত্যি shotti); start + া = ae (প্যা pae)."
+    },
+    {
+      "Script": "◌ঁ",
+      "Sound": "chondrobindu: nasal",
+      "Meaning": "nasalises the vowel",
+      "Example": "চাঁদ chand: moon",
+      "Notes": "Moon and dot on top. Hum the vowel through your nose."
+    },
+    {
+      "Script": "ও",
+      "Sound": "o (vowel letter)",
+      "Meaning": "independent vowel o, at a word start",
+      "Example": "ওখানে okhane: there",
+      "Notes": "Looks like a 3 with a flag. Sounds the same as অ (o)."
+    },
+    {
+      "Script": "ফ",
+      "Sound": "pho (ph / f)",
+      "Meaning": "consonant ph, often f, with built-in o",
+      "Example": "ফোন phon: phone",
+      "Notes": "প with a tail curling up on the right. Kolkata often says f."
+    },
+    {
+      "Script": "ধন্যবাদ",
+      "Sound": "dhonnobad",
+      "Meaning": "thank you",
+      "Example": "",
+      "Notes": "ধ dh + ন্য nn + ব b + া aa + দ d: য-ফলা doubles the n."
+    },
+    {
+      "Script": "প্যারিস",
+      "Sound": "Paris",
+      "Meaning": "Paris",
+      "Example": "আমি প্যারিসে থাকি ami Parise thaki: I live in Paris",
+      "Notes": "প্য pae (য-ফলা + া = ae) + র r + ি i + স s."
+    },
+    {
+      "Script": "হ্যাঁ",
+      "Sound": "hya",
+      "Meaning": "yes",
+      "Example": "হ্যাঁ, খেয়েছি hya, kheyechi: yes, I've eaten",
+      "Notes": "হ্য h + য-ফলা + া = hae, + ঁ nasal."
+    },
+    {
+      "Script": "সত্যি",
+      "Sound": "shotti",
+      "Meaning": "really, true",
+      "Example": "সত্যি বলছি shotti bolchi: I'm telling the truth",
+      "Notes": "স sh + ত্য tt (য-ফলা doubles t) + ি i."
+    },
+    {
+      "Script": "পাঁচ",
+      "Sound": "panch",
+      "Meaning": "five",
+      "Example": "পাঁচটা বই panchta boi: five books",
+      "Notes": "প p + া aa + ঁ nasal + চ ch."
+    },
+    {
+      "Script": "ট্রেন",
+      "Sound": "tren",
+      "Meaning": "train",
+      "Example": "ট্রেন কখন? tren kokhon?: when's the train?",
+      "Notes": "ট্র tr + ে e + ন n."
+    },
+    {
+      "Script": "ফোন",
+      "Sound": "phon",
+      "Meaning": "phone",
+      "Example": "আমার ফোন কোথায়? amar phon kothay?: where's my phone?",
+      "Notes": "ফ ph + ো o + ন n."
+    },
+    {
+      "Script": "ওখানে",
+      "Sound": "okhane",
+      "Meaning": "there",
+      "Example": "ওখানে বসো okhane bosho: sit there",
+      "Notes": "ও o + খ kh + া aa + ন n + ে e."
+    }
+  ]
+}

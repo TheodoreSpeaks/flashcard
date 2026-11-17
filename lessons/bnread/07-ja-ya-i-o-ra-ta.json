@@ -1,0 +1,98 @@
+{
+  "title": "য, ই, অ, ড় and ট",
+  "focus": "New: য ই অ ড় ট",
+  "body": "# Lesson 7: য, ই, অ, ড় and ট\n\nয is a second j letter (same sound as জ). ই and অ are vowel letters for word starts. ড় is the flapped r in বাড়ি. ট is the hard English-style t.\n\n| Script | Sound | Note |\n|---|---|---|\n| য | jo (j) | Same sound as জ in Kolkata. No dot; with a dot it's য়. |\n| ই | i (vowel letter) | Used after another vowel too: বই, চাই. |\n| অ | o (vowel letter) | আ is this letter plus the aa bar. Ollie is spelt অলি. |\n| ড় | ro (flapped r) | Dot below. Romanized r, so বাড়ি is bari. |\n| ট | to (hard t) | Hard t like English t; ত is the soft one. |\n\n## How they combine\n\nই follows a vowel or starts a word: ব + ই = বই **boi**. অ is the bare o: অলি **Ollie**. ড় sounds like r with a tongue flick, and is romanized r: বাড়ি **bari**.\n\n## Read these\n\nCover the right side, read the script aloud, then check.\n\n- যাব → jabo: I will go\n- বই → boi: book\n- চাই → chai: I want\n- অলি → Ollie: Ollie (the cat)\n- বাড়ি → bari: house, home\n- বড় → boro: big\n- বিড়াল → beral: cat\n- একটা → ekta: a, one\n",
+  "cards": [
+    {
+      "Script": "য",
+      "Sound": "jo (j)",
+      "Meaning": "consonant j (antostho jo), with built-in o",
+      "Example": "যায় jay: goes",
+      "Notes": "Same sound as জ in Kolkata. No dot; with a dot it's য়."
+    },
+    {
+      "Script": "ই",
+      "Sound": "i (vowel letter)",
+      "Meaning": "independent vowel i, at a word start or after a vowel",
+      "Example": "চাই chai: I want",
+      "Notes": "Used after another vowel too: বই, চাই."
+    },
+    {
+      "Script": "অ",
+      "Sound": "o (vowel letter)",
+      "Meaning": "independent vowel o, the built-in vowel written on its own",
+      "Example": "অলি Ollie: Ollie (the cat)",
+      "Notes": "আ is this letter plus the aa bar. Ollie is spelt অলি."
+    },
+    {
+      "Script": "ড়",
+      "Sound": "ro (flapped r)",
+      "Meaning": "consonant flapped r (ড with a dot), with built-in o",
+      "Example": "পড়ি pori: I read",
+      "Notes": "Dot below. Romanized r, so বাড়ি is bari."
+    },
+    {
+      "Script": "ট",
+      "Sound": "to (hard t)",
+      "Meaning": "consonant hard t (tongue curled back), with built-in o",
+      "Example": "টাকা taka: money",
+      "Notes": "Hard t like English t; ত is the soft one."
+    },
+    {
+      "Script": "যাব",
+      "Sound": "jabo",
+      "Meaning": "I will go",
+      "Example": "আমি কাল যাব ami kal jabo: I'll go tomorrow",
+      "Notes": "য j + া aa + ব b: final o spoken, like খাব."
+    },
+    {
+      "Script": "বই",
+      "Sound": "boi",
+      "Meaning": "book",
+      "Example": "আমার বই amar boi: my book",
+      "Notes": "ব b + ই i: ই because it follows a vowel."
+    },
+    {
+      "Script": "চাই",
+      "Sound": "chai",
+      "Meaning": "I want",
+      "Example": "আমি চা চাই ami cha chai: I want tea",
+      "Notes": "চ ch + া aa + ই i."
+    },
+    {
+      "Script": "অলি",
+      "Sound": "Ollie",
+      "Meaning": "Ollie (the cat)",
+      "Example": "অলি খুব ভালো Ollie khub bhalo: Ollie is very good",
+      "Notes": "অ o + ল l + ি i."
+    },
+    {
+      "Script": "বাড়ি",
+      "Sound": "bari",
+      "Meaning": "house, home",
+      "Example": "আমার বাড়ি amar bari: my house",
+      "Notes": "ব b + া aa + ড় r + ি i."
+    },
+    {
+      "Script": "বড়",
+      "Sound": "boro",
+      "Meaning": "big",
+      "Example": "বাড়িটা বড় bari-ta boro: the house is big",
+      "Notes": "ব b + ড় r: TRAP, final o spoken (boro)."
+    },
+    {
+      "Script": "বিড়াল",
+      "Sound": "beral",
+      "Meaning": "cat",
+      "Example": "একটা বিড়াল ekta beral: a cat",
+      "Notes": "ব b + ি i + ড় r + া aa + ল l: TRAP, spelt bi- but said be-."
+    },
+    {
+      "Script": "একটা",
+      "Sound": "ekta",
+      "Meaning": "a, one",
+      "Example": "একটা বই ekta boi: a book",
+      "Notes": "এ e + ক k + ট t + া aa: k has no vowel."
+    }
+  ]
+}

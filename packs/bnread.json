@@ -1,0 +1,13 @@
+{
+  "name": "bnread",
+  "fields": ["Script", "Sound", "Meaning", "Example", "Notes"],
+  "front": ["Script"],
+  "back": ["Sound", "Meaning", "Example", "Notes"],
+  "new_per_day": 8,
+  "guide": {
+    "instructions": "Learn to READ Bengali script, Kolkata pronunciation. The learner is learning spoken Kolkata Bengali from romanization (see the bengali pack) and now wants to read. The front is ONLY script; the learner says the sound (and meaning, for words). Strict progression: each lesson introduces only a few new characters (letters, vowel signs / kar, later hasanta and common conjuncts), then word cards spelled ONLY with characters already introduced, favouring words the learner already knows by ear from the bengali pack (mon, kom, kal, jol, dudh, ami, tumi...). Sound: casual romanization matching the bengali pack (no diacritics), plus the bare sound for letters, e.g. 'ko (k)'. Meaning: for letters, what it is ('consonant k, with built-in o'); for words, the English. Example: for letters, one known word using it, 'কম kom: less'; for words, empty or a short phrase. Notes: one line: lookalikes (ব vs র: র has a dot below), shape mnemonics, pronunciation traps (inherent o, silent final o, য-ফলা).",
+    "level": "complete beginner reader"
+  },
+  "unlocked_through": 1,
+  "opened": []
+}

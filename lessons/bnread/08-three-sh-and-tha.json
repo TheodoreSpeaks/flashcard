@@ -1,0 +1,98 @@
+{
+  "title": "Three sh letters, ঠ and থ",
+  "focus": "New: শ স ষ ঠ থ",
+  "body": "# Lesson 8: Three sh letters, ঠ and থ\n\nBengali has three s-letters, শ ষ স, and in Kolkata all three usually say **sh**. Spelling decides which one; sound doesn't. Plus ঠ and থ, the breathy t's.\n\n| Script | Sound | Note |\n|---|---|---|\n| শ | sho (sh) | The most common sh letter. |\n| স | sho (sh, sometimes s) | Usually sh in Kolkata; s before ত, থ, র, ন (আস্তে aste). Compare ম: স has a hooked top. |\n| ষ | sho (sh) | Like ব with a stroke through it. Mostly in Sanskrit words. |\n| ঠ | tho (hard th) | A round belly with a hook on top; breathy ট. |\n| থ | tho (soft th) | Not English 'th'; it's ত with a puff of air. |\n\n## How they combine\n\nRead শ ষ স all as sh: বসা **bosha**, ভাষা **bhasha**. ঠ is breathy ট; থ is breathy ত. Both are romanized th: ঠিক **thik**, থাকি **thaki**.\n\n## Read these\n\nCover the right side, read the script aloud, then check.\n\n- ঠিক আছে → thik ache: okay, fine\n- কোথায় → kothay: where\n- থাকি → thaki: I live / stay\n- শোনা → shona: to listen / hear\n- বসা → bosha: to sit\n- আসছি → ashchi: I'm coming\n- ভাষা → bhasha: language\n- শিখছি → shikhchi: I'm learning\n",
+  "cards": [
+    {
+      "Script": "শ",
+      "Sound": "sho (sh)",
+      "Meaning": "consonant sh (talobbo sho), with built-in o",
+      "Example": "শোনা shona: to listen",
+      "Notes": "The most common sh letter."
+    },
+    {
+      "Script": "স",
+      "Sound": "sho (sh, sometimes s)",
+      "Meaning": "consonant s/sh (dontyo so), with built-in o",
+      "Example": "বসা bosha: to sit",
+      "Notes": "Usually sh in Kolkata; s before ত, থ, র, ন (আস্তে aste). Compare ম: স has a hooked top."
+    },
+    {
+      "Script": "ষ",
+      "Sound": "sho (sh)",
+      "Meaning": "consonant sh (murdhonyo sho), with built-in o",
+      "Example": "ভাষা bhasha: language",
+      "Notes": "Like ব with a stroke through it. Mostly in Sanskrit words."
+    },
+    {
+      "Script": "ঠ",
+      "Sound": "tho (hard th)",
+      "Meaning": "consonant breathy hard t, with built-in o",
+      "Example": "ঠিক thik: right, correct",
+      "Notes": "A round belly with a hook on top; breathy ট."
+    },
+    {
+      "Script": "থ",
+      "Sound": "tho (soft th)",
+      "Meaning": "consonant breathy soft t, with built-in o",
+      "Example": "থাকি thaki: I live / stay",
+      "Notes": "Not English 'th'; it's ত with a puff of air."
+    },
+    {
+      "Script": "ঠিক আছে",
+      "Sound": "thik ache",
+      "Meaning": "okay, fine",
+      "Example": "ঠিক আছে, যাব thik ache, jabo: okay, I'll go",
+      "Notes": "ঠ th + ি i + ক k, then আছে."
+    },
+    {
+      "Script": "কোথায়",
+      "Sound": "kothay",
+      "Meaning": "where",
+      "Example": "বিড়ালটা কোথায়? beral-ta kothay?: where's the cat?",
+      "Notes": "ক k + ো o + থ th + া aa + য় y."
+    },
+    {
+      "Script": "থাকি",
+      "Sound": "thaki",
+      "Meaning": "I live / stay",
+      "Example": "আমি এখানে থাকি ami ekhane thaki: I live here",
+      "Notes": "থ th + া aa + ক k + ি i."
+    },
+    {
+      "Script": "শোনা",
+      "Sound": "shona",
+      "Meaning": "to listen / hear",
+      "Example": "গান শোনা gan shona: listening to music",
+      "Notes": "শ sh + ো o + ন n + া aa."
+    },
+    {
+      "Script": "বসা",
+      "Sound": "bosha",
+      "Meaning": "to sit",
+      "Example": "এখানে বসো ekhane bosho: sit here",
+      "Notes": "ব b + স sh + া aa: স is sh here."
+    },
+    {
+      "Script": "আসছি",
+      "Sound": "ashchi",
+      "Meaning": "I'm coming",
+      "Example": "আমি আসছি! ami ashchi!: I'm coming!",
+      "Notes": "আ a + স sh + ছ chh + ি i: স has no vowel."
+    },
+    {
+      "Script": "ভাষা",
+      "Sound": "bhasha",
+      "Meaning": "language",
+      "Example": "আমার ভাষা amar bhasha: my language",
+      "Notes": "ভ bh + া aa + ষ sh + া aa."
+    },
+    {
+      "Script": "শিখছি",
+      "Sound": "shikhchi",
+      "Meaning": "I'm learning",
+      "Example": "আমি শিখছি ami shikhchi: I'm learning",
+      "Notes": "শ sh + ি i + খ kh + ছ chh + ি i."
+    }
+  ]
+}

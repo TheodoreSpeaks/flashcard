@@ -1,0 +1,84 @@
+{
+  "title": "The i and u signs, ব and ঈ",
+  "focus": "New: ◌ি ◌ী ◌ু ব ঈ",
+  "body": "# Lesson 3: The i and u signs, ব and ঈ\n\nTwo i signs, short ি and long ী, and the u sign ু. In Kolkata speech short and long i sound the same; the difference is only spelling. Plus ব (b) and ঈ, the rare long-i vowel letter.\n\n| Script | Sound | Note |\n|---|---|---|\n| ◌ি | i-kar: i | Written first, read second: মি is m then i. |\n| ◌ী | dirgho i-kar: i | Mirror of ি; hangs on the right. Sounds the same as ি. |\n| ◌ু | u-kar: u | A small hook under the letter. |\n| ব | bo (b) | Triangle shape. No dot below; র is the same shape WITH a dot. |\n| ঈ | i (long vowel letter) | Mostly seen in ঈদ (Eid); sounds just like i. |\n\n## How they combine\n\nি is written BEFORE the consonant but said after it: ম + ি = মি **mi**. ী and ু come after or under: নী **ni**, তু **tu**.\n\n## Read these\n\nCover the right side, read the script aloud, then check.\n\n- আমি → ami: I\n- তুমি → tumi: you (friend)\n- কুকুর → kukur: dog\n- কিনলাম → kinlam: I bought\n- বাবা → baba: dad\n- নীল → nil: blue\n",
+  "cards": [
+    {
+      "Script": "◌ি",
+      "Sound": "i-kar: i",
+      "Meaning": "vowel sign short i, written BEFORE the consonant",
+      "Example": "আমি ami: I",
+      "Notes": "Written first, read second: মি is m then i."
+    },
+    {
+      "Script": "◌ী",
+      "Sound": "dirgho i-kar: i",
+      "Meaning": "vowel sign long i, written after the consonant",
+      "Example": "নীল nil: blue",
+      "Notes": "Mirror of ি; hangs on the right. Sounds the same as ি."
+    },
+    {
+      "Script": "◌ু",
+      "Sound": "u-kar: u",
+      "Meaning": "vowel sign short u, hooked under the consonant",
+      "Example": "তুমি tumi: you",
+      "Notes": "A small hook under the letter."
+    },
+    {
+      "Script": "ব",
+      "Sound": "bo (b)",
+      "Meaning": "consonant b, with built-in o",
+      "Example": "বাবা baba: dad",
+      "Notes": "Triangle shape. No dot below; র is the same shape WITH a dot."
+    },
+    {
+      "Script": "ঈ",
+      "Sound": "i (long vowel letter)",
+      "Meaning": "independent vowel long i, rare at the start of a word",
+      "Example": "",
+      "Notes": "Mostly seen in ঈদ (Eid); sounds just like i."
+    },
+    {
+      "Script": "আমি",
+      "Sound": "ami",
+      "Meaning": "I",
+      "Example": "আমি কিনলাম ami kinlam: I bought (it)",
+      "Notes": "আ a + ম m + ি i: the ি is written before ম."
+    },
+    {
+      "Script": "তুমি",
+      "Sound": "tumi",
+      "Meaning": "you (friend)",
+      "Example": "তুমি আর আমি tumi aar ami: you and me",
+      "Notes": "ত t + ু u + ম m + ি i."
+    },
+    {
+      "Script": "কুকুর",
+      "Sound": "kukur",
+      "Meaning": "dog",
+      "Example": "আমার কুকুর amar kukur: my dog",
+      "Notes": "ক k + ু u + ক k + ু u + র r: final o silent."
+    },
+    {
+      "Script": "কিনলাম",
+      "Sound": "kinlam",
+      "Meaning": "I bought",
+      "Example": "আমি কলম কিনলাম ami kolom kinlam: I bought a pen",
+      "Notes": "ক k + ি i + ন n + ল l + া aa + ম m: n has no vowel sound here."
+    },
+    {
+      "Script": "বাবা",
+      "Sound": "baba",
+      "Meaning": "dad",
+      "Example": "আমার বাবা amar baba: my dad",
+      "Notes": "ব b + া aa + ব b + া aa."
+    },
+    {
+      "Script": "নীল",
+      "Sound": "nil",
+      "Meaning": "blue",
+      "Example": "নীল কলম nil kolom: a blue pen",
+      "Notes": "ন n + ী i + ল l: long i, same sound as short."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "title": "হ চ ছ প and য়",
+  "focus": "New: হ চ ছ প য়",
+  "body": "# Lesson 6: হ চ ছ প and য়\n\nFour consonants and য় (antostho o), the letter that makes the y-glide in খায় and হয়েছে.\n\n| Script | Sound | Note |\n|---|---|---|\n| হ | ho (h) | Looks like a 5 with a tail hanging below the line. |\n| চ | cho (ch) | Plain ch. Its breathy twin ছ has a loop and a tail. |\n| ছ | chho (ch) | Written 'ch' in the bengali pack: আছে is ache, ছোট is choto. |\n| প | po (p) | Like a backwards check mark under the line; don't confuse with গ. |\n| য় | antostho o: y | Dot below = y-glide; without the dot (য, next lesson) it's j. |\n\n## How they combine\n\nচ and ছ are both written **ch** in the romanization; ছ is just breathier. য় after a vowel is a soft **y**: খা + য় = খায় **khay**. Between vowels it often sounds like e: হয়েছে **hoyeche**.\n\n## Read these\n\nCover the right side, read the script aloud, then check.\n\n- চা → cha: tea\n- হবে → hobe: will be / will happen\n- আছে → ache: is (there) / has\n- পারি → pari: I can\n- চুপ → chup: quiet!\n- খায় → khay: eats\n- হয়েছে → hoyeche: has happened / is done\n",
+  "cards": [
+    {
+      "Script": "হ",
+      "Sound": "ho (h)",
+      "Meaning": "consonant h, with built-in o",
+      "Example": "হবে hobe: will be",
+      "Notes": "Looks like a 5 with a tail hanging below the line."
+    },
+    {
+      "Script": "চ",
+      "Sound": "cho (ch)",
+      "Meaning": "consonant ch, with built-in o",
+      "Example": "চা cha: tea",
+      "Notes": "Plain ch. Its breathy twin ছ has a loop and a tail."
+    },
+    {
+      "Script": "ছ",
+      "Sound": "chho (ch)",
+      "Meaning": "consonant chh (breathy ch), with built-in o",
+      "Example": "আছে ache: is / has",
+      "Notes": "Written 'ch' in the bengali pack: আছে is ache, ছোট is choto."
+    },
+    {
+      "Script": "প",
+      "Sound": "po (p)",
+      "Meaning": "consonant p, with built-in o",
+      "Example": "পারি pari: I can",
+      "Notes": "Like a backwards check mark under the line; don't confuse with গ."
+    },
+    {
+      "Script": "য়",
+      "Sound": "antostho o: y",
+      "Meaning": "y-glide letter (য with a dot), with built-in o",
+      "Example": "খায় khay: eats",
+      "Notes": "Dot below = y-glide; without the dot (য, next lesson) it's j."
+    },
+    {
+      "Script": "চা",
+      "Sound": "cha",
+      "Meaning": "tea",
+      "Example": "চা খাব cha khabo: I'll have tea",
+      "Notes": "চ ch + া aa."
+    },
+    {
+      "Script": "হবে",
+      "Sound": "hobe",
+      "Meaning": "will be / will happen",
+      "Example": "ভালো হবে bhalo hobe: it'll be good",
+      "Notes": "হ h + ব b + ে e: o after h is spoken."
+    },
+    {
+      "Script": "আছে",
+      "Sound": "ache",
+      "Meaning": "is (there) / has",
+      "Example": "জল আছে jol ache: there's water",
+      "Notes": "আ a + ছ chh + ে e."
+    },
+    {
+      "Script": "পারি",
+      "Sound": "pari",
+      "Meaning": "I can",
+      "Example": "আমি পারি ami pari: I can",
+      "Notes": "প p + া aa + র r + ি i."
+    },
+    {
+      "Script": "চুপ",
+      "Sound": "chup",
+      "Meaning": "quiet!",
+      "Example": "চুপ কর chup kor: be quiet (to a close friend)",
+      "Notes": "চ ch + ু u + প p."
+    },
+    {
+      "Script": "খায়",
+      "Sound": "khay",
+      "Meaning": "eats",
+      "Example": "কুকুর ভাত খায় kukur bhat khay: the dog eats rice",
+      "Notes": "খ kh + া aa + য় y."
+    },
+    {
+      "Script": "হয়েছে",
+      "Sound": "hoyeche",
+      "Meaning": "has happened / is done",
+      "Example": "চা হয়েছে cha hoyeche: the tea's ready",
+      "Notes": "হ h + য় y + ে e + ছ chh + ে e."
+    }
+  ]
+}

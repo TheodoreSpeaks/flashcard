@@ -1,0 +1,91 @@
+{
+  "title": "ক্ষ, চ্ছ, ষ্ট, ৃ and ঋ",
+  "focus": "New: ক্ষ চ্ছ ষ্ট ◌ৃ ঋ",
+  "body": "# Lesson 12: ক্ষ, চ্ছ, ষ্ট, ৃ and ঋ\n\nThree common conjuncts and the ri vowel. You need চ্ছ for every \"-ing\" verb (খাচ্ছি), ক্ষ for lokkhi-type words, and ষ্ট for বৃষ্টি and দুষ্টু.\n\n| Script | Sound | Note |\n|---|---|---|\n| ক্ষ | kkho (kh / kkh) | Doesn't look like its parts. Start of word kh, middle kkh. |\n| চ্ছ | ccho (cch) | In every -chhi / -chhe 'right now' verb: যাচ্ছি, ঘুমোচ্ছে. |\n| ষ্ট | shto (sht) | ষ on the left with ট tucked underneath. |\n| ◌ৃ | ri-kar: ri | A little hook facing left under the letter; reads ri, not a plain vowel. |\n| ঋ | ri (vowel letter) | Rare; the word-initial form of ৃ. |\n\n## How they combine\n\nRead each conjunct as one unit. ক্ষ is **kh** at the start of a word and **kkh** in the middle: ক্ষমা **khoma**, পরীক্ষা **porikkha**. ৃ hangs under a consonant and says **ri**: বৃ **bri**.\n\n## Read these\n\nCover the right side, read the script aloud, then check.\n\n- খাচ্ছি → khacchi: I'm eating\n- যাচ্ছি → jacchi: I'm going\n- দুষ্টু → dushtu: naughty\n- বৃষ্টি → brishti: rain\n- পরীক্ষা → porikkha: exam\n- ঋতু → ritu: season\n- ক্ষমা → khoma: forgiveness\n",
+  "cards": [
+    {
+      "Script": "ক্ষ",
+      "Sound": "kkho (kh / kkh)",
+      "Meaning": "conjunct k + sh (ক্ + ষ), said kh",
+      "Example": "ক্ষমা khoma: forgiveness",
+      "Notes": "Doesn't look like its parts. Start of word kh, middle kkh."
+    },
+    {
+      "Script": "চ্ছ",
+      "Sound": "ccho (cch)",
+      "Meaning": "conjunct ch + chh (চ্ + ছ)",
+      "Example": "খাচ্ছি khacchi: I'm eating",
+      "Notes": "In every -chhi / -chhe 'right now' verb: যাচ্ছি, ঘুমোচ্ছে."
+    },
+    {
+      "Script": "ষ্ট",
+      "Sound": "shto (sht)",
+      "Meaning": "conjunct sh + hard t (ষ্ + ট)",
+      "Example": "বৃষ্টি brishti: rain",
+      "Notes": "ষ on the left with ট tucked underneath."
+    },
+    {
+      "Script": "◌ৃ",
+      "Sound": "ri-kar: ri",
+      "Meaning": "vowel sign ri, hooked under the consonant",
+      "Example": "বৃষ্টি brishti: rain",
+      "Notes": "A little hook facing left under the letter; reads ri, not a plain vowel."
+    },
+    {
+      "Script": "ঋ",
+      "Sound": "ri (vowel letter)",
+      "Meaning": "independent vowel ri",
+      "Example": "ঋতু ritu: season",
+      "Notes": "Rare; the word-initial form of ৃ."
+    },
+    {
+      "Script": "খাচ্ছি",
+      "Sound": "khacchi",
+      "Meaning": "I'm eating",
+      "Example": "আমি ভাত খাচ্ছি ami bhat khacchi: I'm eating rice",
+      "Notes": "খ kh + া aa + চ্ছ cch + ি i."
+    },
+    {
+      "Script": "যাচ্ছি",
+      "Sound": "jacchi",
+      "Meaning": "I'm going",
+      "Example": "আমি বাড়ি যাচ্ছি ami bari jacchi: I'm going home",
+      "Notes": "য j + া aa + চ্ছ cch + ি i."
+    },
+    {
+      "Script": "দুষ্টু",
+      "Sound": "dushtu",
+      "Meaning": "naughty",
+      "Example": "অলি খুব দুষ্টু Ollie khub dushtu: Ollie is very naughty",
+      "Notes": "দ d + ু u + ষ্ট sht + ু u."
+    },
+    {
+      "Script": "বৃষ্টি",
+      "Sound": "brishti",
+      "Meaning": "rain",
+      "Example": "বৃষ্টি হচ্ছে brishti hocche: it's raining",
+      "Notes": "ব b + ৃ ri + ষ্ট sht + ি i."
+    },
+    {
+      "Script": "পরীক্ষা",
+      "Sound": "porikkha",
+      "Meaning": "exam",
+      "Example": "কাল পরীক্ষা kal porikkha: the exam is tomorrow",
+      "Notes": "প p + র r + ী i + ক্ষ kkh + া aa."
+    },
+    {
+      "Script": "ঋতু",
+      "Sound": "ritu",
+      "Meaning": "season",
+      "Example": "",
+      "Notes": "ঋ ri + ত t + ু u."
+    },
+    {
+      "Script": "ক্ষমা",
+      "Sound": "khoma",
+      "Meaning": "forgiveness",
+      "Example": "ক্ষমা করো khoma koro: forgive me",
+      "Notes": "ক্ষ kh + ম m + া aa: word-initial ক্ষ = kh."
+    }
+  ]
+}

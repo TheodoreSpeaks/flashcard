@@ -1,0 +1,63 @@
+{
+  "title": "First four consonants: ক ম ন ল",
+  "focus": "New: ক ম ন ল",
+  "body": "# Lesson 1: First four consonants: ক ম ন ল\n\nEvery Bengali consonant carries a built-in vowel, **o**. So ক on its own is read **ko**. At the end of a word that o is usually dropped: কম is **kom**, not komo.\n\n| Script | Sound | Note |\n|---|---|---|\n| ক | ko (k) | Plain k with no puff of air. Note the top bar (matra) that joins letters in a word. |\n| ম | mo (m) | Small loop at the lower left; স (later) looks similar but has a hooked top. |\n| ন | no (n) | A second n letter, ণ, comes later and sounds the same; ন is the common one. |\n| ল | lo (l) | Round body with a small loop on the left; the loop sits low. |\n\n## How they combine\n\nWrite letters left to right with no vowel marks and you get consonant + o, consonant + o... with the last o silent. ক + ল + ম = কলম **kolom**.\n\n## Read these\n\nCover the right side, read the script aloud, then check.\n\n- কম → kom: less, little\n- মন → mon: mind, heart\n- কলম → kolom: pen\n- কমল → komol: lotus (also the name Komol)\n",
+  "cards": [
+    {
+      "Script": "ক",
+      "Sound": "ko (k)",
+      "Meaning": "consonant k, with built-in o",
+      "Example": "কম kom: less",
+      "Notes": "Plain k with no puff of air. Note the top bar (matra) that joins letters in a word."
+    },
+    {
+      "Script": "ম",
+      "Sound": "mo (m)",
+      "Meaning": "consonant m, with built-in o",
+      "Example": "মন mon: mind, heart",
+      "Notes": "Small loop at the lower left; স (later) looks similar but has a hooked top."
+    },
+    {
+      "Script": "ন",
+      "Sound": "no (n)",
+      "Meaning": "consonant n, with built-in o",
+      "Example": "মন mon: mind, heart",
+      "Notes": "A second n letter, ণ, comes later and sounds the same; ন is the common one."
+    },
+    {
+      "Script": "ল",
+      "Sound": "lo (l)",
+      "Meaning": "consonant l, with built-in o",
+      "Example": "কলম kolom: pen",
+      "Notes": "Round body with a small loop on the left; the loop sits low."
+    },
+    {
+      "Script": "কম",
+      "Sound": "kom",
+      "Meaning": "less, little",
+      "Example": "",
+      "Notes": "ক k + ম m: inherent o after k, final o silent."
+    },
+    {
+      "Script": "মন",
+      "Sound": "mon",
+      "Meaning": "mind, heart",
+      "Example": "",
+      "Notes": "ম m + ন n: inherent o after m, final o silent."
+    },
+    {
+      "Script": "কলম",
+      "Sound": "kolom",
+      "Meaning": "pen",
+      "Example": "",
+      "Notes": "ক k + ল l + ম m: o after k and l, final o silent."
+    },
+    {
+      "Script": "কমল",
+      "Sound": "komol",
+      "Meaning": "lotus (also the name Komol)",
+      "Example": "",
+      "Notes": "ক k + ম m + ল l: same pattern as কলম, k-o-m-o-l."
+    }
+  ]
+}

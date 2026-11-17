@@ -1,0 +1,84 @@
+{
+  "title": "ৎ, ঐ, ৈ, ঔ and ৌ",
+  "focus": "New: ৎ ঐ ◌ৈ ঔ ◌ৌ",
+  "body": "# Lesson 14: ৎ, ঐ, ৈ, ঔ and ৌ\n\nThe last vowels (oi, ou) and ৎ (khondo to), a t with no vowel after it. After this you can read almost any everyday word letter by letter.\n\n| Script | Sound | Note |\n|---|---|---|\n| ৎ | khondo to: t | Looks like a ত with a hook; never has a vowel after it. |\n| ঐ | oi (vowel letter) | এ with an extra curl on top. ঐ (that) is also spelt ওই. |\n| ◌ৈ | oi-kar: oi | ে with an extra loop; sits in front of the letter. |\n| ঔ | ou (vowel letter) | ও with a tail on top. Rare. |\n| ◌ৌ | ou-kar: ou | Like ো but the right side has a tail. Look closely. |\n\n## How they combine\n\nৈ goes BEFORE the consonant like ে: ত + ৈ = তৈ **toi**. ৌ wraps around like ো: ন + ৌ = নৌ **nou**. ৎ only ends a syllable: হঠাৎ **hothat**.\n\n## Read these\n\nCover the right side, read the script aloud, then check.\n\n- হঠাৎ → hothat: suddenly\n- ভবিষ্যৎ → bhobishshot: future\n- সৎ → shot: honest\n- তৈরি → toiri: ready, made\n- নৌকা → nouka: boat\n- ঔষধ → oushodh: medicine\n",
+  "cards": [
+    {
+      "Script": "ৎ",
+      "Sound": "khondo to: t",
+      "Meaning": "a final t with no vowel",
+      "Example": "হঠাৎ hothat: suddenly",
+      "Notes": "Looks like a ত with a hook; never has a vowel after it."
+    },
+    {
+      "Script": "ঐ",
+      "Sound": "oi (vowel letter)",
+      "Meaning": "independent vowel oi",
+      "Example": "",
+      "Notes": "এ with an extra curl on top. ঐ (that) is also spelt ওই."
+    },
+    {
+      "Script": "◌ৈ",
+      "Sound": "oi-kar: oi",
+      "Meaning": "vowel sign oi, written BEFORE the consonant",
+      "Example": "তৈরি toiri: ready, made",
+      "Notes": "ে with an extra loop; sits in front of the letter."
+    },
+    {
+      "Script": "ঔ",
+      "Sound": "ou (vowel letter)",
+      "Meaning": "independent vowel ou",
+      "Example": "ঔষধ oushodh: medicine",
+      "Notes": "ও with a tail on top. Rare."
+    },
+    {
+      "Script": "◌ৌ",
+      "Sound": "ou-kar: ou",
+      "Meaning": "vowel sign ou, written around the consonant",
+      "Example": "নৌকা nouka: boat",
+      "Notes": "Like ো but the right side has a tail. Look closely."
+    },
+    {
+      "Script": "হঠাৎ",
+      "Sound": "hothat",
+      "Meaning": "suddenly",
+      "Example": "হঠাৎ বৃষ্টি hothat brishti: sudden rain",
+      "Notes": "হ h + ঠ th + া aa + ৎ t."
+    },
+    {
+      "Script": "ভবিষ্যৎ",
+      "Sound": "bhobishshot",
+      "Meaning": "future",
+      "Example": "",
+      "Notes": "ভ bh + ব b + ি i + ষ্য shsh (য-ফলা doubles ষ) + ৎ t."
+    },
+    {
+      "Script": "সৎ",
+      "Sound": "shot",
+      "Meaning": "honest",
+      "Example": "উনি সৎ uni shot: he / she is honest",
+      "Notes": "স sh + ৎ t."
+    },
+    {
+      "Script": "তৈরি",
+      "Sound": "toiri",
+      "Meaning": "ready, made",
+      "Example": "চা তৈরি cha toiri: the tea's ready",
+      "Notes": "ত t + ৈ oi + র r + ি i."
+    },
+    {
+      "Script": "নৌকা",
+      "Sound": "nouka",
+      "Meaning": "boat",
+      "Example": "একটা নৌকা ekta nouka: a boat",
+      "Notes": "ন n + ৌ ou + ক k + া aa."
+    },
+    {
+      "Script": "ঔষধ",
+      "Sound": "oushodh",
+      "Meaning": "medicine",
+      "Example": "ঔষধ খাও oushodh khao: take your medicine",
+      "Notes": "ঔ ou + ষ sh + ধ dh. Everyday word is ওষুধ oshudh."
+    }
+  ]
+}

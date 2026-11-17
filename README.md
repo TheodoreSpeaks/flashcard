@@ -1,6 +1,6 @@
 # fc
 
-Plain-text flashcards in the terminal. Packs are stored in Anki's collection format (SQLite) and scheduled with SM-2. Lessons are JSON files that unlock as you learn.
+Flashcards that run in your browser, served from your own machine (no internet needed). Packs are stored in Anki's collection format (SQLite) and scheduled with SM-2. Lessons are JSON files that unlock as you learn.
 
 ## Install
 
@@ -22,8 +22,9 @@ fc sync <pack>       # after git pull: update cards you already have from edited
 ## Use
 
 ```sh
+fc                   # opens the browser: every pack, what's due, lessons (ctrl-c to stop)
+fc <pack>            # review one pack (space flips, 1-5 rates, esc goes home)
 fc lesson <pack>     # read the next lesson and add its cards
-fc                   # review every pack (enter flips, rate 1-5)
 fc stats <pack>      # progress and lesson unlocks
 fc help              # everything else
 ```

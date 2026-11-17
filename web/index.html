@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>fc</title>
+<style>
+:root {
+  --bg: #faf9f7; --surface: #ffffff; --text: #1d1d1f; --muted: #6e6e73; --faint: #a1a1a6;
+  --line: #e6e4e0; --accent: #0a7f8c; --accent-soft: #e3f2f3; --good: #2f8a4c; --warn: #b7791f; --bad: #c0392b;
+  --script: "Kohinoor Bangla", "Bangla MN", "Bangla Sangam MN", "PingFang SC", "Hiragino Sans GB", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #161617; --surface: #1f1f21; --text: #f2f2f2; --muted: #a1a1a6; --faint: #6e6e73;
+    --line: #2e2e31; --accent: #4fc3cf; --accent-soft: #16343a; --good: #5cc27e; --warn: #e0a84a; --bad: #ef6b5b;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.55 system-ui, -apple-system, sans-serif; }
+main { max-width: 760px; margin: 0 auto; padding: 24px 16px 80px; }
+a { color: var(--accent); }
+button { font: inherit; cursor: pointer; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--text); padding: 9px 16px; }
+button.primary { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+button:disabled { opacity: .45; cursor: default; }
+.row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+.spread { justify-content: space-between; }
+.muted { color: var(--muted); } .faint { color: var(--faint); }
+.small { font-size: 14px; }
+h1 { font-size: 26px; margin: 0 0 4px; } h2 { font-size: 20px; margin: 0; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px; margin-top: 16px; }
+.pill { font-size: 13px; padding: 2px 9px; border-radius: 99px; background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.pill.zero { background: transparent; color: var(--faint); font-weight: 400; }
+.error { white-space: pre-wrap; background: #fdecea; color: #8a1c12; border-radius: 10px; padding: 14px; margin-top: 16px; font: 13px/1.45 ui-monospace, monospace; }
+details summary { cursor: pointer; color: var(--muted); font-size: 14px; margin-top: 12px; }
+.lessons { margin-top: 8px; font-size: 14px; }
+.lesson { display: grid; grid-template-columns: 22px 28px 1fr auto; gap: 6px; align-items: center; padding: 5px 0; border-top: 1px solid var(--line); }
+.lesson.locked { color: var(--faint); }
+.bar { width: 90px; height: 6px; border-radius: 3px; background: var(--line); overflow: hidden; display: inline-block; vertical-align: middle; }
+.bar i { display: block; height: 100%; background: var(--good); }
+/* review */
+.topbar { display: flex; justify-content: space-between; align-items: center; color: var(--muted); font-size: 14px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 18px; padding: 40px 24px; margin-top: 14px; text-align: center; min-height: 300px; }
+.front { font-family: var(--script); font-size: clamp(30px, 7vw, 54px); line-height: 1.35; font-weight: 600; word-break: break-word; }
+.front.long { font-size: clamp(22px, 4.5vw, 32px); }
+.front2 { font-family: var(--script); font-size: 20px; color: var(--muted); margin-top: 6px; }
+.back { margin-top: 26px; padding-top: 22px; border-top: 1px dashed var(--line); }
+.b0 { font-family: var(--script); font-size: clamp(26px, 5.5vw, 40px); font-weight: 700; color: var(--accent); line-height: 1.35; }
+.b1 { font-family: var(--script); font-size: 20px; margin-top: 6px; }
+.bn { font-family: var(--script); font-size: 15px; color: var(--muted); margin-top: 10px; text-align: left; max-width: 580px; margin-left: auto; margin-right: auto; }
+.rate { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin-top: 18px; }
+.rate button { padding: 12px 4px; display: flex; flex-direction: column; align-items: center; gap: 2px; }
+.rate b { font-size: 18px; } .rate span { font-size: 12px; color: var(--muted); }
+.rate button.r1, .rate button.r2 { border-color: color-mix(in srgb, var(--bad) 45%, var(--line)); }
+.rate button.r4, .rate button.r5 { border-color: color-mix(in srgb, var(--good) 45%, var(--line)); }
+.flip { width: 100%; margin-top: 18px; padding: 14px; }
+.toast { height: 24px; text-align: center; margin-top: 10px; font-size: 14px; font-weight: 600; }
+.kbd { font: 12px ui-monospace, monospace; border: 1px solid var(--line); border-radius: 5px; padding: 0 5px; color: var(--muted); }
+/* lesson */
+.body { font-size: 16px; }
+.body h1, .body h2, .body h3 { margin: 22px 0 8px; }
+.body table { border-collapse: collapse; width: 100%; margin: 12px 0; font-size: 15px; display: block; overflow-x: auto; }
+.body th, .body td { border-bottom: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; }
+.body th { color: var(--muted); font-weight: 600; font-size: 13px; }
+.body, .body td, .body li { font-family: system-ui, -apple-system, var(--script); }
+.pick { display: grid; grid-template-columns: 26px 1fr; gap: 8px; padding: 10px 0; border-top: 1px solid var(--line); align-items: start; }
+.pick input { width: 18px; height: 18px; margin-top: 4px; }
+.pick .f { font-family: var(--script); font-weight: 700; font-size: 18px; }
+.pick .a { font-family: var(--script); color: var(--accent); font-weight: 600; }
+.pick .x { font-size: 13px; color: var(--muted); }
+.pick.dup { opacity: .5; }
+.warn { color: var(--warn); font-size: 13px; }
+.sticky { position: sticky; bottom: 0; background: var(--bg); padding: 12px 0; border-top: 1px solid var(--line); margin-top: 8px; }
+</style>
+</head>
+<body>
+<main id="app"></main>
+<script>
+const app = document.getElementById("app");
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
+let onKey = null;
+document.addEventListener("keydown", e => { if (onKey && !e.metaKey && !e.ctrlKey) onKey(e); });
+
+async function api(path, body) {
+  const res = await fetch(path, body ? {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify(body)} : {});
+  const data = await res.json();
+  if (!res.ok) throw new Error(data.error);
+  return data;
+}
+function showError(err) {
+  onKey = null;
+  app.innerHTML = `<a href="#/">← home</a><div class="error">${esc(err.message)}</div>`;
+}
+
+// ---------- markdown (just what lesson bodies use) ----------
+function inline(s) {
+  return esc(s).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>").replace(/(^|[^*])\*([^*]+)\*/g, "$1<i>$2</i>").replace(/`([^`]+)`/g, "<code>$1</code>");
+}
+function markdown(src) {
+  const lines = src.split("\n"), out = [];
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    let m;
+    if (!line.trim()) continue;
+    if ((m = line.match(/^(#{1,4})\s+(.*)/))) { out.push(`<h${m[1].length + 1}>${inline(m[2])}</h${m[1].length + 1}>`); continue; }
+    if (line.trim().startsWith("|")) {
+      const rows = [];
+      while (i < lines.length && lines[i].trim().startsWith("|")) rows.push(lines[i++].trim());
+      i--;
+      const cells = r => r.replace(/^\||\|$/g, "").split("|").map(c => c.trim());
+      const body = rows.filter(r => !/^\|[\s:|-]+\|$/.test(r));
+      out.push("<table><thead><tr>" + cells(body[0]).map(c => `<th>${inline(c)}</th>`).join("") + "</tr></thead><tbody>" +
+        body.slice(1).map(r => "<tr>" + cells(r).map(c => `<td>${inline(c)}</td>`).join("") + "</tr>").join("") + "</tbody></table>");
+      continue;
+    }
+    if (/^\s*([-*]|\d+\.)\s+/.test(line)) {
+      const items = [];
+      while (i < lines.length && /^\s*([-*]|\d+\.)\s+/.test(lines[i])) items.push(lines[i++].replace(/^\s*([-*]|\d+\.)\s+/, ""));
+      i--;
+      out.push("<ul>" + items.map(t => `<li>${inline(t)}</li>`).join("") + "</ul>");
+      continue;
+    }
+    const para = [line];
+    while (i + 1 < lines.length && lines[i + 1].trim() && !/^(#|\||\s*([-*]|\d+\.)\s)/.test(lines[i + 1])) para.push(lines[++i]);
+    out.push(`<p>${inline(para.join(" "))}</p>`);
+  }
+  return out.join("\n");
+}
+
+// ---------- home ----------
+async function home() {
+  onKey = null;
+  const packs = await api("/api/packs");
+  const total = packs.reduce((n, p) => n + p.due + p.new, 0);
+  app.innerHTML = `
+    <div class="row spread"><h1>fc</h1>
+      <button class="primary" ${total ? "" : "disabled"} onclick="location.hash='#/review/all'">Review all · ${total}</button></div>
+    ${packs.length ? "" : `<p class="muted">No packs installed. Run <code>fc install &lt;pack&gt;</code>.</p>`}
+    ${packs.map(packPanel).join("")}`;
+}
+function packPanel(p) {
+  const marks = u => u.done ? `<span style="color:var(--good)">✓</span>` : (p.next_lesson && u.n === p.next_lesson.n) ? `<span style="color:var(--accent)">▸</span>` : u.opened ? `<span style="color:var(--warn)">○</span>` : "";
+  const lessons = p.lessons.map(u => `
+    <div class="lesson ${u.unlocked ? "" : "locked"}">
+      <span>${marks(u)}</span><span class="faint">${u.n}</span>
+      <span>${u.unlocked ? `<a href="#/lesson/${p.name}/${u.n}">${esc(u.title)}</a>` : esc(u.title)}</span>
+      <span class="small muted">${u.cards ? `<span class="bar"><i style="width:${Math.round(u.ratio * 100)}%"></i></span> ${Math.round(u.learned_ratio * 100)}% learned` : ""}</span>
+    </div>`).join("");
+  return `<div class="panel">
+    <div class="row spread">
+      <h2>${esc(p.name)}</h2>
+      <div class="row"><span class="pill ${p.due ? "" : "zero"}">${p.due} due</span><span class="pill ${p.new ? "" : "zero"}">${p.new} new</span>
+        <button ${p.due + p.new ? "" : "disabled"} onclick="location.hash='#/review/${p.name}'">Review</button></div>
+    </div>
+    ${p.waiting > 0 ? `<div class="small faint" style="margin-top:6px">${p.waiting} more new cards waiting (limit ${p.new_per_day}/day)</div>` : ""}
+    ${p.next_lesson ? `<div style="margin-top:12px"><a href="#/lesson/${p.name}/${p.next_lesson.n}"><b>Lesson ${p.next_lesson.n} ready:</b> ${esc(p.next_lesson.title)} →</a></div>` : ""}
+    ${p.lock_reason ? `<div class="small muted" style="margin-top:12px">Next lesson unlocks when you ${esc(p.lock_reason)}.</div>` : ""}
+    ${p.lessons.length ? `<details><summary>Lessons</summary><div class="lessons">${lessons}</div></details>` : ""}
+  </div>`;
+}
+
+// ---------- review ----------
+async function review(which) {
+  const packs = which === "all" ? (await api("/api/packs")).filter(p => p.due + p.new).map(p => p.name) : [which];
+  const done = [];
+  for (const name of packs) done.push(await reviewPack(name, packs.length > 1));
+  finish(done);
+}
+function reviewPack(name, multi) {
+  return api(`/api/review/${name}`).then(data => new Promise(resolve => {
+    const queue = data.cards.slice();
+    let card, flipped, shown, answered = 0, missed = 0, toast = "";
+    const field = (f, cls) => card.values[f] ? `<div class="${cls}">${esc(card.values[f])}</div>` : "";
+    function next() {
+      if (!queue.length) { onKey = null; return resolve({name, answered, missed}); }
+      card = queue.shift(); flipped = false; shown = Date.now(); draw();
+    }
+    function draw() {
+      const front0 = card.values[data.front[0]];
+      app.innerHTML = `
+        <div class="topbar"><a href="#/">← home</a><span>${esc(name)}${multi ? "" : ""} · ${queue.length + 1} left</span></div>
+        <div class="card">
+          <div class="front ${front0.length > 28 ? "long" : ""}">${esc(front0)}</div>
+          ${data.front.slice(1).map(f => field(f, "front2")).join("")}
+          ${flipped ? `<div class="back">${data.back.map((f, i) => field(f, i === 0 ? "b0" : i === 1 ? "b1" : "bn")).join("")}</div>` : ""}
+        </div>
+        ${flipped
+          ? `<div class="rate">${[["no idea", 1], ["vague", 2], ["hard", 3], ["good", 4], ["instant", 5]].map(([l, q]) =>
+              `<button class="r${q}" onclick="rate(${q})"><b>${q}</b><span>${l}</span></button>`).join("")}</div>`
+          : `<button class="primary flip" onclick="flip()">Show answer <span class="kbd" style="color:inherit;border-color:rgba(255,255,255,.4)">space</span></button>`}
+        <div class="toast">${toast}</div>`;
+    }
+    window.flip = () => { flipped = true; toast = ""; draw(); };
+    window.rate = async q => {
+      if (!flipped) return;
+      flipped = null;
+      try {
+        const r = await api(`/api/answer/${name}`, {card_id: card.id, q, ms: Date.now() - shown});
+        answered++;
+        if (q < 3) { missed++; queue.splice(Math.min(5, queue.length), 0, card); toast = `<span style="color:var(--bad)">again soon</span>`; }
+        else toast = `<span style="color:${q === 3 ? "var(--warn)" : "var(--good)"}">next in ${r.ivl}d</span>`;
+        next();
+      } catch (e) { showError(e); }
+    };
+    onKey = e => {
+      if (e.key === "Escape") { location.hash = "#/"; return; }
+      if (flipped === false && (e.key === " " || e.key === "Enter")) { e.preventDefault(); flip(); }
+      else if (flipped && /^[1-5]$/.test(e.key)) rate(Number(e.key));
+    };
+    next();
+  }));
+}
+async function finish(done) {
+  onKey = null;
+  const packs = await api("/api/packs");
+  const ready = packs.filter(p => p.next_lesson);
+  const rows = done.map(d => `<div>${esc(d.name)}: ${d.answered} answered, ${d.missed} missed</div>`).join("");
+  app.innerHTML = `<a href="#/">← home</a><div class="panel"><h2>Done</h2>
+    <div style="margin-top:8px">${done.some(d => d.answered) ? rows : `<span class="muted">Nothing to review right now.</span>`}</div>
+    ${ready.map(p => `<div style="margin-top:12px"><a href="#/lesson/${p.name}/${p.next_lesson.n}"><b>${esc(p.name)} lesson ${p.next_lesson.n} ready:</b> ${esc(p.next_lesson.title)} →</a></div>`).join("")}
+  </div>`;
+}
+
+// ---------- lesson ----------
+async function lesson(name, n) {
+  onKey = null;
+  const L = await api(`/api/lesson/${name}/${n}`);
+  const f0 = L.front[0], b0 = L.back[0], b1 = L.back[1];
+  const picks = L.cards.map((c, i) => {
+    const v = c.values;
+    return `<label class="pick ${c.kind}">
+      <input type="checkbox" data-i="${i}" ${c.kind === "new" ? "checked" : ""} ${c.kind === "dup" ? "disabled" : ""}>
+      <div><span class="f">${esc(v[f0])}</span> <span class="a">${esc(v[b0])}</span> ${b1 && v[b1] ? `<span class="muted">${esc(v[b1])}</span>` : ""}
+        ${c.kind === "dup" ? `<div class="x">${esc(c.note)}</div>` : ""}
+        ${c.kind === "similar" ? `<div class="warn">${esc(c.note)}</div>` : ""}</div>
+    </label>`;
+  }).join("");
+  const status = L.unit.done ? "mastered ✓" : L.unit.cards ? `${L.unit.cards} cards · ${Math.round(L.unit.learned_ratio * 100)}% learned` : "new";
+  app.innerHTML = `
+    <div class="topbar"><a href="#/">← home</a><span>${esc(name)} · lesson ${L.n} of ${L.total} · ${status}</span></div>
+    <h1 style="margin-top:14px">${esc(L.title)}</h1>
+    <div class="body">${markdown(L.body.replace(/^\s*#{1,2}\s+[^\n]*\n/, line => line.includes(L.title) ? "" : line))}</div>
+    <div class="panel"><h2>Cards for this lesson</h2>
+      <div class="small muted" style="margin:4px 0 8px">New cards are ticked. ≈ similar ones are left for you to decide; greyed-out ones are already in the pack.</div>
+      ${picks}
+    </div>
+    <div class="sticky row spread"><span class="muted small" id="count"></span><button class="primary" id="add">Add cards</button></div>`;
+  const boxes = [...app.querySelectorAll("input[type=checkbox]")];
+  const count = () => boxes.filter(b => b.checked).length;
+  const update = () => {
+    document.getElementById("count").textContent = `${count()} selected`;
+    document.getElementById("add").textContent = count() ? `Add ${count()} cards` : "Mark read, add none";
+  };
+  boxes.forEach(b => b.addEventListener("change", update));
+  update();
+  document.getElementById("add").onclick = async () => {
+    try {
+      const r = await api(`/api/lesson/${name}/${L.n}`, {picked: boxes.filter(b => b.checked).map(b => Number(b.dataset.i))});
+      app.querySelector(".sticky").innerHTML = `<span><b>Added ${r.added}</b> to ${esc(name)}.</span>
+        <span class="row"><a href="#/">Home</a><button class="primary" onclick="location.hash='#/review/${name}'">Review now</button></span>`;
+    } catch (e) { showError(e); }
+  };
+}
+
+// ---------- router ----------
+async function route() {
+  window.scrollTo(0, 0);
+  const parts = location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
+  try {
+    if (parts[0] === "review") await review(parts[1]);
+    else if (parts[0] === "lesson") await lesson(parts[1], parts[2]);
+    else await home();
+  } catch (e) { showError(e); }
+}
+window.addEventListener("hashchange", route);
+route();
+</script>
+</body>
+</html>

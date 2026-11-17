@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""fc: plain-text spaced-repetition flashcards.
+"""fc: spaced-repetition flashcards. Reviews and lessons run in the browser (web.py); the rest is CLI.
 
 Each pack is a SQLite file in packs/ using Anki's collection schema
 (col / notes / cards / revlog / graves). Pack metadata lives in col.models
@@ -516,23 +516,6 @@ def lock_reason(units: list[dict]) -> str:
     return f"master lesson {oldest_open['n']} ({oldest_open['ratio']:.0%} mastered / {UNIT_RATIO:.0%})"
 
 
-def render_markdown(text: str) -> str:
-    """Just enough markdown for lesson bodies: headings and **bold** become ANSI, `code` loses its ticks."""
-    lines = []
-    for line in text.splitlines():
-        heading = re.match(r"#+\s+(.*)", line)
-        if heading:
-            line = f"{BOLD}{CYAN}{heading[1]}{RESET}"
-        line = re.sub(r"\*\*(.+?)\*\*", lambda m: f"{BOLD}{m[1]}{RESET}", line)
-        line = re.sub(r"`([^`]+)`", r"\1", line)
-        lines.append(line)
-    return "\n".join(lines) + "\n"
-
-
-def page(text: str) -> None:
-    subprocess.run(["less", "-R"], input=render_markdown(text), text=True, env={**os.environ, "LESSCHARSET": "utf-8"}, check=True)
-
-
 # ---------- review ----------
 
 def sm2(ivl: int, factor: int, q: int) -> tuple[int, int]:
@@ -572,77 +555,62 @@ def answer(db: sqlite3.Connection, card: sqlite3.Row, q: int, today: int, ms_tak
     return ivl
 
 
-def cmd_review(name: str) -> None:
-    db = open_pack(name)
-    meta = read_meta(db)
-    crt = db.execute("select crt from col").fetchone()[0]
-    today = today_num(crt)
-    lessons = load_lessons(name, meta)
-
+def review_queue(db: sqlite3.Connection, meta: dict) -> dict:
+    """Today's cards: every due review plus new cards up to the daily limit, shuffled."""
+    today = today_num(db.execute("select crt from col").fetchone()[0])
     introduced = db.execute(
         "select count(distinct cid) from revlog where type = ? and id >= ?", (LOG_LEARN, today_start_ms())
     ).fetchone()[0]
     new_limit = max(0, meta["new_per_day"] - introduced)
-    due = db.execute(
-        "select id from cards where queue = ? and due <= ? order by due", (REVIEW, today)
-    ).fetchall()
-    new = db.execute(
-        "select id from cards where queue = ? order by due limit ?", (NEW, new_limit)
-    ).fetchall()
-    queue = [r["id"] for r in due] + [r["id"] for r in new]
-    random.shuffle(queue)
-
-    print(f"{BOLD}[{name}]{RESET} {len(new)} new · {len(due)} due")
+    due = [r["id"] for r in db.execute(
+        "select id from cards where queue = ? and due <= ? order by due", (REVIEW, today))]
+    new = [r["id"] for r in db.execute(
+        "select id from cards where queue = ? order by due limit ?", (NEW, new_limit))]
     unseen = db.execute("select count(*) from cards where queue = ?", (NEW,)).fetchone()[0]
-    if unseen > len(new):
-        print(f"{DIM}{unseen - len(new)} more new cards waiting (limit {meta['new_per_day']} new/day; "
-              f"change with fc edit {name}){RESET}")
-    reviewed = failed = 0
-    while queue:
-        cid = queue.pop(0)
-        card = db.execute("select * from cards where id = ?", (cid,)).fetchone()
-        note = db.execute("select flds from notes where id = ?", (card["nid"],)).fetchone()
-        values = note_fields(meta, note["flds"])
+    queue = due + new
+    random.shuffle(queue)
+    return {"queue": queue, "due": len(due), "new": len(new), "waiting": unseen - len(new)}
 
-        print(f"\n{DIM}{'─' * 40}  {len(queue) + 1} left{RESET}\n")
-        for i, f in enumerate(meta["front"]):
-            print(f"  {BOLD if i == 0 else ''}{values[f]}{RESET}")
-        started = time.time()
-        if input(f"\n{DIM}  (enter){RESET} ").strip().lower() == "q":
-            break
-        print(f"  {DIM}{'─' * 20}{RESET}")
-        for i, f in enumerate(meta["back"]):
-            if not values[f]:
-                continue
-            style = BOLD + CYAN if i == 0 else ("" if i == 1 else DIM)
-            print(f"  {style}{values[f]}{RESET}")
 
-        while True:
-            raw = input(f"\n  {DIM}1 no idea · 2 vague · 3 hard · 4 good · 5 instant{RESET} > ").strip().lower()
-            if raw == "q" or raw in {"1", "2", "3", "4", "5"}:
-                break
-        if raw == "q":
-            break
-        q = int(raw)
-        ivl = answer(db, card, q, today, int((time.time() - started) * 1000))
-        reviewed += 1
-        if q < 3:
-            failed += 1
-            queue.insert(min(REQUEUE_GAP, len(queue)), cid)
-            print(f"  {RED}again soon{RESET}")
-        else:
-            color = YELLOW if q == 3 else GREEN
-            print(f"  {color}next in {ivl}d{RESET}")
+def answer_card(db: sqlite3.Connection, card_id: int, q: int, ms_taken: int) -> int:
+    if q not in (1, 2, 3, 4, 5):
+        raise SystemExit(f"score must be 1-5, got {q!r}")
+    card = db.execute("select * from cards where id = ?", (card_id,)).fetchone()
+    if card is None:
+        raise SystemExit(f"no card {card_id}")
+    today = today_num(db.execute("select crt from col").fetchone()[0])
+    return answer(db, card, q, today, ms_taken)
 
-    if reviewed:
-        remaining_new = db.execute("select count(*) from cards where queue = ?", (NEW,)).fetchone()[0]
-        print(f"\n{BOLD}done{RESET}: {reviewed} answered, {failed} missed. {remaining_new} unseen cards left in pack.")
-    else:
-        print("nothing to review.")
-    if lessons:
-        ready = next_lesson(unit_progress(db, meta, lessons))
-        if ready:
-            print(f"{GREEN}lesson {ready['n']} ready: {ready['title']}{RESET}. read it: fc lesson {name}")
+
+def pick_lesson(units: list[dict], n: int | None) -> int:
+    """Lesson n if it's unlocked, or the next unread one when n is None."""
+    if n is not None:
+        if not 1 <= n <= len(units):
+            raise SystemExit(f"lesson {n} doesn't exist; pack has {len(units)} lessons")
+        if not units[n - 1]["unlocked"]:
+            raise SystemExit(f"lesson {n} is locked until you {lock_reason(units)}")
+        return n
+    ready = next_lesson(units)
+    if ready is None:
+        if all(u["unlocked"] for u in units):
+            raise SystemExit(f"all {len(units)} lessons opened; pick one to reread")
+        raise SystemExit(f"no new lesson yet: lesson {len([u for u in units if u['unlocked']]) + 1} "
+                         f"unlocks when you {lock_reason(units)}")
+    return ready["n"]
+
+
+def add_lesson_cards(db: sqlite3.Connection, meta: dict, lesson: dict, picked: list[int]) -> int:
+    """Mark a lesson read and add the picked cards (0-based indices); exact duplicates can't be picked."""
+    status = classify_cards(db, meta, lesson["cards"])
+    for i in picked:
+        if not 0 <= i < len(lesson["cards"]) or status[i][0] == "dup":
+            raise SystemExit(f"card {i + 1} of lesson {lesson['n']} can't be added")
+    if lesson["n"] not in meta["opened"]:
+        meta["opened"].append(lesson["n"])
+        save_meta(db, meta)
+    added = sum(add_note(db, meta, lesson["cards"][i], [f"unit::{lesson['n']}"]) for i in picked)
+    db.commit()
+    return added
 
 
 # ---------- commands ----------
@@ -669,47 +637,6 @@ def cmd_edit(name: str) -> None:
     write_meta(db, edited, meta["_mid"], meta["_did"])
     db.commit()
     print("saved")
-
-
-def cmd_lesson(name: str, args: list[str]) -> None:
-    if len(args) > 1 or (args and not args[0].isdigit()):
-        raise SystemExit("usage: fc lesson <pack> [n]")
-    db = open_pack(name)
-    meta = read_meta(db)
-    lessons = load_lessons(name, meta)
-    if not lessons:
-        raise SystemExit(f"no lessons in {lesson_dir(name).relative_to(ROOT)}/")
-    units = unit_progress(db, meta, lessons)
-    if args:
-        n = int(args[0])
-        if not 1 <= n <= len(units):
-            raise SystemExit(f"lesson {n} doesn't exist; pack has {len(units)} lessons")
-        if not units[n - 1]["unlocked"]:
-            raise SystemExit(f"lesson {n} is locked until you {lock_reason(units)}")
-    else:
-        ready = next_lesson(units)
-        if ready is None:
-            if all(u["unlocked"] for u in units):
-                raise SystemExit(f"all {len(units)} lessons opened. reread one with: fc lesson {name} <n>")
-            raise SystemExit(f"no new lesson yet: lesson {len([u for u in units if u['unlocked']]) + 1} "
-                             f"unlocks when you {lock_reason(units)}")
-        n = ready["n"]
-    unit, lesson = units[n - 1], lessons[n - 1]
-
-    if unit["done"]:
-        print(f"lesson {n} mastered ✓")
-    elif unit["opened"]:
-        print(f"lesson {n}: {unit_status(unit)}")
-    else:
-        print(f"lesson {n}: {lesson['title']}")
-    input(f"{DIM}  (enter to read, q to leave the pager){RESET} ")
-    page(lesson["body"])
-    meta["opened"].append(n)
-    save_meta(db, meta)
-    print(f"{BOLD}cards for lesson {n}{RESET}")
-    chosen = confirm_cards(db, meta, lesson["cards"])
-    if chosen:
-        save_cards(db, meta, chosen, [f"unit::{n}"])
 
 
 def cmd_unlock(name: str, args: list[str]) -> None:
@@ -963,8 +890,9 @@ def cmd_list() -> None:
             print(f"{DIM}  {name}  (not installed: fc install {name}){RESET}")
 
 
-USAGE = """usage:
-  fc [pack]                       review one pack, or every pack in turn if none given
+USAGE = """usage (reviews and lessons open in your browser; ctrl-c stops the local server):
+  fc                              home: every pack, what's due, lessons
+  fc <pack>                       review one pack
   fc lesson <pack> [n]            read the next unlocked lesson (or lesson n) and pick its cards
   fc stats <pack>                 deck + lesson progress
   fc add <pack> [--known]         type a card in field by field
@@ -982,21 +910,20 @@ for writing content (e.g. Claude):
   fc edit <pack>                  edit pack metadata in $EDITOR"""
 
 
+def serve(route: str) -> None:
+    import web
+    web.serve(route)
+
+
 def main(argv: list[str]) -> None:
     if not argv:
-        packs = sorted(PACKS_DIR.glob("*.anki2")) if PACKS_DIR.exists() else []
-        if not packs:
-            raise SystemExit(USAGE + "\n\npacks: none")
-        for i, p in enumerate(packs):
-            if i:
-                print()
-            cmd_review(p.stem)
-        return
+        return serve("/")
     head, rest = argv[0], argv[1:]
     if head not in COMMANDS:
         if rest:
             raise SystemExit(USAGE)
-        return cmd_review(head)
+        open_pack(head).close()
+        return serve(f"/review/{head}")
     if head == "help":
         return print(USAGE)
     if head == "list":
@@ -1004,13 +931,19 @@ def main(argv: list[str]) -> None:
     if not rest:
         raise SystemExit(USAGE)
     name, args = rest[0], rest[1:]
+    if head == "lesson":
+        if len(args) > 1 or (args and not args[0].isdigit()):
+            raise SystemExit("usage: fc lesson <pack> [n]")
+        db = open_pack(name)
+        meta = read_meta(db)
+        n = pick_lesson(unit_progress(db, meta, load_lessons(name, meta)), int(args[0]) if args else None)
+        return serve(f"/lesson/{name}/{n}")
     {
         "install": lambda: cmd_install(name, args),
         "uninstall": lambda: cmd_uninstall(name, args),
         "sync": lambda: cmd_sync(name, args),
         "new": lambda: cmd_new(name, args),
         "edit": lambda: cmd_edit(name),
-        "lesson": lambda: cmd_lesson(name, args),
         "unlock": lambda: cmd_unlock(name, args),
         "import": lambda: cmd_import(name, args),
         "cards": lambda: cmd_cards(name, args),

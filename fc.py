@@ -516,8 +516,21 @@ def lock_reason(units: list[dict]) -> str:
     return f"master lesson {oldest_open['n']} ({oldest_open['ratio']:.0%} mastered / {UNIT_RATIO:.0%})"
 
 
+def render_markdown(text: str) -> str:
+    """Just enough markdown for lesson bodies: headings and **bold** become ANSI, `code` loses its ticks."""
+    lines = []
+    for line in text.splitlines():
+        heading = re.match(r"#+\s+(.*)", line)
+        if heading:
+            line = f"{BOLD}{CYAN}{heading[1]}{RESET}"
+        line = re.sub(r"\*\*(.+?)\*\*", lambda m: f"{BOLD}{m[1]}{RESET}", line)
+        line = re.sub(r"`([^`]+)`", r"\1", line)
+        lines.append(line)
+    return "\n".join(lines) + "\n"
+
+
 def page(text: str) -> None:
-    subprocess.run(["less", "-R"], input=text, text=True, env={**os.environ, "LESSCHARSET": "utf-8"}, check=True)
+    subprocess.run(["less", "-R"], input=render_markdown(text), text=True, env={**os.environ, "LESSCHARSET": "utf-8"}, check=True)
 
 
 # ---------- review ----------

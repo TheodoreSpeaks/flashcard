@@ -23,6 +23,7 @@ a { color: var(--accent); }
 button { font: inherit; cursor: pointer; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--text); padding: 9px 16px; }
 button.primary { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
 button:disabled { opacity: .45; cursor: default; }
+button.small { padding: 1px 8px; font-size: 12px; border-radius: 6px; margin-left: 6px; }
 .row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
 .spread { justify-content: space-between; }
 .muted { color: var(--muted); } .faint { color: var(--faint); }
@@ -143,7 +144,7 @@ function packPanel(p) {
   const lessons = p.lessons.map(u => `
     <div class="lesson ${u.unlocked ? "" : "locked"}">
       <span>${marks(u)}</span><span class="faint">${u.n}</span>
-      <span>${u.unlocked ? `<a href="#/lesson/${p.name}/${u.n}">${esc(u.title)}</a>` : esc(u.title)}</span>
+      <span>${u.unlocked ? `<a href="#/lesson/${p.name}/${u.n}">${esc(u.title)}</a>` : `${esc(u.title)} <button class="small" onclick="unlockTo('${p.name}', ${u.n})">unlock</button>`}</span>
       <span class="small muted">${u.cards ? `<span class="bar"><i style="width:${Math.round(u.ratio * 100)}%"></i></span> ${Math.round(u.learned_ratio * 100)}% learned` : ""}</span>
     </div>`).join("");
   return `<div class="panel">
@@ -157,6 +158,11 @@ function packPanel(p) {
     ${p.lock_reason ? `<div class="small muted" style="margin-top:12px">Next lesson unlocks when you ${esc(p.lock_reason)}.</div>` : ""}
     ${p.lessons.length ? `<details><summary>Lessons</summary><div class="lessons">${lessons}</div></details>` : ""}
   </div>`;
+}
+
+async function unlockTo(name, n) {
+  await api(`/api/unlock/${name}/${n}`, {});
+  location.hash = `#/lesson/${name}/${n}`;
 }
 
 // ---------- review ----------

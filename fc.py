@@ -639,17 +639,22 @@ def cmd_edit(name: str) -> None:
     print("saved")
 
 
+def unlock_through(db: sqlite3.Connection, name: str, n: int) -> None:
+    """Unlock lessons 1..n regardless of progress."""
+    meta = read_meta(db)
+    count = len(load_lessons(name, meta))
+    if not 1 <= n <= count:
+        raise SystemExit(f"pack has {count} lessons")
+    meta["unlocked_through"] = max(n, meta["unlocked_through"])
+    save_meta(db, meta)
+
+
 def cmd_unlock(name: str, args: list[str]) -> None:
     if len(args) != 1 or not args[0].isdigit():
         raise SystemExit("usage: fc unlock <pack> <n>   (unlocks lessons 1..n)")
     db = open_pack(name)
-    meta = read_meta(db)
     n = int(args[0])
-    count = len(load_lessons(name, meta))
-    if not 1 <= n <= count:
-        raise SystemExit(f"pack has {count} lessons")
-    meta["unlocked_through"] = n
-    save_meta(db, meta)
+    unlock_through(db, name, n)
     print(f"lessons 1-{n} unlocked. read the next one: fc lesson {name}")
 
 

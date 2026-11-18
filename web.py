@@ -77,6 +77,11 @@ def add_lesson(name: str, n: int, picked: list[int]) -> dict:
     return {"added": fc.add_lesson_cards(db, meta, lessons[n - 1], picked)}
 
 
+def unlock(name: str, n: int) -> dict:
+    fc.unlock_through(fc.open_pack(name), name, n)
+    return {"unlocked_through": n}
+
+
 def answer(name: str, body: dict) -> dict:
     db = fc.open_pack(name)
     # cap thinking time so a card left open while you're away doesn't skew the log
@@ -92,6 +97,7 @@ GET_ROUTES = [
 POST_ROUTES = [
     (r"/api/answer/([\w-]+)", answer),
     (r"/api/lesson/([\w-]+)/(\d+)", lambda name, n, body: add_lesson(name, int(n), body["picked"])),
+    (r"/api/unlock/([\w-]+)/(\d+)", lambda name, n, body: unlock(name, int(n))),
 ]
 
 

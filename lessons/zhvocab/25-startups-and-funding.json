@@ -1,0 +1,119 @@
+{
+  "title": "Startups and funding",
+  "focus": "创业 · 创始人 · 融资 · 风投 · 估值 · 股份 · 期权 · 烧钱",
+  "body": "Starting a company and paying for it: founders, funding rounds, valuations and equity. Sentences recycle opinion words from L1, work words from L16 and money words from L9 and L20.\n\n| Chinese | Pinyin | Meaning | Why |\n|---|---|---|---|\n| 创业 | chuàngyè | to start a business | found an enterprise |\n| 创始人 | chuàngshǐrén | founder | the one who began it |\n| 融资 | róngzī | to raise funding | let capital flow in |\n| 风投 | fēngtóu | venture capital / a VC | risk investment |\n| 估值 | gūzhí | valuation | estimated worth |\n| 股份 | gǔfèn | shares / equity | share portion |\n| 期权 | qīquán | stock options | a right at a set date |\n| 烧钱 | shāoqián | to burn cash | burn money |\n\n## Which word?\n\n**股份 vs 股票 (L26):** 股份 is your share of a company, public or private. 股票 is shares traded on a stock market. A startup employee has 股份 or 期权; a retail investor buys 股票.\n\n**风投 vs 投资人:** 风投 is venture capital, either the industry or a VC firm. 投资人 is any investor, including angels and friends and family.\n\n## Sentences\n\n- 他辞职出来创业，压力确实很大。 tā cízhí chūlái chuàngyè, yālì quèshí hěn dà.: He quit his job to start a company, and the pressure is real.\n- 两个创始人有矛盾，公司差点散了。 liǎng gè chuàngshǐrén yǒu máodùn, gōngsī chàdiǎn sàn le.: The two founders don't get along, and the company almost fell apart.\n- 我们刚拿到A轮融资，估值翻了一倍。 wǒmen gāng ná dào A lún róngzī, gūzhí fān le yí bèi.: We just closed our Series A, and the valuation doubled.\n- 说实话，这个估值不太靠谱。 shuō shíhuà, zhège gūzhí bú tài kàopǔ.: Honestly, that valuation isn't credible.\n- 风投最看重的是团队和趋势。 fēngtóu zuì kànzhòng de shì tuánduì hé qūshì.: What VCs care about most is the team and the trend.\n- 创始人手里还有百分之三十的股份。 chuàngshǐrén shǒu lǐ hái yǒu bǎi fēn zhī sānshí de gǔfèn.: The founders still hold thirty percent of the shares.\n- 跳槽去创业公司，工资低一点，但是有期权。 tiàocáo qù chuàngyè gōngsī, gōngzī dī yìdiǎn, dànshì yǒu qīquán.: Jumping to a startup pays less, but you get options.\n- 这家公司一直在烧钱，估计撑不过明年。 zhè jiā gōngsī yìzhí zài shāoqián, gūjì chēng bú guò míngnián.: This company keeps burning cash; I reckon it won't last past next year.\n",
+  "cards": [
+    {
+      "English": "to start a business / found a startup",
+      "Hanzi": "创业",
+      "Pinyin": "chuàngyè",
+      "Example": "他辞职出来创业了。 tā cízhí chūlái chuàngyè le: He quit his job to start a company",
+      "Notes": "创 chuàng create, found (创造, 创新) + 业 yè enterprise, line of work (企业, 事业, 毕业) = found an enterprise, so start a business. 创业公司 = a startup. 创业者 = entrepreneur."
+    },
+    {
+      "English": "founder (of a company)",
+      "Hanzi": "创始人",
+      "Pinyin": "chuàngshǐrén",
+      "Example": "他是这家公司的创始人。 tā shì zhè jiā gōngsī de chuàngshǐrén: He's the founder of this company",
+      "Notes": "创 chuàng found (创业) + 始 shǐ begin (开始) + 人 rén person = the person who began it, so founder. 联合创始人 = co-founder."
+    },
+    {
+      "English": "to raise funding (from investors)",
+      "Hanzi": "融资",
+      "Pinyin": "róngzī",
+      "Example": "我们正在融资。 wǒmen zhèngzài róngzī: We're fundraising right now",
+      "Notes": "融 róng melt, blend, circulate (融化, 金融) + 资 zī capital, 贝 money (投资, 工资) = let capital flow in, so raise funding. Also a noun: 拿到融资 = close a round; A轮融资 = Series A; 天使轮 = angel round."
+    },
+    {
+      "English": "venture capital / a VC (firm or investor)",
+      "Hanzi": "风投",
+      "Pinyin": "fēngtóu",
+      "Example": "这家风投很有名。 zhè jiā fēngtóu hěn yǒumíng: This VC firm is well known",
+      "Notes": "Short for 风险投资: 风险 fēngxiǎn risk (风 wind + 险 danger, as in 保险) + 投资 tóuzī invest (L20) = risk investment, so venture capital. Like 'VC', it means both the industry and the firm. 投资人 = any investor."
+    },
+    {
+      "English": "valuation (of a company)",
+      "Hanzi": "估值",
+      "Pinyin": "gūzhí",
+      "Example": "公司估值十亿美元。 gōngsī gūzhí shíyì měiyuán: The company is valued at a billion dollars",
+      "Notes": "估 gū estimate (估计 L3) + 值 zhí worth (值得, 价值 L24) = estimated worth, so valuation. Also a verb: 估值十亿 = valued at a billion."
+    },
+    {
+      "English": "shares / equity stake (in a company)",
+      "Hanzi": "股份",
+      "Pinyin": "gǔfèn",
+      "Example": "他占公司百分之十的股份。 tā zhàn gōngsī bǎi fēn zhī shí de gǔfèn: He owns 10% of the company",
+      "Notes": "股 gǔ thigh, by extension a portion or strand; in money, a share (股票, 股东) + 份 fèn portion (一份, 部分) = share portion, so equity stake. 股东 = shareholder. 占…的股份 = own …% of."
+    },
+    {
+      "English": "stock option(s) (as compensation)",
+      "Hanzi": "期权",
+      "Pinyin": "qīquán",
+      "Example": "公司给了我一些期权。 gōngsī gěi le wǒ yìxiē qīquán: The company gave me some options",
+      "Notes": "期 qī period, set date (日期, 期限) + 权 quán right (权利) = a right you can use at a set date, so option. 股票期权 is the full form; at a startup 期权 alone is enough."
+    },
+    {
+      "English": "to burn cash (spend fast without earning)",
+      "Hanzi": "烧钱",
+      "Pinyin": "shāoqián",
+      "Example": "这个项目太烧钱了。 zhège xiàngmù tài shāoqián le: This project burns through money",
+      "Notes": "烧 shāo burn (发烧, 烧烤) + 钱 qián money = burn money. Same image as English 'burn rate'. Also casual for any money-pit hobby: 摄影很烧钱 = photography eats money."
+    },
+    {
+      "English": "He quit his job to start a company, and the pressure is real.",
+      "Hanzi": "他辞职出来创业，压力确实很大。",
+      "Pinyin": "tā cízhí chūlái chuàngyè, yālì quèshí hěn dà.",
+      "Example": "",
+      "Notes": "创业 (L25) + 辞职 (L16) + 压力 (L4) + 确实 (L1)."
+    },
+    {
+      "English": "The two founders don't get along, and the company almost fell apart.",
+      "Hanzi": "两个创始人有矛盾，公司差点散了。",
+      "Pinyin": "liǎng gè chuàngshǐrén yǒu máodùn, gōngsī chàdiǎn sàn le.",
+      "Example": "",
+      "Notes": "创始人 (L25) + 矛盾 (L8). 散 = scatter, break up."
+    },
+    {
+      "English": "We just closed our Series A, and the valuation doubled.",
+      "Hanzi": "我们刚拿到A轮融资，估值翻了一倍。",
+      "Pinyin": "wǒmen gāng ná dào A lún róngzī, gūzhí fān le yí bèi.",
+      "Example": "",
+      "Notes": "融资 + 估值 (L25). 翻一倍 = double."
+    },
+    {
+      "English": "Honestly, that valuation isn't credible.",
+      "Hanzi": "说实话，这个估值不太靠谱。",
+      "Pinyin": "shuō shíhuà, zhège gūzhí bú tài kàopǔ.",
+      "Example": "",
+      "Notes": "估值 (L25) + 说实话 (L1) + 靠谱 (L12)."
+    },
+    {
+      "English": "What VCs care about most is the team and the trend.",
+      "Hanzi": "风投最看重的是团队和趋势。",
+      "Pinyin": "fēngtóu zuì kànzhòng de shì tuánduì hé qūshì.",
+      "Example": "",
+      "Notes": "风投 (L25) + 趋势 (L24). 看重 = value, weigh heavily."
+    },
+    {
+      "English": "The founders still hold thirty percent of the shares.",
+      "Hanzi": "创始人手里还有百分之三十的股份。",
+      "Pinyin": "chuàngshǐrén shǒu lǐ hái yǒu bǎi fēn zhī sānshí de gǔfèn.",
+      "Example": "",
+      "Notes": "创始人 + 股份 (L25). 手里 = in hand, holding."
+    },
+    {
+      "English": "Jumping to a startup pays less, but you get options.",
+      "Hanzi": "跳槽去创业公司，工资低一点，但是有期权。",
+      "Pinyin": "tiàocáo qù chuàngyè gōngsī, gōngzī dī yìdiǎn, dànshì yǒu qīquán.",
+      "Example": "",
+      "Notes": "创业 + 期权 (L25) + 跳槽 (L16)."
+    },
+    {
+      "English": "This company keeps burning cash; I reckon it won't last past next year.",
+      "Hanzi": "这家公司一直在烧钱，估计撑不过明年。",
+      "Pinyin": "zhè jiā gōngsī yìzhí zài shāoqián, gūjì chēng bú guò míngnián.",
+      "Example": "",
+      "Notes": "烧钱 (L25) + 估计 (L3). 撑不过 = can't hold out past."
+    }
+  ]
+}

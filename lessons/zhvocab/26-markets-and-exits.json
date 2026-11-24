@@ -1,0 +1,119 @@
+{
+  "title": "Markets, profit and acquisitions",
+  "focus": "股票 · 上市 · 收购 · 竞争对手 · 营收 · 盈利 · 亏损 · 裁员",
+  "body": "How a company does and how it ends up: revenue, profit and loss, competitors, layoffs, going public or getting bought. Sentences recycle the startup words from L25.\n\n| Chinese | Pinyin | Meaning | Why |\n|---|---|---|---|\n| 股票 | gǔpiào | stock | share slip |\n| 上市 | shàngshì | to go public / launch | go onto the market |\n| 收购 | shōugòu | to acquire | take in by buying |\n| 竞争对手 | jìngzhēng duìshǒu | competitor | the player opposite you |\n| 营收 | yíngshōu | revenue | operating income |\n| 盈利 | yínglì | to be profitable | overflowing profit |\n| 亏损 | kuīsǔn | loss | come up short |\n| 裁员 | cáiyuán | to lay off | cut staff |\n\n## Which word?\n\n**盈利 vs 亏损:** a mirror pair. 盈 is full or overflowing and 亏 is short or lacking; together they make 盈亏, profit and loss.\n\n**营收 vs 收入 (L9):** 营收 is a company's revenue from operations. 收入 is anyone's income, including your own pay.\n\n**收购 vs 并购:** 收购 is one company buying another. 并购 (merge-buy) is the general M&A term you hear in finance news.\n\n## Sentences\n\n- 他把存款都拿去买股票了，我妈很担心。 tā bǎ cúnkuǎn dōu ná qù mǎi gǔpiào le, wǒ mā hěn dānxīn.: He put all his savings into stocks, and my mum is worried.\n- 公司上市以后，创始人的股份很值钱。 gōngsī shàngshì yǐhòu, chuàngshǐrén de gǔfèn hěn zhíqián.: After the IPO, the founders' shares are worth a fortune.\n- 我们被竞争对手收购了，说实话有点尴尬。 wǒmen bèi jìngzhēng duìshǒu shōugòu le, shuō shíhuà yǒudiǎn gāngà.: We got acquired by our competitor. Honestly, a bit awkward.\n- 营收涨得很快，但是还没盈利。 yíngshōu zhǎng de hěn kuài, dànshì hái méi yínglì.: Revenue is growing fast, but they're still not profitable.\n- 去年亏损太严重，只好裁员。 qùnián kuīsǔn tài yánzhòng, zhǐhǎo cáiyuán.: Last year's losses were so bad that they had to do layoffs.\n- 公司一裁员，大家都很焦虑。 gōngsī yì cáiyuán, dàjiā dōu hěn jiāolǜ.: As soon as layoffs start, everyone gets anxious.\n- 收购的消息一出来，股票涨了百分之二十。 shōugòu de xiāoxi yì chūlái, gǔpiào zhǎng le bǎi fēn zhī èrshí.: When the acquisition news came out, the stock rose twenty percent.\n- 不能一直烧钱，毕竟总要盈利。 bù néng yìzhí shāoqián, bìjìng zǒng yào yínglì.: You can't burn cash forever; after all, you have to turn a profit eventually.\n",
+  "cards": [
+    {
+      "English": "stock / shares (traded on the stock market)",
+      "Hanzi": "股票",
+      "Pinyin": "gǔpiào",
+      "Example": "他每天都在看股票。 tā měitiān dōu zài kàn gǔpiào: He checks his stocks every day",
+      "Notes": "股 gǔ share (股份 L25) + 票 piào ticket, slip (车票, 投票) = share slip, so stock. 股市 = stock market. 炒股 (stir-fry stocks) = trade stocks."
+    },
+    {
+      "English": "to go public / IPO; (of a product) to launch",
+      "Hanzi": "上市",
+      "Pinyin": "shàngshì",
+      "Example": "公司明年准备上市。 gōngsī míngnián zhǔnbèi shàngshì: The company plans to go public next year",
+      "Notes": "上 shàng go onto + 市 shì market (市场, 超市) = go onto the market. For a company it means an IPO; for a product, a launch (新手机下个月上市). 上市公司 = listed company."
+    },
+    {
+      "English": "to acquire / buy out (a company)",
+      "Hanzi": "收购",
+      "Pinyin": "shōugòu",
+      "Example": "他们被一家大公司收购了。 tāmen bèi yì jiā dà gōngsī shōugòu le: They were acquired by a big company",
+      "Notes": "收 shōu take in (收入 L9) + 购 gòu purchase, 贝 money (购物, 采购) = take in by buying, so acquire. 被收购 = get acquired. 并购 = M&A."
+    },
+    {
+      "English": "competitor",
+      "Hanzi": "竞争对手",
+      "Pinyin": "jìngzhēng duìshǒu",
+      "Example": "我们的竞争对手降价了。 wǒmen de jìngzhēng duìshǒu jiàngjià le: Our competitor cut prices",
+      "Notes": "竞 jìng contend (竞赛) + 争 zhēng fight for (争论 L17) = compete; 对 duì facing + 手 shǒu hand, player (选手, 高手) = the player opposite you. So 'competing opponent', a competitor. In speech, 对手 alone is enough."
+    },
+    {
+      "English": "revenue (of a company)",
+      "Hanzi": "营收",
+      "Pinyin": "yíngshōu",
+      "Example": "今年营收增长了一倍。 jīnnián yíngshōu zēngzhǎng le yí bèi: Revenue doubled this year",
+      "Notes": "营 yíng operate, run (经营, 营业) + 收 shōu income (收入 L9) = operating income, so revenue. Short for 营业收入. 收入 is personal income; 营收 is a company's."
+    },
+    {
+      "English": "to turn a profit / be profitable",
+      "Hanzi": "盈利",
+      "Pinyin": "yínglì",
+      "Example": "公司终于开始盈利了。 gōngsī zhōngyú kāishǐ yínglì le: The company finally turned a profit",
+      "Notes": "盈 yíng full, overflowing + 利 lì profit (利息 L20, 利润) = surplus profit, so to be profitable. Mirror: 亏损 = loss. 盈亏 = profit and loss."
+    },
+    {
+      "English": "(financial) loss / to run at a loss",
+      "Hanzi": "亏损",
+      "Pinyin": "kuīsǔn",
+      "Example": "去年公司亏损了两千万。 qùnián gōngsī kuīsǔn le liǎngqiān wàn: The company lost twenty million last year",
+      "Notes": "亏 kuī lack, come up short (吃亏) + 损 sǔn damage, lose (损失) = come up short and lose, so a loss. Mirror of 盈利. Spoken: 亏钱, 亏了 = lost money."
+    },
+    {
+      "English": "to lay off staff / layoffs",
+      "Hanzi": "裁员",
+      "Pinyin": "cáiyuán",
+      "Example": "公司下个月要裁员。 gōngsī xià gè yuè yào cáiyuán: The company is doing layoffs next month",
+      "Notes": "裁 cái cut, as cloth (裁缝 tailor, 裁判 referee) + 员 yuán staff (员工, 职员) = cut staff, so lay off. 被裁 = get laid off. Compare 失业 (L22) = be unemployed."
+    },
+    {
+      "English": "He put all his savings into stocks, and my mum is worried.",
+      "Hanzi": "他把存款都拿去买股票了，我妈很担心。",
+      "Pinyin": "tā bǎ cúnkuǎn dōu ná qù mǎi gǔpiào le, wǒ mā hěn dānxīn.",
+      "Example": "",
+      "Notes": "股票 (L26) + 存款 (L20)."
+    },
+    {
+      "English": "After the IPO, the founders' shares are worth a fortune.",
+      "Hanzi": "公司上市以后，创始人的股份很值钱。",
+      "Pinyin": "gōngsī shàngshì yǐhòu, chuàngshǐrén de gǔfèn hěn zhíqián.",
+      "Example": "",
+      "Notes": "上市 (L26) + 创始人 + 股份 (L25)."
+    },
+    {
+      "English": "We got acquired by our competitor. Honestly, a bit awkward.",
+      "Hanzi": "我们被竞争对手收购了，说实话有点尴尬。",
+      "Pinyin": "wǒmen bèi jìngzhēng duìshǒu shōugòu le, shuō shíhuà yǒudiǎn gāngà.",
+      "Example": "",
+      "Notes": "收购 + 竞争对手 (L26) + 说实话 (L1) + 尴尬 (L7)."
+    },
+    {
+      "English": "Revenue is growing fast, but they're still not profitable.",
+      "Hanzi": "营收涨得很快，但是还没盈利。",
+      "Pinyin": "yíngshōu zhǎng de hěn kuài, dànshì hái méi yínglì.",
+      "Example": "",
+      "Notes": "营收 + 盈利 (L26). 涨 as in 涨价 (L9)."
+    },
+    {
+      "English": "Last year's losses were so bad that they had to do layoffs.",
+      "Hanzi": "去年亏损太严重，只好裁员。",
+      "Pinyin": "qùnián kuīsǔn tài yánzhòng, zhǐhǎo cáiyuán.",
+      "Example": "",
+      "Notes": "亏损 + 裁员 (L26). 只好 = had no choice but to."
+    },
+    {
+      "English": "As soon as layoffs start, everyone gets anxious.",
+      "Hanzi": "公司一裁员，大家都很焦虑。",
+      "Pinyin": "gōngsī yì cáiyuán, dàjiā dōu hěn jiāolǜ.",
+      "Example": "",
+      "Notes": "裁员 (L26) + 焦虑 (L15). 一…就/都 = as soon as."
+    },
+    {
+      "English": "When the acquisition news came out, the stock rose twenty percent.",
+      "Hanzi": "收购的消息一出来，股票涨了百分之二十。",
+      "Pinyin": "shōugòu de xiāoxi yì chūlái, gǔpiào zhǎng le bǎi fēn zhī èrshí.",
+      "Example": "",
+      "Notes": "收购 + 股票 (L26). 消息 = news, word."
+    },
+    {
+      "English": "You can't burn cash forever; after all, you have to turn a profit eventually.",
+      "Hanzi": "不能一直烧钱，毕竟总要盈利。",
+      "Pinyin": "bù néng yìzhí shāoqián, bìjìng zǒng yào yínglì.",
+      "Example": "",
+      "Notes": "盈利 (L26) + 烧钱 (L25) + 毕竟 (L1)."
+    }
+  ]
+}

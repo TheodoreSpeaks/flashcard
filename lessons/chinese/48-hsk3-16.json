@@ -1,0 +1,287 @@
+{
+  "title": "HSK 3.16 · 整体, 体验, 团结, 演唱会, 判断",
+  "focus": "服装 · 判断 · 深刻 · 庆祝 · 体验 · 话题 · 古 · 银 · 羊 · 整理 · 完整 · 谈判 · 飞行 · 深入 · 加强 · 实验室 · 团结 · 谈话 · 天空 · 整天 · 体会 · 团体 · 集体 · 强调 · 加快 · 考验 · 演唱会 · 演唱 · 会员 · 克服 · 体现 · 整体 · 实行 · 整整 · 输入 · 总结 · 空调 · 行李 · 服务员 · 完善",
+  "body": "体 *body* and 整 *whole* dominate (体验, 体会, 团体, 集体, 体现, 整体; 整理, 完整, 整天, 整整). Also watch 验 *test*, 谈 *talk*, 行 *go, do* and 演唱 *perform-sing*.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 体 | tǐ | body; whole (亻 + 本 root) | 体验, 体会, 团体, 集体, 体现, 整体 |\n| 整 | zhěng | whole; tidy | 整理, 完整, 整天, 整体, 整整 |\n| 验 | yàn | test, check (马 horse) | 体验, 实验室, 考验 |\n| 谈 | tán | talk (讠 speech + 炎) | 谈判, 谈话 |\n| 行 | xíng | go; do | 飞行, 实行, 行李 |\n| 服 | fú | clothes; serve; submit | 服装, 克服, 服务员 |\n| 会 | huì | meeting; able | 体会, 演唱会, 会员 |\n| 结 | jié | tie, knot (纟 thread) | 团结, 总结 |\n\n## Watch out\n\n- 调 is **tiáo** in 空调 (air-con) but **diào** in 强调 (emphasize).\n- 行李 is xíngli with neutral li.\n- 判 (半 + 刂) vs 叛 pàn (betray): 判 = cut in half to judge.",
+  "cards": [
+    {
+      "Hanzi": "服装",
+      "Pinyin": "fúzhuāng",
+      "Meaning": "clothing, costume",
+      "Example": "这家店卖服装。 zhè jiā diàn mài fúzhuāng: This shop sells clothes",
+      "Notes": "服 clothes + 装 outfit (衣 clothing + 壮 zhuàng sound) = clothing"
+    },
+    {
+      "Hanzi": "判断",
+      "Pinyin": "pànduàn",
+      "Meaning": "to judge; judgment",
+      "Example": "你判断得对。 nǐ pànduàn de duì: Your judgment is right",
+      "Notes": "判 split, judge (半 half + 刂 knife) + 断 break off, decide = cut and decide"
+    },
+    {
+      "Hanzi": "深刻",
+      "Pinyin": "shēnkè",
+      "Meaning": "deep, profound",
+      "Example": "我印象很深刻。 wǒ yìnxiàng hěn shēnkè: It made a deep impression",
+      "Notes": "深 deep (氵 water) + 刻 carve (刂 knife) = deeply carved"
+    },
+    {
+      "Hanzi": "庆祝",
+      "Pinyin": "qìngzhù",
+      "Meaning": "to celebrate",
+      "Example": "我们一起庆祝吧！ wǒmen yìqǐ qìngzhù ba: Let's celebrate together!",
+      "Notes": "庆 celebrate (广 + 大) + 祝 wish well (礻 altar + 兄) = celebrate with good wishes"
+    },
+    {
+      "Hanzi": "体验",
+      "Pinyin": "tǐyàn",
+      "Meaning": "to experience; experience",
+      "Example": "这是很好的体验。 zhè shì hěn hǎo de tǐyàn: It's a great experience",
+      "Notes": "体 body + 验 test = test with your own body, experience"
+    },
+    {
+      "Hanzi": "话题",
+      "Pinyin": "huàtí",
+      "Meaning": "topic",
+      "Example": "我们换个话题吧。 wǒmen huàn ge huàtí ba: Let's change the subject",
+      "Notes": "话 talk + 题 topic, title (页 head + 是 shì sound) = topic of talk"
+    },
+    {
+      "Hanzi": "古",
+      "Pinyin": "gǔ",
+      "Meaning": "ancient, old",
+      "Example": "这是一座古城。 zhè shì yí zuò gǔchéng: This is an ancient city",
+      "Notes": "十 ten + 口 mouth = passed through ten mouths, old (traditional reading). Phonetic in 姑, 故"
+    },
+    {
+      "Hanzi": "银",
+      "Pinyin": "yín",
+      "Meaning": "silver",
+      "Example": "我去银行。 wǒ qù yínháng: I'm going to the bank",
+      "Notes": "钅 metal + 艮 (gèn, phonetic) = silver; 银行 bank = silver firm"
+    },
+    {
+      "Hanzi": "羊",
+      "Pinyin": "yáng",
+      "Meaning": "sheep, goat",
+      "Example": "山上有很多羊。 shān shang yǒu hěn duō yáng: There are many sheep on the hill",
+      "Notes": "Picture of a sheep's head with horns. Inside 美, 洋, 样"
+    },
+    {
+      "Hanzi": "整理",
+      "Pinyin": "zhěnglǐ",
+      "Meaning": "to tidy up, sort out",
+      "Example": "我在整理房间。 wǒ zài zhěnglǐ fángjiān: I'm tidying my room",
+      "Notes": "整 put in order + 理 arrange = put in order"
+    },
+    {
+      "Hanzi": "完整",
+      "Pinyin": "wánzhěng",
+      "Meaning": "complete, intact",
+      "Example": "这本书很完整。 zhè běn shū hěn wánzhěng: This book is intact",
+      "Notes": "完 finished, whole + 整 whole = all complete"
+    },
+    {
+      "Hanzi": "谈判",
+      "Pinyin": "tánpàn",
+      "Meaning": "to negotiate",
+      "Example": "两个公司在谈判。 liǎng ge gōngsī zài tánpàn: The two firms are negotiating",
+      "Notes": "谈 talk + 判 judge, decide = talk to a decision"
+    },
+    {
+      "Hanzi": "飞行",
+      "Pinyin": "fēixíng",
+      "Meaning": "to fly; flight",
+      "Example": "飞行时间很长。 fēixíng shíjiān hěn cháng: The flight is long",
+      "Notes": "飞 fly + 行 travel = travel by air"
+    },
+    {
+      "Hanzi": "深入",
+      "Pinyin": "shēnrù",
+      "Meaning": "to go deep into; thorough",
+      "Example": "我们深入谈谈。 wǒmen shēnrù tántan: Let's talk in depth",
+      "Notes": "深 deep + 入 enter = enter deeply. Lookalike: 入 rù vs 人 rén"
+    },
+    {
+      "Hanzi": "加强",
+      "Pinyin": "jiāqiáng",
+      "Meaning": "to strengthen",
+      "Example": "我要加强练习。 wǒ yào jiāqiáng liànxí: I need to practise more",
+      "Notes": "加 add + 强 strong = add strength"
+    },
+    {
+      "Hanzi": "实验室",
+      "Pinyin": "shíyànshì",
+      "Meaning": "laboratory",
+      "Example": "他在实验室工作。 tā zài shíyànshì gōngzuò: He works in a lab",
+      "Notes": "实 real + 验 test + 室 room = room for real tests, lab"
+    },
+    {
+      "Hanzi": "团结",
+      "Pinyin": "tuánjié",
+      "Meaning": "to unite; united",
+      "Example": "我们要团结。 wǒmen yào tuánjié: We must stick together",
+      "Notes": "团 group + 结 tie = tie into one group"
+    },
+    {
+      "Hanzi": "谈话",
+      "Pinyin": "tánhuà",
+      "Meaning": "to talk, conversation",
+      "Example": "老师找我谈话。 lǎoshī zhǎo wǒ tánhuà: The teacher wants a word with me",
+      "Notes": "谈 talk + 话 speech = talk"
+    },
+    {
+      "Hanzi": "天空",
+      "Pinyin": "tiānkōng",
+      "Meaning": "sky",
+      "Example": "天空很蓝。 tiānkōng hěn lán: The sky is blue",
+      "Notes": "天 sky + 空 empty space = the open sky"
+    },
+    {
+      "Hanzi": "整天",
+      "Pinyin": "zhěngtiān",
+      "Meaning": "all day",
+      "Example": "他整天玩游戏。 tā zhěngtiān wán yóuxì: He plays games all day",
+      "Notes": "整 whole + 天 day = the whole day"
+    },
+    {
+      "Hanzi": "体会",
+      "Pinyin": "tǐhuì",
+      "Meaning": "to realize, appreciate",
+      "Example": "我能体会你的感受。 wǒ néng tǐhuì nǐ de gǎnshòu: I understand how you feel",
+      "Notes": "体 body + 会 understand = understand through experience"
+    },
+    {
+      "Hanzi": "团体",
+      "Pinyin": "tuántǐ",
+      "Meaning": "group, organization",
+      "Example": "我们是一个团体。 wǒmen shì yí ge tuántǐ: We're one group",
+      "Notes": "团 group + 体 body = group body, organization"
+    },
+    {
+      "Hanzi": "集体",
+      "Pinyin": "jítǐ",
+      "Meaning": "collective",
+      "Example": "这是集体的决定。 zhè shì jítǐ de juédìng: It's a group decision",
+      "Notes": "集 gather + 体 body = gathered body, collective"
+    },
+    {
+      "Hanzi": "强调",
+      "Pinyin": "qiángdiào",
+      "Meaning": "to emphasize",
+      "Example": "老师强调了这一点。 lǎoshī qiángdiào le zhè yì diǎn: The teacher stressed this",
+      "Notes": "强 strong + 调 tone (diào) = say in a strong tone"
+    },
+    {
+      "Hanzi": "加快",
+      "Pinyin": "jiākuài",
+      "Meaning": "to speed up",
+      "Example": "我们加快速度吧。 wǒmen jiākuài sùdù ba: Let's speed up",
+      "Notes": "加 add + 快 fast = add speed"
+    },
+    {
+      "Hanzi": "考验",
+      "Pinyin": "kǎoyàn",
+      "Meaning": "test, trial",
+      "Example": "这是一个考验。 zhè shì yí ge kǎoyàn: This is a test",
+      "Notes": "考 examine + 验 check = trial, test (of character)"
+    },
+    {
+      "Hanzi": "演唱会",
+      "Pinyin": "yǎnchànghuì",
+      "Meaning": "concert",
+      "Example": "我们去看演唱会吧。 wǒmen qù kàn yǎnchànghuì ba: Let's go to a concert",
+      "Notes": "演 perform + 唱 sing + 会 gathering = singing-performance event"
+    },
+    {
+      "Hanzi": "演唱",
+      "Pinyin": "yǎnchàng",
+      "Meaning": "to sing (on stage)",
+      "Example": "她在台上演唱。 tā zài tái shang yǎnchàng: She's singing on stage",
+      "Notes": "演 perform (氵 + 寅 yín) + 唱 sing (口 + 昌 chāng sound) = perform by singing"
+    },
+    {
+      "Hanzi": "会员",
+      "Pinyin": "huìyuán",
+      "Meaning": "member",
+      "Example": "你是会员吗？ nǐ shì huìyuán ma: Are you a member?",
+      "Notes": "会 association + 员 member = association member"
+    },
+    {
+      "Hanzi": "克服",
+      "Pinyin": "kèfú",
+      "Meaning": "to overcome",
+      "Example": "我们会克服困难。 wǒmen huì kèfú kùnnan: We'll overcome the difficulty",
+      "Notes": "克 subdue + 服 submit = make it submit, overcome"
+    },
+    {
+      "Hanzi": "体现",
+      "Pinyin": "tǐxiàn",
+      "Meaning": "to embody, reflect",
+      "Example": "这体现了他的爱。 zhè tǐxiàn le tā de ài: This shows his love",
+      "Notes": "体 body + 现 appear = give body to, embody"
+    },
+    {
+      "Hanzi": "整体",
+      "Pinyin": "zhěngtǐ",
+      "Meaning": "the whole, overall",
+      "Example": "整体来说不错。 zhěngtǐ lái shuō búcuò: Overall it's not bad",
+      "Notes": "整 whole + 体 body = whole body, overall"
+    },
+    {
+      "Hanzi": "实行",
+      "Pinyin": "shíxíng",
+      "Meaning": "to implement",
+      "Example": "新规定开始实行。 xīn guīdìng kāishǐ shíxíng: The new rule is in effect",
+      "Notes": "实 real + 行 do = put into real practice"
+    },
+    {
+      "Hanzi": "整整",
+      "Pinyin": "zhěngzhěng",
+      "Meaning": "fully, whole",
+      "Example": "我等了整整两个小时。 wǒ děng le zhěngzhěng liǎng ge xiǎoshí: I waited two full hours",
+      "Notes": "整 whole, doubled for emphasis = a whole, full"
+    },
+    {
+      "Hanzi": "输入",
+      "Pinyin": "shūrù",
+      "Meaning": "to input, type in",
+      "Example": "请输入密码。 qǐng shūrù mìmǎ: Please enter the password",
+      "Notes": "输 transport + 入 enter = send in, input. Lookalike: 入 vs 人"
+    },
+    {
+      "Hanzi": "总结",
+      "Pinyin": "zǒngjié",
+      "Meaning": "to sum up; summary",
+      "Example": "我来总结一下。 wǒ lái zǒngjié yíxià: Let me sum up",
+      "Notes": "总 all, total + 结 tie up = tie everything together"
+    },
+    {
+      "Hanzi": "空调",
+      "Pinyin": "kōngtiáo",
+      "Meaning": "air conditioner",
+      "Example": "把空调打开。 bǎ kōngtiáo dǎkāi: Turn on the air-con",
+      "Notes": "空 air + 调 adjust (tiáo) = air adjuster"
+    },
+    {
+      "Hanzi": "行李",
+      "Pinyin": "xíngli",
+      "Meaning": "luggage",
+      "Example": "你的行李多吗？ nǐ de xíngli duō ma: Do you have much luggage?",
+      "Notes": "行 travel + 李 plum (borrowed; adds no meaning here) = travel things, luggage"
+    },
+    {
+      "Hanzi": "服务员",
+      "Pinyin": "fúwùyuán",
+      "Meaning": "waiter, attendant",
+      "Example": "服务员，买单！ fúwùyuán, mǎidān: Waiter, the bill!",
+      "Notes": "服 serve + 务 task + 员 person = person who serves"
+    },
+    {
+      "Hanzi": "完善",
+      "Pinyin": "wánshàn",
+      "Meaning": "to perfect; complete",
+      "Example": "这个计划还要完善。 zhège jìhuà hái yào wánshàn: The plan needs refining",
+      "Notes": "完 complete + 善 good = complete and good, perfect"
+    }
+  ]
+}

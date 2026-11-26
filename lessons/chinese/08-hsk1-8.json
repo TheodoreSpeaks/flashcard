@@ -1,0 +1,280 @@
+{
+  "title": "HSK 1.8 · 帮忙, 对不起, 同学, 星期, 上课",
+  "focus": "帮 · 日 · 站 · 坐 · 楼 · 忙 · 床 · 姐姐 · 课 · 小姐 · 对不起 · 同学 · 帮忙 · 中间 · 星期 · 上午 · 下次 · 学院 · 网上 · 不对 · 中午 · 起床 · 是不是 · 上次 · 上学 · 上课 · 下班 · 姐 · 坐下 · 小学 · 日期 · 中学 · 上网 · 楼下 · 大学生 · 车站 · 小朋友 · 不大 · 上车",
+  "body": "School and schedules: 上 and 下 pair with 课, 班, 学, 车 and 次 for going to and leaving things, and 学 and 中 build the school names.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 上 | shàng | up; go to; last | 上午, 网上, 上次, 上学, 上课, 上网, 上车 |\n| 下 | xià | down; leave; next | 下次, 下班, 坐下, 楼下 |\n| 学 | xué | study | 同学, 学院, 上学, 小学, 中学, 大学生 |\n| 中 | zhōng | middle | 中间, 中午, 中学 |\n| 小 | xiǎo | small | 小姐, 小学, 小朋友 |\n| 不 | bù | not | 对不起, 不对, 是不是, 不大 |\n| 次 | cì | time(s) | 下次, 上次 |\n| 期 | qī | period (其 + 月) | 星期, 日期 |\n\n## Watch out\n\n- 上次 = last time, 下次 = next time: 上 is earlier, 下 is later.\n- 坐 (zuò, sit) vs 座 (zuò, seat): 座 adds 广 on top.\n- 日 (rì, sun) vs 曰 (yuē, say) vs 目 (mù, eye).\n- 不 is toneless in 对不起 and 是不是.\n",
+  "cards": [
+    {
+      "Hanzi": "帮",
+      "Pinyin": "bāng",
+      "Meaning": "to help",
+      "Example": "我帮你。 wǒ bāng nǐ: I'll help you.",
+      "Notes": "邦 bāng (state) for the sound + 巾 cloth"
+    },
+    {
+      "Hanzi": "日",
+      "Pinyin": "rì",
+      "Meaning": "sun; day; date",
+      "Example": "今天是几月几日? jīntiān shì jǐ yuè jǐ rì: What's today's date?",
+      "Notes": "Picture of the sun. 日 vs 曰 (yuē, say), which is wider, vs 目 (mù, eye)"
+    },
+    {
+      "Hanzi": "站",
+      "Pinyin": "zhàn",
+      "Meaning": "to stand; station",
+      "Example": "站起来! zhàn qǐlai: Stand up!",
+      "Notes": "立 stand + 占 zhàn for the sound"
+    },
+    {
+      "Hanzi": "坐",
+      "Pinyin": "zuò",
+      "Meaning": "to sit; to take (bus, plane)",
+      "Example": "请坐。 qǐng zuò: Please have a seat.",
+      "Notes": "Two 人 sitting on 土 ground. 坐 vs 座 (zuò, seat), which adds 广"
+    },
+    {
+      "Hanzi": "楼",
+      "Pinyin": "lóu",
+      "Meaning": "building; floor",
+      "Example": "我住在三楼。 wǒ zhù zài sān lóu: I live on the third floor.",
+      "Notes": "木 wood + 娄 lóu for the sound"
+    },
+    {
+      "Hanzi": "忙",
+      "Pinyin": "máng",
+      "Meaning": "busy",
+      "Example": "我很忙。 wǒ hěn máng: I'm busy.",
+      "Notes": "忄 heart + 亡 wáng (sound). 忙 vs 忘 (wàng, forget): heart on the side vs underneath"
+    },
+    {
+      "Hanzi": "床",
+      "Pinyin": "chuáng",
+      "Meaning": "bed",
+      "Example": "我的床很大。 wǒ de chuáng hěn dà: My bed is big.",
+      "Notes": "广 shelter + 木 wood: a wooden frame under a roof"
+    },
+    {
+      "Hanzi": "姐姐",
+      "Pinyin": "jiějie",
+      "Meaning": "older sister",
+      "Example": "我姐姐不在家。 wǒ jiějie bú zài jiā: My older sister isn't home.",
+      "Notes": "姐 = 女 woman + 且 qiě for the sound"
+    },
+    {
+      "Hanzi": "课",
+      "Pinyin": "kè",
+      "Meaning": "class, lesson",
+      "Example": "今天没有课。 jīntiān méiyǒu kè: There's no class today.",
+      "Notes": "讠 speech + 果 guǒ (fruit) for the sound"
+    },
+    {
+      "Hanzi": "小姐",
+      "Pinyin": "xiǎojie",
+      "Meaning": "Miss; young lady",
+      "Example": "王小姐在吗? Wáng xiǎojie zài ma: Is Miss Wang in?",
+      "Notes": "小 young + 姐 older sister = young lady, Miss"
+    },
+    {
+      "Hanzi": "对不起",
+      "Pinyin": "duìbuqǐ",
+      "Meaning": "sorry",
+      "Example": "对不起,我来晚了。 duìbuqǐ, wǒ lái wǎn le: Sorry I'm late.",
+      "Notes": "对 face + 不 not + 起 rise = can't face you: sorry"
+    },
+    {
+      "Hanzi": "同学",
+      "Pinyin": "tóngxué",
+      "Meaning": "classmate",
+      "Example": "他是我同学。 tā shì wǒ tóngxué: He's my classmate.",
+      "Notes": "同 same + 学 study = studies with you: classmate"
+    },
+    {
+      "Hanzi": "帮忙",
+      "Pinyin": "bāngmáng",
+      "Meaning": "to help, do a favor",
+      "Example": "你能帮忙吗? nǐ néng bāngmáng ma: Can you help out?",
+      "Notes": "帮 help + 忙 busy = help with the busy work"
+    },
+    {
+      "Hanzi": "中间",
+      "Pinyin": "zhōngjiān",
+      "Meaning": "middle, between",
+      "Example": "我坐中间。 wǒ zuò zhōngjiān: I'll sit in the middle.",
+      "Notes": "中 middle + 间 between = in between"
+    },
+    {
+      "Hanzi": "星期",
+      "Pinyin": "xīngqī",
+      "Meaning": "week",
+      "Example": "下个星期见。 xià ge xīngqī jiàn: See you next week.",
+      "Notes": "星 star (日 + 生) + 期 period (其 + 月) = star cycle: week"
+    },
+    {
+      "Hanzi": "上午",
+      "Pinyin": "shàngwǔ",
+      "Meaning": "morning (before noon)",
+      "Example": "我上午在家。 wǒ shàngwǔ zài jiā: I'm home in the morning.",
+      "Notes": "上 before + 午 noon = before noon. 午 vs 牛 (niú)"
+    },
+    {
+      "Hanzi": "下次",
+      "Pinyin": "xiàcì",
+      "Meaning": "next time",
+      "Example": "下次再来! xiàcì zài lái: Come again next time!",
+      "Notes": "下 next + 次 time = next time"
+    },
+    {
+      "Hanzi": "学院",
+      "Pinyin": "xuéyuàn",
+      "Meaning": "college, institute",
+      "Example": "他在音乐学院。 tā zài yīnyuè xuéyuàn: He's at the music conservatory.",
+      "Notes": "学 study + 院 courtyard, institution = college"
+    },
+    {
+      "Hanzi": "网上",
+      "Pinyin": "wǎngshàng",
+      "Meaning": "online",
+      "Example": "我在网上买的。 wǒ zài wǎngshàng mǎi de: I bought it online.",
+      "Notes": "网 net + 上 on = on the net"
+    },
+    {
+      "Hanzi": "不对",
+      "Pinyin": "búduì",
+      "Meaning": "wrong, incorrect",
+      "Example": "这个不对。 zhège búduì: This isn't right.",
+      "Notes": "不 not + 对 correct = wrong"
+    },
+    {
+      "Hanzi": "中午",
+      "Pinyin": "zhōngwǔ",
+      "Meaning": "noon, midday",
+      "Example": "中午回家吃饭。 zhōngwǔ huíjiā chīfàn: Come home for lunch.",
+      "Notes": "中 is a line through the middle of a box"
+    },
+    {
+      "Hanzi": "起床",
+      "Pinyin": "qǐchuáng",
+      "Meaning": "to get out of bed",
+      "Example": "快起床! kuài qǐchuáng: Get up!",
+      "Notes": "起 rise + 床 bed = get up from bed"
+    },
+    {
+      "Hanzi": "是不是",
+      "Pinyin": "shìbushì",
+      "Meaning": "is it or not?; isn't it?",
+      "Example": "你是不是累了? nǐ shì bu shì lèi le: Are you tired?",
+      "Notes": "是 be + 不 not + 是 be: a yes-or-no question"
+    },
+    {
+      "Hanzi": "上次",
+      "Pinyin": "shàngcì",
+      "Meaning": "last time",
+      "Example": "上次是我买的。 shàngcì shì wǒ mǎi de: I paid last time.",
+      "Notes": "上 previous + 次 time = last time"
+    },
+    {
+      "Hanzi": "上学",
+      "Pinyin": "shàngxué",
+      "Meaning": "to go to school",
+      "Example": "孩子上学了。 háizi shàngxué le: The kids went to school.",
+      "Notes": "上 go to + 学 school"
+    },
+    {
+      "Hanzi": "上课",
+      "Pinyin": "shàngkè",
+      "Meaning": "to go to class; class starts",
+      "Example": "我们上课吧。 wǒmen shàngkè ba: Let's start class.",
+      "Notes": "上 go to + 课 class"
+    },
+    {
+      "Hanzi": "下班",
+      "Pinyin": "xiàbān",
+      "Meaning": "to get off work",
+      "Example": "你几点下班? nǐ jǐ diǎn xiàbān: When do you get off work?",
+      "Notes": "下 come down from + 班 shift = off duty"
+    },
+    {
+      "Hanzi": "姐",
+      "Pinyin": "jiě",
+      "Meaning": "older sister",
+      "Example": "她是我姐。 tā shì wǒ jiě: She's my older sister.",
+      "Notes": "女 woman + 且 qiě for the sound"
+    },
+    {
+      "Hanzi": "坐下",
+      "Pinyin": "zuòxia",
+      "Meaning": "to sit down",
+      "Example": "你坐下吧。 nǐ zuòxia ba: Sit down.",
+      "Notes": "坐 sit + 下 down"
+    },
+    {
+      "Hanzi": "小学",
+      "Pinyin": "xiǎoxué",
+      "Meaning": "elementary school",
+      "Example": "我弟弟上小学。 wǒ dìdi shàng xiǎoxué: My little brother is in elementary school.",
+      "Notes": "小 small + 学 school"
+    },
+    {
+      "Hanzi": "日期",
+      "Pinyin": "rìqī",
+      "Meaning": "date",
+      "Example": "日期不对。 rìqī búduì: The date is wrong.",
+      "Notes": "日 day + 期 period = date"
+    },
+    {
+      "Hanzi": "中学",
+      "Pinyin": "zhōngxué",
+      "Meaning": "middle/high school",
+      "Example": "他在中学教书。 tā zài zhōngxué jiāoshū: He teaches at a high school.",
+      "Notes": "中 middle + 学 school"
+    },
+    {
+      "Hanzi": "上网",
+      "Pinyin": "shàngwǎng",
+      "Meaning": "to go online",
+      "Example": "我在上网。 wǒ zài shàngwǎng: I'm online.",
+      "Notes": "上 go onto + 网 net"
+    },
+    {
+      "Hanzi": "楼下",
+      "Pinyin": "lóuxià",
+      "Meaning": "downstairs",
+      "Example": "我在楼下等你。 wǒ zài lóuxià děng nǐ: I'll wait downstairs.",
+      "Notes": "楼 building + 下 below = downstairs"
+    },
+    {
+      "Hanzi": "大学生",
+      "Pinyin": "dàxuéshēng",
+      "Meaning": "college student",
+      "Example": "我是大学生。 wǒ shì dàxuéshēng: I'm a college student.",
+      "Notes": "大学 university + 生 student"
+    },
+    {
+      "Hanzi": "车站",
+      "Pinyin": "chēzhàn",
+      "Meaning": "station, bus stop",
+      "Example": "车站在哪里? chēzhàn zài nǎlǐ: Where's the station?",
+      "Notes": "车 vehicle + 站 stop = station"
+    },
+    {
+      "Hanzi": "小朋友",
+      "Pinyin": "xiǎopéngyou",
+      "Meaning": "kid, child",
+      "Example": "小朋友,你好! xiǎopéngyou, nǐ hǎo: Hi there, kiddo!",
+      "Notes": "小 little + 朋友 friend = what adults call children"
+    },
+    {
+      "Hanzi": "不大",
+      "Pinyin": "búdà",
+      "Meaning": "not very; not big",
+      "Example": "我不大喜欢。 wǒ búdà xǐhuan: I don't really like it.",
+      "Notes": "不 not + 大 big = not much, not very"
+    },
+    {
+      "Hanzi": "上车",
+      "Pinyin": "shàngchē",
+      "Meaning": "to get on (a vehicle)",
+      "Example": "快上车! kuài shàngchē: Get in the car, quick!",
+      "Notes": "上 get onto + 车 vehicle"
+    }
+  ]
+}

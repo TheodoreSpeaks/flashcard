@@ -1,0 +1,287 @@
+{
+  "title": "HSK 3.1 · 把, 被, 发生, 人生, 总是",
+  "focus": "把 · 被 · 就是 · 时 · 需要 · 开始 · 并 · 所 · 死 · 种 · 希望 · 发生 · 为了 · 只是 · 世界 · 情况 · 比赛 · 继续 · 心 · 已 · 张 · 关系 · 总 · 只有 · 整个 · 极了 · 比较 · 个人 · 总是 · 除了 · 人员 · 生命 · 并且 · 发展 · 人生 · 人民 · 人类 · 紧张 · 类 · 产生",
+  "body": "The first HSK 3 lesson brings the two big grammar markers 把 and 被, plus a family of 人 words (个人, 人员, 人生, 人民, 人类) and 生 \"be born, arise\" words (发生, 生命, 产生).\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 人 | rén | person | 个人, 人员, 人生, 人民, 人类 |\n| 生 | shēng | be born, life, arise | 发生, 生命, 人生, 产生 |\n| 发 | fā | send out, emit | 发生, 发展 |\n| 是 | shì | be | 就是, 只是, 总是 |\n| 只 | zhǐ | only | 只是, 只有 |\n| 总 | zǒng | always, total | 总, 总是 |\n| 并 | bìng | together; (not) at all | 并, 并且 |\n| 比 | bǐ | compare | 比赛, 比较 |\n\n## Watch out\n\n- 已 yǐ (already) vs 己 jǐ (self) vs 巳 sì: open, half closed, fully closed.\n- 种 has two readings: zhǒng \"kind\" (这种) and zhòng \"to plant\" (种树).\n- 人生 is the life you live (your time on earth); 生命 is life as being alive.",
+  "cards": [
+    {
+      "Hanzi": "把",
+      "Pinyin": "bǎ",
+      "Meaning": "(marks object before verb); to hold",
+      "Example": "把门关上。 bǎ mén guānshang: close the door",
+      "Notes": "扌 hand + 巴 bā for the sound = grasp. 把 X + verb: \"take X and do\": 把门关上 = take the door, shut it."
+    },
+    {
+      "Hanzi": "被",
+      "Pinyin": "bèi",
+      "Meaning": "(marks passive: by); quilt",
+      "Example": "我的车被偷了。 wǒ de chē bèi tōu le: my car was stolen",
+      "Notes": "衤 clothing + 皮 pí for the sound = quilt; later \"to suffer\", hence the passive. 衤 (clothing) has two dots, 礻 (altar) one."
+    },
+    {
+      "Hanzi": "就是",
+      "Pinyin": "jiùshì",
+      "Meaning": "exactly; just; that is",
+      "Example": "就是他！ jiù shì tā: it's him!",
+      "Notes": "就 right then, precisely + 是 be = \"precisely is\" → exactly that, it's just."
+    },
+    {
+      "Hanzi": "时",
+      "Pinyin": "shí",
+      "Meaning": "time; hour; when",
+      "Example": "小时候我很胖。 xiǎoshíhou wǒ hěn pàng: I was chubby as a kid",
+      "Notes": "日 sun + 寸 (simplified from 寺 sì, sound) = time measured by the sun."
+    },
+    {
+      "Hanzi": "需要",
+      "Pinyin": "xūyào",
+      "Meaning": "to need; needs",
+      "Example": "你需要帮忙吗？ nǐ xūyào bāngmáng ma: do you need help?",
+      "Notes": "需 need, require + 要 want = to need."
+    },
+    {
+      "Hanzi": "开始",
+      "Pinyin": "kāishǐ",
+      "Meaning": "to begin, start",
+      "Example": "电影开始了。 diànyǐng kāishǐ le: the movie has started",
+      "Notes": "开 open + 始 beginning (女 + 台 for the sound) = open the beginning → start."
+    },
+    {
+      "Hanzi": "并",
+      "Pinyin": "bìng",
+      "Meaning": "(before 不/没) not at all; and; side by side",
+      "Example": "我并不知道。 wǒ bìng bù zhīdào: I really didn't know",
+      "Notes": "Originally two people side by side → combine, together. Before 不/没 it stresses \"actually not, not at all\"."
+    },
+    {
+      "Hanzi": "所",
+      "Pinyin": "suǒ",
+      "Meaning": "place; (classifier: buildings); that which",
+      "Example": "这所学校很大。 zhè suǒ xuéxiào hěn dà: this school is big",
+      "Notes": "户 door + 斤 axe. Mostly in words: 所以 so, 所有 all, 厕所 toilet, 所 + verb = \"that which\"."
+    },
+    {
+      "Hanzi": "死",
+      "Pinyin": "sǐ",
+      "Meaning": "to die; dead; (after adj.) extremely",
+      "Example": "我饿死了！ wǒ è sǐ le: I'm starving!",
+      "Notes": "歹 bare bones (death radical) + 匕 a kneeling person = death. After adjectives: \"to death\" (饿死了, 累死了)."
+    },
+    {
+      "Hanzi": "种",
+      "Pinyin": "zhǒng / zhòng",
+      "Meaning": "kind, type / to plant",
+      "Example": "这种水果很甜。 zhè zhǒng shuǐguǒ hěn tián: this kind of fruit is sweet",
+      "Notes": "禾 grain + 中 zhōng for the sound = seed → kind (zhǒng); to plant a seed (zhòng)."
+    },
+    {
+      "Hanzi": "希望",
+      "Pinyin": "xīwàng",
+      "Meaning": "to hope; hope",
+      "Example": "希望你喜欢。 xīwàng nǐ xǐhuan: hope you like it",
+      "Notes": "希 hope, rare + 望 gaze into the distance = gaze ahead hoping → hope."
+    },
+    {
+      "Hanzi": "发生",
+      "Pinyin": "fāshēng",
+      "Meaning": "to happen, occur",
+      "Example": "发生了什么事？ fāshēng le shénme shì: what happened?",
+      "Notes": "发 send out, emit + 生 arise, be born = come out into being → happen."
+    },
+    {
+      "Hanzi": "为了",
+      "Pinyin": "wèile",
+      "Meaning": "for; in order to",
+      "Example": "为了孩子，他很努力。 wèile háizi, tā hěn nǔlì: he works hard for his kids",
+      "Notes": "为 wèi for the sake of + 了 = for, in order to. 为 is wéi in 认为, 成为."
+    },
+    {
+      "Hanzi": "只是",
+      "Pinyin": "zhǐshì",
+      "Meaning": "just, merely; but",
+      "Example": "我只是问问。 wǒ zhǐshì wènwen: I'm just asking",
+      "Notes": "只 only + 是 be = it's only… Also \"but, it's just that\"."
+    },
+    {
+      "Hanzi": "世界",
+      "Pinyin": "shìjiè",
+      "Meaning": "world",
+      "Example": "世界很大。 shìjiè hěn dà: the world is big",
+      "Notes": "世 age, generation + 界 boundary, realm (田 field + 介 jiè for the sound) = world."
+    },
+    {
+      "Hanzi": "情况",
+      "Pinyin": "qíngkuàng",
+      "Meaning": "situation, circumstances",
+      "Example": "现在情况怎么样？ xiànzài qíngkuàng zěnmeyàng: how are things now?",
+      "Notes": "情 state, feeling (忄 heart + 青 qīng for the sound) + 况 condition = state of affairs."
+    },
+    {
+      "Hanzi": "比赛",
+      "Pinyin": "bǐsài",
+      "Meaning": "match, competition",
+      "Example": "比赛几点开始？ bǐsài jǐ diǎn kāishǐ: what time does the match start?",
+      "Notes": "比 compare + 赛 compete = compete, match."
+    },
+    {
+      "Hanzi": "继续",
+      "Pinyin": "jìxù",
+      "Meaning": "to continue",
+      "Example": "我们继续吧。 wǒmen jìxù ba: let's continue",
+      "Notes": "继 carry on + 续 extend; both have 纟 silk = keep a thread going → continue."
+    },
+    {
+      "Hanzi": "心",
+      "Pinyin": "xīn",
+      "Meaning": "heart; mind",
+      "Example": "别担心。 bié dānxīn: don't worry",
+      "Notes": "Pictograph of a heart. As a part, 忄 (left) or 心 (bottom) marks feelings: 想, 情, 忙, 总."
+    },
+    {
+      "Hanzi": "已",
+      "Pinyin": "yǐ",
+      "Meaning": "already",
+      "Example": "他已经走了。 tā yǐjīng zǒu le: he's already left",
+      "Notes": "Mostly in 已经. Lookalikes: 己 jǐ self (open), 已 yǐ already (half closed), 巳 sì (closed)."
+    },
+    {
+      "Hanzi": "张",
+      "Pinyin": "zhāng",
+      "Meaning": "(classifier: flat things); to open; surname",
+      "Example": "给我一张纸。 gěi wǒ yì zhāng zhǐ: give me a sheet of paper",
+      "Notes": "弓 bow + 长 cháng for the sound = draw a bow → stretch open; used for flat spread things: paper, tickets, tables."
+    },
+    {
+      "Hanzi": "关系",
+      "Pinyin": "guānxi",
+      "Meaning": "relationship; connection",
+      "Example": "没关系。 méi guānxi: it doesn't matter",
+      "Notes": "关 connect, concern + 系 tie = ties → relation. 没关系 = \"no connection\" → never mind."
+    },
+    {
+      "Hanzi": "总",
+      "Pinyin": "zǒng",
+      "Meaning": "always; total; chief",
+      "Example": "他总迟到。 tā zǒng chídào: he's always late",
+      "Notes": "丷 + 口 + 心 heart. Means gather all → total (总共), always (总是), chief (总统)."
+    },
+    {
+      "Hanzi": "只有",
+      "Pinyin": "zhǐyǒu",
+      "Meaning": "only (if); there's only",
+      "Example": "我只有十块钱。 wǒ zhǐ yǒu shí kuài qián: I only have ten kuai",
+      "Notes": "只 only + 有 have. 只有…才… = only if… then."
+    },
+    {
+      "Hanzi": "整个",
+      "Pinyin": "zhěnggè",
+      "Meaning": "whole, entire",
+      "Example": "我睡了整个下午。 wǒ shuì le zhěnggè xiàwǔ: I slept the whole afternoon",
+      "Notes": "整 whole, tidy (正 at the bottom, for the sound) + 个 unit = the whole thing."
+    },
+    {
+      "Hanzi": "极了",
+      "Pinyin": "jíle",
+      "Meaning": "extremely (after an adjective)",
+      "Example": "好吃极了！ hǎochī jí le: absolutely delicious!",
+      "Notes": "极 extreme, pole (木 + 及 jí for the sound) + 了 = to the extreme. Comes after the adjective."
+    },
+    {
+      "Hanzi": "比较",
+      "Pinyin": "bǐjiào",
+      "Meaning": "relatively, fairly; to compare",
+      "Example": "今天比较冷。 jīntiān bǐjiào lěng: it's rather cold today",
+      "Notes": "比 compare + 较 compare (车 + 交 jiāo for the sound) = compare → comparatively."
+    },
+    {
+      "Hanzi": "个人",
+      "Pinyin": "gèrén",
+      "Meaning": "individual; personal",
+      "Example": "这是我个人的意见。 zhè shì wǒ gèrén de yìjiàn: this is my personal opinion",
+      "Notes": "个 single + 人 person = individual."
+    },
+    {
+      "Hanzi": "总是",
+      "Pinyin": "zǒngshì",
+      "Meaning": "always",
+      "Example": "你总是这样。 nǐ zǒngshì zhèyàng: you're always like this",
+      "Notes": "总 always, all + 是 be = always."
+    },
+    {
+      "Hanzi": "除了",
+      "Pinyin": "chúle",
+      "Meaning": "besides; except",
+      "Example": "除了他，都来了。 chúle tā, dōu lái le: everyone came except him",
+      "Notes": "除 remove (阝 + 余 for the sound) + 了 = having removed → except. 除了…还/也 = besides."
+    },
+    {
+      "Hanzi": "人员",
+      "Pinyin": "rényuán",
+      "Meaning": "staff, personnel",
+      "Example": "工作人员在哪儿？ gōngzuò rényuán zài nǎr: where are the staff?",
+      "Notes": "人 person + 员 member = personnel."
+    },
+    {
+      "Hanzi": "生命",
+      "Pinyin": "shēngmìng",
+      "Meaning": "life (being alive)",
+      "Example": "生命很宝贵。 shēngmìng hěn bǎoguì: life is precious",
+      "Notes": "生 live + 命 life, fate (口 mouth + 令 order) = life."
+    },
+    {
+      "Hanzi": "并且",
+      "Pinyin": "bìngqiě",
+      "Meaning": "and also; moreover",
+      "Example": "他聪明并且努力。 tā cōngming bìngqiě nǔlì: he's smart and hardworking",
+      "Notes": "并 together + 且 moreover = and furthermore. Joins verbs or adjectives, not nouns."
+    },
+    {
+      "Hanzi": "发展",
+      "Pinyin": "fāzhǎn",
+      "Meaning": "to develop; development",
+      "Example": "这个城市发展很快。 zhège chéngshì fāzhǎn hěn kuài: this city is developing fast",
+      "Notes": "发 send out + 展 unfold, spread = unfold outward → develop."
+    },
+    {
+      "Hanzi": "人生",
+      "Pinyin": "rénshēng",
+      "Meaning": "one's life (time on earth)",
+      "Example": "人生很短。 rénshēng hěn duǎn: life is short",
+      "Notes": "人 person + 生 life = a person's life. Compare 生命, life as being alive."
+    },
+    {
+      "Hanzi": "人民",
+      "Pinyin": "rénmín",
+      "Meaning": "the people",
+      "Example": "为人民服务。 wèi rénmín fúwù: serve the people",
+      "Notes": "人 person + 民 common people = the people of a nation. 民 also in 人民币 RMB."
+    },
+    {
+      "Hanzi": "人类",
+      "Pinyin": "rénlèi",
+      "Meaning": "humanity, mankind",
+      "Example": "人类需要水。 rénlèi xūyào shuǐ: humans need water",
+      "Notes": "人 human + 类 kind, category = humankind."
+    },
+    {
+      "Hanzi": "紧张",
+      "Pinyin": "jǐnzhāng",
+      "Meaning": "nervous; tense",
+      "Example": "别紧张。 bié jǐnzhāng: don't be nervous",
+      "Notes": "紧 tight + 张 stretch = stretched tight → tense, nervous."
+    },
+    {
+      "Hanzi": "类",
+      "Pinyin": "lèi",
+      "Meaning": "kind, type, category",
+      "Example": "我喜欢这类电影。 wǒ xǐhuan zhè lèi diànyǐng: I like this kind of film",
+      "Notes": "米 rice on top + 大 big below. Means category: 人类 mankind, 种类 type."
+    },
+    {
+      "Hanzi": "产生",
+      "Pinyin": "chǎnshēng",
+      "Meaning": "to produce; to arise",
+      "Example": "这会产生问题。 zhè huì chǎnshēng wèntí: this will cause problems",
+      "Notes": "产 produce, give birth + 生 be born = come into being → arise, give rise to."
+    }
+  ]
+}

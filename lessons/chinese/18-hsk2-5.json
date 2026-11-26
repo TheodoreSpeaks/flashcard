@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.5 · 参加, 机会, 相信, 改变, 照片",
+  "focus": "场 · 件 · 或 · 头 · 周 · 参加 · 或者 · 机会 · 计划 · 信 · 队 · 相信 · 道 · 拉 · 帮助 · 变 · 加 · 努力 · 特别 · 掉 · 改变 · 讲 · 万 · 片 · 组 · 信息 · 照片 · 变成 · 改 · 加油 · 周末 · 油 · 头发 · 照顾 · 小组 · 出口 · 味道 · 出发 · 司机",
+  "body": "Words about doing and changing things: 加 add, 变/改 change, 信 trust/message, plus several measure words (场, 件, 条-style 片, 组). Many characters here are 'radical + sound' pairs, so the right-hand part often tells you the reading.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 加 | jiā | to add (力 strength + 口 mouth) | 加, 参加, 加油 |\n| 变 | biàn | to change | 变, 改变, 变成 |\n| 改 | gǎi | to change, correct (己 + 攵 action) | 改, 改变 |\n| 信 | xìn | letter; to trust (亻 person + 言 words) | 信, 相信, 信息 |\n| 片 | piàn | slice, flat piece | 片, 照片 |\n| 组 | zǔ | group (纟 thread + 且 qiě, sound) | 组, 小组 |\n| 照 | zhào | to shine; photograph; look after | 照片, 照顾 |\n| 头 | tóu | head | 头, 头发 |\n\n## Watch out\n\n- 万 wàn (ten thousand) has no dot; 方 fāng has one.\n- 周末: 末 mò end has the LONGER top stroke; 未 wèi (not yet, in 味) has the shorter top.\n- 改 gǎi uses 己 jǐ, not 已 yǐ.",
+  "cards": [
+    {
+      "Hanzi": "场",
+      "Pinyin": "chǎng",
+      "Meaning": "(measure word for games, shows, events); a place",
+      "Example": "我们去看一场电影。 wǒmen qù kàn yì chǎng diànyǐng: Let's go see a movie",
+      "Notes": "土 earth + phonetic part: a stretch of ground, a field (广场, 机场). Also read cháng for rain or illness: 一场雨"
+    },
+    {
+      "Hanzi": "件",
+      "Pinyin": "jiàn",
+      "Meaning": "(measure word for items, clothes, matters)",
+      "Example": "我买了一件衣服。 wǒ mǎi le yí jiàn yīfu: I bought a piece of clothing",
+      "Notes": "亻 person + 牛 cow = an item, one piece. Used for 衣服 and 事: 一件事"
+    },
+    {
+      "Hanzi": "或",
+      "Pinyin": "huò",
+      "Meaning": "or",
+      "Example": "你或我去都可以。 nǐ huò wǒ qù dōu kěyǐ: Either you or I can go",
+      "Notes": "戈 dagger-axe + 口 + 一; mostly seen in 或者. Lookalike: 国 (traditional 國 contains 或)"
+    },
+    {
+      "Hanzi": "头",
+      "Pinyin": "tóu",
+      "Meaning": "head; top, end",
+      "Example": "我头疼。 wǒ tóu téng: I have a headache",
+      "Notes": "Simplified from 頭 (页 head). As a suffix it's neutral tou: 木头, 前头"
+    },
+    {
+      "Hanzi": "周",
+      "Pinyin": "zhōu",
+      "Meaning": "week; circuit, all around",
+      "Example": "下周我很忙。 xià zhōu wǒ hěn máng: I'm busy next week",
+      "Notes": "Means 'all around', so a full cycle: a week. 上周 last week, 周末 weekend"
+    },
+    {
+      "Hanzi": "参加",
+      "Pinyin": "cānjiā",
+      "Meaning": "to take part in, join",
+      "Example": "你参加比赛吗？ nǐ cānjiā bǐsài ma: Are you entering the competition?",
+      "Notes": "参 participate + 加 add = add yourself in, join"
+    },
+    {
+      "Hanzi": "或者",
+      "Pinyin": "huòzhě",
+      "Meaning": "or (in statements)",
+      "Example": "喝茶或者咖啡都行。 hē chá huòzhě kāfēi dōu xíng: Tea or coffee, either is fine",
+      "Notes": "或 or + 者 (suffix). Use 还是 for 'or' in questions"
+    },
+    {
+      "Hanzi": "机会",
+      "Pinyin": "jīhuì",
+      "Meaning": "chance, opportunity",
+      "Example": "这是一个好机会。 zhè shì yí ge hǎo jīhuì: This is a good opportunity",
+      "Notes": "机 key moment (also machine) + 会 meeting = a meeting with the right moment"
+    },
+    {
+      "Hanzi": "计划",
+      "Pinyin": "jìhuà",
+      "Meaning": "plan; to plan",
+      "Example": "你有什么计划？ nǐ yǒu shénme jìhuà: What are your plans?",
+      "Notes": "计 count, plan (讠 speech + 十 ten) + 划 mark out (刂 knife) = a plan drawn up"
+    },
+    {
+      "Hanzi": "信",
+      "Pinyin": "xìn",
+      "Meaning": "letter; to believe, trust",
+      "Example": "我给他写了一封信。 wǒ gěi tā xiě le yì fēng xìn: I wrote him a letter",
+      "Notes": "亻 person + 言 words: a person standing by their words = trust; also a letter"
+    },
+    {
+      "Hanzi": "队",
+      "Pinyin": "duì",
+      "Meaning": "team; line, queue",
+      "Example": "他是我们队的。 tā shì wǒmen duì de: He's on our team",
+      "Notes": "阝 (mound, on the left) + 人 person = a group of people. In 排队 line up, 球队 team"
+    },
+    {
+      "Hanzi": "相信",
+      "Pinyin": "xiāngxìn",
+      "Meaning": "to believe, trust",
+      "Example": "我相信你。 wǒ xiāngxìn nǐ: I believe you",
+      "Notes": "相 each other (also 'look at': 木 + 目 eye) + 信 trust = to believe"
+    },
+    {
+      "Hanzi": "道",
+      "Pinyin": "dào",
+      "Meaning": "road, way; to say; (measure word for questions)",
+      "Example": "这道题很难。 zhè dào tí hěn nán: This question is hard",
+      "Notes": "辶 walking + 首 head = the way you walk ahead. In 知道 (neutral dao), 味道"
+    },
+    {
+      "Hanzi": "拉",
+      "Pinyin": "lā",
+      "Meaning": "to pull",
+      "Example": "请拉门。 qǐng lā mén: Please pull the door",
+      "Notes": "扌 hand + 立 lì (sound) = to pull. Opposite: 推 tuī push"
+    },
+    {
+      "Hanzi": "帮助",
+      "Pinyin": "bāngzhù",
+      "Meaning": "to help; help",
+      "Example": "谢谢你的帮助。 xièxie nǐ de bāngzhù: Thanks for your help",
+      "Notes": "帮 help + 助 help (力 strength + 且, sound) = helping; two near-synonyms"
+    },
+    {
+      "Hanzi": "变",
+      "Pinyin": "biàn",
+      "Meaning": "to change, become",
+      "Example": "天气变冷了。 tiānqì biàn lěng le: The weather has turned cold",
+      "Notes": "Top part (亦) + 又 hand. Simplified from 變. Lookalike: 恋 liàn (心 bottom)"
+    },
+    {
+      "Hanzi": "加",
+      "Pinyin": "jiā",
+      "Meaning": "to add; plus",
+      "Example": "咖啡里加点糖。 kāfēi lǐ jiā diǎn táng: Add a little sugar to the coffee",
+      "Notes": "力 strength + 口 mouth: adding force with words. 一加一 = one plus one"
+    },
+    {
+      "Hanzi": "努力",
+      "Pinyin": "nǔlì",
+      "Meaning": "to work hard; hardworking",
+      "Example": "他学习很努力。 tā xuéxí hěn nǔlì: He studies hard",
+      "Notes": "努 strive (奴 nú sound + 力) + 力 strength = put in all your strength"
+    },
+    {
+      "Hanzi": "特别",
+      "Pinyin": "tèbié",
+      "Meaning": "especially; special",
+      "Example": "今天特别热。 jīntiān tèbié rè: It's especially hot today",
+      "Notes": "特 special (牛 + 寺 sì, sound) + 别 different = set apart, special"
+    },
+    {
+      "Hanzi": "掉",
+      "Pinyin": "diào",
+      "Meaning": "to drop, fall; (after verbs) away, off",
+      "Example": "我的手机掉了。 wǒ de shǒujī diào le: I dropped my phone",
+      "Notes": "扌 hand + 卓 zhuó (sound). After a verb = gone: 吃掉 eat up, 忘掉 forget"
+    },
+    {
+      "Hanzi": "改变",
+      "Pinyin": "gǎibiàn",
+      "Meaning": "to change; change",
+      "Example": "他改变了主意。 tā gǎibiàn le zhǔyi: He changed his mind",
+      "Notes": "改 change, correct + 变 change = to change (on purpose)"
+    },
+    {
+      "Hanzi": "讲",
+      "Pinyin": "jiǎng",
+      "Meaning": "to speak, tell, explain",
+      "Example": "老师讲得很清楚。 lǎoshī jiǎng de hěn qīngchu: The teacher explains clearly",
+      "Notes": "讠 speech + 井 jǐng (sound) = to speak, explain. 讲故事 tell a story"
+    },
+    {
+      "Hanzi": "万",
+      "Pinyin": "wàn",
+      "Meaning": "ten thousand",
+      "Example": "这个要一万块。 zhège yào yí wàn kuài: This costs ten thousand yuan",
+      "Notes": "Simplified from 萬. Lookalike: 方 fāng has a dot on top; 万 does not"
+    },
+    {
+      "Hanzi": "片",
+      "Pinyin": "piàn",
+      "Meaning": "slice, flat piece; (measure word for flat things)",
+      "Example": "吃一片面包吧。 chī yí piàn miànbāo ba: Have a slice of bread",
+      "Notes": "Shows half of 木 wood split down the middle: a flat slice. In 照片 photo, 名片 card"
+    },
+    {
+      "Hanzi": "组",
+      "Pinyin": "zǔ",
+      "Meaning": "group; to form",
+      "Example": "我们分三个组。 wǒmen fēn sān ge zǔ: We'll split into three groups",
+      "Notes": "纟 thread + 且 qiě (sound) = threads tied together, a group"
+    },
+    {
+      "Hanzi": "信息",
+      "Pinyin": "xìnxī",
+      "Meaning": "information; message",
+      "Example": "我收到你的信息了。 wǒ shōudào nǐ de xìnxī le: I got your message",
+      "Notes": "信 message + 息 news, breath (自 nose + 心 heart) = information"
+    },
+    {
+      "Hanzi": "照片",
+      "Pinyin": "zhàopiàn",
+      "Meaning": "photo",
+      "Example": "这是我小时候的照片。 zhè shì wǒ xiǎoshíhou de zhàopiàn: This is a photo of me as a kid",
+      "Notes": "照 shine, photograph (灬 fire + 昭 zhāo, sound) + 片 flat piece = photograph"
+    },
+    {
+      "Hanzi": "变成",
+      "Pinyin": "biànchéng",
+      "Meaning": "to become, turn into",
+      "Example": "水变成了冰。 shuǐ biànchéng le bīng: The water turned into ice",
+      "Notes": "变 change + 成 become = change into"
+    },
+    {
+      "Hanzi": "改",
+      "Pinyin": "gǎi",
+      "Meaning": "to change, correct",
+      "Example": "我改一下作业。 wǒ gǎi yíxià zuòyè: Let me fix my homework",
+      "Notes": "己 + 攵 action (hand with stick) = to correct. 己 jǐ here, not 已 yǐ"
+    },
+    {
+      "Hanzi": "加油",
+      "Pinyin": "jiāyóu",
+      "Meaning": "come on! go for it!; to refuel",
+      "Example": "加油！你能行！ jiāyóu! nǐ néng xíng: Come on, you can do it!",
+      "Notes": "加 add + 油 oil = refuel, so 'keep going!' — what fans shout"
+    },
+    {
+      "Hanzi": "周末",
+      "Pinyin": "zhōumò",
+      "Meaning": "weekend",
+      "Example": "周末你做什么？ zhōumò nǐ zuò shénme: What are you doing this weekend?",
+      "Notes": "周 week + 末 end = weekend. 末 mò (long top line) vs 未 wèi (short top line)"
+    },
+    {
+      "Hanzi": "油",
+      "Pinyin": "yóu",
+      "Meaning": "oil, fat; greasy",
+      "Example": "这个菜太油了。 zhège cài tài yóu le: This dish is too oily",
+      "Notes": "氵 liquid + 由 yóu (sound) = oil"
+    },
+    {
+      "Hanzi": "头发",
+      "Pinyin": "tóufa",
+      "Meaning": "hair (on the head)",
+      "Example": "她的头发很长。 tā de tóufa hěn cháng: Her hair is long",
+      "Notes": "头 head + 发 hair (simplified from 髮; same character as 发 send) = head hair"
+    },
+    {
+      "Hanzi": "照顾",
+      "Pinyin": "zhàogù",
+      "Meaning": "to take care of, look after",
+      "Example": "我照顾我妈妈。 wǒ zhàogù wǒ māma: I look after my mom",
+      "Notes": "照 shine on, look after + 顾 look back at (页 head) = to watch over"
+    },
+    {
+      "Hanzi": "小组",
+      "Pinyin": "xiǎozǔ",
+      "Meaning": "small group, team",
+      "Example": "我们小组有五个人。 wǒmen xiǎozǔ yǒu wǔ ge rén: Our group has five people",
+      "Notes": "小 small + 组 group = small group"
+    },
+    {
+      "Hanzi": "出口",
+      "Pinyin": "chūkǒu",
+      "Meaning": "exit; to export",
+      "Example": "出口在哪儿？ chūkǒu zài nǎr: Where's the exit?",
+      "Notes": "出 go out + 口 opening = way out. Opposite: 入口 entrance"
+    },
+    {
+      "Hanzi": "味道",
+      "Pinyin": "wèidao",
+      "Meaning": "taste, flavor",
+      "Example": "这个菜味道不错。 zhège cài wèidao búcuò: This dish tastes good",
+      "Notes": "味 taste (口 mouth + 未 wèi, sound) + 道 way = the way it tastes"
+    },
+    {
+      "Hanzi": "出发",
+      "Pinyin": "chūfā",
+      "Meaning": "to set off, depart",
+      "Example": "我们八点出发。 wǒmen bā diǎn chūfā: We set off at eight",
+      "Notes": "出 go out + 发 send off, start = to start out"
+    },
+    {
+      "Hanzi": "司机",
+      "Pinyin": "sījī",
+      "Meaning": "driver",
+      "Example": "他是出租车司机。 tā shì chūzūchē sījī: He's a taxi driver",
+      "Notes": "司 manage, operate + 机 machine = the one operating the machine, the driver"
+    }
+  ]
+}

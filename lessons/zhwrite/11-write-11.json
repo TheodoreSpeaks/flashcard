@@ -1,0 +1,97 @@
+{
+  "title": "Write 11 · 东 西 三 买 问 告 诉 老 男 飞 师 病 机 日 面",
+  "focus": "东 西 三 买 问 告 诉 老 男 飞 师 病 机 日 面",
+  "body": "Directions and people: 东 and 西 (east, west) together mean \"thing\", and 老 + 师 make \"teacher\".\n\n## Repeating parts\n- **口** inside 问 and 告 (mouth: asking and telling).\n- **讠** speech, on the left of 诉.\n- **田** field, at the top of 男 and also the frame of 面.\n\n## Rules that matter here\n- **Close the box last:** in 日, 田 and 西, the bottom 一 goes in after everything inside.\n- **Frame before contents:** 问 is written 门 first, then the 口 inside. 门 has no bottom, so nothing gets closed.",
+  "cards": [
+    {
+      "Prompt": "＿西 · dōngxi · thing, stuff",
+      "Hanzi": "东",
+      "Pinyin": "dōng",
+      "Notes": "Simplified from 東 (sun 日 behind a tree 木); the parts are no longer visible. 5 strokes: 一, ㇜ fold, 亅 hooked vertical, then 丿 and 丶. Lookalike 车 chē (4 strokes)."
+    },
+    {
+      "Prompt": "＿瓜 · xīguā · watermelon",
+      "Hanzi": "西",
+      "Pinyin": "xī",
+      "Notes": "6 strokes: 一 on top, then the frame (丨, 𠃍), 丿 and 乚 inside, and the bottom 一 last. The squashed form 覀 sits on top of 票 and 要."
+    },
+    {
+      "Prompt": "＿个人 · sān ge rén · three people",
+      "Hanzi": "三",
+      "Pinyin": "sān",
+      "Notes": "Three horizontal lines written top to bottom. The middle one is shortest and the bottom one longest. 3 strokes. Compare 二 (two) and 王 (三 with a vertical through it)."
+    },
+    {
+      "Prompt": "＿东西 · mǎi dōngxi · to go shopping",
+      "Hanzi": "买",
+      "Pinyin": "mǎi",
+      "Notes": "乛 on top + 头 below. 6 strokes: 乛, 丶, 丶, 一, 丿, 丶. Lookalike 卖 mài (to sell) adds 十 on top: selling has more."
+    },
+    {
+      "Prompt": "＿题 · wèntí · question, problem",
+      "Hanzi": "问",
+      "Pinyin": "wèn",
+      "Notes": "门 door (mén, phonetic) + 口 mouth. 6 strokes. Write 门 first (丶, 丨, 𠃌), then 口 inside. 门 has no bottom stroke."
+    },
+    {
+      "Prompt": "＿诉 · gàosu · to tell",
+      "Hanzi": "告",
+      "Pinyin": "gào",
+      "Notes": "Top part (丿, 一, 一, 丨, like 牛) over 口 mouth. 7 strokes. Write the top first, then 口. The 丨 stops at the 口 and doesn't pass through."
+    },
+    {
+      "Prompt": "告＿ · gàosu · to tell",
+      "Hanzi": "诉",
+      "Pinyin": "su",
+      "Notes": "讠 speech + 斥 chì (phonetic; 斤 with an extra dot). 7 strokes: 讠 (丶, ㇊), then 丿, 丿, 一, 丨, and the extra 丶 last. Lookalike 拆 chāi (扌 hand)."
+    },
+    {
+      "Prompt": "＿师 · lǎoshī · teacher",
+      "Hanzi": "老",
+      "Pinyin": "lǎo",
+      "Notes": "耂 old (一, 丨, 一, long 丿) + 匕 (丿, 乚). 6 strokes. The 匕 tucks under the long 丿. Compare 考 kǎo, which is 耂 + 丂."
+    },
+    {
+      "Prompt": "＿人 · nánrén · man",
+      "Hanzi": "男",
+      "Pinyin": "nán",
+      "Notes": "田 field + 力 strength: the one who works the field. 7 strokes. 田 first (丨, 𠃍, 一, 丨, 一, closing the box last), then 力 (㇆, 丿)."
+    },
+    {
+      "Prompt": "＿机 · fēijī · airplane",
+      "Hanzi": "飞",
+      "Pinyin": "fēi",
+      "Notes": "One unit (wings in flight), with no separate parts. 3 strokes: the big ㇈ fold-hook first, then 丿, then 丶. Traditional 飛 is much more complex."
+    },
+    {
+      "Prompt": "老＿ · lǎoshī · teacher",
+      "Hanzi": "师",
+      "Pinyin": "shī",
+      "Notes": "Left: 丨 + 丿. Right: 帀 (一, 丨, 𠃌, 丨). 6 strokes, left side first. Lookalike 帅 shuài (handsome) has no 一 on the right."
+    },
+    {
+      "Prompt": "生＿ · shēngbìng · to get sick",
+      "Hanzi": "病",
+      "Pinyin": "bìng",
+      "Notes": "疒 sickness (丶, 一, 丿, 丶, ㇀) + 丙 bǐng (phonetic). 10 strokes. Write 疒 first, then 丙 (一, 丨, 𠃌, 丿, 丶) inside it. 疒 also marks 疼 and 痛."
+    },
+    {
+      "Prompt": "手＿ · shǒujī · mobile phone",
+      "Hanzi": "机",
+      "Pinyin": "jī",
+      "Notes": "木 wood + 几 jī (phonetic). 6 strokes. On the left, 木's last stroke shrinks to a dot (一, 丨, 丿, 丶). Then 几 (丿, ㇈ hook to the right)."
+    },
+    {
+      "Prompt": "生＿ · shēngrì · birthday",
+      "Hanzi": "日",
+      "Pinyin": "rì",
+      "Notes": "A picture of the sun. 4 strokes: 丨, 𠃍, middle 一, and the bottom 一 closes the box last. 日 is tall and narrow; 曰 yuē (to say) is wide and flat."
+    },
+    {
+      "Prompt": "见＿ · jiànmiàn · to meet",
+      "Hanzi": "面",
+      "Pinyin": "miàn",
+      "Notes": "A face. 9 strokes: 一, 丿, the frame (丨, 𠃌), two inner 丨, two short inner 一, and the bottom 一 last. Also means noodles (simplified 麵)."
+    }
+  ]
+}

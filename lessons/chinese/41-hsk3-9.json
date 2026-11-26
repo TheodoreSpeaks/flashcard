@@ -1,0 +1,287 @@
+{
+  "title": "HSK 3.9 · 合理, 配合, 调整, 宣传, 强大",
+  "focus": "追 · 集中 · 破 · 理由 · 刀 · 传 · 错误 · 整 · 朝 · 范围 · 空 · 左右 · 架 · 室 · 伟大 · 哈哈 · 理论 · 宣布 · 调 · 破坏 · 配 · 当地 · 大概 · 合 · 周围 · 布 · 重大 · 强大 · 合理 · 调整 · 宣传 · 大约 · 联合 · 组合 · 强烈 · 配合 · 结合 · 当中 · 坚强 · 合法",
+  "body": "This lesson is built around 合 *combine*: six words pair it with another character (联合, 组合, 配合, 结合, 合理, 合法). 大, 强, 调, 整, 宣 and 围 also return, so learning one word gives you a head start on its neighbours.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 合 | hé | combine, fit | 合, 合理, 联合, 组合, 配合, 结合, 合法 |\n| 大 | dà | big | 伟大, 大概, 重大, 强大, 大约 |\n| 强 | qiáng | strong (弓 bow) | 强大, 强烈, 坚强 |\n| 理 | lǐ | reason, pattern (王 jade) | 理由, 理论, 合理 |\n| 调 | diào / tiáo | tune; adjust (讠 speech) | 调, 调整 |\n| 宣 | xuān | announce (宀 roof) | 宣布, 宣传 |\n| 围 | wéi | surround (囗 enclosure) | 范围, 周围 |\n| 当 | dāng | at, serve as | 当地, 当中 |\n\n## Watch out\n\n- 调 has two readings: **diào** (transfer, tune, 调查) and **tiáo** (adjust, 调整, 空调).\n- 空 is **kōng** (empty, sky) but **kòng** in 空儿 / 有空 (free time).\n- 朝 is **cháo** (towards, dynasty) but **zhāo** in 朝气 (morning).\n- 传 is **chuán** (pass on); **zhuàn** only means \"biography\" (自传).",
+  "cards": [
+    {
+      "Hanzi": "追",
+      "Pinyin": "zhuī",
+      "Meaning": "to chase, pursue",
+      "Example": "狗在追猫。 gǒu zài zhuī māo: The dog is chasing the cat",
+      "Notes": "辶 walking + 𠂤 duī (phonetic) = walk after someone, chase"
+    },
+    {
+      "Hanzi": "集中",
+      "Pinyin": "jízhōng",
+      "Meaning": "to concentrate, focus",
+      "Example": "上课要集中。 shàngkè yào jízhōng: Concentrate in class",
+      "Notes": "集 gather (birds 隹 on a tree 木) + 中 centre = gather to the centre, focus"
+    },
+    {
+      "Hanzi": "破",
+      "Pinyin": "pò",
+      "Meaning": "broken; to break",
+      "Example": "我的手机破了。 wǒ de shǒujī pò le: My phone is broken",
+      "Notes": "石 stone + 皮 pí for the sound; stone splitting"
+    },
+    {
+      "Hanzi": "理由",
+      "Pinyin": "lǐyóu",
+      "Meaning": "reason, grounds",
+      "Example": "你有什么理由？ nǐ yǒu shénme lǐyóu: What's your reason?",
+      "Notes": "理 reason, pattern + 由 from, cause = the cause behind it, a reason"
+    },
+    {
+      "Hanzi": "刀",
+      "Pinyin": "dāo",
+      "Meaning": "knife",
+      "Example": "这把刀很快。 zhè bǎ dāo hěn kuài: This knife is sharp",
+      "Notes": "Pictograph of a blade. As a side radical it becomes 刂. Lookalike: 力 lì power"
+    },
+    {
+      "Hanzi": "传",
+      "Pinyin": "chuán",
+      "Meaning": "to pass on, spread",
+      "Example": "把球传给我。 bǎ qiú chuán gěi wǒ: Pass me the ball",
+      "Notes": "亻 person + 专 zhuān (phonetic) = person to person, hand on"
+    },
+    {
+      "Hanzi": "错误",
+      "Pinyin": "cuòwù",
+      "Meaning": "mistake; wrong",
+      "Example": "这是一个错误。 zhè shì yí ge cuòwù: This is a mistake",
+      "Notes": "错 wrong + 误 error (讠 speech) = a wrong, a mistake"
+    },
+    {
+      "Hanzi": "整",
+      "Pinyin": "zhěng",
+      "Meaning": "whole, entire; to tidy",
+      "Example": "我等了整整一天。 wǒ děng le zhěngzhěng yì tiān: I waited a whole day",
+      "Notes": "敕 order + 正 zhèng straight (sound and meaning) = put in order, complete"
+    },
+    {
+      "Hanzi": "朝",
+      "Pinyin": "cháo / zhāo",
+      "Meaning": "towards; dynasty / morning",
+      "Example": "他朝我走来。 tā cháo wǒ zǒu lái: He walked towards me",
+      "Notes": "𠦝 sun among grass + 月 moon = dawn (zhāo); \"face towards\" cháo"
+    },
+    {
+      "Hanzi": "范围",
+      "Pinyin": "fànwéi",
+      "Meaning": "scope, range",
+      "Example": "范围太大了。 fànwéi tài dà le: The scope is too big",
+      "Notes": "范 model, limit + 围 surround (囗 enclosure) = the boundary around, range"
+    },
+    {
+      "Hanzi": "空",
+      "Pinyin": "kōng / kòng",
+      "Meaning": "empty; sky / free time",
+      "Example": "你明天有空吗？ nǐ míngtiān yǒu kòng ma: Are you free tomorrow?",
+      "Notes": "穴 cave, hole + 工 gōng for the sound = hollow, empty"
+    },
+    {
+      "Hanzi": "左右",
+      "Pinyin": "zuǒyòu",
+      "Meaning": "about, approximately; left and right",
+      "Example": "他三十岁左右。 tā sānshí suì zuǒyòu: He's about thirty",
+      "Notes": "左 left + 右 right = give or take on either side, roughly. Lookalike: 左 has 工, 右 has 口"
+    },
+    {
+      "Hanzi": "架",
+      "Pinyin": "jià",
+      "Meaning": "frame, rack; (measure word: planes)",
+      "Example": "书架上有很多书。 shūjià shang yǒu hěn duō shū: The shelf has many books",
+      "Notes": "加 jiā add (phonetic) + 木 wood = wooden frame. Also 吵架 quarrel"
+    },
+    {
+      "Hanzi": "室",
+      "Pinyin": "shì",
+      "Meaning": "room",
+      "Example": "他在办公室。 tā zài bàngōngshì: He's in the office",
+      "Notes": "宀 roof + 至 arrive = where you arrive under a roof, a room"
+    },
+    {
+      "Hanzi": "伟大",
+      "Pinyin": "wěidà",
+      "Meaning": "great, mighty",
+      "Example": "她是伟大的妈妈。 tā shì wěidà de māma: She's a great mother",
+      "Notes": "伟 great (亻 person + 韦 wéi for the sound) + 大 big = grand"
+    },
+    {
+      "Hanzi": "哈哈",
+      "Pinyin": "hāhā",
+      "Meaning": "(laughing) ha ha",
+      "Example": "哈哈，太好笑了！ hāhā, tài hǎoxiào le: Haha, so funny!",
+      "Notes": "口 mouth + 合 hé for the sound, doubled = the sound of laughter"
+    },
+    {
+      "Hanzi": "理论",
+      "Pinyin": "lǐlùn",
+      "Meaning": "theory",
+      "Example": "理论和实际不一样。 lǐlùn hé shíjì bù yíyàng: Theory differs from practice",
+      "Notes": "理 reason, principle + 论 discuss (讠 speech) = reasoned discussion, theory"
+    },
+    {
+      "Hanzi": "宣布",
+      "Pinyin": "xuānbù",
+      "Meaning": "to announce",
+      "Example": "他宣布结婚了。 tā xuānbù jiéhūn le: He announced he got married",
+      "Notes": "宣 proclaim (宀 roof + 亘) + 布 spread out = proclaim widely"
+    },
+    {
+      "Hanzi": "调",
+      "Pinyin": "diào / tiáo",
+      "Meaning": "to transfer; tune / to adjust",
+      "Example": "他被调到北京了。 tā bèi diào dào Běijīng le: He was transferred to Beijing",
+      "Notes": "讠 speech + 周 zhōu for the sound = harmonize words, tune, adjust"
+    },
+    {
+      "Hanzi": "破坏",
+      "Pinyin": "pòhuài",
+      "Meaning": "to damage, destroy",
+      "Example": "不要破坏东西。 búyào pòhuài dōngxi: Don't damage things",
+      "Notes": "破 break + 坏 bad, ruined = break and ruin"
+    },
+    {
+      "Hanzi": "配",
+      "Pinyin": "pèi",
+      "Meaning": "to match, pair; to fit",
+      "Example": "这两个颜色很配。 zhè liǎng ge yánsè hěn pèi: These two colours match",
+      "Notes": "酉 wine jar + 己 = mixing wine, blending; match, pair. Watch 己/已"
+    },
+    {
+      "Hanzi": "当地",
+      "Pinyin": "dāngdì",
+      "Meaning": "local",
+      "Example": "我喜欢当地的菜。 wǒ xǐhuan dāngdì de cài: I like the local food",
+      "Notes": "当 at, right there + 地 place = at this place, local"
+    },
+    {
+      "Hanzi": "大概",
+      "Pinyin": "dàgài",
+      "Meaning": "probably; roughly",
+      "Example": "他大概不来了。 tā dàgài bù lái le: He probably isn't coming",
+      "Notes": "大 big + 概 general (木 + 既 jì sound) = the big picture, roughly"
+    },
+    {
+      "Hanzi": "合",
+      "Pinyin": "hé",
+      "Meaning": "to close; to combine; to suit",
+      "Example": "这双鞋很合脚。 zhè shuāng xié hěn hé jiǎo: These shoes fit well",
+      "Notes": "亼 lid on 口 mouth/container = lid fits the box, close, combine"
+    },
+    {
+      "Hanzi": "周围",
+      "Pinyin": "zhōuwéi",
+      "Meaning": "surroundings, around",
+      "Example": "周围很安静。 zhōuwéi hěn ānjìng: It's quiet around here",
+      "Notes": "周 circuit, all round + 围 surround = all around"
+    },
+    {
+      "Hanzi": "布",
+      "Pinyin": "bù",
+      "Meaning": "cloth; to spread, announce",
+      "Example": "这块布很软。 zhè kuài bù hěn ruǎn: This cloth is soft",
+      "Notes": "巾 cloth + ナ (originally 父 fù, phonetic) = cloth; spread out like cloth"
+    },
+    {
+      "Hanzi": "重大",
+      "Pinyin": "zhòngdà",
+      "Meaning": "major, significant",
+      "Example": "这是重大的新闻。 zhè shì zhòngdà de xīnwén: This is major news",
+      "Notes": "重 heavy + 大 big = weighty and big, major. 重 here is zhòng, not chóng"
+    },
+    {
+      "Hanzi": "强大",
+      "Pinyin": "qiángdà",
+      "Meaning": "powerful, strong",
+      "Example": "这个国家很强大。 zhège guójiā hěn qiángdà: This country is powerful",
+      "Notes": "强 strong (弓 bow + 虽) + 大 big = strong and big, powerful"
+    },
+    {
+      "Hanzi": "合理",
+      "Pinyin": "hélǐ",
+      "Meaning": "reasonable",
+      "Example": "这个价格很合理。 zhège jiàgé hěn hélǐ: The price is reasonable",
+      "Notes": "合 fit + 理 reason = fits reason, reasonable"
+    },
+    {
+      "Hanzi": "调整",
+      "Pinyin": "tiáozhěng",
+      "Meaning": "to adjust",
+      "Example": "我要调整时间。 wǒ yào tiáozhěng shíjiān: I need to adjust the time",
+      "Notes": "调 adjust (tiáo) + 整 put in order = adjust into order"
+    },
+    {
+      "Hanzi": "宣传",
+      "Pinyin": "xuānchuán",
+      "Meaning": "to publicize; propaganda",
+      "Example": "他们在宣传新电影。 tāmen zài xuānchuán xīn diànyǐng: They're promoting a new film",
+      "Notes": "宣 proclaim + 传 pass on = proclaim and spread, publicize"
+    },
+    {
+      "Hanzi": "大约",
+      "Pinyin": "dàyuē",
+      "Meaning": "approximately, about",
+      "Example": "大约要一个小时。 dàyuē yào yí ge xiǎoshí: It takes about an hour",
+      "Notes": "大 big + 约 approximate (纟 thread + 勺) = broadly, roughly"
+    },
+    {
+      "Hanzi": "联合",
+      "Pinyin": "liánhé",
+      "Meaning": "to unite, ally",
+      "Example": "我们联合起来吧。 wǒmen liánhé qǐlai ba: Let's join forces",
+      "Notes": "联 connect (耳 ear + 关) + 合 combine = join together"
+    },
+    {
+      "Hanzi": "组合",
+      "Pinyin": "zǔhé",
+      "Meaning": "combination; to combine",
+      "Example": "这个组合很好听。 zhège zǔhé hěn hǎotīng: This group sounds great",
+      "Notes": "组 group (纟 thread + 且 qiě sound) + 合 combine = group together; also a band"
+    },
+    {
+      "Hanzi": "强烈",
+      "Pinyin": "qiángliè",
+      "Meaning": "strong, intense",
+      "Example": "阳光很强烈。 yángguāng hěn qiángliè: The sunlight is intense",
+      "Notes": "强 strong + 烈 fierce (灬 fire + 列 liè sound) = fiercely strong"
+    },
+    {
+      "Hanzi": "配合",
+      "Pinyin": "pèihé",
+      "Meaning": "to cooperate, coordinate",
+      "Example": "请你配合一下。 qǐng nǐ pèihé yíxià: Please cooperate",
+      "Notes": "配 match + 合 fit together = match up with others, cooperate"
+    },
+    {
+      "Hanzi": "结合",
+      "Pinyin": "jiéhé",
+      "Meaning": "to combine, integrate",
+      "Example": "学习要结合实际。 xuéxí yào jiéhé shíjì: Link study to practice",
+      "Notes": "结 tie a knot (纟 thread + 吉 jí sound) + 合 combine = tie together"
+    },
+    {
+      "Hanzi": "当中",
+      "Pinyin": "dāngzhōng",
+      "Meaning": "among, in the middle of",
+      "Example": "我们当中谁最高？ wǒmen dāngzhōng shéi zuì gāo: Who's tallest among us?",
+      "Notes": "当 at + 中 middle = right in the middle, among"
+    },
+    {
+      "Hanzi": "坚强",
+      "Pinyin": "jiānqiáng",
+      "Meaning": "strong, resilient",
+      "Example": "她很坚强。 tā hěn jiānqiáng: She's very resilient",
+      "Notes": "坚 firm, hard (土 earth at bottom) + 强 strong = tough, strong-willed"
+    },
+    {
+      "Hanzi": "合法",
+      "Pinyin": "héfǎ",
+      "Meaning": "legal, lawful",
+      "Example": "这样做合法吗？ zhèyàng zuò héfǎ ma: Is this legal?",
+      "Notes": "合 fit + 法 law (氵 water + 去) = fits the law, legal"
+    }
+  ]
+}

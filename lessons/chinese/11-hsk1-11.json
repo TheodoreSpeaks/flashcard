@@ -1,0 +1,280 @@
+{
+  "title": "HSK 1.11 · 北京, 汉字, 介绍, 有时候, 东边",
+  "focus": "睡 · 四 · 妈 · 谢谢 · 妈妈 · 第二 · 错 · 难 · 跑 · 五 · 远 · 二 · 歌 · 元 · 介绍 · 六 · 唱 · 名字 · 字 · 睡觉 · 第 · 有的 · 南 · 有时候 · 北 · 唱歌 · 北京 · 有用 · 有名 · 西边 · 上边 · 东边 · 南边 · 北边 · 女孩儿 · 下边 · 汉字 · 有一些 · 一下儿",
+  "body": "Numbers, compass directions and a run of 有 phrases. 边 turns 东南西北 and 上下 into places, and 有 + a noun makes an adjective (有用, 有名).\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 边 | bian | side | 西边, 上边, 东边, 南边, 北边, 下边 |\n| 有 | yǒu | have; there is | 有的, 有时候, 有用, 有名, 有一些 |\n| 北 | běi | north (two people back to back) | 北京, 北边 |\n| 南 | nán | south | 南边 |\n| 字 | zì | character (宀 + 子) | 名字, 汉字 |\n| 唱 / 歌 | chàng / gē | sing / song | 唱歌 |\n| 第 | dì | (ordinal prefix) | 第二 |\n| 一 | yī / yí | one | 有一些, 一下儿 |\n\n## Watch out\n\n- 四 sì (four) vs 西 xī (west): 西 has a line across the top.\n- 二 èr is for counting and ordinals (第二); for \"two of something\" say 两 liǎng.\n- 字 zì vs 子 zǐ: 字 adds the 宀 roof.\n- 远 yuǎn (far) and its opposite 近 jìn (near) both have 辶.\n- 一 changes tone: yí before a 4th tone (一下), yì before others (一些).",
+  "cards": [
+    {
+      "Hanzi": "睡",
+      "Pinyin": "shuì",
+      "Meaning": "to sleep",
+      "Example": "我想睡一会儿。 wǒ xiǎng shuì yíhuìr: I want to sleep a bit.",
+      "Notes": "目 eye + 垂 chuí droop (also the sound): drooping eyelids"
+    },
+    {
+      "Hanzi": "四",
+      "Pinyin": "sì",
+      "Meaning": "four",
+      "Example": "我家有四口人。 wǒ jiā yǒu sì kǒu rén: There are four of us at home.",
+      "Notes": "A box 囗 with 儿 inside (an older form was four lines). Lookalike: 西 xī west"
+    },
+    {
+      "Hanzi": "妈",
+      "Pinyin": "mā",
+      "Meaning": "mom",
+      "Example": "妈，我饿了。 mā, wǒ è le: Mom, I'm hungry.",
+      "Notes": "女 woman + 马 mǎ for the sound"
+    },
+    {
+      "Hanzi": "谢谢",
+      "Pinyin": "xièxie",
+      "Meaning": "thank you",
+      "Example": "谢谢你的书。 xièxie nǐ de shū: Thanks for the book.",
+      "Notes": "谢 = 讠 speech + 射 shè for the sound; doubled, the second one toneless"
+    },
+    {
+      "Hanzi": "妈妈",
+      "Pinyin": "māma",
+      "Meaning": "mom",
+      "Example": "妈妈在家。 māma zài jiā: Mom's at home.",
+      "Notes": "妈 = 女 woman + 马 mǎ for the sound"
+    },
+    {
+      "Hanzi": "第二",
+      "Pinyin": "dì'èr",
+      "Meaning": "second",
+      "Example": "我是第二个。 wǒ shì dì'èr ge: I'm the second one.",
+      "Notes": "第 (ordinal prefix) + 二 two = number two in order"
+    },
+    {
+      "Hanzi": "错",
+      "Pinyin": "cuò",
+      "Meaning": "wrong; mistake",
+      "Example": "对不起，我错了。 duìbuqǐ, wǒ cuò le: Sorry, I was wrong.",
+      "Notes": "钅 metal + 昔 xī for the sound. Lookalike: 借 jiè (borrow) has 亻 instead"
+    },
+    {
+      "Hanzi": "难",
+      "Pinyin": "nán",
+      "Meaning": "difficult",
+      "Example": "汉字很难写。 Hànzì hěn nán xiě: Chinese characters are hard to write.",
+      "Notes": "又 + 隹 short-tailed bird (traditional 難). Also read nàn (disaster) in rarer words"
+    },
+    {
+      "Hanzi": "跑",
+      "Pinyin": "pǎo",
+      "Meaning": "to run",
+      "Example": "他跑了! tā pǎo le: He ran off!",
+      "Notes": "足 foot + 包 bāo, sound shifted to pǎo"
+    },
+    {
+      "Hanzi": "五",
+      "Pinyin": "wǔ",
+      "Meaning": "five",
+      "Example": "我五点下课。 wǒ wǔ diǎn xiàkè: I finish class at five.",
+      "Notes": "An X-like shape between two lines. Lookalike: 王 wáng (king)"
+    },
+    {
+      "Hanzi": "远",
+      "Pinyin": "yuǎn",
+      "Meaning": "far",
+      "Example": "你家远不远？ nǐ jiā yuǎn bu yuǎn: Is your place far?",
+      "Notes": "辶 walk + 元 yuán for the sound. Opposite: 近 jìn near"
+    },
+    {
+      "Hanzi": "二",
+      "Pinyin": "èr",
+      "Meaning": "two",
+      "Example": "我要二十个。 wǒ yào èrshí ge: I want twenty.",
+      "Notes": "Two strokes, the bottom one longer. For 'two of something' use 两 liǎng"
+    },
+    {
+      "Hanzi": "歌",
+      "Pinyin": "gē",
+      "Meaning": "song",
+      "Example": "这首歌很好听。 zhè shǒu gē hěn hǎotīng: This song sounds great.",
+      "Notes": "哥 gē for the sound + 欠 open mouth: singing"
+    },
+    {
+      "Hanzi": "元",
+      "Pinyin": "yuán",
+      "Meaning": "yuan (money unit); first",
+      "Example": "一共十元。 yígòng shí yuán: Ten yuan in all.",
+      "Notes": "二 over 儿: a person with the head marked, so 'head, first'. Written 元 on prices; spoken 块"
+    },
+    {
+      "Hanzi": "介绍",
+      "Pinyin": "jièshào",
+      "Meaning": "to introduce",
+      "Example": "我来介绍一下。 wǒ lái jièshào yíxià: Let me introduce.",
+      "Notes": "介 be in between + 绍 connect (纟 thread + 召 zhào for the sound) = connect people as a go-between"
+    },
+    {
+      "Hanzi": "六",
+      "Pinyin": "liù",
+      "Meaning": "six",
+      "Example": "我六点起床。 wǒ liù diǎn qǐchuáng: I get up at six.",
+      "Notes": "亠 lid over 八. Lookalike: 文 wén (writing)"
+    },
+    {
+      "Hanzi": "唱",
+      "Pinyin": "chàng",
+      "Meaning": "to sing",
+      "Example": "她唱得很好。 tā chàng de hěn hǎo: She sings well.",
+      "Notes": "口 mouth + 昌 chāng for the sound"
+    },
+    {
+      "Hanzi": "名字",
+      "Pinyin": "míngzi",
+      "Meaning": "name",
+      "Example": "这是我的名字。 zhè shì wǒ de míngzi: This is my name.",
+      "Notes": "名 = 夕 evening + 口; 字 = 宀 roof + 子 zǐ"
+    },
+    {
+      "Hanzi": "字",
+      "Pinyin": "zì",
+      "Meaning": "character; word",
+      "Example": "这个字怎么读？ zhège zì zěnme dú: How do you read this character?",
+      "Notes": "宀 roof + 子 child (子 zǐ also helps the sound). Compare 子 alone"
+    },
+    {
+      "Hanzi": "睡觉",
+      "Pinyin": "shuìjiào",
+      "Meaning": "to sleep, go to bed",
+      "Example": "他睡觉了。 tā shuìjiào le: He's gone to bed.",
+      "Notes": "睡 = 目 eye + 垂 chuí; 觉 is jiào here but jué in 觉得"
+    },
+    {
+      "Hanzi": "第",
+      "Pinyin": "dì",
+      "Meaning": "(prefix for ordinals: first, second)",
+      "Example": "我第一次来。 wǒ dì-yī cì lái: It's my first time here.",
+      "Notes": "⺮ bamboo + 弟 dì for the sound: bamboo slips kept in order"
+    },
+    {
+      "Hanzi": "有的",
+      "Pinyin": "yǒude",
+      "Meaning": "some (of them)",
+      "Example": "有的人不喜欢。 yǒude rén bù xǐhuan: Some people don't like it.",
+      "Notes": "有 there are + 的 = those there are: some"
+    },
+    {
+      "Hanzi": "南",
+      "Pinyin": "nán",
+      "Meaning": "south",
+      "Example": "我家在南方。 wǒ jiā zài nánfāng: My home is in the south.",
+      "Notes": "十 on top of a frame with 丷 and 干 inside; learn it as one shape. Also in 南京"
+    },
+    {
+      "Hanzi": "有时候",
+      "Pinyin": "yǒushíhou",
+      "Meaning": "sometimes",
+      "Example": "我有时候在家吃。 wǒ yǒushíhou zài jiā chī: Sometimes I eat at home.",
+      "Notes": "有 there are + 时候 times = there are times: sometimes"
+    },
+    {
+      "Hanzi": "北",
+      "Pinyin": "běi",
+      "Meaning": "north",
+      "Example": "北边很冷。 běibian hěn lěng: It's cold up north.",
+      "Notes": "Two people back to back (it first meant 'back'); later borrowed for north"
+    },
+    {
+      "Hanzi": "唱歌",
+      "Pinyin": "chànggē",
+      "Meaning": "to sing",
+      "Example": "她喜欢唱歌。 tā xǐhuan chànggē: She likes singing.",
+      "Notes": "唱 = 口 + 昌 chāng; 歌 = 哥 gē + 欠 (open mouth)"
+    },
+    {
+      "Hanzi": "北京",
+      "Pinyin": "Běijīng",
+      "Meaning": "Beijing",
+      "Example": "我去过北京。 wǒ qùguo Běijīng: I've been to Beijing.",
+      "Notes": "北 north + 京 capital = northern capital. Compare 南京, the southern capital"
+    },
+    {
+      "Hanzi": "有用",
+      "Pinyin": "yǒuyòng",
+      "Meaning": "useful",
+      "Example": "这本书很有用。 zhè běn shū hěn yǒuyòng: This book is really useful.",
+      "Notes": "有 have + 用 use = has a use"
+    },
+    {
+      "Hanzi": "有名",
+      "Pinyin": "yǒumíng",
+      "Meaning": "famous",
+      "Example": "他很有名。 tā hěn yǒumíng: He's very famous.",
+      "Notes": "有 have + 名 name (夕 evening + 口: calling out a name in the dark) = has a name"
+    },
+    {
+      "Hanzi": "西边",
+      "Pinyin": "xībian",
+      "Meaning": "west side",
+      "Example": "太阳在西边。 tàiyáng zài xībian: The sun is in the west.",
+      "Notes": "西 west + 边 side. 西 vs 四: 西 has a line across the top"
+    },
+    {
+      "Hanzi": "上边",
+      "Pinyin": "shàngbian",
+      "Meaning": "on top; above",
+      "Example": "书在上边。 shū zài shàngbian: The book is up there.",
+      "Notes": "上 up + 边 side = the upper side"
+    },
+    {
+      "Hanzi": "东边",
+      "Pinyin": "dōngbian",
+      "Meaning": "east side",
+      "Example": "东边是商店。 dōngbian shì shāngdiàn: The shop is on the east side.",
+      "Notes": "东 east (traditional 東: sun 日 rising behind a tree 木) + 边 side"
+    },
+    {
+      "Hanzi": "南边",
+      "Pinyin": "nánbian",
+      "Meaning": "south side",
+      "Example": "学校在南边。 xuéxiào zài nánbian: The school is to the south.",
+      "Notes": "南 south + 边 side"
+    },
+    {
+      "Hanzi": "北边",
+      "Pinyin": "běibian",
+      "Meaning": "north side",
+      "Example": "北边下雪了。 běibian xiàxuě le: It's snowing up north.",
+      "Notes": "北 north + 边 side"
+    },
+    {
+      "Hanzi": "女孩儿",
+      "Pinyin": "nǚháir",
+      "Meaning": "girl",
+      "Example": "那个女孩儿是谁？ nàge nǚháir shì shéi: Who's that girl?",
+      "Notes": "女 woman + 孩 child (子 + 亥 hài for the sound) + 儿 -r"
+    },
+    {
+      "Hanzi": "下边",
+      "Pinyin": "xiàbian",
+      "Meaning": "below; underneath",
+      "Example": "猫在桌子下边。 māo zài zhuōzi xiàbian: The cat is under the table.",
+      "Notes": "下 down + 边 side = the lower side"
+    },
+    {
+      "Hanzi": "汉字",
+      "Pinyin": "Hànzì",
+      "Meaning": "Chinese character",
+      "Example": "我会写一百个汉字。 wǒ huì xiě yìbǎi ge Hànzì: I can write a hundred characters.",
+      "Notes": "汉 Han Chinese + 字 character = characters of the Han"
+    },
+    {
+      "Hanzi": "有一些",
+      "Pinyin": "yǒuyìxiē",
+      "Meaning": "some; a little",
+      "Example": "有一些人走了。 yǒu yìxiē rén zǒu le: Some people have left.",
+      "Notes": "有 there are + 一些 a few = there are some; also 'somewhat' (有一些累)"
+    },
+    {
+      "Hanzi": "一下儿",
+      "Pinyin": "yíxiàr",
+      "Meaning": "(briefly; softens a verb)",
+      "Example": "你等一下儿。 nǐ děng yíxiàr: Wait a moment.",
+      "Notes": "一 one + 下 go, time + 儿 = one go: do briefly. 一 is yí before a 4th tone"
+    }
+  ]
+}

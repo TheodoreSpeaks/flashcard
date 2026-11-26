@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.10 · 年轻, 科学家, 早餐, 校长, 青少年",
+  "focus": "短 · 脚 · 市 · 讨论 · 假 · 嘴 · 就要 · 省 · 海 · 夜 · 称 · 年轻 · 晚安 · 科学 · 科 · 轻 · 地球 · 早就 · 球队 · 安静 · 作业 · 家长 · 早餐 · 早晨 · 作家 · 地铁 · 平安 · 队长 · 青年 · 校长 · 市长 · 周年 · 科学家 · 篮球 · 晚餐 · 晚会 · 少年 · 青少年 · 平常",
+  "body": "Time of day (早 early, 晚 late), people by role (家, 长) and youth (年, 青, 少). 长 here is always zhǎng 'head of': 家长, 队长, 校长, 市长.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 年 | nián | year | 年轻, 青年, 周年, 少年, 青少年 |\n| 长 | zhǎng | head, chief | 家长, 队长, 校长, 市长 |\n| 早 | zǎo | early, morning (日 sun + 十) | 早就, 早餐, 早晨 |\n| 晚 | wǎn | late, evening (日 + 免 miǎn sound) | 晚安, 晚餐, 晚会 |\n| 科 | kē | branch of study (禾 grain + 斗 measure) | 科, 科学, 科学家 |\n| 平 | píng | flat, peaceful | 平安, 平常 |\n| 球 | qiú | ball (王 jade + 求 qiú sound) | 地球, 球队, 篮球 |\n| 家 | jiā | home; -ist (expert) | 家长, 作家, 科学家 |\n\n## Watch out\n\n- 假 is jiǎ 'fake' (假的) but jià 'holiday' (放假).\n- 省 has 少 few on top of 目 eye; read shěng for 'save' and 'province'.\n- 少年 is shàonián (4th tone): 少 shào 'young' here, not shǎo 'few'.",
+  "cards": [
+    {
+      "Hanzi": "短",
+      "Pinyin": "duǎn",
+      "Meaning": "short",
+      "Example": "我的头发很短。 wǒ de tóufa hěn duǎn: My hair is short",
+      "Notes": "矢 arrow + 豆 dòu (sound): measured by arrow length, short. Opposite: 长 cháng"
+    },
+    {
+      "Hanzi": "脚",
+      "Pinyin": "jiǎo",
+      "Meaning": "foot",
+      "Example": "我的脚很疼。 wǒ de jiǎo hěn téng: My foot hurts",
+      "Notes": "月 body + 却 què (sound) = foot. 月 on the left means body/flesh"
+    },
+    {
+      "Hanzi": "市",
+      "Pinyin": "shì",
+      "Meaning": "city; market",
+      "Example": "我住在上海市。 wǒ zhù zài Shànghǎi shì: I live in Shanghai",
+      "Notes": "Originally a market; now also a city: 城市, 市长. Lookalike: 布 bù cloth"
+    },
+    {
+      "Hanzi": "讨论",
+      "Pinyin": "tǎolùn",
+      "Meaning": "to discuss",
+      "Example": "我们讨论一下。 wǒmen tǎolùn yíxià: Let's discuss it",
+      "Notes": "讨 ask, seek (讠 speech) + 论 discuss (讠 + 仑 lún, sound) = talk it over"
+    },
+    {
+      "Hanzi": "假",
+      "Pinyin": "jiǎ / jià",
+      "Meaning": "fake / holiday, time off",
+      "Example": "我们明天放假。 wǒmen míngtiān fàngjià: We're off tomorrow",
+      "Notes": "亻 person + right part (sound). jiǎ fake (假的); jià holiday (放假, 请假)"
+    },
+    {
+      "Hanzi": "嘴",
+      "Pinyin": "zuǐ",
+      "Meaning": "mouth",
+      "Example": "把嘴张开。 bǎ zuǐ zhāngkāi: Open your mouth",
+      "Notes": "口 mouth + 觜 zī (sound, 'beak') = mouth"
+    },
+    {
+      "Hanzi": "就要",
+      "Pinyin": "jiùyào",
+      "Meaning": "about to, going to (soon)",
+      "Example": "我们就要到了。 wǒmen jiùyào dào le: We're almost there",
+      "Notes": "就 soon + 要 will = about to; ends with 了: 就要…了"
+    },
+    {
+      "Hanzi": "省",
+      "Pinyin": "shěng",
+      "Meaning": "to save; province",
+      "Example": "这样省钱。 zhèyàng shěng qián: This saves money",
+      "Notes": "少 few on top of 目 eye. To save (省钱, 省时间); a province (广东省)"
+    },
+    {
+      "Hanzi": "海",
+      "Pinyin": "hǎi",
+      "Meaning": "sea, ocean",
+      "Example": "我想去海边。 wǒ xiǎng qù hǎibiān: I want to go to the seaside",
+      "Notes": "氵 water + 每 měi (sound) = sea. In 上海"
+    },
+    {
+      "Hanzi": "夜",
+      "Pinyin": "yè",
+      "Meaning": "night",
+      "Example": "昨天我工作到深夜。 zuótiān wǒ gōngzuò dào shēnyè: I worked late into the night yesterday",
+      "Notes": "亠 + 亻 + 夕-like part (dusk, moon): night. 夜里, 半夜 midnight"
+    },
+    {
+      "Hanzi": "称",
+      "Pinyin": "chēng",
+      "Meaning": "to call, name; to weigh",
+      "Example": "大家称他老王。 dàjiā chēng tā Lǎo Wáng: Everyone calls him Lao Wang",
+      "Notes": "禾 grain + 尔: weighing grain, then 'to name'. 称为 = to be called"
+    },
+    {
+      "Hanzi": "年轻",
+      "Pinyin": "niánqīng",
+      "Meaning": "young",
+      "Example": "她看起来很年轻。 tā kàn qǐlai hěn niánqīng: She looks young",
+      "Notes": "年 years + 轻 light = light in years, young"
+    },
+    {
+      "Hanzi": "晚安",
+      "Pinyin": "wǎn'ān",
+      "Meaning": "good night",
+      "Example": "晚安，明天见。 wǎn'ān, míngtiān jiàn: Good night, see you tomorrow",
+      "Notes": "晚 evening + 安 peace = peaceful evening, good night"
+    },
+    {
+      "Hanzi": "科学",
+      "Pinyin": "kēxué",
+      "Meaning": "science",
+      "Example": "我喜欢科学。 wǒ xǐhuan kēxué: I like science",
+      "Notes": "科 branch of study + 学 learning = science"
+    },
+    {
+      "Hanzi": "科",
+      "Pinyin": "kē",
+      "Meaning": "department, subject; branch of study",
+      "Example": "你学什么科？ nǐ xué shénme kē: What subject do you study?",
+      "Notes": "禾 grain + 斗 measure: sorting grain by grade, so a category. 内科 internal medicine"
+    },
+    {
+      "Hanzi": "轻",
+      "Pinyin": "qīng",
+      "Meaning": "light (weight); gentle",
+      "Example": "这个包很轻。 zhège bāo hěn qīng: This bag is light",
+      "Notes": "车 vehicle + 又 over 工 (from 巠 jīng, sound) = a light cart. Opposite: 重 zhòng"
+    },
+    {
+      "Hanzi": "地球",
+      "Pinyin": "dìqiú",
+      "Meaning": "the Earth",
+      "Example": "地球是圆的。 dìqiú shì yuán de: The Earth is round",
+      "Notes": "地 earth, ground + 球 ball = the earth ball, the globe"
+    },
+    {
+      "Hanzi": "早就",
+      "Pinyin": "zǎojiù",
+      "Meaning": "long ago, already",
+      "Example": "我早就知道了。 wǒ zǎojiù zhīdào le: I knew that ages ago",
+      "Notes": "早 early + 就 already = long since"
+    },
+    {
+      "Hanzi": "球队",
+      "Pinyin": "qiúduì",
+      "Meaning": "(sports) team",
+      "Example": "这是我们的球队。 zhè shì wǒmen de qiúduì: This is our team",
+      "Notes": "球 ball + 队 team = ball team"
+    },
+    {
+      "Hanzi": "安静",
+      "Pinyin": "ānjìng",
+      "Meaning": "quiet",
+      "Example": "请安静！ qǐng ānjìng: Quiet, please!",
+      "Notes": "安 peace (宀 roof + 女 woman) + 静 still (青 qīng + 争) = quiet"
+    },
+    {
+      "Hanzi": "作业",
+      "Pinyin": "zuòyè",
+      "Meaning": "homework",
+      "Example": "作业写完了吗？ zuòyè xiě wán le ma: Is your homework done?",
+      "Notes": "作 do + 业 work, task = assigned work, homework"
+    },
+    {
+      "Hanzi": "家长",
+      "Pinyin": "jiāzhǎng",
+      "Meaning": "parent (of a student)",
+      "Example": "明天开家长会。 míngtiān kāi jiāzhǎng huì: Parents' meeting is tomorrow",
+      "Notes": "家 family + 长 head (zhǎng) = the head of the family, parent"
+    },
+    {
+      "Hanzi": "早餐",
+      "Pinyin": "zǎocān",
+      "Meaning": "breakfast",
+      "Example": "你吃早餐了吗？ nǐ chī zǎocān le ma: Have you had breakfast?",
+      "Notes": "早 morning + 餐 meal (食 food at the bottom) = breakfast. More formal than 早饭"
+    },
+    {
+      "Hanzi": "早晨",
+      "Pinyin": "zǎochen",
+      "Meaning": "early morning",
+      "Example": "早晨的空气很好。 zǎochen de kōngqì hěn hǎo: The morning air is fresh",
+      "Notes": "早 early + 晨 dawn (日 sun + 辰 chén, sound) = early morning"
+    },
+    {
+      "Hanzi": "作家",
+      "Pinyin": "zuòjiā",
+      "Meaning": "writer, author",
+      "Example": "他是有名的作家。 tā shì yǒumíng de zuòjiā: He's a famous writer",
+      "Notes": "作 create, write + 家 expert = a professional writer"
+    },
+    {
+      "Hanzi": "地铁",
+      "Pinyin": "dìtiě",
+      "Meaning": "subway",
+      "Example": "我坐地铁上班。 wǒ zuò dìtiě shàngbān: I take the subway to work",
+      "Notes": "地 ground (under) + 铁 iron, rail (钅 metal) = underground railway"
+    },
+    {
+      "Hanzi": "平安",
+      "Pinyin": "píng'ān",
+      "Meaning": "safe and sound",
+      "Example": "祝你一路平安！ zhù nǐ yí lù píng'ān: Have a safe trip!",
+      "Notes": "平 calm + 安 safe = safe and sound"
+    },
+    {
+      "Hanzi": "队长",
+      "Pinyin": "duìzhǎng",
+      "Meaning": "team captain",
+      "Example": "他是我们的队长。 tā shì wǒmen de duìzhǎng: He's our captain",
+      "Notes": "队 team + 长 head (zhǎng) = team leader"
+    },
+    {
+      "Hanzi": "青年",
+      "Pinyin": "qīngnián",
+      "Meaning": "young person, youth",
+      "Example": "他是一个好青年。 tā shì yí ge hǎo qīngnián: He's a fine young man",
+      "Notes": "青 green, young + 年 years = youth (roughly 18 to 40)"
+    },
+    {
+      "Hanzi": "校长",
+      "Pinyin": "xiàozhǎng",
+      "Meaning": "principal, headmaster",
+      "Example": "校长在开会。 xiàozhǎng zài kāihuì: The principal is in a meeting",
+      "Notes": "校 school (木 + 交 jiāo, sound) + 长 head = head of school"
+    },
+    {
+      "Hanzi": "市长",
+      "Pinyin": "shìzhǎng",
+      "Meaning": "mayor",
+      "Example": "市长来了。 shìzhǎng lái le: The mayor is here",
+      "Notes": "市 city + 长 head (zhǎng) = mayor"
+    },
+    {
+      "Hanzi": "周年",
+      "Pinyin": "zhōunián",
+      "Meaning": "anniversary",
+      "Example": "今天是十周年。 jīntiān shì shí zhōunián: Today is the 10th anniversary",
+      "Notes": "周 full circle + 年 year = a full year round, anniversary"
+    },
+    {
+      "Hanzi": "科学家",
+      "Pinyin": "kēxuéjiā",
+      "Meaning": "scientist",
+      "Example": "我想当科学家。 wǒ xiǎng dāng kēxuéjiā: I want to be a scientist",
+      "Notes": "科学 science + 家 expert = scientist"
+    },
+    {
+      "Hanzi": "篮球",
+      "Pinyin": "lánqiú",
+      "Meaning": "basketball",
+      "Example": "我们去打篮球吧。 wǒmen qù dǎ lánqiú ba: Let's go play basketball",
+      "Notes": "篮 basket (⺮ bamboo + 监, sound) + 球 ball = basketball"
+    },
+    {
+      "Hanzi": "晚餐",
+      "Pinyin": "wǎncān",
+      "Meaning": "dinner",
+      "Example": "晚餐吃什么？ wǎncān chī shénme: What's for dinner?",
+      "Notes": "晚 evening + 餐 meal = dinner. More formal than 晚饭"
+    },
+    {
+      "Hanzi": "晚会",
+      "Pinyin": "wǎnhuì",
+      "Meaning": "evening party, gala",
+      "Example": "今晚有个晚会。 jīnwǎn yǒu ge wǎnhuì: There's a party tonight",
+      "Notes": "晚 evening + 会 gathering = evening party. 春节晚会 Spring Festival Gala"
+    },
+    {
+      "Hanzi": "少年",
+      "Pinyin": "shàonián",
+      "Meaning": "teenager, youth (boy)",
+      "Example": "他是个少年。 tā shì ge shàonián: He's a teenager",
+      "Notes": "少 young (shào here, not shǎo) + 年 years = young in years"
+    },
+    {
+      "Hanzi": "青少年",
+      "Pinyin": "qīngshàonián",
+      "Meaning": "teenagers, adolescents",
+      "Example": "这本书适合青少年。 zhè běn shū shìhé qīngshàonián: This book suits teens",
+      "Notes": "青年 youth + 少年 juvenile combined = teenagers"
+    },
+    {
+      "Hanzi": "平常",
+      "Pinyin": "píngcháng",
+      "Meaning": "ordinary; usually",
+      "Example": "他平常很早起床。 tā píngcháng hěn zǎo qǐchuáng: He usually gets up early",
+      "Notes": "平 ordinary + 常 often, usual = usual, ordinary"
+    }
+  ]
+}

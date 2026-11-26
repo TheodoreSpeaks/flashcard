@@ -1,0 +1,280 @@
+{
+  "title": "HSK 1.10 · 旁边, 外国, 没关系, 干净, 一点儿",
+  "focus": "喝 · 穿 · 花 · 干 · 块 · 外 · 半 · 关 · 左 · 右 · 国 · 没什么 · 旁边 · 那边 · 干净 · 这儿 · 哪儿 · 干什么 · 这边 · 右边 · 那儿 · 没关系 · 哪些 · 国外 · 外国 · 左边 · 楼上 · 一点儿 · 关上 · 玩儿 · 半天 · 后天 · 里边 · 外语 · 没事儿 · 一块儿 · 外边 · 汉语 · 后边",
+  "body": "Where things are and everyday set phrases. 边 (side) turns direction words into places, 儿 makes the Beijing-style -r ending, and 外 outside, 干, 关 and 没 come back in several words.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 边 | biān / bian | side (辶 + 力) | 旁边, 那边, 这边, 右边, 左边, 里边, 外边, 后边 |\n| 儿 | -r | (erhua suffix) | 这儿, 哪儿, 那儿, 一点儿, 玩儿, 没事儿, 一块儿 |\n| 外 | wài | outside; foreign | 国外, 外国, 外语, 外边 |\n| 没 | méi | not have | 没什么, 没关系, 没事儿 |\n| 国 | guó | country | 国外, 外国 |\n| 干 | gān / gàn | dry / to do | 干净, 干什么 |\n| 关 | guān | close; concern | 关上, 没关系 |\n| 半 | bàn | half | 半天 |\n\n## Watch out\n\n- 干 is gān (dry) in 干净 but gàn (to do) in 干什么.\n- 那 nà (that) vs 哪 nǎ (which): the question word has 口 on the left.\n- 国外 = abroad, 外国 = foreign country: same characters, flipped.\n- 左 has 工 underneath and starts with 一; 右 has 口 and starts with ノ.\n- 边 is usually toneless after a direction (右边 yòubian), but full biān in 旁边.\n- 干 vs 千 qiān (thousand): 千 starts with a slanted stroke.",
+  "cards": [
+    {
+      "Hanzi": "喝",
+      "Pinyin": "hē",
+      "Meaning": "to drink",
+      "Example": "你想喝什么？ nǐ xiǎng hē shénme: What do you want to drink?",
+      "Notes": "口 mouth + 曷 for the sound. Lookalike: 渴 kě (thirsty) has 氵 water instead of 口"
+    },
+    {
+      "Hanzi": "穿",
+      "Pinyin": "chuān",
+      "Meaning": "to wear; to put on; to pass through",
+      "Example": "穿上衣服。 chuānshang yīfu: Put your clothes on.",
+      "Notes": "穴 hole + 牙 tooth: teeth boring through a hole, so 'pass through'. You put your limbs through clothes"
+    },
+    {
+      "Hanzi": "花",
+      "Pinyin": "huā",
+      "Meaning": "flower; to spend",
+      "Example": "这是妈妈买的花。 zhè shì māma mǎi de huā: These are flowers Mom bought.",
+      "Notes": "艹 plant + 化 huà for the sound"
+    },
+    {
+      "Hanzi": "干",
+      "Pinyin": "gān / gàn",
+      "Meaning": "dry (gān); to do (gàn)",
+      "Example": "你在干什么？ nǐ zài gàn shénme: What are you doing?",
+      "Notes": "gān = dry (干净); gàn = to do (干活). Lookalikes: 千 qiān (slanted top), 于 yú (hook at the bottom)"
+    },
+    {
+      "Hanzi": "块",
+      "Pinyin": "kuài",
+      "Meaning": "piece, lump; yuan (spoken)",
+      "Example": "这个五块钱。 zhège wǔ kuài qián: This is five yuan.",
+      "Notes": "土 earth + 夬 for the sound (as in 快 kuài): a clod of earth, a lump"
+    },
+    {
+      "Hanzi": "外",
+      "Pinyin": "wài",
+      "Meaning": "outside; foreign",
+      "Example": "外边很冷。 wàibian hěn lěng: It's cold outside.",
+      "Notes": "夕 evening + 卜; learn it as those two pieces side by side. Opposite: 里 inside"
+    },
+    {
+      "Hanzi": "半",
+      "Pinyin": "bàn",
+      "Meaning": "half",
+      "Example": "现在三点半。 xiànzài sān diǎn bàn: It's half past three.",
+      "Notes": "Traditionally explained as 八 split + 牛 ox: splitting an ox in two"
+    },
+    {
+      "Hanzi": "关",
+      "Pinyin": "guān",
+      "Meaning": "to close; to turn off",
+      "Example": "请关灯。 qǐng guān dēng: Please turn off the light.",
+      "Notes": "Simplified from 關 (a bolted 门 door). Opposite: 开 kāi open"
+    },
+    {
+      "Hanzi": "左",
+      "Pinyin": "zuǒ",
+      "Meaning": "left",
+      "Example": "往左走。 wǎng zuǒ zǒu: Go left.",
+      "Notes": "A hand (𠂇) + 工 tool. Written 一 first, then ノ. Compare 右: hand + 口"
+    },
+    {
+      "Hanzi": "右",
+      "Pinyin": "yòu",
+      "Meaning": "right",
+      "Example": "在右边。 zài yòubian: It's on the right.",
+      "Notes": "A hand (𠂇) + 口 mouth: the hand that feeds the mouth. Written ノ first, then 一. Compare 左"
+    },
+    {
+      "Hanzi": "国",
+      "Pinyin": "guó",
+      "Meaning": "country",
+      "Example": "你是哪国人？ nǐ shì nǎ guó rén: What country are you from?",
+      "Notes": "囗 border + 玉 jade: a treasure inside borders (traditional 國 had 或 inside)"
+    },
+    {
+      "Hanzi": "没什么",
+      "Pinyin": "méishénme",
+      "Meaning": "it's nothing; never mind",
+      "Example": "没什么，别担心。 méi shénme, bié dānxīn: It's nothing, don't worry.",
+      "Notes": "没 not have + 什么 what = there's no 'what' to it: nothing"
+    },
+    {
+      "Hanzi": "旁边",
+      "Pinyin": "pángbiān",
+      "Meaning": "beside; next to",
+      "Example": "他坐在我旁边。 tā zuò zài wǒ pángbiān: He sits next to me.",
+      "Notes": "旁 side + 边 edge = by the side"
+    },
+    {
+      "Hanzi": "那边",
+      "Pinyin": "nàbian",
+      "Meaning": "over there",
+      "Example": "你看那边！ nǐ kàn nàbian: Look over there!",
+      "Notes": "那 that + 边 side = that side. Mirror: 这边"
+    },
+    {
+      "Hanzi": "干净",
+      "Pinyin": "gānjìng",
+      "Meaning": "clean",
+      "Example": "房间很干净。 fángjiān hěn gānjìng: The room is clean.",
+      "Notes": "干 dry + 净 clean (冫 + 争 zhēng for the sound) = dry and clean"
+    },
+    {
+      "Hanzi": "这儿",
+      "Pinyin": "zhèr",
+      "Meaning": "here",
+      "Example": "你来这儿。 nǐ lái zhèr: Come here.",
+      "Notes": "这 this + 儿 (adds -r) = this spot. Same as 这里"
+    },
+    {
+      "Hanzi": "哪儿",
+      "Pinyin": "nǎr",
+      "Meaning": "where?",
+      "Example": "你去哪儿？ nǐ qù nǎr: Where are you going?",
+      "Notes": "哪 which (口 + 那) + 儿 -r = which spot: where"
+    },
+    {
+      "Hanzi": "干什么",
+      "Pinyin": "gànshénme",
+      "Meaning": "to do what?; why on earth",
+      "Example": "你干什么去？ nǐ gàn shénme qù: What are you off to do?",
+      "Notes": "干 gàn do + 什么 what = do what. 干 is gàn here, not gān"
+    },
+    {
+      "Hanzi": "这边",
+      "Pinyin": "zhèbiān",
+      "Meaning": "this side; over here",
+      "Example": "请这边走。 qǐng zhèbiān zǒu: This way, please.",
+      "Notes": "这 this + 边 side = this side"
+    },
+    {
+      "Hanzi": "右边",
+      "Pinyin": "yòubian",
+      "Meaning": "right side",
+      "Example": "洗手间在右边。 xǐshǒujiān zài yòubian: The restroom is on the right.",
+      "Notes": "右 right + 边 side"
+    },
+    {
+      "Hanzi": "那儿",
+      "Pinyin": "nàr",
+      "Meaning": "there",
+      "Example": "我在那儿等你。 wǒ zài nàr děng nǐ: I'll wait for you there.",
+      "Notes": "那 that + 儿 -r = that spot. 那 nà has no 口; 哪 nǎ does"
+    },
+    {
+      "Hanzi": "没关系",
+      "Pinyin": "méiguānxi",
+      "Meaning": "it doesn't matter; no problem",
+      "Example": "没关系，我不累。 méi guānxi, wǒ bú lèi: No problem, I'm not tired.",
+      "Notes": "没 not have + 关系 connection = it has no bearing: it's fine. 关 means 'concern' here, not 'close'"
+    },
+    {
+      "Hanzi": "哪些",
+      "Pinyin": "nǎxiē",
+      "Meaning": "which ones?",
+      "Example": "你要哪些？ nǐ yào nǎxiē: Which ones do you want?",
+      "Notes": "哪 which + 些 some (plural) = which ones"
+    },
+    {
+      "Hanzi": "国外",
+      "Pinyin": "guówài",
+      "Meaning": "abroad",
+      "Example": "他在国外工作。 tā zài guówài gōngzuò: He works abroad.",
+      "Notes": "国 country + 外 outside = outside the country. Flipped, 外国 = foreign country"
+    },
+    {
+      "Hanzi": "外国",
+      "Pinyin": "wàiguó",
+      "Meaning": "foreign country; foreign",
+      "Example": "他是外国人。 tā shì wàiguórén: He's a foreigner.",
+      "Notes": "外 outside + 国 country = an outside country. Flipped, 国外 = abroad"
+    },
+    {
+      "Hanzi": "左边",
+      "Pinyin": "zuǒbian",
+      "Meaning": "left side",
+      "Example": "我坐左边。 wǒ zuò zuǒbian: I'll sit on the left.",
+      "Notes": "左 left + 边 side"
+    },
+    {
+      "Hanzi": "楼上",
+      "Pinyin": "lóushàng",
+      "Meaning": "upstairs",
+      "Example": "他住在楼上。 tā zhù zài lóushàng: He lives upstairs.",
+      "Notes": "楼 floor, building (木 + 娄 lóu for the sound) + 上 up. Opposite: 楼下"
+    },
+    {
+      "Hanzi": "一点儿",
+      "Pinyin": "yìdiǎnr",
+      "Meaning": "a little bit",
+      "Example": "我会说一点儿。 wǒ huì shuō yìdiǎnr: I can speak a little.",
+      "Notes": "一 one + 点 dot + 儿 -r = one dot: a little. 一 is read yì before a 3rd tone"
+    },
+    {
+      "Hanzi": "关上",
+      "Pinyin": "guānshang",
+      "Meaning": "to close; to shut",
+      "Example": "请把门关上。 qǐng bǎ mén guānshang: Please shut the door.",
+      "Notes": "关 close + 上 (result: shut tight) = close up"
+    },
+    {
+      "Hanzi": "玩儿",
+      "Pinyin": "wánr",
+      "Meaning": "to play; to have fun",
+      "Example": "周末去哪儿玩儿？ zhōumò qù nǎr wánr: Where shall we go this weekend?",
+      "Notes": "玩 = 王 (jade 玉) + 元 yuán for the sound: toying with jade; + 儿 -r"
+    },
+    {
+      "Hanzi": "半天",
+      "Pinyin": "bàntiān",
+      "Meaning": "half a day; ages",
+      "Example": "我等了半天。 wǒ děngle bàntiān: I waited forever.",
+      "Notes": "半 half + 天 day = half a day; in speech it means 'a long time'"
+    },
+    {
+      "Hanzi": "后天",
+      "Pinyin": "hòutiān",
+      "Meaning": "the day after tomorrow",
+      "Example": "他后天来。 tā hòutiān lái: He's coming the day after tomorrow.",
+      "Notes": "后 = after, behind; its opposite is 前 (qián), as in 前天, the day before yesterday"
+    },
+    {
+      "Hanzi": "里边",
+      "Pinyin": "lǐbian",
+      "Meaning": "inside",
+      "Example": "里边有人吗？ lǐbian yǒu rén ma: Is anyone inside?",
+      "Notes": "里 inside (田 field + 土 earth) + 边 side. Lookalike: 理 lǐ adds 王"
+    },
+    {
+      "Hanzi": "外语",
+      "Pinyin": "wàiyǔ",
+      "Meaning": "foreign language",
+      "Example": "你会说外语吗？ nǐ huì shuō wàiyǔ ma: Do you speak a foreign language?",
+      "Notes": "外 foreign + 语 language (讠 speech + 吾 wú for the sound) = foreign speech"
+    },
+    {
+      "Hanzi": "没事儿",
+      "Pinyin": "méishìr",
+      "Meaning": "it's okay; nothing's wrong; free",
+      "Example": "没事儿，你去吧。 méishìr, nǐ qù ba: It's fine, go ahead.",
+      "Notes": "没 not have + 事 matter + 儿 -r = there's no matter: it's okay, or I'm free"
+    },
+    {
+      "Hanzi": "一块儿",
+      "Pinyin": "yíkuàir",
+      "Meaning": "together",
+      "Example": "我们一块儿去吧。 wǒmen yíkuàir qù ba: Let's go together.",
+      "Notes": "一 one + 块 lump + 儿 = in one lump: together (= 一起). 一 is yí before a 4th tone"
+    },
+    {
+      "Hanzi": "外边",
+      "Pinyin": "wàibian",
+      "Meaning": "outside",
+      "Example": "孩子在外边玩儿。 háizi zài wàibian wánr: The kids are playing outside.",
+      "Notes": "外 outside + 边 side. Opposite: 里边"
+    },
+    {
+      "Hanzi": "汉语",
+      "Pinyin": "Hànyǔ",
+      "Meaning": "Chinese (language)",
+      "Example": "我在学汉语。 wǒ zài xué Hànyǔ: I'm learning Chinese.",
+      "Notes": "汉 the Han people (氵: named after the Han River) + 语 language = language of the Han"
+    },
+    {
+      "Hanzi": "后边",
+      "Pinyin": "hòubian",
+      "Meaning": "behind; at the back",
+      "Example": "你后边有人。 nǐ hòubian yǒu rén: There's someone behind you.",
+      "Notes": "后 behind + 边 side = the back side. Opposite: 前边"
+    }
+  ]
+}

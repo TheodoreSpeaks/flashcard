@@ -1,0 +1,287 @@
+{
+  "title": "HSK 3.23 · 题目, 客观, 老百姓, 理发",
+  "focus": "录音 · 客观 · 香蕉 · 旅馆 · 发达 · 普遍 · 形状 · 干吗 · 美食 · 散步 · 大夫 · 歌声 · 束 · 性别 · 气候 · 规范 · 歌迷 · 题目 · 跑步 · 老太太 · 老百姓 · 果汁 · 标题 · 职工 · 木头 · 美术 · 武术 · 广大 · 收音机 · 专题 · 工夫 · 旅行社 · 大使馆 · 做客 · 理发 · 普及 · 试题 · 积极性 · 老头儿 · 空儿",
+  "body": "Topics, songs and everyday people: 题 \"topic, question\" builds four words, 老 makes the friendly words for old folk, and 馆 is any public building. Two words switch readings: 发 is fà (hair) in 理发, and 大夫 is dàifu when it means doctor.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 题 | tí | topic, question (页 head + 是 shì phonetic) | 题目, 标题, 专题, 试题 |\n| 老 | lǎo | old | 老太太, 老百姓, 老头儿 |\n| 歌 | gē | song (欠 open mouth) | 歌声, 歌迷 |\n| 音 | yīn | sound | 录音, 收音机 |\n| 普 | pǔ | general, universal | 普遍, 普及 |\n| 术 | shù | skill, art | 美术, 武术 |\n| 馆 | guǎn | building, hall (饣 + 官 guān phonetic) | 旅馆, 大使馆 |\n| 步 | bù | step | 散步, 跑步 |\n| 旅 | lǚ | travel | 旅馆, 旅行社 |\n\n## Watch out\n\n- 理发 is lǐ**fà**: 发 fà = hair, fā = send, develop (发达).\n- 散步 is **sàn**bù (stroll); 散 is sǎn when it means loose.\n- 束 bundle vs 东 east vs 来 come: 束 is 木 with 口 tied around the middle.\n- 工夫, 大夫, 老太太 end light: gōngfu, dàifu, lǎotàitai.",
+  "cards": [
+    {
+      "Hanzi": "录音",
+      "Pinyin": "lùyīn",
+      "Meaning": "to record (sound); recording",
+      "Example": "上课可以录音吗？ shàngkè kěyǐ lùyīn ma: can I record the class?",
+      "Notes": "录 record, copy down + 音 sound = record sound"
+    },
+    {
+      "Hanzi": "客观",
+      "Pinyin": "kèguān",
+      "Meaning": "objective, impartial",
+      "Example": "你要客观一点。 nǐ yào kèguān yìdiǎn: try to be objective",
+      "Notes": "客 guest + 观 view = the guest's (outsider's) view, so objective; mirror is 主观"
+    },
+    {
+      "Hanzi": "香蕉",
+      "Pinyin": "xiāngjiāo",
+      "Meaning": "banana",
+      "Example": "我想吃香蕉。 wǒ xiǎng chī xiāngjiāo: I want a banana",
+      "Notes": "香 fragrant + 蕉 plantain (艹 plant + 焦 jiāo for sound) = banana"
+    },
+    {
+      "Hanzi": "旅馆",
+      "Pinyin": "lǚguǎn",
+      "Meaning": "hotel, inn",
+      "Example": "这家旅馆很便宜。 zhè jiā lǚguǎn hěn piányi: this hotel is cheap",
+      "Notes": "旅 travel + 馆 building, lodge = travelers' lodge"
+    },
+    {
+      "Hanzi": "发达",
+      "Pinyin": "fādá",
+      "Meaning": "developed, flourishing",
+      "Example": "这里交通很发达。 zhèlǐ jiāotōng hěn fādá: transport here is well developed",
+      "Notes": "发 develop, send out + 达 reach = fully developed"
+    },
+    {
+      "Hanzi": "普遍",
+      "Pinyin": "pǔbiàn",
+      "Meaning": "common, widespread",
+      "Example": "这种情况很普遍。 zhè zhǒng qíngkuàng hěn pǔbiàn: this is very common",
+      "Notes": "普 general, universal + 遍 everywhere (辶 + 扁 phonetic) = all over"
+    },
+    {
+      "Hanzi": "形状",
+      "Pinyin": "xíngzhuàng",
+      "Meaning": "shape, form",
+      "Example": "这块石头形状很怪。 zhè kuài shítou xíngzhuàng hěn guài: this rock has an odd shape",
+      "Notes": "形 form + 状 shape, appearance = shape"
+    },
+    {
+      "Hanzi": "干吗",
+      "Pinyin": "gànmá",
+      "Meaning": "why, what for; what are you doing",
+      "Example": "你干吗不去？ nǐ gànmá bú qù: why aren't you going?",
+      "Notes": "干 gàn do + 吗 (here má, 'what') = do what, why; also written 干嘛"
+    },
+    {
+      "Hanzi": "美食",
+      "Pinyin": "měishí",
+      "Meaning": "good food, delicacies",
+      "Example": "这里有很多美食。 zhèlǐ yǒu hěn duō měishí: there's lots of great food here",
+      "Notes": "美 beautiful + 食 food = fine food"
+    },
+    {
+      "Hanzi": "散步",
+      "Pinyin": "sànbù",
+      "Meaning": "to take a walk",
+      "Example": "饭后去散步吧。 fàn hòu qù sànbù ba: let's take a walk after dinner",
+      "Notes": "散 sàn scatter, loosen + 步 step = loose, idle steps, a stroll"
+    },
+    {
+      "Hanzi": "大夫",
+      "Pinyin": "dàifu",
+      "Meaning": "doctor",
+      "Example": "大夫说我没事。 dàifu shuō wǒ méi shì: the doctor says I'm fine",
+      "Notes": "大 + 夫 man; read dàifu for 'doctor' (dàfū is an old title for officials)"
+    },
+    {
+      "Hanzi": "歌声",
+      "Pinyin": "gēshēng",
+      "Meaning": "singing (voice)",
+      "Example": "她的歌声很美。 tā de gēshēng hěn měi: her singing is beautiful",
+      "Notes": "歌 song + 声 sound, voice = sound of singing"
+    },
+    {
+      "Hanzi": "束",
+      "Pinyin": "shù",
+      "Meaning": "bunch, bundle; to tie",
+      "Example": "他送我一束花。 tā sòng wǒ yí shù huā: he gave me a bunch of flowers",
+      "Notes": "束 = 木 wood with 口 a cord tied round it: a bundle; lookalikes 东, 来"
+    },
+    {
+      "Hanzi": "性别",
+      "Pinyin": "xìngbié",
+      "Meaning": "gender, sex",
+      "Example": "请写上你的性别。 qǐng xiě shang nǐ de xìngbié: please write your gender",
+      "Notes": "性 nature, sex (忄 heart + 生 shēng phonetic) + 别 distinguish = sex distinction"
+    },
+    {
+      "Hanzi": "气候",
+      "Pinyin": "qìhòu",
+      "Meaning": "climate",
+      "Example": "这里气候很好。 zhèlǐ qìhòu hěn hǎo: the climate here is nice",
+      "Notes": "气 air, weather + 候 season, time = climate"
+    },
+    {
+      "Hanzi": "规范",
+      "Pinyin": "guīfàn",
+      "Meaning": "standard, norm; standardized",
+      "Example": "他的发音很规范。 tā de fāyīn hěn guīfàn: his pronunciation is standard",
+      "Notes": "规 rule (compass) + 范 model, pattern = norm"
+    },
+    {
+      "Hanzi": "歌迷",
+      "Pinyin": "gēmí",
+      "Meaning": "fan of a singer",
+      "Example": "她是周杰伦的歌迷。 tā shì Zhōu Jiélún de gēmí: she's a Jay Chou fan",
+      "Notes": "歌 song + 迷 lost in, obsessed = someone lost in songs, a fan"
+    },
+    {
+      "Hanzi": "题目",
+      "Pinyin": "tímù",
+      "Meaning": "topic, title; exam question",
+      "Example": "这个题目太难了。 zhège tímù tài nán le: this question is too hard",
+      "Notes": "题 topic, question + 目 item, heading = title, question"
+    },
+    {
+      "Hanzi": "跑步",
+      "Pinyin": "pǎobù",
+      "Meaning": "to jog, run",
+      "Example": "我每天早上跑步。 wǒ měitiān zǎoshang pǎobù: I jog every morning",
+      "Notes": "跑 run (⻊ foot + 包 bāo phonetic) + 步 step = jog"
+    },
+    {
+      "Hanzi": "老太太",
+      "Pinyin": "lǎotàitai",
+      "Meaning": "old lady",
+      "Example": "那位老太太很友好。 nà wèi lǎotàitai hěn yǒuhǎo: that old lady is friendly",
+      "Notes": "老 old + 太太 lady, Mrs. = old lady (polite)"
+    },
+    {
+      "Hanzi": "老百姓",
+      "Pinyin": "lǎobǎixìng",
+      "Meaning": "ordinary people",
+      "Example": "老百姓都很高兴。 lǎobǎixìng dōu hěn gāoxìng: ordinary folks are all happy",
+      "Notes": "老 + 百 hundred + 姓 surname = the 'hundred surnames', common people"
+    },
+    {
+      "Hanzi": "果汁",
+      "Pinyin": "guǒzhī",
+      "Meaning": "fruit juice",
+      "Example": "我要一杯果汁。 wǒ yào yì bēi guǒzhī: I'd like a juice",
+      "Notes": "果 fruit + 汁 juice (氵 liquid + 十 shí phonetic) = fruit juice"
+    },
+    {
+      "Hanzi": "标题",
+      "Pinyin": "biāotí",
+      "Meaning": "headline, title",
+      "Example": "这篇文章的标题是什么？ zhè piān wénzhāng de biāotí shì shénme: what's the article's title?",
+      "Notes": "标 mark, label + 题 title = heading"
+    },
+    {
+      "Hanzi": "职工",
+      "Pinyin": "zhígōng",
+      "Meaning": "staff, workers",
+      "Example": "公司有一百个职工。 gōngsī yǒu yìbǎi ge zhígōng: the company has 100 staff",
+      "Notes": "职 job, post (耳 + 只) + 工 worker = employees"
+    },
+    {
+      "Hanzi": "木头",
+      "Pinyin": "mùtou",
+      "Meaning": "wood, log",
+      "Example": "这是木头做的。 zhè shì mùtou zuò de: this is made of wood",
+      "Notes": "木 tree, wood + 头 noun suffix (light tone)"
+    },
+    {
+      "Hanzi": "美术",
+      "Pinyin": "měishù",
+      "Meaning": "fine arts, painting",
+      "Example": "我喜欢美术课。 wǒ xǐhuan měishù kè: I like art class",
+      "Notes": "美 beauty + 术 skill, art = fine arts"
+    },
+    {
+      "Hanzi": "武术",
+      "Pinyin": "wǔshù",
+      "Meaning": "martial arts",
+      "Example": "他从小学武术。 tā cóng xiǎo xué wǔshù: he's studied martial arts since a kid",
+      "Notes": "武 martial (止 + 戈 spear) + 术 skill = martial arts, kung fu"
+    },
+    {
+      "Hanzi": "广大",
+      "Pinyin": "guǎngdà",
+      "Meaning": "vast; numerous",
+      "Example": "广大市民都同意。 guǎngdà shìmín dōu tóngyì: the general public agrees",
+      "Notes": "广 wide + 大 big = vast, the broad (masses)"
+    },
+    {
+      "Hanzi": "收音机",
+      "Pinyin": "shōuyīnjī",
+      "Meaning": "radio (set)",
+      "Example": "爷爷有一台收音机。 yéye yǒu yì tái shōuyīnjī: grandpa has a radio",
+      "Notes": "收 receive + 音 sound + 机 machine = sound-receiving machine"
+    },
+    {
+      "Hanzi": "专题",
+      "Pinyin": "zhuāntí",
+      "Meaning": "special topic, feature",
+      "Example": "今天的专题是环保。 jīntiān de zhuāntí shì huánbǎo: today's special topic is the environment",
+      "Notes": "专 special, focused + 题 topic = special topic"
+    },
+    {
+      "Hanzi": "工夫",
+      "Pinyin": "gōngfu",
+      "Meaning": "time; effort",
+      "Example": "一会儿工夫就好了。 yíhuìr gōngfu jiù hǎo le: it'll be done in no time",
+      "Notes": "工 work + 夫 man, laborer = labor, and the time it takes; light tone fu"
+    },
+    {
+      "Hanzi": "旅行社",
+      "Pinyin": "lǚxíngshè",
+      "Meaning": "travel agency",
+      "Example": "我们找旅行社吧。 wǒmen zhǎo lǚxíngshè ba: let's go through a travel agency",
+      "Notes": "旅行 travel + 社 society, agency (礻 + 土) = travel agency"
+    },
+    {
+      "Hanzi": "大使馆",
+      "Pinyin": "dàshǐguǎn",
+      "Meaning": "embassy",
+      "Example": "我去大使馆办签证。 wǒ qù dàshǐguǎn bàn qiānzhèng: I'm going to the embassy for a visa",
+      "Notes": "大使 ambassador (大 great + 使 envoy) + 馆 building = embassy"
+    },
+    {
+      "Hanzi": "做客",
+      "Pinyin": "zuòkè",
+      "Meaning": "to be a guest",
+      "Example": "欢迎来我家做客。 huānyíng lái wǒ jiā zuòkè: you're welcome to visit us",
+      "Notes": "做 be, act as + 客 guest = be someone's guest"
+    },
+    {
+      "Hanzi": "理发",
+      "Pinyin": "lǐfà",
+      "Meaning": "to get a haircut",
+      "Example": "我要去理发。 wǒ yào qù lǐfà: I need a haircut",
+      "Notes": "理 tidy, put in order + 发 fà hair = tidy the hair"
+    },
+    {
+      "Hanzi": "普及",
+      "Pinyin": "pǔjí",
+      "Meaning": "to popularize; widespread",
+      "Example": "手机已经很普及了。 shǒujī yǐjīng hěn pǔjí le: phones are everywhere now",
+      "Notes": "普 general, universal + 及 reach = reach everyone"
+    },
+    {
+      "Hanzi": "试题",
+      "Pinyin": "shìtí",
+      "Meaning": "exam question",
+      "Example": "这些试题不难。 zhèxiē shìtí bù nán: these test questions aren't hard",
+      "Notes": "试 test + 题 question = test question"
+    },
+    {
+      "Hanzi": "积极性",
+      "Pinyin": "jījíxìng",
+      "Meaning": "enthusiasm, initiative",
+      "Example": "大家的积极性很高。 dàjiā de jījíxìng hěn gāo: everyone is very motivated",
+      "Notes": "积极 active, positive (积 accumulate + 极 extreme) + 性 quality = enthusiasm"
+    },
+    {
+      "Hanzi": "老头儿",
+      "Pinyin": "lǎotóur",
+      "Meaning": "old man (casual)",
+      "Example": "那个老头儿很有意思。 nàge lǎotóur hěn yǒu yìsi: that old guy is fun",
+      "Notes": "老 old + 头 head + 儿 (erhua) = old fellow; tóu keeps its tone here"
+    },
+    {
+      "Hanzi": "空儿",
+      "Pinyin": "kòngr",
+      "Meaning": "free time",
+      "Example": "你明天有空儿吗？ nǐ míngtiān yǒu kòngr ma: are you free tomorrow?",
+      "Notes": "空 kòng empty, free (穴 hole + 工 gōng phonetic) + 儿 = spare time; kōng is 'sky, empty'"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "title": "HSK 1.12 · 考试, 请假, 洗手间, 爱好, 教学楼",
+  "focus": "十 · 爸爸 · 热 · 试 · 差 · 教 · 冷 · 山 · 哥 · 爸 · 风 · 累 · 肉 · 休息 · 坏 · 洗 · 哥哥 · 考试 · 考 · 听见 · 请问 · 好听 · 爱好 · 放假 · 中文 · 放学 · 洗手间 · 请假 · 小学生 · 中学生 · 请进 · 好玩儿 · 小孩儿 · 教学楼 · 课文 · 请坐 · 听写 · 面条儿 · 男孩儿",
+  "body": "School life, weather and polite phrases. 请 opens four set phrases, 学 shows up in school words, and 放 (release) gives both school holidays and the end of the school day.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 请 | qǐng | please; request (讠 + 青) | 请问, 请假, 请进, 请坐 |\n| 学 | xué | study; school | 放学, 小学生, 中学生, 教学楼 |\n| 听 | tīng | listen | 听见, 好听, 听写 |\n| 好 | hǎo / hào | good / be fond of | 好听, 爱好, 好玩儿 |\n| 试 / 考 | shì / kǎo | try / test | 考试 |\n| 放 | fàng | release (攵 + 方) | 放假, 放学 |\n| 假 | jià | holiday, leave | 放假, 请假 |\n| 孩 | hái | child | 小孩儿, 男孩儿 |\n\n## Watch out\n\n- 好 is hǎo (good) in 好听 but hào (to like) in 爱好.\n- 假 is jià (time off) in 放假 and 请假; jiǎ means fake.\n- 教 is jiāo when it's the verb \"teach\" but jiào in 教学楼 and 教室.\n- 冷 has 冫 (two dots, ice); 洗 has 氵 (three dots, water).\n- 考 vs 老: same top, but 考 ends in 丂 and 老 ends in 匕.\n- 差 is chà (short of, poor) here; it's chā in 差别 and chāi in 出差.",
+  "cards": [
+    {
+      "Hanzi": "十",
+      "Pinyin": "shí",
+      "Meaning": "ten",
+      "Example": "我十点睡觉。 wǒ shí diǎn shuìjiào: I go to bed at ten.",
+      "Notes": "A simple cross. Lookalikes: 千 qiān (thousand) adds ノ on top; 土 tǔ has two horizontals"
+    },
+    {
+      "Hanzi": "爸爸",
+      "Pinyin": "bàba",
+      "Meaning": "dad",
+      "Example": "我爸爸也在。 wǒ bàba yě zài: My dad's here too.",
+      "Notes": "爸 = 父 father + 巴 bā for the sound"
+    },
+    {
+      "Hanzi": "热",
+      "Pinyin": "rè",
+      "Meaning": "hot",
+      "Example": "今天太热了。 jīntiān tài rè le: It's too hot today.",
+      "Notes": "灬 fire (four dots) under 执 (simplified from 熱). 灬 at the bottom often means heat or cooking"
+    },
+    {
+      "Hanzi": "试",
+      "Pinyin": "shì",
+      "Meaning": "to try; test",
+      "Example": "你试试这个。 nǐ shìshi zhège: Try this one.",
+      "Notes": "讠 speech + 式 shì for the sound"
+    },
+    {
+      "Hanzi": "差",
+      "Pinyin": "chà",
+      "Meaning": "to be short of; poor (quality)",
+      "Example": "现在差五分八点。 xiànzài chà wǔ fēn bā diǎn: It's five to eight.",
+      "Notes": "A bent 羊 on top + 工. chà = lacking; also chā (difference) and chāi (errand, 出差) in later words"
+    },
+    {
+      "Hanzi": "教",
+      "Pinyin": "jiāo / jiào",
+      "Meaning": "to teach (jiāo); teaching (jiào)",
+      "Example": "妈妈教我做饭。 māma jiāo wǒ zuò fàn: Mom teaches me to cook.",
+      "Notes": "Left side looks like 孝 (老 over 子) + 攵 hand holding a stick. jiāo = teach; jiào in 教室, 教学楼"
+    },
+    {
+      "Hanzi": "冷",
+      "Pinyin": "lěng",
+      "Meaning": "cold",
+      "Example": "外边很冷。 wàibian hěn lěng: It's cold outside.",
+      "Notes": "冫 ice + 令 lìng for the sound. 冫 (2 dots, ice) vs 氵 (3 dots, water)"
+    },
+    {
+      "Hanzi": "山",
+      "Pinyin": "shān",
+      "Meaning": "mountain; hill",
+      "Example": "我们去爬山吧。 wǒmen qù pá shān ba: Let's go hiking.",
+      "Notes": "Picture of three peaks. Lookalike: 出 chū looks like two 山 stacked"
+    },
+    {
+      "Hanzi": "哥",
+      "Pinyin": "gē",
+      "Meaning": "older brother",
+      "Example": "我哥很高。 wǒ gē hěn gāo: My older brother is tall.",
+      "Notes": "Two 可 kě stacked; 可 hints at the sound"
+    },
+    {
+      "Hanzi": "爸",
+      "Pinyin": "bà",
+      "Meaning": "dad",
+      "Example": "爸，你回来了！ bà, nǐ huílai le: Dad, you're back!",
+      "Notes": "父 father on top + 巴 bā for the sound"
+    },
+    {
+      "Hanzi": "风",
+      "Pinyin": "fēng",
+      "Meaning": "wind",
+      "Example": "今天风很大。 jīntiān fēng hěn dà: It's very windy today.",
+      "Notes": "几-shaped frame + 㐅 inside (simplified from 風). Lookalike: 凤 fèng (phoenix) has 又 inside"
+    },
+    {
+      "Hanzi": "累",
+      "Pinyin": "lèi",
+      "Meaning": "tired",
+      "Example": "我今天很累。 wǒ jīntiān hěn lèi: I'm tired today.",
+      "Notes": "田 over 糸 thread. lèi = tired; also lěi (accumulate) in rarer words"
+    },
+    {
+      "Hanzi": "肉",
+      "Pinyin": "ròu",
+      "Meaning": "meat",
+      "Example": "我不吃肉。 wǒ bù chī ròu: I don't eat meat.",
+      "Notes": "Picture of a slab of meat with its grain. As a radical it shrinks to 月 (肚, 脸)"
+    },
+    {
+      "Hanzi": "休息",
+      "Pinyin": "xiūxi",
+      "Meaning": "to rest",
+      "Example": "你休息一下。 nǐ xiūxi yíxià: Take a rest.",
+      "Notes": "休 = 亻 person leaning against 木 tree; 息 has 心 heart underneath"
+    },
+    {
+      "Hanzi": "坏",
+      "Pinyin": "huài",
+      "Meaning": "bad; broken",
+      "Example": "电视坏了。 diànshì huài le: The TV is broken.",
+      "Notes": "土 earth + 不 (simplified from 壞, crumbling earth). Opposite: 好"
+    },
+    {
+      "Hanzi": "洗",
+      "Pinyin": "xǐ",
+      "Meaning": "to wash",
+      "Example": "我去洗手。 wǒ qù xǐ shǒu: I'll go wash my hands.",
+      "Notes": "氵 water + 先 xiān for the sound"
+    },
+    {
+      "Hanzi": "哥哥",
+      "Pinyin": "gēge",
+      "Meaning": "older brother",
+      "Example": "我有一个哥哥。 wǒ yǒu yí ge gēge: I have an older brother.",
+      "Notes": "哥 is 可 kě stacked twice"
+    },
+    {
+      "Hanzi": "考试",
+      "Pinyin": "kǎoshì",
+      "Meaning": "exam; to take an exam",
+      "Example": "明天有考试。 míngtiān yǒu kǎoshì: There's an exam tomorrow.",
+      "Notes": "考 test + 试 try = test and try: exam"
+    },
+    {
+      "Hanzi": "考",
+      "Pinyin": "kǎo",
+      "Meaning": "to take an exam; to test",
+      "Example": "你考得怎么样？ nǐ kǎo de zěnmeyàng: How did your exam go?",
+      "Notes": "Shares the top 耂 with 老 lǎo (old). 考 ends with 丂; 老 ends with 匕"
+    },
+    {
+      "Hanzi": "听见",
+      "Pinyin": "tīngjiàn",
+      "Meaning": "to hear",
+      "Example": "你听见了吗？ nǐ tīngjiàn le ma: Did you hear that?",
+      "Notes": "听 listen + 见 perceive (result) = listen and it registers: hear. Like 看见"
+    },
+    {
+      "Hanzi": "请问",
+      "Pinyin": "qǐngwèn",
+      "Meaning": "excuse me, may I ask",
+      "Example": "请问，洗手间在哪儿？ qǐngwèn, xǐshǒujiān zài nǎr: Excuse me, where's the restroom?",
+      "Notes": "请 please (讠 + 青 qīng for the sound) + 问 ask (门 door + 口 mouth)"
+    },
+    {
+      "Hanzi": "好听",
+      "Pinyin": "hǎotīng",
+      "Meaning": "nice to listen to",
+      "Example": "这首歌真好听。 zhè shǒu gē zhēn hǎotīng: This song is lovely.",
+      "Notes": "好 good + 听 listen = good to hear. Like 好看, 好吃"
+    },
+    {
+      "Hanzi": "爱好",
+      "Pinyin": "àihào",
+      "Meaning": "hobby; to be fond of",
+      "Example": "你有什么爱好？ nǐ yǒu shénme àihào: What are your hobbies?",
+      "Notes": "爱 love + 好 hào like = what you love and like. 好 is hào here, not hǎo"
+    },
+    {
+      "Hanzi": "放假",
+      "Pinyin": "fàngjià",
+      "Meaning": "to be on holiday",
+      "Example": "我们下周放假。 wǒmen xià zhōu fàngjià: We're off next week.",
+      "Notes": "放 release (攵 + 方 fāng for the sound) + 假 jià holiday = released for a holiday"
+    },
+    {
+      "Hanzi": "中文",
+      "Pinyin": "Zhōngwén",
+      "Meaning": "Chinese (language)",
+      "Example": "你会看中文吗？ nǐ huì kàn Zhōngwén ma: Can you read Chinese?",
+      "Notes": "中 China (Middle Kingdom) + 文 writing, language"
+    },
+    {
+      "Hanzi": "放学",
+      "Pinyin": "fàngxué",
+      "Meaning": "to get out of school",
+      "Example": "几点放学？ jǐ diǎn fàngxué: What time does school let out?",
+      "Notes": "放 release + 学 school = released from school"
+    },
+    {
+      "Hanzi": "洗手间",
+      "Pinyin": "xǐshǒujiān",
+      "Meaning": "restroom",
+      "Example": "洗手间在楼上。 xǐshǒujiān zài lóushàng: The restroom is upstairs.",
+      "Notes": "洗 wash + 手 hand + 间 room = hand-washing room: polite word for toilet"
+    },
+    {
+      "Hanzi": "请假",
+      "Pinyin": "qǐngjià",
+      "Meaning": "to ask for time off",
+      "Example": "我明天请假。 wǒ míngtiān qǐngjià: I'm taking tomorrow off.",
+      "Notes": "请 request + 假 jià leave = request leave. 假 is jià here, not jiǎ (fake)"
+    },
+    {
+      "Hanzi": "小学生",
+      "Pinyin": "xiǎoxuéshēng",
+      "Meaning": "primary school pupil",
+      "Example": "她是小学生。 tā shì xiǎoxuéshēng: She's in primary school.",
+      "Notes": "小学 primary school (small school) + 生 student"
+    },
+    {
+      "Hanzi": "中学生",
+      "Pinyin": "zhōngxuéshēng",
+      "Meaning": "middle or high school student",
+      "Example": "我哥是中学生。 wǒ gē shì zhōngxuéshēng: My brother is in high school.",
+      "Notes": "中学 secondary school (middle school) + 生 student"
+    },
+    {
+      "Hanzi": "请进",
+      "Pinyin": "qǐngjìn",
+      "Meaning": "please come in",
+      "Example": "请进，请坐。 qǐng jìn, qǐng zuò: Come in, have a seat.",
+      "Notes": "请 please + 进 enter (辶 movement + 井) = please enter"
+    },
+    {
+      "Hanzi": "好玩儿",
+      "Pinyin": "hǎowánr",
+      "Meaning": "fun",
+      "Example": "这个游戏很好玩儿。 zhège yóuxì hěn hǎowánr: This game is fun.",
+      "Notes": "好 good + 玩 play + 儿 -r = good to play with: fun"
+    },
+    {
+      "Hanzi": "小孩儿",
+      "Pinyin": "xiǎoháir",
+      "Meaning": "child; kid",
+      "Example": "小孩儿都喜欢糖。 xiǎoháir dōu xǐhuan táng: Kids all love candy.",
+      "Notes": "小 small + 孩 child + 儿 -r"
+    },
+    {
+      "Hanzi": "教学楼",
+      "Pinyin": "jiàoxuélóu",
+      "Meaning": "classroom building",
+      "Example": "教学楼在那边。 jiàoxuélóu zài nàbian: The classroom building is over there.",
+      "Notes": "教学 teaching (教 is jiào here) + 楼 building"
+    },
+    {
+      "Hanzi": "课文",
+      "Pinyin": "kèwén",
+      "Meaning": "text (of a lesson)",
+      "Example": "请读一下课文。 qǐng dú yíxià kèwén: Please read the text.",
+      "Notes": "课 lesson + 文 writing = lesson text"
+    },
+    {
+      "Hanzi": "请坐",
+      "Pinyin": "qǐngzuò",
+      "Meaning": "please have a seat",
+      "Example": "请坐，喝杯茶。 qǐng zuò, hē bēi chá: Sit down, have some tea.",
+      "Notes": "请 please + 坐 sit (two 人 on 土 ground)"
+    },
+    {
+      "Hanzi": "听写",
+      "Pinyin": "tīngxiě",
+      "Meaning": "dictation",
+      "Example": "今天有听写。 jīntiān yǒu tīngxiě: We have dictation today.",
+      "Notes": "听 listen + 写 write = write what you hear"
+    },
+    {
+      "Hanzi": "面条儿",
+      "Pinyin": "miàntiáor",
+      "Meaning": "noodles",
+      "Example": "我想吃面条儿。 wǒ xiǎng chī miàntiáor: I want noodles.",
+      "Notes": "面 flour + 条 strip (夂 + 木) + 儿 -r = flour strips"
+    },
+    {
+      "Hanzi": "男孩儿",
+      "Pinyin": "nánháir",
+      "Meaning": "boy",
+      "Example": "那个男孩儿是我弟弟。 nàge nánháir shì wǒ dìdi: That boy is my little brother.",
+      "Notes": "男 man (田 field + 力 strength) + 孩 child + 儿 -r"
+    }
+  ]
+}

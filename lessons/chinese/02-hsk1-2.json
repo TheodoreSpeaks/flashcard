@@ -1,0 +1,280 @@
+{
+  "title": "HSK 1.2 · 现在, 觉得, 重要, 正在, 马上",
+  "focus": "在 · 不 · 就 · 个 · 和 · 说 · 要 · 好 · 会 · 也 · 都 · 对 · 到 · 上 · 很 · 去 · 她 · 着 · 想 · 给 · 看 · 现在 · 找 · 觉得 · 看到 · 找到 · 重要 · 正 · 得到 · 正在 · 身上 · 晚上 · 晚 · 重 · 记得 · 身体 · 出去 · 她们 · 马上",
+  "body": "Everyday verbs (在, 说, 看, 找, 给) and the result endings 到 and 得 that attach to them: 看到, 找到, 得到, 觉得, 记得. 上 and 身 also come back several times.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 到 | dào | arrive; (after verb) succeed in | 看到, 找到, 得到 |\n| 得 | dé / de | get; (suffix) | 觉得, 得到, 记得 |\n| 上 | shàng / shang | up, on | 身上, 晚上, 马上 |\n| 在 | zài | at; (doing) now | 现在, 正在 |\n| 正 | zhèng | straight; right now | 正在 |\n| 重 | zhòng | heavy | 重要 |\n| 身 | shēn | body | 身上, 身体 |\n| 看 | kàn | look (手 over 目) | 看到 |\n\n## Watch out\n\n- 得 is dé in 得到 but toneless de in 觉得 and 记得.\n- 重 is zhòng (heavy) here; chóng means \"again\" (重新).\n- 着 is toneless zhe after verbs (看着) but zháo in 睡着 (fall asleep).\n- 找 (zhǎo, look for) vs 我 (wǒ, I): 找 has the 扌 hand on the left.\n- 不 becomes bú before a 4th tone: 不是 búshì, 不要 búyào.\n",
+  "cards": [
+    {
+      "Hanzi": "在",
+      "Pinyin": "zài",
+      "Meaning": "at, in; to be (somewhere); (doing) now",
+      "Example": "我在家。 wǒ zài jiā: I'm at home.",
+      "Notes": "土 earth + 才 cái for the sound. 在 vs 再 (zài, again): same sound, different job"
+    },
+    {
+      "Hanzi": "不",
+      "Pinyin": "bù",
+      "Meaning": "not, no",
+      "Example": "我不要。 wǒ bú yào: I don't want it.",
+      "Notes": "The basic 'not'; becomes bú before a 4th tone (不是 búshì)"
+    },
+    {
+      "Hanzi": "就",
+      "Pinyin": "jiù",
+      "Meaning": "just, exactly; then",
+      "Example": "就是他! jiù shì tā: That's him!",
+      "Notes": "京 jīng (capital) + 尤 yóu"
+    },
+    {
+      "Hanzi": "个",
+      "Pinyin": "gè",
+      "Meaning": "(general measure word)",
+      "Example": "我要两个。 wǒ yào liǎng ge: I want two.",
+      "Notes": "人 roof + a vertical stroke; simplified from 個 (亻 + 固). Toneless ge after numbers"
+    },
+    {
+      "Hanzi": "和",
+      "Pinyin": "hé",
+      "Meaning": "and, with",
+      "Example": "他和她都在。 tā hé tā dōu zài: He and she are both here.",
+      "Notes": "禾 grain + 口 mouth; 和 only joins nouns, never two sentences"
+    },
+    {
+      "Hanzi": "说",
+      "Pinyin": "shuō",
+      "Meaning": "to say, speak",
+      "Example": "他说不去。 tā shuō bú qù: He says he's not going.",
+      "Notes": "讠 speech + 兑 duì"
+    },
+    {
+      "Hanzi": "要",
+      "Pinyin": "yào",
+      "Meaning": "to want; will",
+      "Example": "你要这个吗? nǐ yào zhège ma: Do you want this one?",
+      "Notes": "覀 on top of 女; 要 vs 耍 (shuǎ, play), which has 而 on top"
+    },
+    {
+      "Hanzi": "好",
+      "Pinyin": "hǎo / hào",
+      "Meaning": "good, well; (hào) to like",
+      "Example": "这个很好。 zhège hěn hǎo: This one's good.",
+      "Notes": "女 woman + 子 child = good. Read hào in 爱好 (hobby)"
+    },
+    {
+      "Hanzi": "会",
+      "Pinyin": "huì",
+      "Meaning": "can (a learned skill); will",
+      "Example": "他会做饭。 tā huì zuòfàn: He can cook.",
+      "Notes": "人 roof over 云; 会 vs 去: different tops, both end in 厶"
+    },
+    {
+      "Hanzi": "也",
+      "Pinyin": "yě",
+      "Meaning": "also, too",
+      "Example": "我也去。 wǒ yě qù: I'm going too.",
+      "Notes": "A simple 3-stroke character; it's the right side of 他, 她, 地"
+    },
+    {
+      "Hanzi": "都",
+      "Pinyin": "dōu",
+      "Meaning": "all, both",
+      "Example": "他们都不在。 tāmen dōu bú zài: None of them are here.",
+      "Notes": "阝 on the right means 'city'; also read dū in 首都 (capital)"
+    },
+    {
+      "Hanzi": "对",
+      "Pinyin": "duì",
+      "Meaning": "correct, right; toward, to",
+      "Example": "对,是我。 duì, shì wǒ: Yes, it's me.",
+      "Notes": "又 hand + 寸 (simplified from 對). 对不起 = sorry"
+    },
+    {
+      "Hanzi": "到",
+      "Pinyin": "dào",
+      "Meaning": "to arrive; to; (after verb) succeed",
+      "Example": "我到了。 wǒ dào le: I'm here.",
+      "Notes": "至 arrive + 刂 (刀 dāo, knife) for the sound"
+    },
+    {
+      "Hanzi": "上",
+      "Pinyin": "shàng",
+      "Meaning": "up, on, above; previous",
+      "Example": "上一个是我的。 shàng yí ge shì wǒ de: The previous one was mine.",
+      "Notes": "Mirror image of 下: the short stroke points up"
+    },
+    {
+      "Hanzi": "很",
+      "Pinyin": "hěn",
+      "Meaning": "very",
+      "Example": "我很好。 wǒ hěn hǎo: I'm fine.",
+      "Notes": "彳 step + 艮 gèn; just borrowed for 'very'. 很 vs 跟 (gēn) vs 狠 (hěn, fierce)"
+    },
+    {
+      "Hanzi": "去",
+      "Pinyin": "qù",
+      "Meaning": "to go",
+      "Example": "你去不去? nǐ qù bu qù: Are you going or not?",
+      "Notes": "去 = 土 over 厶; 去 vs 云 (yún, cloud), which has 二 on top"
+    },
+    {
+      "Hanzi": "她",
+      "Pinyin": "tā",
+      "Meaning": "she, her",
+      "Example": "她也在。 tā yě zài: She's here too.",
+      "Notes": "女 woman + 也 yě; sounds exactly like 他"
+    },
+    {
+      "Hanzi": "着",
+      "Pinyin": "zhe / zháo",
+      "Meaning": "(particle: ongoing state); (zháo) to touch, reach",
+      "Example": "门开着。 mén kāi zhe: The door's open.",
+      "Notes": "Top like 羊 + 目 eye. 着 vs 看: both have 目 at the bottom. zháo in 睡着 (fall asleep)"
+    },
+    {
+      "Hanzi": "想",
+      "Pinyin": "xiǎng",
+      "Meaning": "to think; to want to; to miss",
+      "Example": "我想回家。 wǒ xiǎng huíjiā: I want to go home.",
+      "Notes": "相 xiāng for the sound + 心 heart underneath"
+    },
+    {
+      "Hanzi": "给",
+      "Pinyin": "gěi",
+      "Meaning": "to give; for, to",
+      "Example": "给你。 gěi nǐ: Here you go.",
+      "Notes": "纟 silk + 合 hé (together)"
+    },
+    {
+      "Hanzi": "看",
+      "Pinyin": "kàn",
+      "Meaning": "to look, watch, read",
+      "Example": "我看一下。 wǒ kàn yíxià: Let me take a look.",
+      "Notes": "A hand 手 over an eye 目: shading your eyes to look"
+    },
+    {
+      "Hanzi": "现在",
+      "Pinyin": "xiànzài",
+      "Meaning": "now",
+      "Example": "我现在就去。 wǒ xiànzài jiù qù: I'm going right now.",
+      "Notes": "现 = 王 jade + 见 jiàn for the sound"
+    },
+    {
+      "Hanzi": "找",
+      "Pinyin": "zhǎo",
+      "Meaning": "to look for",
+      "Example": "你找谁? nǐ zhǎo shéi: Who are you looking for?",
+      "Notes": "扌 hand + 戈 halberd. 找 vs 我 (wǒ): 我 has no separate hand radical"
+    },
+    {
+      "Hanzi": "觉得",
+      "Pinyin": "juéde",
+      "Meaning": "to feel, think",
+      "Example": "我觉得很好。 wǒ juéde hěn hǎo: I think it's good.",
+      "Notes": "觉 sense, feel (contains 见 see) + 得 get = to feel, think"
+    },
+    {
+      "Hanzi": "看到",
+      "Pinyin": "kàndào",
+      "Meaning": "to see",
+      "Example": "我看到他了。 wǒ kàndào tā le: I saw him.",
+      "Notes": "看 look + 到 arrive = the look reaches it: to see"
+    },
+    {
+      "Hanzi": "找到",
+      "Pinyin": "zhǎodào",
+      "Meaning": "to find",
+      "Example": "我找到了! wǒ zhǎodào le: Found it!",
+      "Notes": "找 look for + 到 arrive = the search succeeds: find"
+    },
+    {
+      "Hanzi": "重要",
+      "Pinyin": "zhòngyào",
+      "Meaning": "important",
+      "Example": "这个很重要。 zhège hěn zhòngyào: This is important.",
+      "Notes": "重 heavy + 要 needed = weighty and needed: important"
+    },
+    {
+      "Hanzi": "正",
+      "Pinyin": "zhèng",
+      "Meaning": "straight, correct; just (now)",
+      "Example": "时间正好。 shíjiān zhènghǎo: The timing is just right.",
+      "Notes": "一 line + 止 foot: a foot headed straight for its goal, so straight, correct"
+    },
+    {
+      "Hanzi": "得到",
+      "Pinyin": "dédào",
+      "Meaning": "to get, obtain",
+      "Example": "我得到了。 wǒ dédào le: I got it.",
+      "Notes": "得 get + 到 arrive = to obtain. 得 is dé here, not de"
+    },
+    {
+      "Hanzi": "正在",
+      "Pinyin": "zhèngzài",
+      "Meaning": "(be) in the middle of doing",
+      "Example": "我正在吃饭。 wǒ zhèngzài chīfàn: I'm eating right now.",
+      "Notes": "正 just + 在 at = right at it: in the middle of doing"
+    },
+    {
+      "Hanzi": "身上",
+      "Pinyin": "shēnshang",
+      "Meaning": "on one's body; on (a person)",
+      "Example": "我身上没钱。 wǒ shēnshang méi qián: I have no money on me.",
+      "Notes": "身 body + 上 on = on the body, on you"
+    },
+    {
+      "Hanzi": "晚上",
+      "Pinyin": "wǎnshang",
+      "Meaning": "evening, night",
+      "Example": "今天晚上我们去吃饭。 jīntiān wǎnshang wǒmen qù chīfàn: We're going out to eat tonight.",
+      "Notes": "晚 = 日 + 免 miǎn for the sound"
+    },
+    {
+      "Hanzi": "晚",
+      "Pinyin": "wǎn",
+      "Meaning": "late; evening",
+      "Example": "太晚了。 tài wǎn le: It's too late.",
+      "Notes": "日 sun + 免 miǎn for the sound. 晚 vs 免 vs 兔 (tù, rabbit)"
+    },
+    {
+      "Hanzi": "重",
+      "Pinyin": "zhòng / chóng",
+      "Meaning": "heavy; (chóng) again",
+      "Example": "这个很重。 zhège hěn zhòng: This is heavy.",
+      "Notes": "zhòng = heavy (重要); chóng = again (重新). 重 vs 里: 重 has a stroke on top"
+    },
+    {
+      "Hanzi": "记得",
+      "Pinyin": "jìde",
+      "Meaning": "to remember",
+      "Example": "你记得我吗? nǐ jìde wǒ ma: Do you remember me?",
+      "Notes": "记 note down (讠 + 己 jǐ for the sound) + 得 get = remember"
+    },
+    {
+      "Hanzi": "身体",
+      "Pinyin": "shēntǐ",
+      "Meaning": "body; health",
+      "Example": "你身体好吗? nǐ shēntǐ hǎo ma: How's your health?",
+      "Notes": "身 body + 体 body (亻 + 本 root) = body, health"
+    },
+    {
+      "Hanzi": "出去",
+      "Pinyin": "chūqu",
+      "Meaning": "to go out",
+      "Example": "我们出去吃吧。 wǒmen chūqu chī ba: Let's eat out.",
+      "Notes": "出 out + 去 go (away from the speaker) = go out"
+    },
+    {
+      "Hanzi": "她们",
+      "Pinyin": "tāmen",
+      "Meaning": "they (female)",
+      "Example": "她们是姐妹。 tāmen shì jiěmèi: They're sisters.",
+      "Notes": "她 she (女 woman + 也) + 们 plural"
+    },
+    {
+      "Hanzi": "马上",
+      "Pinyin": "mǎshàng",
+      "Meaning": "right away, at once",
+      "Example": "我马上来。 wǒ mǎshàng lái: I'll be right there.",
+      "Notes": "马 horse + 上 on = on horseback, so 'right away'"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.13 · 花园, 校园, 动物园, 停车场",
+  "focus": "急 · 疼 · 礼物 · 篇 · 千 · 墙 · 食物 · 吹 · 成绩 · 语言 · 雪 · 灯 · 太阳 · 爬 · 英语 · 喊 · 合适 · 答应 · 热情 · 骑 · 响 · 河 · 举 · 多久 · 感动 · 组成 · 不久 · 接下来 · 车辆 · 停车 · 花园 · 太太 · 校园 · 停车场 · 举手 · 下雪 · 英文 · 骑车 · 动物园",
+  "body": "Places (花园, 校园, 动物园, 停车场), weather (雪, 太阳) and feelings (急, 感动, 热情). 园 garden and 车 vehicle are the big repeaters.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 园 | yuán | garden, grounds (囗 enclosure + 元 yuán) | 花园, 校园, 动物园 |\n| 车 | chē | vehicle | 车辆, 停车, 停车场, 骑车 |\n| 物 | wù | thing | 礼物, 食物, 动物园 |\n| 停 | tíng | to stop (亻 + 亭 tíng) | 停车, 停车场 |\n| 久 | jiǔ | long (time) | 多久, 不久 |\n| 语 | yǔ | language | 语言, 英语 |\n| 英 | yīng | English (from 英国) | 英语, 英文 |\n| 举 | jǔ | to lift | 举, 举手 |\n\n## Watch out\n\n- 千 qiān (thousand) vs 干 gàn: 千 starts with a slanting stroke.\n- 答应 is dāying, not dá: compare 回答 huídá.\n- 篇 piān (an article) vs 遍 biàn (a time through).",
+  "cards": [
+    {
+      "Hanzi": "急",
+      "Pinyin": "jí",
+      "Meaning": "anxious, in a hurry; urgent",
+      "Example": "别急，慢慢说。 bié jí, mànmàn shuō: Don't rush, take your time.",
+      "Notes": "Top ⺈ + 彐 over 心 heart: a hurried heart"
+    },
+    {
+      "Hanzi": "疼",
+      "Pinyin": "téng",
+      "Meaning": "to hurt, ache",
+      "Example": "我头疼。 wǒ tóu téng: I have a headache.",
+      "Notes": "疒 sickness + 冬 dōng (phonetic)"
+    },
+    {
+      "Hanzi": "礼物",
+      "Pinyin": "lǐwù",
+      "Meaning": "gift, present",
+      "Example": "这是给你的礼物。 zhè shì gěi nǐ de lǐwù: This is a present for you.",
+      "Notes": "礼 courtesy (礻 altar) + 物 thing = a courtesy thing"
+    },
+    {
+      "Hanzi": "篇",
+      "Pinyin": "piān",
+      "Meaning": "(measure for articles, essays)",
+      "Example": "我写了一篇文章。 wǒ xiě le yì piān wénzhāng: I wrote an article.",
+      "Notes": "⺮ bamboo (old writing slips) + 扁 biǎn (phonetic); lookalike 遍 biàn"
+    },
+    {
+      "Hanzi": "千",
+      "Pinyin": "qiān",
+      "Meaning": "thousand",
+      "Example": "这个三千块。 zhège sānqiān kuài: This one is 3,000 yuan.",
+      "Notes": "丿 + 十; lookalike 干 gàn (flat top stroke)"
+    },
+    {
+      "Hanzi": "墙",
+      "Pinyin": "qiáng",
+      "Meaning": "wall",
+      "Example": "墙上有一张画。 qiáng shang yǒu yì zhāng huà: There's a picture on the wall.",
+      "Notes": "土 earth + 啬 sè; walls were built of earth"
+    },
+    {
+      "Hanzi": "食物",
+      "Pinyin": "shíwù",
+      "Meaning": "food",
+      "Example": "这里的食物很好吃。 zhèlǐ de shíwù hěn hǎochī: The food here is great.",
+      "Notes": "食 eat, food + 物 thing = things to eat"
+    },
+    {
+      "Hanzi": "吹",
+      "Pinyin": "chuī",
+      "Meaning": "to blow",
+      "Example": "吹一吹就不烫了。 chuī yi chuī jiù bú tàng le: Blow on it and it won't be hot.",
+      "Notes": "口 mouth + 欠 (a person with mouth open) = blowing"
+    },
+    {
+      "Hanzi": "成绩",
+      "Pinyin": "chéngjì",
+      "Meaning": "grades, results",
+      "Example": "他的成绩很好。 tā de chéngjì hěn hǎo: His grades are very good.",
+      "Notes": "成 achieve + 绩 accomplishment (纟 + 责 zé) = what you achieved"
+    },
+    {
+      "Hanzi": "语言",
+      "Pinyin": "yǔyán",
+      "Meaning": "language",
+      "Example": "你会说几种语言？ nǐ huì shuō jǐ zhǒng yǔyán: How many languages do you speak?",
+      "Notes": "语 speech + 言 words; 讠 is a squeezed 言"
+    },
+    {
+      "Hanzi": "雪",
+      "Pinyin": "xuě",
+      "Meaning": "snow",
+      "Example": "外面在下雪。 wàimiàn zài xià xuě: It's snowing outside.",
+      "Notes": "雨 rain on top + 彐 (a hand)"
+    },
+    {
+      "Hanzi": "灯",
+      "Pinyin": "dēng",
+      "Meaning": "lamp, light",
+      "Example": "请把灯关了。 qǐng bǎ dēng guān le: Please turn off the light.",
+      "Notes": "火 fire + 丁 dīng (phonetic)"
+    },
+    {
+      "Hanzi": "太阳",
+      "Pinyin": "tàiyáng",
+      "Meaning": "the sun",
+      "Example": "太阳出来了。 tàiyáng chūlai le: The sun's come out.",
+      "Notes": "太 great + 阳 sun (阝 hill + 日 sun) = the great sun"
+    },
+    {
+      "Hanzi": "爬",
+      "Pinyin": "pá",
+      "Meaning": "to climb; to crawl",
+      "Example": "孩子在地上爬。 háizi zài dìshang pá: The kid is crawling on the floor.",
+      "Notes": "爪 claw + 巴 bā (phonetic)"
+    },
+    {
+      "Hanzi": "英语",
+      "Pinyin": "Yīngyǔ",
+      "Meaning": "English (language)",
+      "Example": "你的英语很好。 nǐ de Yīngyǔ hěn hǎo: Your English is very good.",
+      "Notes": "英 (from 英国 England) + 语 language"
+    },
+    {
+      "Hanzi": "喊",
+      "Pinyin": "hǎn",
+      "Meaning": "to shout, call out",
+      "Example": "有人在喊你。 yǒu rén zài hǎn nǐ: Someone's calling you.",
+      "Notes": "口 mouth + 咸 xián (phonetic)"
+    },
+    {
+      "Hanzi": "合适",
+      "Pinyin": "héshì",
+      "Meaning": "suitable, a good fit",
+      "Example": "这件衣服很合适。 zhè jiàn yīfu hěn héshì: This piece of clothing fits well.",
+      "Notes": "合 fit together + 适 suit = fits right"
+    },
+    {
+      "Hanzi": "答应",
+      "Pinyin": "dāying",
+      "Meaning": "to agree, promise; to answer",
+      "Example": "他答应我了。 tā dāying wǒ le: He said yes to me.",
+      "Notes": "答 answer (here dā) + 应 respond = say yes"
+    },
+    {
+      "Hanzi": "热情",
+      "Pinyin": "rèqíng",
+      "Meaning": "warm, enthusiastic",
+      "Example": "他们对我很热情。 tāmen duì wǒ hěn rèqíng: They were very warm to me.",
+      "Notes": "热 hot + 情 feeling = warm feelings"
+    },
+    {
+      "Hanzi": "骑",
+      "Pinyin": "qí",
+      "Meaning": "to ride (astride)",
+      "Example": "我骑车上班。 wǒ qí chē shàngbān: I bike to work.",
+      "Notes": "马 horse + 奇 qí (phonetic): ride a horse"
+    },
+    {
+      "Hanzi": "响",
+      "Pinyin": "xiǎng",
+      "Meaning": "to ring, make a sound; loud",
+      "Example": "电话响了。 diànhuà xiǎng le: The phone's ringing.",
+      "Notes": "口 mouth + 向 xiàng (phonetic)"
+    },
+    {
+      "Hanzi": "河",
+      "Pinyin": "hé",
+      "Meaning": "river",
+      "Example": "河边有很多人。 hé biān yǒu hěn duō rén: There are lots of people by the river.",
+      "Notes": "氵 water + 可 kě (phonetic)"
+    },
+    {
+      "Hanzi": "举",
+      "Pinyin": "jǔ",
+      "Meaning": "to lift, raise",
+      "Example": "他举起了杯子。 tā jǔqǐ le bēizi: He raised his glass.",
+      "Notes": "Simplified from 舉, which has 手 hand at the bottom"
+    },
+    {
+      "Hanzi": "多久",
+      "Pinyin": "duōjiǔ",
+      "Meaning": "how long?",
+      "Example": "你等了多久？ nǐ děng le duōjiǔ: How long did you wait?",
+      "Notes": "多 how much + 久 a long time"
+    },
+    {
+      "Hanzi": "感动",
+      "Pinyin": "gǎndòng",
+      "Meaning": "moved, touched",
+      "Example": "我很感动。 wǒ hěn gǎndòng: I'm really touched.",
+      "Notes": "感 feel + 动 move = feeling moved"
+    },
+    {
+      "Hanzi": "组成",
+      "Pinyin": "zǔchéng",
+      "Meaning": "to form, make up",
+      "Example": "我们组成了一个队。 wǒmen zǔchéng le yí ge duì: We formed a team.",
+      "Notes": "组 group (纟 + 且 qiě) + 成 become"
+    },
+    {
+      "Hanzi": "不久",
+      "Pinyin": "bùjiǔ",
+      "Meaning": "soon; not long after",
+      "Example": "不久他就回来了。 bùjiǔ tā jiù huílai le: Before long he came back.",
+      "Notes": "不 not + 久 long time"
+    },
+    {
+      "Hanzi": "接下来",
+      "Pinyin": "jiēxiàlái",
+      "Meaning": "next, what comes next",
+      "Example": "接下来做什么？ jiēxiàlái zuò shénme: What's next?",
+      "Notes": "接 take over + 下来 come down = what follows"
+    },
+    {
+      "Hanzi": "车辆",
+      "Pinyin": "chēliàng",
+      "Meaning": "vehicles",
+      "Example": "路上车辆很多。 lù shang chēliàng hěn duō: There's a lot of traffic.",
+      "Notes": "车 vehicle + 辆 (measure for vehicles: 车 + 两 liǎng)"
+    },
+    {
+      "Hanzi": "停车",
+      "Pinyin": "tíngchē",
+      "Meaning": "to park; to stop a vehicle",
+      "Example": "这里不能停车。 zhèlǐ bù néng tíngchē: You can't park here.",
+      "Notes": "停 stop (亻 + 亭 tíng) + 车 vehicle"
+    },
+    {
+      "Hanzi": "花园",
+      "Pinyin": "huāyuán",
+      "Meaning": "garden",
+      "Example": "我家后面有个花园。 wǒ jiā hòumiàn yǒu ge huāyuán: There's a garden behind my house.",
+      "Notes": "花 flower + 园 garden (囗 enclosure + 元 yuán)"
+    },
+    {
+      "Hanzi": "太太",
+      "Pinyin": "tàitai",
+      "Meaning": "wife; Mrs.",
+      "Example": "这是我太太。 zhè shì wǒ tàitai: This is my wife.",
+      "Notes": "太 doubled; also Mrs. after a surname: 王太太"
+    },
+    {
+      "Hanzi": "校园",
+      "Pinyin": "xiàoyuán",
+      "Meaning": "campus",
+      "Example": "我们的校园很大。 wǒmen de xiàoyuán hěn dà: Our campus is big.",
+      "Notes": "校 school + 园 grounds"
+    },
+    {
+      "Hanzi": "停车场",
+      "Pinyin": "tíngchēchǎng",
+      "Meaning": "parking lot",
+      "Example": "停车场在哪儿？ tíngchēchǎng zài nǎr: Where's the parking lot?",
+      "Notes": "停车 park + 场 open area"
+    },
+    {
+      "Hanzi": "举手",
+      "Pinyin": "jǔshǒu",
+      "Meaning": "to raise one's hand",
+      "Example": "有问题请举手。 yǒu wèntí qǐng jǔshǒu: If you have a question, raise your hand.",
+      "Notes": "举 lift + 手 hand"
+    },
+    {
+      "Hanzi": "下雪",
+      "Pinyin": "xiàxuě",
+      "Meaning": "to snow",
+      "Example": "明天会下雪吗？ míngtiān huì xiàxuě ma: Will it snow tomorrow?",
+      "Notes": "下 fall + 雪 snow"
+    },
+    {
+      "Hanzi": "英文",
+      "Pinyin": "Yīngwén",
+      "Meaning": "English (esp. written)",
+      "Example": "这本书是英文的。 zhè běn shū shì Yīngwén de: This book is in English.",
+      "Notes": "英 English + 文 writing"
+    },
+    {
+      "Hanzi": "骑车",
+      "Pinyin": "qíchē",
+      "Meaning": "to ride a bike",
+      "Example": "我每天骑车上学。 wǒ měi tiān qíchē shàngxué: I bike to school every day.",
+      "Notes": "骑 ride + 车 vehicle (here a bike)"
+    },
+    {
+      "Hanzi": "动物园",
+      "Pinyin": "dòngwùyuán",
+      "Meaning": "zoo",
+      "Example": "我们去动物园吧。 wǒmen qù dòngwùyuán ba: Let's go to the zoo.",
+      "Notes": "动物 animal (moving thing) + 园 garden = animal garden"
+    }
+  ]
+}

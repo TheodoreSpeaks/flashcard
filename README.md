@@ -34,7 +34,8 @@ fc help              # everything else
 | pack | what |
 |---|---|
 | `bengali` | spoken Kolkata Bengali, romanized, informal (tumi) |
-| `chinese` | reading simplified characters (characters → pinyin/meaning) |
+| `chinese` | reading simplified characters, HSK 1–3 in frequency order (characters → pinyin/meaning); untick words you can already read |
+| `zhwrite` | handwriting the 300 most common characters (word with a blank → write the character) |
 | `zhvocab` | adult Mandarin vocab (English → Chinese) |
 | `bnread` | reading Bengali script, a few letters at a time, then words |
 | `bnvocab` | adult Bengali vocab for heritage speakers (English → Bengali) |

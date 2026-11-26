@@ -1,0 +1,97 @@
+{
+  "title": "Write 9 · 欢 吃 谁 新 打 快 比 话 月 车 开 方 电 路 早",
+  "focus": "欢 吃 谁 新 打 快 比 话 月 车 开 方 电 路 早",
+  "body": "Repeating parts: 讠 speech (谁, 话), 扌 hand (打), 忄 heart (快), ⻊ foot (路), 日 (电, 早), 欠 (欢).\n\n## Rules that matter here\n- **Horizontal before vertical**: 车, 开, 早's 十 — the vertical comes at the end.\n- **忄**: dot, dot, then the vertical.\n- 电: the hooked tail through 日 is last.",
+  "cards": [
+    {
+      "Prompt": "喜＿ · xǐhuan · to like",
+      "Hanzi": "欢",
+      "Pinyin": "huan",
+      "Notes": "又 hand (2) + 欠 yawn (4) = 6 strokes. Left before right. Lookalike: 次 (冫 + 欠)."
+    },
+    {
+      "Prompt": "＿饭 · chī fàn · to eat",
+      "Hanzi": "吃",
+      "Pinyin": "chī",
+      "Notes": "口 mouth (3) + 乞 (3: ノ, 一, 乙, phonetic qǐ) = 6 strokes. Left before right."
+    },
+    {
+      "Prompt": "是＿？ · shì shéi · who is it?",
+      "Hanzi": "谁",
+      "Pinyin": "shéi",
+      "Notes": "讠 speech (2) + 隹 short-tailed bird (8, phonetic zhuī) = 10 strokes. Also read shuí. Lookalike: 难 (又 + 隹)."
+    },
+    {
+      "Prompt": "＿年 · xīnnián · New Year",
+      "Hanzi": "新",
+      "Pinyin": "xīn",
+      "Notes": "亲 (9: 立 + 木-like) + 斤 axe (4) = 13 strokes. Left before right. Lookalike: 亲 alone."
+    },
+    {
+      "Prompt": "＿电话 · dǎ diànhuà · to make a phone call",
+      "Hanzi": "打",
+      "Pinyin": "dǎ",
+      "Notes": "扌 hand (3) + 丁 (2, phonetic dīng) = 5 strokes. 扌: 一, vertical hook, rising stroke; then 丁."
+    },
+    {
+      "Prompt": "＿乐 · kuàilè · happy",
+      "Hanzi": "快",
+      "Pinyin": "kuài",
+      "Notes": "忄 heart (3) + 夬 (4, phonetic guài) = 7 strokes. 忄: left dot, right dot, then the vertical. Lookalike: 块 (土)."
+    },
+    {
+      "Prompt": "＿较 · bǐjiào · relatively",
+      "Hanzi": "比",
+      "Pinyin": "bǐ",
+      "Notes": "Two 匕 side by side = 4 strokes: 一, 竖提 (left), then ノ, 竖弯钩 (right). Left before right."
+    },
+    {
+      "Prompt": "电＿ · diànhuà · telephone",
+      "Hanzi": "话",
+      "Pinyin": "huà",
+      "Notes": "讠 speech (2) + 舌 tongue (6) = 8 strokes. Left before right. Lookalike: 活 (氵 + 舌)."
+    },
+    {
+      "Prompt": "＿亮 · yuèliang · the moon",
+      "Hanzi": "月",
+      "Pinyin": "yuè",
+      "Notes": "4 strokes: ノ, 横折钩, then two inner horizontals. Lookalikes: 用, 目."
+    },
+    {
+      "Prompt": "开＿ · kāi chē · to drive",
+      "Hanzi": "车",
+      "Pinyin": "chē",
+      "Notes": "4 strokes: 一, 𠃋 (撇折), 一, then the vertical LAST. A simplified cart seen from above."
+    },
+    {
+      "Prompt": "＿心 · kāixīn · happy",
+      "Hanzi": "开",
+      "Pinyin": "kāi",
+      "Notes": "4 strokes: 一, 一, ノ, then the vertical. Horizontal before vertical. Lookalike: 井 (two verticals cross both lines)."
+    },
+    {
+      "Prompt": "地＿ · dìfang · place",
+      "Hanzi": "方",
+      "Pinyin": "fang",
+      "Notes": "4 strokes: dot, 一, 横折钩, then ノ last. Lookalikes: 万 (no dot), 力."
+    },
+    {
+      "Prompt": "＿视 · diànshì · TV",
+      "Hanzi": "电",
+      "Pinyin": "diàn",
+      "Notes": "日 (4) + a vertical with a hooked tail (乚) through it = 5 strokes. 日 first, the 竖弯钩 LAST."
+    },
+    {
+      "Prompt": "走＿ · zǒulù · to walk",
+      "Hanzi": "路",
+      "Pinyin": "lù",
+      "Notes": "⻊ foot (7) + 各 each (6, phonetic-ish) = 13 strokes. Left before right. Lookalike: 跟 (⻊ + 艮)."
+    },
+    {
+      "Prompt": "＿上 · zǎoshang · morning",
+      "Hanzi": "早",
+      "Pinyin": "zǎo",
+      "Notes": "日 sun (4) + 十 (2) = 6 strokes. Top before bottom. Sun above the horizon line = early. Lookalike: 旱 (干)."
+    }
+  ]
+}

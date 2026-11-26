@@ -1,0 +1,287 @@
+{
+  "title": "HSK 3.10 · 前进, 进步, 足够, 制造, 全面",
+  "focus": "输 · 充满 · 皮 · 增加 · 期 · 姑娘 · 创造 · 麻烦 · 武器 · 思想 · 害怕 · 龙 · 满足 · 等待 · 乐 · 超级 · 猪 · 团 · 世纪 · 制造 · 足够 · 前面 · 制作 · 全球 · 进一步 · 进展 · 提前 · 恐怕 · 进步 · 对待 · 前往 · 眼前 · 足球 · 全面 · 造 · 前进 · 机器 · 表面 · 作者 · 纪念",
+  "body": "前 *front* is the star here (前面, 提前, 前往, 眼前, 前进), with 进 *advance*, 足 *foot, enough*, 造 *make* and 面 *face, surface* each showing up in three or more words.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 前 | qián | front, before | 前面, 提前, 前往, 眼前, 前进 |\n| 进 | jìn | advance, enter (辶 walk) | 进一步, 进展, 进步, 前进 |\n| 足 | zú | foot; enough | 满足, 足够, 足球 |\n| 造 | zào | make, build (辶 walk + 告) | 创造, 制造, 造 |\n| 面 | miàn | face, surface, side | 前面, 全面, 表面 |\n| 制 | zhì | make, control (刂 knife) | 制造, 制作 |\n| 器 | qì | tool, vessel | 武器, 机器 |\n| 待 | dài | wait, treat (彳 step) | 等待, 对待 |\n\n## Watch out\n\n- 乐 is **lè** (happy, 快乐) but **yuè** (music, 音乐).\n- 怕 appears in both 害怕 (afraid) and 恐怕 (I'm afraid that, probably): the second is a soft \"probably\".\n- 纪 (纟 thread) vs 记 (讠 speech): 世纪, 纪念 use 纪; 记得 uses 记.",
+  "cards": [
+    {
+      "Hanzi": "输",
+      "Pinyin": "shū",
+      "Meaning": "to lose; to transport",
+      "Example": "我们输了比赛。 wǒmen shū le bǐsài: We lost the match",
+      "Notes": "车 cart + 俞 yú (phonetic) = carry by cart; also lose (a game)"
+    },
+    {
+      "Hanzi": "充满",
+      "Pinyin": "chōngmǎn",
+      "Meaning": "to be full of",
+      "Example": "房间充满阳光。 fángjiān chōngmǎn yángguāng: The room is full of sun",
+      "Notes": "充 fill + 满 full (氵 water) = filled to the brim"
+    },
+    {
+      "Hanzi": "皮",
+      "Pinyin": "pí",
+      "Meaning": "skin, leather",
+      "Example": "苹果皮可以吃。 píngguǒ pí kěyǐ chī: You can eat apple skin",
+      "Notes": "Picture of a hand (又) peeling hide off. Common as phonetic: 皮 pí in 被, 破, 疲"
+    },
+    {
+      "Hanzi": "增加",
+      "Pinyin": "zēngjiā",
+      "Meaning": "to increase",
+      "Example": "人数增加了。 rénshù zēngjiā le: The number of people went up",
+      "Notes": "增 add on (土 earth + 曾 céng sound) + 加 add = add more, increase"
+    },
+    {
+      "Hanzi": "期",
+      "Pinyin": "qī",
+      "Meaning": "period; (measure word: issues)",
+      "Example": "下个星期见。 xià ge xīngqī jiàn: See you next week",
+      "Notes": "月 moon + 其 qí for the sound = a lunar period, a set time"
+    },
+    {
+      "Hanzi": "姑娘",
+      "Pinyin": "gūniang",
+      "Meaning": "girl, young woman",
+      "Example": "那个姑娘很漂亮。 nàge gūniang hěn piàoliang: That girl is pretty",
+      "Notes": "姑 aunt (女 + 古 gǔ sound) + 娘 young woman (女 + 良 liáng sound) = girl"
+    },
+    {
+      "Hanzi": "创造",
+      "Pinyin": "chuàngzào",
+      "Meaning": "to create",
+      "Example": "他创造了新纪录。 tā chuàngzào le xīn jìlù: He set a new record",
+      "Notes": "创 start, found (刂 knife + 仓 cāng sound) + 造 make = make something new"
+    },
+    {
+      "Hanzi": "麻烦",
+      "Pinyin": "máfan",
+      "Meaning": "troublesome; to bother",
+      "Example": "麻烦你了，谢谢！ máfan nǐ le, xièxie: Sorry to trouble you, thanks!",
+      "Notes": "麻 hemp (tangled fibres) + 烦 annoyed (火 fire + 页 head) = tangled, bothersome"
+    },
+    {
+      "Hanzi": "武器",
+      "Pinyin": "wǔqì",
+      "Meaning": "weapon",
+      "Example": "他们没有武器。 tāmen méiyǒu wǔqì: They have no weapons",
+      "Notes": "武 military (止 + 戈 spear) + 器 tool = military tool, weapon"
+    },
+    {
+      "Hanzi": "思想",
+      "Pinyin": "sīxiǎng",
+      "Meaning": "thought, ideology",
+      "Example": "他的思想很新。 tā de sīxiǎng hěn xīn: His thinking is fresh",
+      "Notes": "思 think (田 + 心 heart) + 想 think (相 + 心) = thinking, ideas"
+    },
+    {
+      "Hanzi": "害怕",
+      "Pinyin": "hàipà",
+      "Meaning": "to be afraid",
+      "Example": "我害怕打针。 wǒ hàipà dǎzhēn: I'm afraid of injections",
+      "Notes": "害 harm + 怕 fear (忄 heart + 白 bái sound) = fear harm, afraid"
+    },
+    {
+      "Hanzi": "龙",
+      "Pinyin": "lóng",
+      "Meaning": "dragon",
+      "Example": "我属龙。 wǒ shǔ lóng: I was born in the Year of the Dragon",
+      "Notes": "Simplified from the pictograph 龍 of a dragon. Lookalike: 尤 yóu"
+    },
+    {
+      "Hanzi": "满足",
+      "Pinyin": "mǎnzú",
+      "Meaning": "to satisfy; satisfied",
+      "Example": "我很满足。 wǒ hěn mǎnzú: I'm content",
+      "Notes": "满 full + 足 enough = full and enough, satisfied"
+    },
+    {
+      "Hanzi": "等待",
+      "Pinyin": "děngdài",
+      "Meaning": "to wait for",
+      "Example": "我们在等待消息。 wǒmen zài děngdài xiāoxi: We're waiting for news",
+      "Notes": "等 wait + 待 wait (彳 step + 寺 sì sound) = wait"
+    },
+    {
+      "Hanzi": "乐",
+      "Pinyin": "lè / yuè",
+      "Meaning": "happy / music",
+      "Example": "祝你生日快乐！ zhù nǐ shēngrì kuàilè: Happy birthday!",
+      "Notes": "Simplified from 樂, drums on a wooden stand: music (yuè), then joy (lè)"
+    },
+    {
+      "Hanzi": "超级",
+      "Pinyin": "chāojí",
+      "Meaning": "super",
+      "Example": "这个超级好吃！ zhège chāojí hǎochī: This is super tasty!",
+      "Notes": "超 surpass (走 walk + 召 zhào sound) + 级 level = above the level, super"
+    },
+    {
+      "Hanzi": "猪",
+      "Pinyin": "zhū",
+      "Meaning": "pig",
+      "Example": "我不吃猪肉。 wǒ bù chī zhūròu: I don't eat pork",
+      "Notes": "犭 animal + 者 zhě for the sound. Same 者 as in 都, 猪, 煮"
+    },
+    {
+      "Hanzi": "团",
+      "Pinyin": "tuán",
+      "Meaning": "group; round lump",
+      "Example": "我们是一个团。 wǒmen shì yí ge tuán: We're one group",
+      "Notes": "囗 enclosure + 才, simplified from 團 (專 zhuān for the sound) = round mass; group"
+    },
+    {
+      "Hanzi": "世纪",
+      "Pinyin": "shìjì",
+      "Meaning": "century",
+      "Example": "现在是二十一世纪。 xiànzài shì èrshíyī shìjì: It's the 21st century",
+      "Notes": "世 generation, era + 纪 record, period (纟 + 己 jǐ sound) = era period, century"
+    },
+    {
+      "Hanzi": "制造",
+      "Pinyin": "zhìzào",
+      "Meaning": "to manufacture, make",
+      "Example": "这是中国制造的。 zhè shì Zhōngguó zhìzào de: This is made in China",
+      "Notes": "制 make (刂 knife) + 造 make = manufacture"
+    },
+    {
+      "Hanzi": "足够",
+      "Pinyin": "zúgòu",
+      "Meaning": "enough",
+      "Example": "时间足够了。 shíjiān zúgòu le: There's enough time",
+      "Notes": "足 enough + 够 enough (多 many + 句 jù sound) = sufficient"
+    },
+    {
+      "Hanzi": "前面",
+      "Pinyin": "qiánmiàn",
+      "Meaning": "in front, ahead",
+      "Example": "前面有一家店。 qiánmiàn yǒu yì jiā diàn: There's a shop ahead",
+      "Notes": "前 front + 面 face, side = the front side"
+    },
+    {
+      "Hanzi": "制作",
+      "Pinyin": "zhìzuò",
+      "Meaning": "to make, produce",
+      "Example": "这个蛋糕是我制作的。 zhège dàngāo shì wǒ zhìzuò de: I made this cake",
+      "Notes": "制 make + 作 do, make = make, produce (films, crafts)"
+    },
+    {
+      "Hanzi": "全球",
+      "Pinyin": "quánqiú",
+      "Meaning": "global, worldwide",
+      "Example": "全球都知道他。 quánqiú dōu zhīdao tā: The whole world knows him",
+      "Notes": "全 whole + 球 ball, globe = the whole globe"
+    },
+    {
+      "Hanzi": "进一步",
+      "Pinyin": "jìnyíbù",
+      "Meaning": "further; a step further",
+      "Example": "我们进一步谈谈。 wǒmen jìnyíbù tántan: Let's discuss further",
+      "Notes": "进 advance + 一 one + 步 step = advance one more step. 一 is yí before bù"
+    },
+    {
+      "Hanzi": "进展",
+      "Pinyin": "jìnzhǎn",
+      "Meaning": "progress",
+      "Example": "有什么进展吗？ yǒu shénme jìnzhǎn ma: Any progress?",
+      "Notes": "进 advance + 展 unfold, extend = move forward and unfold"
+    },
+    {
+      "Hanzi": "提前",
+      "Pinyin": "tíqián",
+      "Meaning": "to bring forward, in advance",
+      "Example": "我提前到了。 wǒ tíqián dào le: I arrived early",
+      "Notes": "提 lift (扌 hand) + 前 front = lift to the front, ahead of time"
+    },
+    {
+      "Hanzi": "恐怕",
+      "Pinyin": "kǒngpà",
+      "Meaning": "I'm afraid (that); probably",
+      "Example": "恐怕要下雨了。 kǒngpà yào xià yǔ le: I'm afraid it'll rain",
+      "Notes": "恐 fear (心 heart) + 怕 fear = fearing that, probably"
+    },
+    {
+      "Hanzi": "进步",
+      "Pinyin": "jìnbù",
+      "Meaning": "progress; to improve",
+      "Example": "你的中文进步了！ nǐ de Zhōngwén jìnbù le: Your Chinese has improved!",
+      "Notes": "进 advance + 步 step = step forward, improve"
+    },
+    {
+      "Hanzi": "对待",
+      "Pinyin": "duìdài",
+      "Meaning": "to treat (someone)",
+      "Example": "他对待我很好。 tā duìdài wǒ hěn hǎo: He treats me well",
+      "Notes": "对 facing + 待 treat = how you face and treat someone"
+    },
+    {
+      "Hanzi": "前往",
+      "Pinyin": "qiánwǎng",
+      "Meaning": "to go to, head for",
+      "Example": "我们前往机场。 wǒmen qiánwǎng jīchǎng: We're heading to the airport",
+      "Notes": "前 forward + 往 go towards (彳 step) = go forward to, head for"
+    },
+    {
+      "Hanzi": "眼前",
+      "Pinyin": "yǎnqián",
+      "Meaning": "before one's eyes; at present",
+      "Example": "他就在眼前。 tā jiù zài yǎnqián: He's right before my eyes",
+      "Notes": "眼 eye + 前 front = in front of the eyes; right now"
+    },
+    {
+      "Hanzi": "足球",
+      "Pinyin": "zúqiú",
+      "Meaning": "football, soccer",
+      "Example": "我们去踢足球吧。 wǒmen qù tī zúqiú ba: Let's go play football",
+      "Notes": "足 foot + 球 ball = foot-ball"
+    },
+    {
+      "Hanzi": "全面",
+      "Pinyin": "quánmiàn",
+      "Meaning": "comprehensive, all-round",
+      "Example": "我们要全面了解。 wǒmen yào quánmiàn liǎojiě: We need a full picture",
+      "Notes": "全 whole + 面 side, face = every side, all-round"
+    },
+    {
+      "Hanzi": "造",
+      "Pinyin": "zào",
+      "Meaning": "to make, build",
+      "Example": "这座桥是新造的。 zhè zuò qiáo shì xīn zào de: This bridge is newly built",
+      "Notes": "辶 walk + 告 gào (phonetic) = make, build"
+    },
+    {
+      "Hanzi": "前进",
+      "Pinyin": "qiánjìn",
+      "Meaning": "to advance, go forward",
+      "Example": "我们继续前进。 wǒmen jìxù qiánjìn: We keep moving forward",
+      "Notes": "前 forward + 进 advance = go forward"
+    },
+    {
+      "Hanzi": "机器",
+      "Pinyin": "jīqì",
+      "Meaning": "machine",
+      "Example": "这台机器坏了。 zhè tái jīqì huài le: This machine is broken",
+      "Notes": "机 machine (木 wood + 几 jǐ sound) + 器 tool = machine"
+    },
+    {
+      "Hanzi": "表面",
+      "Pinyin": "biǎomiàn",
+      "Meaning": "surface",
+      "Example": "表面上他很高兴。 biǎomiàn shang tā hěn gāoxìng: On the surface he's happy",
+      "Notes": "表 outside + 面 face = outer face, surface"
+    },
+    {
+      "Hanzi": "作者",
+      "Pinyin": "zuòzhě",
+      "Meaning": "author",
+      "Example": "这本书的作者是谁？ zhè běn shū de zuòzhě shì shéi: Who's this book's author?",
+      "Notes": "作 make, write + 者 person who = the one who wrote it"
+    },
+    {
+      "Hanzi": "纪念",
+      "Pinyin": "jìniàn",
+      "Meaning": "to commemorate; souvenir",
+      "Example": "这是一个纪念。 zhè shì yí ge jìniàn: This is a keepsake",
+      "Notes": "纪 record + 念 remember (今 + 心 heart) = record and remember"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.16 · 东方, 西北, 午餐, 便宜",
+  "focus": "湖 · 绿 · 便宜 · 南方 · 对话 · 大声 · 大大 · 大小 · 对面 · 笑话 · 凉 · 午餐 · 西方 · 假期 · 从小 · 北方 · 快要 · 东方 · 大海 · 大衣 · 学期 · 东北 · 西南 · 西北 · 年级 · 东南 · 快餐 · 过年 · 中餐 · 普通话 · 全年 · 方便面 · 中医 · 前年 · 凉快 · 午睡 · 中级 · 西医 · 中小学",
+  "body": "Directions (东方, 西南, 东北), meals (午餐, 快餐, 中餐) and time words (假期, 学期, 前年). 方, 大 and 中 build most of the lesson.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 方 | fāng | direction, side | 南方, 西方, 北方, 东方, 方便面 |\n| 大 | dà | big | 大声, 大大, 大小, 大海, 大衣 |\n| 中 | zhōng | middle; China | 中餐, 中医, 中级, 中小学 |\n| 东 / 西 | dōng / xī | east / west | 东方, 东北, 东南, 西方, 西南, 西北 |\n| 餐 | cān | meal | 午餐, 快餐, 中餐 |\n| 年 | nián | year | 年级, 过年, 全年, 前年 |\n| 期 | qī | period of time (其 qí + 月 moon) | 假期, 学期 |\n| 医 | yī | medicine, doctor | 中医, 西医 |\n\n## Watch out\n\n- 便宜 is piányi (cheap), but 便 is biàn in 方便 (convenient) and 方便面.\n- 假 is jià in 假期 (holiday) but jiǎ when it means fake.\n- 午 wǔ (noon) vs 牛 niú (cow): 牛's middle stroke pokes through the top.\n- Chinese names the compass as 东北, 西南 (east/west first), the reverse of English northeast.",
+  "cards": [
+    {
+      "Hanzi": "湖",
+      "Pinyin": "hú",
+      "Meaning": "lake",
+      "Example": "我们去湖边走走。 wǒmen qù hú biān zǒuzou: Let's take a walk by the lake.",
+      "Notes": "氵 water + 胡 hú (phonetic)"
+    },
+    {
+      "Hanzi": "绿",
+      "Pinyin": "lǜ",
+      "Meaning": "green",
+      "Example": "春天树都绿了。 chūntiān shù dōu lǜ le: In spring the trees turn green.",
+      "Notes": "纟 silk (dyed thread) + 录 lù (phonetic)"
+    },
+    {
+      "Hanzi": "便宜",
+      "Pinyin": "piányi",
+      "Meaning": "cheap",
+      "Example": "这个很便宜。 zhège hěn piányi: This is really cheap.",
+      "Notes": "便 handy + 宜 suitable; 便 is pián only here, biàn in 方便"
+    },
+    {
+      "Hanzi": "南方",
+      "Pinyin": "nánfāng",
+      "Meaning": "the south",
+      "Example": "我是南方人。 wǒ shì nánfāng rén: I'm from the south.",
+      "Notes": "南 south + 方 direction"
+    },
+    {
+      "Hanzi": "对话",
+      "Pinyin": "duìhuà",
+      "Meaning": "dialogue, conversation",
+      "Example": "我们听一段对话。 wǒmen tīng yí duàn duìhuà: Let's listen to a dialogue.",
+      "Notes": "对 facing + 话 speech = talk face to face"
+    },
+    {
+      "Hanzi": "大声",
+      "Pinyin": "dàshēng",
+      "Meaning": "loudly",
+      "Example": "请大声说。 qǐng dàshēng shuō: Please speak up.",
+      "Notes": "大 big + 声 voice"
+    },
+    {
+      "Hanzi": "大大",
+      "Pinyin": "dàdà",
+      "Meaning": "greatly, enormously",
+      "Example": "他的汉语大大提高了。 tā de Hànyǔ dàdà tígāo le: His Chinese has improved hugely.",
+      "Notes": "大 big doubled = in a big way"
+    },
+    {
+      "Hanzi": "大小",
+      "Pinyin": "dàxiǎo",
+      "Meaning": "size",
+      "Example": "这双鞋大小正好。 zhè shuāng xié dàxiǎo zhènghǎo: These shoes are just the right size.",
+      "Notes": "大 big + 小 small = how big or small"
+    },
+    {
+      "Hanzi": "对面",
+      "Pinyin": "duìmiàn",
+      "Meaning": "opposite, across from",
+      "Example": "银行在对面。 yínháng zài duìmiàn: The bank is across the street.",
+      "Notes": "对 facing + 面 face, side"
+    },
+    {
+      "Hanzi": "笑话",
+      "Pinyin": "xiàohua",
+      "Meaning": "joke; to laugh at",
+      "Example": "他讲了个笑话。 tā jiǎng le ge xiàohua: He told a joke.",
+      "Notes": "笑 laugh + 话 words = funny words"
+    },
+    {
+      "Hanzi": "凉",
+      "Pinyin": "liáng",
+      "Meaning": "cool, cold",
+      "Example": "水凉了。 shuǐ liáng le: The water's gone cold.",
+      "Notes": "冫 ice + 京 jīng (phonetic); 冫 has two dots, 氵 three"
+    },
+    {
+      "Hanzi": "午餐",
+      "Pinyin": "wǔcān",
+      "Meaning": "lunch",
+      "Example": "午餐吃什么？ wǔcān chī shénme: What's for lunch?",
+      "Notes": "午 noon + 餐 meal; 午 vs 牛 niú"
+    },
+    {
+      "Hanzi": "西方",
+      "Pinyin": "xīfāng",
+      "Meaning": "the West; west",
+      "Example": "他喜欢西方音乐。 tā xǐhuan xīfāng yīnyuè: He likes Western music.",
+      "Notes": "西 west + 方 direction"
+    },
+    {
+      "Hanzi": "假期",
+      "Pinyin": "jiàqī",
+      "Meaning": "vacation, holiday",
+      "Example": "假期你去哪儿？ jiàqī nǐ qù nǎr: Where are you going for the holidays?",
+      "Notes": "假 jià time off + 期 period; 假 is jiǎ when it means fake"
+    },
+    {
+      "Hanzi": "从小",
+      "Pinyin": "cóngxiǎo",
+      "Meaning": "since childhood",
+      "Example": "我从小就喜欢画画。 wǒ cóngxiǎo jiù xǐhuan huà huà: I've loved drawing since I was little.",
+      "Notes": "从 from + 小 small = from when small"
+    },
+    {
+      "Hanzi": "北方",
+      "Pinyin": "běifāng",
+      "Meaning": "the north",
+      "Example": "北方冬天很冷。 běifāng dōngtiān hěn lěng: Winters in the north are cold.",
+      "Notes": "北 north + 方 direction"
+    },
+    {
+      "Hanzi": "快要",
+      "Pinyin": "kuàiyào",
+      "Meaning": "about to, nearly",
+      "Example": "快要下雨了。 kuàiyào xià yǔ le: It's about to rain.",
+      "Notes": "快 soon + 要 going to; ends with 了"
+    },
+    {
+      "Hanzi": "东方",
+      "Pinyin": "dōngfāng",
+      "Meaning": "the East; east",
+      "Example": "太阳从东方出来。 tàiyáng cóng dōngfāng chūlai: The sun comes up in the east.",
+      "Notes": "东 east + 方 direction"
+    },
+    {
+      "Hanzi": "大海",
+      "Pinyin": "dàhǎi",
+      "Meaning": "the sea, ocean",
+      "Example": "我想去看大海。 wǒ xiǎng qù kàn dàhǎi: I want to go see the sea.",
+      "Notes": "大 big + 海 sea"
+    },
+    {
+      "Hanzi": "大衣",
+      "Pinyin": "dàyī",
+      "Meaning": "overcoat",
+      "Example": "外面冷，穿上大衣。 wàimiàn lěng, chuānshang dàyī: It's cold out, put on your coat.",
+      "Notes": "大 big + 衣 clothes = big coat"
+    },
+    {
+      "Hanzi": "学期",
+      "Pinyin": "xuéqī",
+      "Meaning": "semester, term",
+      "Example": "这个学期很忙。 zhège xuéqī hěn máng: This semester is busy.",
+      "Notes": "学 study + 期 period"
+    },
+    {
+      "Hanzi": "东北",
+      "Pinyin": "dōngběi",
+      "Meaning": "northeast; Northeast China",
+      "Example": "他是东北人。 tā shì Dōngběi rén: He's from the Northeast.",
+      "Notes": "东 east + 北 north; Chinese says east/west first"
+    },
+    {
+      "Hanzi": "西南",
+      "Pinyin": "xīnán",
+      "Meaning": "southwest",
+      "Example": "云南在中国西南。 Yúnnán zài Zhōngguó xīnán: Yunnan is in southwest China.",
+      "Notes": "西 west + 南 south"
+    },
+    {
+      "Hanzi": "西北",
+      "Pinyin": "xīběi",
+      "Meaning": "northwest",
+      "Example": "风从西北吹来。 fēng cóng xīběi chuīlai: The wind blows from the northwest.",
+      "Notes": "西 west + 北 north"
+    },
+    {
+      "Hanzi": "年级",
+      "Pinyin": "niánjí",
+      "Meaning": "grade, year (in school)",
+      "Example": "你上几年级？ nǐ shàng jǐ niánjí: What grade are you in?",
+      "Notes": "年 year + 级 level, grade (纟 + 及 jí)"
+    },
+    {
+      "Hanzi": "东南",
+      "Pinyin": "dōngnán",
+      "Meaning": "southeast",
+      "Example": "东南边有一个湖。 dōngnán biān yǒu yí ge hú: There's a lake to the southeast.",
+      "Notes": "东 east + 南 south"
+    },
+    {
+      "Hanzi": "快餐",
+      "Pinyin": "kuàicān",
+      "Meaning": "fast food",
+      "Example": "我不爱吃快餐。 wǒ bú ài chī kuàicān: I don't like fast food.",
+      "Notes": "快 fast + 餐 meal"
+    },
+    {
+      "Hanzi": "过年",
+      "Pinyin": "guònián",
+      "Meaning": "to celebrate Chinese New Year",
+      "Example": "过年你回家吗？ guònián nǐ huí jiā ma: Are you going home for New Year?",
+      "Notes": "过 pass, spend + 年 year"
+    },
+    {
+      "Hanzi": "中餐",
+      "Pinyin": "zhōngcān",
+      "Meaning": "Chinese food",
+      "Example": "你喜欢中餐还是西餐？ nǐ xǐhuan zhōngcān háishi xīcān: Do you like Chinese or Western food?",
+      "Notes": "中 China + 餐 meal"
+    },
+    {
+      "Hanzi": "普通话",
+      "Pinyin": "pǔtōnghuà",
+      "Meaning": "Mandarin (standard Chinese)",
+      "Example": "他普通话说得很好。 tā pǔtōnghuà shuō de hěn hǎo: His Mandarin is very good.",
+      "Notes": "普 universal + 通 common + 话 speech = common speech"
+    },
+    {
+      "Hanzi": "全年",
+      "Pinyin": "quánnián",
+      "Meaning": "the whole year",
+      "Example": "这里全年都很热。 zhèlǐ quánnián dōu hěn rè: It's hot here all year.",
+      "Notes": "全 whole + 年 year"
+    },
+    {
+      "Hanzi": "方便面",
+      "Pinyin": "fāngbiànmiàn",
+      "Meaning": "instant noodles",
+      "Example": "别老吃方便面。 bié lǎo chī fāngbiànmiàn: Don't keep eating instant noodles.",
+      "Notes": "方便 convenient + 面 noodles"
+    },
+    {
+      "Hanzi": "中医",
+      "Pinyin": "zhōngyī",
+      "Meaning": "Chinese medicine; its doctor",
+      "Example": "我去看中医。 wǒ qù kàn zhōngyī: I'm going to see a Chinese-medicine doctor.",
+      "Notes": "中 China + 医 medicine"
+    },
+    {
+      "Hanzi": "前年",
+      "Pinyin": "qiánnián",
+      "Meaning": "the year before last",
+      "Example": "我前年去过北京。 wǒ qiánnián qùguo Běijīng: I went to Beijing two years ago.",
+      "Notes": "前 before + 年 year"
+    },
+    {
+      "Hanzi": "凉快",
+      "Pinyin": "liángkuai",
+      "Meaning": "nice and cool",
+      "Example": "今天很凉快。 jīntiān hěn liángkuai: It's nice and cool today.",
+      "Notes": "凉 cool + 快 pleasant"
+    },
+    {
+      "Hanzi": "午睡",
+      "Pinyin": "wǔshuì",
+      "Meaning": "afternoon nap",
+      "Example": "我每天都午睡。 wǒ měi tiān dōu wǔshuì: I nap every afternoon.",
+      "Notes": "午 noon + 睡 sleep"
+    },
+    {
+      "Hanzi": "中级",
+      "Pinyin": "zhōngjí",
+      "Meaning": "intermediate level",
+      "Example": "我在上中级班。 wǒ zài shàng zhōngjí bān: I'm in the intermediate class.",
+      "Notes": "中 middle + 级 level"
+    },
+    {
+      "Hanzi": "西医",
+      "Pinyin": "xīyī",
+      "Meaning": "Western medicine; its doctor",
+      "Example": "你看中医还是西医？ nǐ kàn zhōngyī háishi xīyī: Do you see a Chinese or Western doctor?",
+      "Notes": "西 West + 医 medicine"
+    },
+    {
+      "Hanzi": "中小学",
+      "Pinyin": "zhōngxiǎoxué",
+      "Meaning": "primary and secondary schools",
+      "Example": "中小学都放假了。 zhōngxiǎoxué dōu fàngjià le: The schools are all on break.",
+      "Notes": "中学 middle school + 小学 primary school"
+    }
+  ]
+}

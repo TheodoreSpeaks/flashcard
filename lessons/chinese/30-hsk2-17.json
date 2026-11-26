@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.17 · 春天, 阴天, 春节, 音乐会",
+  "focus": "请求 · 准确 · 碗 · 夏天 · 有意思 · 冬天 · 节日 · 特点 · 阴 · 半夜 · 春天 · 天上 · 路边 · 点头 · 夜里 · 音乐会 · 秋天 · 海边 · 晴 · 里头 · 请客 · 日报 · 有点儿 · 干杯 · 晴天 · 那会儿 · 一路顺风 · 晚报 · 问路 · 音节 · 一点点 · 春节 · 阴天 · 读音 · 一路平安 · 不一会儿 · 干活儿 · 不太 · 画儿",
+  "body": "The four seasons (春天, 夏天, 秋天, 冬天), weather (阴, 晴), and sound words built on 音 (音乐会, 音节, 读音). Several erhua words (有点儿, 画儿) end in a curled r.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 天 | tiān | sky; day; season | 夏天, 冬天, 春天, 秋天, 天上, 晴天, 阴天 |\n| 音 | yīn | sound | 音乐会, 音节, 读音 |\n| 节 | jié | festival; section | 节日, 音节, 春节 |\n| 点 | diǎn | dot, point; a bit | 特点, 点头, 有点儿, 一点点 |\n| 请 | qǐng | to ask, invite | 请求, 请客 |\n| 报 | bào | newspaper | 日报, 晚报 |\n| 夜 | yè | night | 半夜, 夜里 |\n| 儿 | r | erhua ending (adds an r sound) | 有点儿, 那会儿, 不一会儿, 干活儿, 画儿 |\n\n## Watch out\n\n- 干 is gān (dry) in 干杯 but gàn (do) in 干活儿.\n- 阴 (阝 + 月 moon, overcast) is the mirror of 阳 (阝 + 日 sun).\n- 晴 qíng (sunny, 日) vs 请 qǐng (please, 讠) vs 情 qíng (feeling, 忄): same 青 sound part.",
+  "cards": [
+    {
+      "Hanzi": "请求",
+      "Pinyin": "qǐngqiú",
+      "Meaning": "request; to ask for",
+      "Example": "我有一个请求。 wǒ yǒu yí ge qǐngqiú: I have a favor to ask.",
+      "Notes": "请 ask politely + 求 beg, seek"
+    },
+    {
+      "Hanzi": "准确",
+      "Pinyin": "zhǔnquè",
+      "Meaning": "accurate, exact",
+      "Example": "他说得很准确。 tā shuō de hěn zhǔnquè: He put it exactly right.",
+      "Notes": "准 accurate + 确 certain"
+    },
+    {
+      "Hanzi": "碗",
+      "Pinyin": "wǎn",
+      "Meaning": "bowl",
+      "Example": "再来一碗饭。 zài lái yì wǎn fàn: Another bowl of rice, please.",
+      "Notes": "石 stone (stoneware) + 宛 wǎn (phonetic)"
+    },
+    {
+      "Hanzi": "夏天",
+      "Pinyin": "xiàtiān",
+      "Meaning": "summer",
+      "Example": "夏天太热了。 xiàtiān tài rè le: Summer is too hot.",
+      "Notes": "夏 summer + 天 season"
+    },
+    {
+      "Hanzi": "有意思",
+      "Pinyin": "yǒuyìsi",
+      "Meaning": "interesting, fun",
+      "Example": "这本书很有意思。 zhè běn shū hěn yǒuyìsi: This book is really interesting.",
+      "Notes": "有 have + 意思 meaning = has meaning"
+    },
+    {
+      "Hanzi": "冬天",
+      "Pinyin": "dōngtiān",
+      "Meaning": "winter",
+      "Example": "冬天很冷。 dōngtiān hěn lěng: Winter is cold.",
+      "Notes": "冬 winter (bottom ⺀ is ice) + 天 season"
+    },
+    {
+      "Hanzi": "节日",
+      "Pinyin": "jiérì",
+      "Meaning": "festival, holiday",
+      "Example": "你最喜欢什么节日？ nǐ zuì xǐhuan shénme jiérì: What's your favorite holiday?",
+      "Notes": "节 festival + 日 day"
+    },
+    {
+      "Hanzi": "特点",
+      "Pinyin": "tèdiǎn",
+      "Meaning": "feature, characteristic",
+      "Example": "这个城市有什么特点？ zhège chéngshì yǒu shénme tèdiǎn: What's special about this city?",
+      "Notes": "特 special + 点 point"
+    },
+    {
+      "Hanzi": "阴",
+      "Pinyin": "yīn",
+      "Meaning": "overcast, cloudy; shady",
+      "Example": "天阴了。 tiān yīn le: It's clouded over.",
+      "Notes": "阝 hill + 月 moon: the shady side; mirror of 阳 (阝 + 日 sun)"
+    },
+    {
+      "Hanzi": "半夜",
+      "Pinyin": "bànyè",
+      "Meaning": "middle of the night",
+      "Example": "他半夜才回来。 tā bànyè cái huílai: He didn't get back till midnight.",
+      "Notes": "半 half + 夜 night"
+    },
+    {
+      "Hanzi": "春天",
+      "Pinyin": "chūntiān",
+      "Meaning": "spring",
+      "Example": "春天花都开了。 chūntiān huā dōu kāi le: In spring the flowers all bloom.",
+      "Notes": "春 spring (bottom is 日 sun) + 天 season"
+    },
+    {
+      "Hanzi": "天上",
+      "Pinyin": "tiānshàng",
+      "Meaning": "in the sky",
+      "Example": "天上有很多星星。 tiān shàng yǒu hěn duō xīngxing: There are lots of stars in the sky.",
+      "Notes": "天 sky + 上 on, up"
+    },
+    {
+      "Hanzi": "路边",
+      "Pinyin": "lùbiān",
+      "Meaning": "roadside",
+      "Example": "他在路边等我。 tā zài lùbiān děng wǒ: He's waiting for me by the road.",
+      "Notes": "路 road + 边 side"
+    },
+    {
+      "Hanzi": "点头",
+      "Pinyin": "diǎntóu",
+      "Meaning": "to nod",
+      "Example": "她笑着点头。 tā xiàozhe diǎntóu: She nodded with a smile.",
+      "Notes": "点 dip, dot + 头 head = dip the head"
+    },
+    {
+      "Hanzi": "夜里",
+      "Pinyin": "yèli",
+      "Meaning": "at night",
+      "Example": "夜里下雨了。 yèli xià yǔ le: It rained during the night.",
+      "Notes": "夜 night + 里 in"
+    },
+    {
+      "Hanzi": "音乐会",
+      "Pinyin": "yīnyuèhuì",
+      "Meaning": "concert",
+      "Example": "我们去听音乐会吧。 wǒmen qù tīng yīnyuèhuì ba: Let's go to a concert.",
+      "Notes": "音乐 music (乐 yuè here, not lè) + 会 gathering"
+    },
+    {
+      "Hanzi": "秋天",
+      "Pinyin": "qiūtiān",
+      "Meaning": "autumn, fall",
+      "Example": "北京的秋天很美。 Běijīng de qiūtiān hěn měi: Autumn in Beijing is beautiful.",
+      "Notes": "秋 = 禾 grain + 火 fire, harvest time; + 天 season"
+    },
+    {
+      "Hanzi": "海边",
+      "Pinyin": "hǎibiān",
+      "Meaning": "seaside, beach",
+      "Example": "我们去海边玩吧。 wǒmen qù hǎibiān wánr ba: Let's go to the beach.",
+      "Notes": "海 sea + 边 side"
+    },
+    {
+      "Hanzi": "晴",
+      "Pinyin": "qíng",
+      "Meaning": "clear, sunny",
+      "Example": "天晴了。 tiān qíng le: It's cleared up.",
+      "Notes": "日 sun + 青 qīng (phonetic); compare 请 and 情"
+    },
+    {
+      "Hanzi": "里头",
+      "Pinyin": "lǐtou",
+      "Meaning": "inside",
+      "Example": "里头有人吗？ lǐtou yǒu rén ma: Is anyone in there?",
+      "Notes": "里 in + 头 side (toneless suffix)"
+    },
+    {
+      "Hanzi": "请客",
+      "Pinyin": "qǐngkè",
+      "Meaning": "to treat (pay for others)",
+      "Example": "今天我请客。 jīntiān wǒ qǐngkè: It's on me today.",
+      "Notes": "请 invite + 客 guest = invite guests, so you pay"
+    },
+    {
+      "Hanzi": "日报",
+      "Pinyin": "rìbào",
+      "Meaning": "daily newspaper",
+      "Example": "他每天看日报。 tā měi tiān kàn rìbào: He reads the daily paper every day.",
+      "Notes": "日 day + 报 newspaper"
+    },
+    {
+      "Hanzi": "有点儿",
+      "Pinyin": "yǒudiǎnr",
+      "Meaning": "a little, somewhat (usually negative)",
+      "Example": "我有点儿累。 wǒ yǒudiǎnr lèi: I'm a bit tired.",
+      "Notes": "有 have + 点儿 a bit"
+    },
+    {
+      "Hanzi": "干杯",
+      "Pinyin": "gānbēi",
+      "Meaning": "cheers! to drink a toast",
+      "Example": "来，干杯！ lái, gānbēi: Come on, cheers!",
+      "Notes": "干 gān dry + 杯 cup = dry the cup; 干 is gàn in 干活"
+    },
+    {
+      "Hanzi": "晴天",
+      "Pinyin": "qíngtiān",
+      "Meaning": "sunny day",
+      "Example": "今天是晴天。 jīntiān shì qíngtiān: It's sunny today.",
+      "Notes": "晴 = 日 sun + 青 qīng for the sound"
+    },
+    {
+      "Hanzi": "那会儿",
+      "Pinyin": "nàhuìr",
+      "Meaning": "at that time",
+      "Example": "那会儿我还小。 nàhuìr wǒ hái xiǎo: I was little back then.",
+      "Notes": "那 that + 会儿 a while = that moment"
+    },
+    {
+      "Hanzi": "一路顺风",
+      "Pinyin": "yílùshùnfēng",
+      "Meaning": "have a good trip!",
+      "Example": "祝你一路顺风！ zhù nǐ yílùshùnfēng: Have a good trip!",
+      "Notes": "一路 whole way + 顺风 wind at your back"
+    },
+    {
+      "Hanzi": "晚报",
+      "Pinyin": "wǎnbào",
+      "Meaning": "evening newspaper",
+      "Example": "我爸爱看晚报。 wǒ bà ài kàn wǎnbào: My dad loves the evening paper.",
+      "Notes": "晚 evening + 报 newspaper"
+    },
+    {
+      "Hanzi": "问路",
+      "Pinyin": "wènlù",
+      "Meaning": "to ask the way",
+      "Example": "我们找人问路吧。 wǒmen zhǎo rén wènlù ba: Let's ask someone for directions.",
+      "Notes": "问 ask + 路 road"
+    },
+    {
+      "Hanzi": "音节",
+      "Pinyin": "yīnjié",
+      "Meaning": "syllable",
+      "Example": "这个词有两个音节。 zhège cí yǒu liǎng ge yīnjié: This word has two syllables.",
+      "Notes": "音 sound + 节 section = a section of sound"
+    },
+    {
+      "Hanzi": "一点点",
+      "Pinyin": "yìdiǎndiǎn",
+      "Meaning": "a tiny bit",
+      "Example": "我只喝一点点。 wǒ zhǐ hē yìdiǎndiǎn: I'll just have a tiny bit.",
+      "Notes": "一点 a bit, with 点 doubled for \"tiny\""
+    },
+    {
+      "Hanzi": "春节",
+      "Pinyin": "Chūnjié",
+      "Meaning": "Spring Festival (Chinese New Year)",
+      "Example": "春节你回家吗？ Chūnjié nǐ huí jiā ma: Are you going home for Spring Festival?",
+      "Notes": "春 spring + 节 festival"
+    },
+    {
+      "Hanzi": "阴天",
+      "Pinyin": "yīntiān",
+      "Meaning": "overcast day",
+      "Example": "今天是阴天。 jīntiān shì yīntiān: It's overcast today.",
+      "Notes": "阴 overcast + 天 day; opposite of 晴天"
+    },
+    {
+      "Hanzi": "读音",
+      "Pinyin": "dúyīn",
+      "Meaning": "pronunciation (of a character)",
+      "Example": "这个字的读音是什么？ zhège zì de dúyīn shì shénme: How is this character pronounced?",
+      "Notes": "读 read aloud + 音 sound"
+    },
+    {
+      "Hanzi": "一路平安",
+      "Pinyin": "yílùpíng'ān",
+      "Meaning": "have a safe trip!",
+      "Example": "祝你一路平安。 zhù nǐ yílùpíng'ān: Have a safe trip.",
+      "Notes": "一路 whole way + 平安 safe and sound"
+    },
+    {
+      "Hanzi": "不一会儿",
+      "Pinyin": "bùyíhuìr",
+      "Meaning": "before long, shortly",
+      "Example": "不一会儿他就来了。 bùyíhuìr tā jiù lái le: He showed up shortly after.",
+      "Notes": "不 not + 一会儿 a while = not even a while"
+    },
+    {
+      "Hanzi": "干活儿",
+      "Pinyin": "gànhuór",
+      "Meaning": "to work, do (manual) work",
+      "Example": "他在外面干活儿。 tā zài wàimiàn gànhuór: He's working outside.",
+      "Notes": "干 gàn do + 活儿 work; 干 is gān in 干杯"
+    },
+    {
+      "Hanzi": "不太",
+      "Pinyin": "bútài",
+      "Meaning": "not very",
+      "Example": "我不太饿。 wǒ bútài è: I'm not very hungry.",
+      "Notes": "不 not + 太 too, very"
+    },
+    {
+      "Hanzi": "画儿",
+      "Pinyin": "huàr",
+      "Meaning": "picture, painting",
+      "Example": "墙上有张画儿。 qiáng shang yǒu zhāng huàr: There's a picture on the wall.",
+      "Notes": "画 picture + 儿 erhua ending"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "title": "HSK 1.13 · 衣服, 鸡蛋, 牛奶, 星期天, 不客气",
+  "focus": "毛 · 八 · 七 · 菜 · 衣服 · 饿 · 树 · 慢 · 茶 · 九 · 妹妹 · 贵 · 知识 · 页 · 弟弟 · 百 · 明年 · 妹 · 奶 · 奶奶 · 牛奶 · 爷爷 · 新年 · 鸡蛋 · 零 · 午饭 · 弟 · 早饭 · 星期天 · 看病 · 前天 · 渴 · 米饭 · 星期日 · 不客气 · 前边 · 网友 · 半年",
+  "body": "Family, food, numbers and the calendar. The meal words share 饭, the time words share 年 and 天, and the family words share the 女 radical.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 饭 | fàn | meal (饣 + 反) | 午饭, 早饭, 米饭 |\n| 年 | nián | year | 明年, 新年, 半年 |\n| 天 | tiān | day | 星期天, 前天 |\n| 前 | qián | before; front | 前天, 前边 |\n| 星期 | xīngqī | week | 星期天, 星期日 |\n| 奶 | nǎi | milk; grandma (女 + 乃) | 奶奶, 牛奶 |\n| 妹 / 弟 | mèi / dì | younger sister / brother | 妹妹, 弟弟 |\n| 女 | nǚ | woman (radical) | 妹, 奶 |\n\n## Watch out\n\n- 渴 kě (thirsty) has 氵 water; 喝 hē (drink) has 口 mouth. Same right side 曷.\n- 毛 vs 手: 毛's last stroke hooks right; 手's vertical hooks left.\n- 妹 has 未 (top line short); 末 mò has the top line long.\n- 午 wǔ (noon) vs 牛 niú (cow): in 牛 the vertical pokes through the top.\n- 八 bā vs 人 rén vs 入 rù: 八's two strokes don't touch.",
+  "cards": [
+    {
+      "Hanzi": "毛",
+      "Pinyin": "máo",
+      "Meaning": "hair, fur; 0.1 yuan (spoken)",
+      "Example": "这个三块五毛。 zhège sān kuài wǔ máo: This is three fifty.",
+      "Notes": "Picture of a hair or feather. Lookalike: 手 shǒu hand (毛 hooks right at the bottom; 手 hooks left)"
+    },
+    {
+      "Hanzi": "八",
+      "Pinyin": "bā",
+      "Meaning": "eight",
+      "Example": "我八点上班。 wǒ bā diǎn shàngbān: I start work at eight.",
+      "Notes": "Two strokes parting. Lookalikes: 人 rén and 入 rù, whose strokes touch"
+    },
+    {
+      "Hanzi": "七",
+      "Pinyin": "qī",
+      "Meaning": "seven",
+      "Example": "一个星期有七天。 yí ge xīngqī yǒu qī tiān: A week has seven days.",
+      "Notes": "A horizontal crossed by a hooked vertical. Lookalike: 匕 bǐ (spoon), where nothing crosses"
+    },
+    {
+      "Hanzi": "菜",
+      "Pinyin": "cài",
+      "Meaning": "dish; vegetables",
+      "Example": "这个菜是我妈妈做的。 zhège cài shì wǒ māma zuò de: My mom made this dish.",
+      "Notes": "艹 plant on top + 采 cǎi for the sound"
+    },
+    {
+      "Hanzi": "衣服",
+      "Pinyin": "yīfu",
+      "Meaning": "clothes",
+      "Example": "我去买衣服。 wǒ qù mǎi yīfu: I'm going to buy clothes.",
+      "Notes": "衣 garment (picture of a robe's collar) + 服 clothing = clothes. 服 is toneless fu here"
+    },
+    {
+      "Hanzi": "饿",
+      "Pinyin": "è",
+      "Meaning": "hungry",
+      "Example": "我饿死了。 wǒ è sǐ le: I'm starving.",
+      "Notes": "饣 food + 我 wǒ for the sound"
+    },
+    {
+      "Hanzi": "树",
+      "Pinyin": "shù",
+      "Meaning": "tree",
+      "Example": "他在树下睡觉。 tā zài shù xià shuìjiào: He's sleeping under the tree.",
+      "Notes": "木 tree + 对 duì"
+    },
+    {
+      "Hanzi": "慢",
+      "Pinyin": "màn",
+      "Meaning": "slow",
+      "Example": "请说慢一点儿。 qǐng shuō màn yìdiǎnr: Please speak more slowly.",
+      "Notes": "忄 heart + 曼 màn for the sound. Opposite: 快 (also 忄)"
+    },
+    {
+      "Hanzi": "茶",
+      "Pinyin": "chá",
+      "Meaning": "tea",
+      "Example": "爷爷每天都喝茶。 yéye měitiān dōu hē chá: Grandpa drinks tea every day.",
+      "Notes": "艹 leaves on top, 木 a bush at the bottom"
+    },
+    {
+      "Hanzi": "九",
+      "Pinyin": "jiǔ",
+      "Meaning": "nine",
+      "Example": "现在九点。 xiànzài jiǔ diǎn: It's nine o'clock.",
+      "Notes": "ノ then a stroke that curls right. Lookalikes: 力 lì (strength), 丸 wán"
+    },
+    {
+      "Hanzi": "妹妹",
+      "Pinyin": "mèimei",
+      "Meaning": "younger sister",
+      "Example": "她是我妹妹。 tā shì wǒ mèimei: She's my little sister.",
+      "Notes": "妹 = 女 + 未 wèi; 未 vs 末 (mò): in 末 the top stroke is longer"
+    },
+    {
+      "Hanzi": "贵",
+      "Pinyin": "guì",
+      "Meaning": "expensive",
+      "Example": "这个太贵了。 zhège tài guì le: This is too expensive.",
+      "Notes": "贝 shell (ancient money) at the bottom. Money words often have 贝. Opposite: 便宜"
+    },
+    {
+      "Hanzi": "知识",
+      "Pinyin": "zhīshi",
+      "Meaning": "knowledge",
+      "Example": "书里有很多知识。 shū li yǒu hěn duō zhīshi: Books hold lots of knowledge.",
+      "Notes": "知 know (矢 arrow + 口) + 识 recognize (讠 + 只 for the sound) = knowing and recognizing"
+    },
+    {
+      "Hanzi": "页",
+      "Pinyin": "yè",
+      "Meaning": "page",
+      "Example": "请看第十页。 qǐng kàn dì-shí yè: Please look at page ten.",
+      "Notes": "Originally a picture of a head; as a radical it marks head words (题, 颜, 顶)"
+    },
+    {
+      "Hanzi": "弟弟",
+      "Pinyin": "dìdi",
+      "Meaning": "younger brother",
+      "Example": "弟弟睡觉了。 dìdi shuìjiào le: Little brother's asleep.",
+      "Notes": "弟 vs 第 (dì, used for 'number ...'): 第 has 竹 bamboo on top"
+    },
+    {
+      "Hanzi": "百",
+      "Pinyin": "bǎi",
+      "Meaning": "hundred",
+      "Example": "这个一百块。 zhège yìbǎi kuài: This is a hundred yuan.",
+      "Notes": "一 one + 白 bái for the sound. Lookalike: 白 (no line on top)"
+    },
+    {
+      "Hanzi": "明年",
+      "Pinyin": "míngnián",
+      "Meaning": "next year",
+      "Example": "明年我去中国。 míngnián wǒ qù Zhōngguó: I'm going to China next year.",
+      "Notes": "明 bright, next + 年 year = next year. Like 明天"
+    },
+    {
+      "Hanzi": "妹",
+      "Pinyin": "mèi",
+      "Meaning": "younger sister",
+      "Example": "这是我妹。 zhè shì wǒ mèi: This is my little sister.",
+      "Notes": "女 woman + 未 wèi for the sound. 未 (short top line) vs 末 mò (long top line)"
+    },
+    {
+      "Hanzi": "奶",
+      "Pinyin": "nǎi",
+      "Meaning": "milk; grandma",
+      "Example": "你要奶吗？ nǐ yào nǎi ma: Do you want milk?",
+      "Notes": "女 woman + 乃 nǎi for the sound"
+    },
+    {
+      "Hanzi": "奶奶",
+      "Pinyin": "nǎinai",
+      "Meaning": "grandma (dad's mother)",
+      "Example": "奶奶做饭了。 nǎinai zuòfàn le: Grandma's made food.",
+      "Notes": "奶 = 女 woman + 乃 nǎi, which gives the exact sound"
+    },
+    {
+      "Hanzi": "牛奶",
+      "Pinyin": "niúnǎi",
+      "Meaning": "(cow's) milk",
+      "Example": "我每天喝牛奶。 wǒ měitiān hē niúnǎi: I drink milk every day.",
+      "Notes": "牛 cow + 奶 milk. 牛 vs 午: the vertical of 牛 pokes through the top"
+    },
+    {
+      "Hanzi": "爷爷",
+      "Pinyin": "yéye",
+      "Meaning": "grandpa (dad's father)",
+      "Example": "爷爷和奶奶都在家。 yéye hé nǎinai dōu zài jiā: Grandpa and Grandma are both home.",
+      "Notes": "父 father on top, like 爸"
+    },
+    {
+      "Hanzi": "新年",
+      "Pinyin": "xīnnián",
+      "Meaning": "New Year",
+      "Example": "新年快乐！ xīnnián kuàilè: Happy New Year!",
+      "Notes": "新 new (斤 axe on the right: freshly cut wood) + 年 year"
+    },
+    {
+      "Hanzi": "鸡蛋",
+      "Pinyin": "jīdàn",
+      "Meaning": "(chicken) egg",
+      "Example": "我要两个鸡蛋。 wǒ yào liǎng ge jīdàn: I'd like two eggs.",
+      "Notes": "鸡 chicken (又 + 鸟 bird) + 蛋 egg (虫 at the bottom) = chicken egg"
+    },
+    {
+      "Hanzi": "零",
+      "Pinyin": "líng",
+      "Meaning": "zero",
+      "Example": "现在零下五度。 xiànzài língxià wǔ dù: It's five below zero.",
+      "Notes": "⻗ rain + 令 lìng for the sound: first meant raindrops falling, then 'fractional, zero'"
+    },
+    {
+      "Hanzi": "午饭",
+      "Pinyin": "wǔfàn",
+      "Meaning": "lunch",
+      "Example": "我们一起吃午饭吧。 wǒmen yìqǐ chī wǔfàn ba: Let's have lunch together.",
+      "Notes": "午 noon + 饭 meal. 午 vs 牛: 午's vertical doesn't poke through"
+    },
+    {
+      "Hanzi": "弟",
+      "Pinyin": "dì",
+      "Meaning": "younger brother",
+      "Example": "我弟十岁。 wǒ dì shí suì: My little brother is ten.",
+      "Notes": "丷 on top of a 弓-like body with a ノ; also the sound part of 第 dì"
+    },
+    {
+      "Hanzi": "早饭",
+      "Pinyin": "zǎofàn",
+      "Meaning": "breakfast",
+      "Example": "你吃早饭了吗？ nǐ chī zǎofàn le ma: Have you had breakfast?",
+      "Notes": "早 early (日 sun over 十) + 饭 meal = morning meal"
+    },
+    {
+      "Hanzi": "星期天",
+      "Pinyin": "xīngqītiān",
+      "Meaning": "Sunday",
+      "Example": "星期天我不上班。 xīngqītiān wǒ bú shàngbān: I don't work on Sundays.",
+      "Notes": "星期 week (星 star + 期 period) + 天 day = the week's day. Same as 星期日"
+    },
+    {
+      "Hanzi": "看病",
+      "Pinyin": "kànbìng",
+      "Meaning": "to see a doctor",
+      "Example": "我下午去看病。 wǒ xiàwǔ qù kànbìng: I'm seeing a doctor this afternoon.",
+      "Notes": "看 look at + 病 illness (疒 sickbed) = have an illness looked at; also a doctor seeing patients"
+    },
+    {
+      "Hanzi": "前天",
+      "Pinyin": "qiántiān",
+      "Meaning": "day before yesterday",
+      "Example": "前天我去北京了。 qiántiān wǒ qù Běijīng le: I went to Beijing the day before yesterday.",
+      "Notes": "前 before + 天 day. Ladder: 前天, 昨天, 今天, 明天, 后天"
+    },
+    {
+      "Hanzi": "渴",
+      "Pinyin": "kě",
+      "Meaning": "thirsty",
+      "Example": "我渴了，想喝水。 wǒ kě le, xiǎng hē shuǐ: I'm thirsty, I want water.",
+      "Notes": "氵 water + 曷 for the sound. Lookalike: 喝 hē (drink) has 口 instead"
+    },
+    {
+      "Hanzi": "米饭",
+      "Pinyin": "mǐfàn",
+      "Meaning": "cooked rice",
+      "Example": "我吃米饭。 wǒ chī mǐfàn: I'll have rice.",
+      "Notes": "米 looks like rice grains around a cross; 米 vs 来 (lái), which has an extra stroke on top"
+    },
+    {
+      "Hanzi": "星期日",
+      "Pinyin": "xīngqīrì",
+      "Meaning": "Sunday",
+      "Example": "星期日你有空吗？ xīngqīrì nǐ yǒu kòng ma: Are you free on Sunday?",
+      "Notes": "星期 week + 日 day = Sunday; a bit more formal than 星期天"
+    },
+    {
+      "Hanzi": "不客气",
+      "Pinyin": "búkèqi",
+      "Meaning": "you're welcome",
+      "Example": "谢谢！不客气。 xièxie! bú kèqi: Thanks! You're welcome.",
+      "Notes": "不 not + 客气 polite (客 guest + 气 air) = no need for guest manners. 不 is bú before a 4th tone"
+    },
+    {
+      "Hanzi": "前边",
+      "Pinyin": "qiánbian",
+      "Meaning": "in front; ahead",
+      "Example": "前边有个商店。 qiánbian yǒu ge shāngdiàn: There's a shop up ahead.",
+      "Notes": "前 front + 边 side. Opposite: 后边"
+    },
+    {
+      "Hanzi": "网友",
+      "Pinyin": "wǎngyǒu",
+      "Meaning": "online friend; netizen",
+      "Example": "我们是网友。 wǒmen shì wǎngyǒu: We're online friends.",
+      "Notes": "网 net (picture of a net) + 友 friend = net friend"
+    },
+    {
+      "Hanzi": "半年",
+      "Pinyin": "bànnián",
+      "Meaning": "half a year",
+      "Example": "我学了半年汉语。 wǒ xuéle bànnián Hànyǔ: I've studied Chinese for half a year.",
+      "Notes": "半 half + 年 year"
+    }
+  ]
+}

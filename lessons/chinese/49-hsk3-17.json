@@ -1,0 +1,287 @@
+{
+  "title": "HSK 3.17 · 推进, 增长, 丰富, 志愿者",
+  "focus": "啤酒 · 举办 · 环 · 双方 · 离婚 · 吵 · 丰富 · 温暖 · 齐 · 领先 · 围 · 较 · 福 · 补 · 愿望 · 长期 · 富 · 先进 · 西部 · 改造 · 增长 · 部长 · 推进 · 修改 · 带领 · 补充 · 生长 · 改进 · 环保 · 读者 · 吵架 · 南部 · 另一方面 · 东部 · 推动 · 北部 · 志愿者 · 推广 · 面积 · 办理",
+  "body": "This lesson is full of direction and progress words: 部 \"part\" turns compass points into regions (东部, 西部…), while 推, 进 and 改 build verbs of pushing forward and changing. 长 shows up in both of its readings.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 部 | bù | part, section, department | 西部, 南部, 东部, 北部, 部长 |\n| 长 | zhǎng / cháng | grow, head / long | 增长, 部长, 生长, 长期 |\n| 推 | tuī | push (扌 hand + 隹 phonetic) | 推进, 推动, 推广 |\n| 进 | jìn | advance, enter | 先进, 推进, 改进 |\n| 改 | gǎi | change | 改造, 修改, 改进 |\n| 补 | bǔ | patch, make up (衤 clothing + 卜) | 补, 补充 |\n| 领 | lǐng | lead, collar | 领先, 带领 |\n| 富 | fù | rich | 富, 丰富 |\n\n## Watch out\n\n- 长 is **zhǎng** (grow, head) in 增长, 生长, 部长, but **cháng** (long) in 长期.\n- 福 has 礻 (spirit/altar) on the left; 补 has 衤 (clothing), with one extra stroke.",
+  "cards": [
+    {
+      "Hanzi": "啤酒",
+      "Pinyin": "píjiǔ",
+      "Meaning": "beer",
+      "Example": "我们喝一杯啤酒吧。 wǒmen hē yì bēi píjiǔ ba: let's have a beer",
+      "Notes": "啤 = 口 + 卑 bēi for the sound (loanword for 'beer') + 酒 alcohol (氵 liquid + 酉 wine jar)"
+    },
+    {
+      "Hanzi": "举办",
+      "Pinyin": "jǔbàn",
+      "Meaning": "to hold (an event)",
+      "Example": "学校要举办运动会。 xuéxiào yào jǔbàn yùndònghuì: the school will hold a sports meet",
+      "Notes": "举 raise, put on + 办 do, handle = put on an event, host it"
+    },
+    {
+      "Hanzi": "环",
+      "Pinyin": "huán",
+      "Meaning": "ring, loop; link",
+      "Example": "她戴着一个耳环。 tā dàizhe yí ge ěrhuán: she is wearing an earring",
+      "Notes": "环 = 王 (jade 玉 radical) + 不 (simplified sound part, as in 还 huán): a jade ring"
+    },
+    {
+      "Hanzi": "双方",
+      "Pinyin": "shuāngfāng",
+      "Meaning": "both sides, both parties",
+      "Example": "双方都同意了。 shuāngfāng dōu tóngyì le: both sides agreed",
+      "Notes": "双 pair (two 又 hands side by side) + 方 side = both sides"
+    },
+    {
+      "Hanzi": "离婚",
+      "Pinyin": "líhūn",
+      "Meaning": "to divorce",
+      "Example": "他们去年离婚了。 tāmen qùnián líhūn le: they divorced last year",
+      "Notes": "离 leave, separate + 婚 marriage (女 woman + 昏 hūn for sound) = leave the marriage"
+    },
+    {
+      "Hanzi": "吵",
+      "Pinyin": "chǎo",
+      "Meaning": "noisy; to quarrel",
+      "Example": "外面太吵了。 wàimiàn tài chǎo le: it's too noisy outside",
+      "Notes": "吵 = 口 mouth + 少 shǎo for the sound: noise from mouths"
+    },
+    {
+      "Hanzi": "丰富",
+      "Pinyin": "fēngfù",
+      "Meaning": "rich, plentiful; to enrich",
+      "Example": "这里的水果很丰富。 zhèlǐ de shuǐguǒ hěn fēngfù: fruit is plentiful here",
+      "Notes": "丰 abundant + 富 rich = rich in variety (not money-rich; that's 有钱)"
+    },
+    {
+      "Hanzi": "温暖",
+      "Pinyin": "wēnnuǎn",
+      "Meaning": "warm",
+      "Example": "他的话很温暖。 tā de huà hěn wēnnuǎn: his words are warm",
+      "Notes": "温 warm (氵 water) + 暖 warm (日 sun + 爰 phonetic) = warm, often emotionally"
+    },
+    {
+      "Hanzi": "齐",
+      "Pinyin": "qí",
+      "Meaning": "neat, even; all present",
+      "Example": "人都到齐了。 rén dōu dào qí le: everyone is here",
+      "Notes": "齐 depicts ears of grain growing level, so 'even, all together'; as in 整齐 tidy, 一齐 together"
+    },
+    {
+      "Hanzi": "领先",
+      "Pinyin": "lǐngxiān",
+      "Meaning": "to lead, be ahead",
+      "Example": "我们队领先两分。 wǒmen duì lǐngxiān liǎng fēn: our team leads by two",
+      "Notes": "领 lead (页 head + 令 lìng phonetic) + 先 first = lead in front"
+    },
+    {
+      "Hanzi": "围",
+      "Pinyin": "wéi",
+      "Meaning": "to surround, encircle",
+      "Example": "大家围着桌子坐。 dàjiā wéizhe zhuōzi zuò: everyone sits around the table",
+      "Notes": "围 = 囗 enclosure + 韦 wéi for the sound: enclose all around"
+    },
+    {
+      "Hanzi": "较",
+      "Pinyin": "jiào",
+      "Meaning": "comparatively; to compare",
+      "Example": "这个比较便宜。 zhège bǐjiào piányi: this one is relatively cheap",
+      "Notes": "较 = 车 vehicle + 交 jiāo for the sound; mostly seen in 比较 compare"
+    },
+    {
+      "Hanzi": "福",
+      "Pinyin": "fú",
+      "Meaning": "good fortune, blessing",
+      "Example": "祝你幸福！ zhù nǐ xìngfú: I wish you happiness",
+      "Notes": "福 = 礻 spirit/altar + 畐 fú (a full jar) for sound: blessings from the gods; don't confuse 礻 with 衤"
+    },
+    {
+      "Hanzi": "补",
+      "Pinyin": "bǔ",
+      "Meaning": "to patch, mend; make up for",
+      "Example": "我明天补课。 wǒ míngtiān bǔkè: I'll make up the class tomorrow",
+      "Notes": "补 = 衤 clothing + 卜 bǔ for the sound: patch clothes, so fill a gap"
+    },
+    {
+      "Hanzi": "愿望",
+      "Pinyin": "yuànwàng",
+      "Meaning": "wish, desire",
+      "Example": "你的愿望是什么？ nǐ de yuànwàng shì shénme: what's your wish?",
+      "Notes": "愿 wish (心 heart + 原 yuán phonetic) + 望 hope, look toward = a wish"
+    },
+    {
+      "Hanzi": "长期",
+      "Pinyin": "chángqī",
+      "Meaning": "long-term",
+      "Example": "他长期住在国外。 tā chángqī zhù zài guówài: he's lived abroad long-term",
+      "Notes": "长 cháng long + 期 period = a long period"
+    },
+    {
+      "Hanzi": "富",
+      "Pinyin": "fù",
+      "Meaning": "rich, wealthy",
+      "Example": "他家很富。 tā jiā hěn fù: his family is rich",
+      "Notes": "富 = 宀 roof + 畐 fú (a full jar) for sound: a full house, so wealthy"
+    },
+    {
+      "Hanzi": "先进",
+      "Pinyin": "xiānjìn",
+      "Meaning": "advanced",
+      "Example": "这台机器很先进。 zhè tái jīqì hěn xiānjìn: this machine is advanced",
+      "Notes": "先 first + 进 advance = advanced ahead of others"
+    },
+    {
+      "Hanzi": "西部",
+      "Pinyin": "xībù",
+      "Meaning": "the western part",
+      "Example": "他住在西部。 tā zhù zài xībù: he lives in the west",
+      "Notes": "西 west + 部 part = western region"
+    },
+    {
+      "Hanzi": "改造",
+      "Pinyin": "gǎizào",
+      "Meaning": "to transform, remodel",
+      "Example": "这个老房子改造了。 zhège lǎo fángzi gǎizào le: this old house was remodeled",
+      "Notes": "改 change + 造 make, build = rebuild into something new"
+    },
+    {
+      "Hanzi": "增长",
+      "Pinyin": "zēngzhǎng",
+      "Meaning": "to grow, increase",
+      "Example": "收入增长很快。 shōurù zēngzhǎng hěn kuài: income is growing fast",
+      "Notes": "增 add (土 + 曾 zēng phonetic) + 长 zhǎng grow = grow in number"
+    },
+    {
+      "Hanzi": "部长",
+      "Pinyin": "bùzhǎng",
+      "Meaning": "minister; department head",
+      "Example": "部长明天来。 bùzhǎng míngtiān lái: the minister comes tomorrow",
+      "Notes": "部 department + 长 zhǎng head = head of a department, minister"
+    },
+    {
+      "Hanzi": "推进",
+      "Pinyin": "tuījìn",
+      "Meaning": "to push forward, advance",
+      "Example": "工作推进得很顺利。 gōngzuò tuījìn de hěn shùnlì: the work is moving smoothly",
+      "Notes": "推 push + 进 forward = push ahead (a project)"
+    },
+    {
+      "Hanzi": "修改",
+      "Pinyin": "xiūgǎi",
+      "Meaning": "to revise, modify",
+      "Example": "请修改一下。 qǐng xiūgǎi yíxià: please revise it",
+      "Notes": "修 repair, fix + 改 change = revise"
+    },
+    {
+      "Hanzi": "带领",
+      "Pinyin": "dàilǐng",
+      "Meaning": "to lead, guide",
+      "Example": "老师带领我们参观。 lǎoshī dàilǐng wǒmen cānguān: the teacher led our visit",
+      "Notes": "带 take along + 领 lead = lead a group"
+    },
+    {
+      "Hanzi": "补充",
+      "Pinyin": "bǔchōng",
+      "Meaning": "to add, supplement",
+      "Example": "我补充一点。 wǒ bǔchōng yì diǎn: let me add one point",
+      "Notes": "补 make up + 充 fill = fill in what's missing"
+    },
+    {
+      "Hanzi": "生长",
+      "Pinyin": "shēngzhǎng",
+      "Meaning": "to grow (living things)",
+      "Example": "小树生长得很快。 xiǎo shù shēngzhǎng de hěn kuài: the sapling grows fast",
+      "Notes": "生 live, be born + 长 zhǎng grow = grow (of plants, kids)"
+    },
+    {
+      "Hanzi": "改进",
+      "Pinyin": "gǎijìn",
+      "Meaning": "to improve",
+      "Example": "我们还要改进。 wǒmen hái yào gǎijìn: we still need to improve",
+      "Notes": "改 change + 进 advance = change for the better"
+    },
+    {
+      "Hanzi": "环保",
+      "Pinyin": "huánbǎo",
+      "Meaning": "environmental protection; eco-friendly",
+      "Example": "这个袋子很环保。 zhège dàizi hěn huánbǎo: this bag is eco-friendly",
+      "Notes": "short for 环境保护: 环(境) environment + 保(护) protect"
+    },
+    {
+      "Hanzi": "读者",
+      "Pinyin": "dúzhě",
+      "Meaning": "reader",
+      "Example": "这本书读者很多。 zhè běn shū dúzhě hěn duō: this book has many readers",
+      "Notes": "读 read + 者 person who = reader"
+    },
+    {
+      "Hanzi": "吵架",
+      "Pinyin": "chǎojià",
+      "Meaning": "to quarrel, argue",
+      "Example": "他们又吵架了。 tāmen yòu chǎojià le: they argued again",
+      "Notes": "吵 noisy, quarrel + 架 fight (as in 打架) = have a row"
+    },
+    {
+      "Hanzi": "南部",
+      "Pinyin": "nánbù",
+      "Meaning": "the southern part",
+      "Example": "南部比较热。 nánbù bǐjiào rè: the south is hotter",
+      "Notes": "南 south + 部 part = southern region"
+    },
+    {
+      "Hanzi": "另一方面",
+      "Pinyin": "lìngyìfāngmiàn",
+      "Meaning": "on the other hand",
+      "Example": "另一方面，太贵了。 lìng yì fāngmiàn, tài guì le: on the other hand, it's too expensive",
+      "Notes": "另 other + 一方面 one aspect (方 side + 面 face) = the other side of it"
+    },
+    {
+      "Hanzi": "东部",
+      "Pinyin": "dōngbù",
+      "Meaning": "the eastern part",
+      "Example": "东部城市很多。 dōngbù chéngshì hěn duō: the east has many cities",
+      "Notes": "东 east + 部 part = eastern region"
+    },
+    {
+      "Hanzi": "推动",
+      "Pinyin": "tuīdòng",
+      "Meaning": "to promote, drive forward",
+      "Example": "这件事推动了改革。 zhè jiàn shì tuīdòng le gǎigé: this pushed reform forward",
+      "Notes": "推 push + 动 move = push into motion"
+    },
+    {
+      "Hanzi": "北部",
+      "Pinyin": "běibù",
+      "Meaning": "the northern part",
+      "Example": "北部冬天很冷。 běibù dōngtiān hěn lěng: the north is cold in winter",
+      "Notes": "北 north + 部 part = northern region"
+    },
+    {
+      "Hanzi": "志愿者",
+      "Pinyin": "zhìyuànzhě",
+      "Meaning": "volunteer",
+      "Example": "她是志愿者。 tā shì zhìyuànzhě: she is a volunteer",
+      "Notes": "志 will, aim + 愿 wish + 者 person = someone acting by their own will"
+    },
+    {
+      "Hanzi": "推广",
+      "Pinyin": "tuīguǎng",
+      "Meaning": "to spread, popularize",
+      "Example": "我们要推广普通话。 wǒmen yào tuīguǎng pǔtōnghuà: we should promote Mandarin",
+      "Notes": "推 push + 广 wide = push out widely"
+    },
+    {
+      "Hanzi": "面积",
+      "Pinyin": "miànjī",
+      "Meaning": "area (of land, a room)",
+      "Example": "房子面积多大？ fángzi miànjī duō dà: how big is the flat?",
+      "Notes": "面 surface + 积 accumulate (禾 grain + phonetic) = total surface, area"
+    },
+    {
+      "Hanzi": "办理",
+      "Pinyin": "bànlǐ",
+      "Meaning": "to handle, process (paperwork)",
+      "Example": "我去银行办理手续。 wǒ qù yínháng bànlǐ shǒuxù: I'm going to the bank to sort paperwork",
+      "Notes": "办 handle + 理 manage, put in order = process, go through formalities"
+    }
+  ]
+}

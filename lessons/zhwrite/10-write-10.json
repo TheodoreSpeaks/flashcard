@@ -1,0 +1,97 @@
+{
+  "title": "Write 10 · 影 动 视 脑 班 饭 几 见 手 非 常 叫 请 钱 本",
+  "focus": "影 动 视 脑 班 饭 几 见 手 非 常 叫 请 钱 本",
+  "body": "Repeating parts: 见 see (视, 见), 讠 (请), 口 (叫, 常), 王 (班), 月 flesh (脑), 云 (动).\n\n## Rules that matter here\n- **Left half before right half**: 非, 影, 班.\n- **礻 vs 衤**: 视 has one dot (spirit/show), clothing 衤 has two.\n- 几 vs 儿: 几 is joined at the top.",
+  "cards": [
+    {
+      "Prompt": "电＿ · diànyǐng · movie",
+      "Hanzi": "影",
+      "Pinyin": "yǐng",
+      "Notes": "景 scene (12: 日 + 京, phonetic jǐng) + 彡 hair strokes (3) = 15 strokes. Left part fully first, then three ノ on the right."
+    },
+    {
+      "Prompt": "运＿ · yùndòng · exercise, sports",
+      "Hanzi": "动",
+      "Pinyin": "dòng",
+      "Notes": "云 cloud (4) + 力 strength (2) = 6 strokes. Left before right; 力: 横折钩, then ノ. Lookalike: 运 (云 + 辶)."
+    },
+    {
+      "Prompt": "电＿ · diànshì · TV",
+      "Hanzi": "视",
+      "Pinyin": "shì",
+      "Notes": "礻 spirit/show (4) + 见 see (4) = 8 strokes. Watch: 礻 (one dot) not 衤 (two dots, clothing)."
+    },
+    {
+      "Prompt": "电＿ · diànnǎo · computer",
+      "Hanzi": "脑",
+      "Pinyin": "nǎo",
+      "Notes": "月 flesh (4) + right part (6: 亠, 㐅, 凵) = 10 strokes. Left before right; 凵 last. Lookalike: 恼 (忄)."
+    },
+    {
+      "Prompt": "上＿ · shàngbān · to go to work",
+      "Hanzi": "班",
+      "Pinyin": "bān",
+      "Notes": "王 + dot and ノ + 王 = 10 strokes. Left to right: two jades split by a knife-like middle. Left 王 ends with a rising stroke."
+    },
+    {
+      "Prompt": "吃＿ · chī fàn · to eat",
+      "Hanzi": "饭",
+      "Pinyin": "fàn",
+      "Notes": "饣 food (3) + 反 (4, phonetic fǎn) = 7 strokes. Left before right. Lookalikes: 板 (木), 版."
+    },
+    {
+      "Prompt": "＿个 · jǐ ge · how many",
+      "Hanzi": "几",
+      "Pinyin": "jǐ",
+      "Notes": "2 strokes: ノ, then 横折弯钩 (乙-like). Lookalike: 儿 (two separate strokes, open top)."
+    },
+    {
+      "Prompt": "再＿ · zàijiàn · goodbye",
+      "Hanzi": "见",
+      "Pinyin": "jiàn",
+      "Notes": "4 strokes: 丨, 横折, ノ, then 竖弯钩 last. Pictured as an eye on legs. Lookalike: 贝 (dot instead of hook)."
+    },
+    {
+      "Prompt": "＿机 · shǒujī · mobile phone",
+      "Hanzi": "手",
+      "Pinyin": "shǒu",
+      "Notes": "4 strokes: ノ, 一, 一, then the vertical hook 亅 through them. Lookalike: 毛 (hook turns right)."
+    },
+    {
+      "Prompt": "＿常 · fēicháng · very",
+      "Hanzi": "非",
+      "Pinyin": "fēi",
+      "Notes": "8 strokes: left vertical, then its three horizontals (last one rising); then right vertical and its three horizontals. Left side before right side."
+    },
+    {
+      "Prompt": "非＿ · fēicháng · very",
+      "Hanzi": "常",
+      "Pinyin": "cháng",
+      "Notes": "⺌ (3) + 冖 (2) + 口 (3) + 巾 cloth (3) = 11 strokes. Top to bottom. Lookalike: 堂 (土 at bottom)."
+    },
+    {
+      "Prompt": "你＿什么名字？ · nǐ jiào shénme míngzi · what's your name?",
+      "Hanzi": "叫",
+      "Pinyin": "jiào",
+      "Notes": "口 mouth (3) + 丩 (2, phonetic jiū) = 5 strokes. Left before right; the long vertical last."
+    },
+    {
+      "Prompt": "＿问 · qǐngwèn · excuse me, may I ask",
+      "Hanzi": "请",
+      "Pinyin": "qǐng",
+      "Notes": "讠 speech (2) + 青 blue-green (8, phonetic qīng) = 10 strokes. Lookalikes: 清 (氵), 情 (忄), 晴 (日)."
+    },
+    {
+      "Prompt": "多少＿ · duōshao qián · how much money",
+      "Hanzi": "钱",
+      "Pinyin": "qián",
+      "Notes": "钅 metal (5) + 戋 (5, phonetic) = 10 strokes. 戋: two 一, 斜钩, ノ, dot last. Lookalike: 浅 (氵)."
+    },
+    {
+      "Prompt": "＿来 · běnlái · originally",
+      "Hanzi": "本",
+      "Pinyin": "běn",
+      "Notes": "木 tree (4) + short 一 at the root (1) = 5 strokes. Write 木 first, the short bottom line last. A mark at the root of a tree."
+    }
+  ]
+}

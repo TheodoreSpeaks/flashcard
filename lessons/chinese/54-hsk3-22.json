@@ -1,0 +1,287 @@
+{
+  "title": "HSK 3.22 · 特色, 优点, 缺点, 衬衫",
+  "focus": "往往 · 有利 · 特色 · 迎接 · 建设 · 通信 · 巧 · 不安 · 首都 · 反复 · 早已 · 比例 · 没用 · 营养 · 排名 · 毛病 · 衬衫 · 日常 · 缺点 · 设立 · 必然 · 危害 · 外交 · 接待 · 适用 · 应用 · 优点 · 共有 · 不光 · 上衣 · 建成 · 彩色 · 景色 · 信封 · 衬衣 · 交警 · 有的是 · 复印 · 书架 · 衣架",
+  "body": "Clothes, colors and pros vs cons: the 衤 clothing radical marks 衬衫, 衬衣 and 上衣, 色 \"color\" makes 特色, 彩色 and 景色, and 点 \"point\" gives the mirror pair 优点 / 缺点.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 色 | sè | color, look | 特色, 彩色, 景色 |\n| 衬 | chèn | lining; shirt (衤 clothing) | 衬衫, 衬衣 |\n| 衣 | yī | clothes | 上衣, 衬衣, 衣架 |\n| 点 | diǎn | point | 缺点, 优点 |\n| 建 | jiàn | build | 建设, 建成 |\n| 接 | jiē | receive, meet (扌 hand) | 迎接, 接待 |\n| 用 | yòng | use | 没用, 适用, 应用 |\n| 架 | jià | rack, frame (木 + 加 jiā phonetic) | 书架, 衣架 |\n| 复 | fù | again, repeat | 反复, 复印 |\n\n## Watch out\n\n- 早已 uses 已 (already, half-closed). Lookalikes: 己 self (open), 巳 (fully closed).\n- 首都 reads **dū** (capital); the same 都 is dōu \"all\" elsewhere.\n- 应用 is **yìng**yòng; 应 is yīng in 应该.",
+  "cards": [
+    {
+      "Hanzi": "往往",
+      "Pinyin": "wǎngwǎng",
+      "Meaning": "often, more often than not",
+      "Example": "周末往往很忙。 zhōumò wǎngwǎng hěn máng: weekends are usually busy",
+      "Notes": "往 go toward, doubled = again and again, as a rule"
+    },
+    {
+      "Hanzi": "有利",
+      "Pinyin": "yǒulì",
+      "Meaning": "favorable, advantageous",
+      "Example": "运动有利于健康。 yùndòng yǒulì yú jiànkāng: exercise is good for health",
+      "Notes": "有 have + 利 benefit (禾 grain + 刂 knife: harvest) = beneficial"
+    },
+    {
+      "Hanzi": "特色",
+      "Pinyin": "tèsè",
+      "Meaning": "characteristic, special feature",
+      "Example": "这是本地特色菜。 zhè shì běndì tèsè cài: this is a local specialty",
+      "Notes": "特 special + 色 color, look = distinctive look, feature"
+    },
+    {
+      "Hanzi": "迎接",
+      "Pinyin": "yíngjiē",
+      "Meaning": "to welcome, greet",
+      "Example": "我们去机场迎接他。 wǒmen qù jīchǎng yíngjiē tā: we'll meet him at the airport",
+      "Notes": "迎 go to meet (辶 walking) + 接 receive = go out and welcome"
+    },
+    {
+      "Hanzi": "建设",
+      "Pinyin": "jiànshè",
+      "Meaning": "to build, construct; construction",
+      "Example": "城市建设很快。 chéngshì jiànshè hěn kuài: the city is building fast",
+      "Notes": "建 build + 设 set up (讠 + 殳) = build up"
+    },
+    {
+      "Hanzi": "通信",
+      "Pinyin": "tōngxìn",
+      "Meaning": "to correspond; communication",
+      "Example": "我们常常通信。 wǒmen chángcháng tōngxìn: we write to each other often",
+      "Notes": "通 go through + 信 letter, message = send messages through"
+    },
+    {
+      "Hanzi": "巧",
+      "Pinyin": "qiǎo",
+      "Meaning": "skillful; by coincidence",
+      "Example": "真巧，你也在这儿！ zhēn qiǎo, nǐ yě zài zhèr: what a coincidence, you're here too!",
+      "Notes": "巧 = 工 work, craft + 丂 kǎo for the sound: skilled craft, then 'neat timing'"
+    },
+    {
+      "Hanzi": "不安",
+      "Pinyin": "bù'ān",
+      "Meaning": "uneasy, restless",
+      "Example": "我心里很不安。 wǒ xīnli hěn bù'ān: I feel uneasy",
+      "Notes": "不 not + 安 peaceful (woman under a roof) = not at peace"
+    },
+    {
+      "Hanzi": "首都",
+      "Pinyin": "shǒudū",
+      "Meaning": "capital city",
+      "Example": "北京是首都。 Běijīng shì shǒudū: Beijing is the capital",
+      "Notes": "首 head, first + 都 dū big city = the head city"
+    },
+    {
+      "Hanzi": "反复",
+      "Pinyin": "fǎnfù",
+      "Meaning": "repeatedly, over and over",
+      "Example": "他反复看了三遍。 tā fǎnfù kàn le sān biàn: he read it three times over",
+      "Notes": "反 turn over + 复 again = over and over"
+    },
+    {
+      "Hanzi": "早已",
+      "Pinyin": "zǎoyǐ",
+      "Meaning": "long since, long ago",
+      "Example": "他早已走了。 tā zǎoyǐ zǒu le: he left long ago",
+      "Notes": "早 early + 已 already = already long ago; 已 not 己"
+    },
+    {
+      "Hanzi": "比例",
+      "Pinyin": "bǐlì",
+      "Meaning": "proportion, ratio",
+      "Example": "男女比例是一比一。 nánnǚ bǐlì shì yī bǐ yī: the gender ratio is one to one",
+      "Notes": "比 compare + 例 example, rule = compared ratio"
+    },
+    {
+      "Hanzi": "没用",
+      "Pinyin": "méiyòng",
+      "Meaning": "useless",
+      "Example": "哭也没用。 kū yě méiyòng: crying won't help",
+      "Notes": "没 not have + 用 use = no use"
+    },
+    {
+      "Hanzi": "营养",
+      "Pinyin": "yíngyǎng",
+      "Meaning": "nutrition",
+      "Example": "牛奶很有营养。 niúnǎi hěn yǒu yíngyǎng: milk is nutritious",
+      "Notes": "营 seek, manage + 养 nourish, raise = nourishment"
+    },
+    {
+      "Hanzi": "排名",
+      "Pinyin": "páimíng",
+      "Meaning": "ranking; to rank",
+      "Example": "他排名第一。 tā páimíng dì yī: he's ranked first",
+      "Notes": "排 line up (扌 + 非 fēi phonetic) + 名 name = line up names, rank"
+    },
+    {
+      "Hanzi": "毛病",
+      "Pinyin": "máobìng",
+      "Meaning": "flaw, problem; ailment",
+      "Example": "车有点毛病。 chē yǒu diǎn máobìng: the car has a problem",
+      "Notes": "毛 hair, small + 病 illness = a small fault, defect"
+    },
+    {
+      "Hanzi": "衬衫",
+      "Pinyin": "chènshān",
+      "Meaning": "shirt, blouse",
+      "Example": "他穿白衬衫。 tā chuān bái chènshān: he wears a white shirt",
+      "Notes": "衬 lining, inner (衤 + 寸) + 衫 shirt (衤 clothing + 彡) = shirt"
+    },
+    {
+      "Hanzi": "日常",
+      "Pinyin": "rìcháng",
+      "Meaning": "daily, everyday",
+      "Example": "这是日常用语。 zhè shì rìcháng yòngyǔ: these are everyday phrases",
+      "Notes": "日 day + 常 usual = day-to-day"
+    },
+    {
+      "Hanzi": "缺点",
+      "Pinyin": "quēdiǎn",
+      "Meaning": "shortcoming, weakness",
+      "Example": "他的缺点是懒。 tā de quēdiǎn shì lǎn: his weakness is laziness",
+      "Notes": "缺 lacking + 点 point = weak point; mirror of 优点"
+    },
+    {
+      "Hanzi": "设立",
+      "Pinyin": "shèlì",
+      "Meaning": "to set up, establish",
+      "Example": "公司设立了新部门。 gōngsī shèlì le xīn bùmén: the company set up a new department",
+      "Notes": "设 set up + 立 stand = establish"
+    },
+    {
+      "Hanzi": "必然",
+      "Pinyin": "bìrán",
+      "Meaning": "inevitable, certain",
+      "Example": "这是必然的结果。 zhè shì bìrán de jiéguǒ: this outcome was inevitable",
+      "Notes": "必 must + 然 so = must be so"
+    },
+    {
+      "Hanzi": "危害",
+      "Pinyin": "wēihài",
+      "Meaning": "to harm; harm, damage",
+      "Example": "吸烟危害健康。 xīyān wēihài jiànkāng: smoking harms health",
+      "Notes": "危 danger + 害 harm = endanger"
+    },
+    {
+      "Hanzi": "外交",
+      "Pinyin": "wàijiāo",
+      "Meaning": "diplomacy, foreign affairs",
+      "Example": "他在外交部工作。 tā zài wàijiāobù gōngzuò: he works at the foreign ministry",
+      "Notes": "外 outside + 交 interact = dealings with outside countries"
+    },
+    {
+      "Hanzi": "接待",
+      "Pinyin": "jiēdài",
+      "Meaning": "to receive (guests)",
+      "Example": "我来接待客人。 wǒ lái jiēdài kèrén: I'll host the guests",
+      "Notes": "接 receive + 待 treat, wait on = receive and host"
+    },
+    {
+      "Hanzi": "适用",
+      "Pinyin": "shìyòng",
+      "Meaning": "applicable, suitable",
+      "Example": "这个方法很适用。 zhège fāngfǎ hěn shìyòng: this method works well",
+      "Notes": "适 suitable + 用 use = fit for use"
+    },
+    {
+      "Hanzi": "应用",
+      "Pinyin": "yìngyòng",
+      "Meaning": "to apply; application, app",
+      "Example": "手机应用很多。 shǒujī yìngyòng hěn duō: there are many phone apps",
+      "Notes": "应 yìng respond to + 用 use = put to use; also 'app'"
+    },
+    {
+      "Hanzi": "优点",
+      "Pinyin": "yōudiǎn",
+      "Meaning": "strength, merit",
+      "Example": "他的优点是认真。 tā de yōudiǎn shì rènzhēn: his strength is diligence",
+      "Notes": "优 excellent (亻 + 尤) + 点 point = good point"
+    },
+    {
+      "Hanzi": "共有",
+      "Pinyin": "gòngyǒu",
+      "Meaning": "to have in total",
+      "Example": "我们班共有三十人。 wǒmen bān gòngyǒu sānshí rén: our class has thirty in all",
+      "Notes": "共 together, in all + 有 have = have altogether"
+    },
+    {
+      "Hanzi": "不光",
+      "Pinyin": "bùguāng",
+      "Meaning": "not only",
+      "Example": "不光我，他也去。 bùguāng wǒ, tā yě qù: not just me, he's going too",
+      "Notes": "不 not + 光 only (光 also means 'light') = not only"
+    },
+    {
+      "Hanzi": "上衣",
+      "Pinyin": "shàngyī",
+      "Meaning": "jacket, top",
+      "Example": "这件上衣很好看。 zhè jiàn shàngyī hěn hǎokàn: this top looks nice",
+      "Notes": "上 upper + 衣 clothes = upper garment"
+    },
+    {
+      "Hanzi": "建成",
+      "Pinyin": "jiànchéng",
+      "Meaning": "to complete (building)",
+      "Example": "新机场建成了。 xīn jīchǎng jiànchéng le: the new airport is finished",
+      "Notes": "建 build + 成 complete = finish building"
+    },
+    {
+      "Hanzi": "彩色",
+      "Pinyin": "cǎisè",
+      "Meaning": "colorful, in color",
+      "Example": "我要彩色的。 wǒ yào cǎisè de: I want the color one",
+      "Notes": "彩 colorful (彡 streaks + 采 cǎi phonetic) + 色 color"
+    },
+    {
+      "Hanzi": "景色",
+      "Pinyin": "jǐngsè",
+      "Meaning": "scenery, view",
+      "Example": "这里景色很美。 zhèlǐ jǐngsè hěn měi: the scenery here is beautiful",
+      "Notes": "景 view (日 sun + 京 jīng phonetic) + 色 color = scenery"
+    },
+    {
+      "Hanzi": "信封",
+      "Pinyin": "xìnfēng",
+      "Meaning": "envelope",
+      "Example": "把信放进信封。 bǎ xìn fàng jìn xìnfēng: put the letter in the envelope",
+      "Notes": "信 letter + 封 seal = what seals a letter"
+    },
+    {
+      "Hanzi": "衬衣",
+      "Pinyin": "chènyī",
+      "Meaning": "shirt",
+      "Example": "我买了一件衬衣。 wǒ mǎi le yí jiàn chènyī: I bought a shirt",
+      "Notes": "衬 inner, lining + 衣 clothes = shirt"
+    },
+    {
+      "Hanzi": "交警",
+      "Pinyin": "jiāojǐng",
+      "Meaning": "traffic police",
+      "Example": "交警让我停车。 jiāojǐng ràng wǒ tíngchē: a traffic cop pulled me over",
+      "Notes": "short for 交(通) traffic + 警(察) police"
+    },
+    {
+      "Hanzi": "有的是",
+      "Pinyin": "yǒudeshì",
+      "Meaning": "have plenty of",
+      "Example": "我有的是时间。 wǒ yǒudeshì shíjiān: I've got plenty of time",
+      "Notes": "有的 what one has + 是 is = there's plenty of it"
+    },
+    {
+      "Hanzi": "复印",
+      "Pinyin": "fùyìn",
+      "Meaning": "to photocopy",
+      "Example": "请复印两份。 qǐng fùyìn liǎng fèn: please make two copies",
+      "Notes": "复 again, repeat + 印 print, stamp = print again, copy"
+    },
+    {
+      "Hanzi": "书架",
+      "Pinyin": "shūjià",
+      "Meaning": "bookshelf",
+      "Example": "书架上有很多书。 shūjià shang yǒu hěn duō shū: the shelf is full of books",
+      "Notes": "书 book + 架 rack, frame (木 wood + 加 jiā phonetic) = book rack"
+    },
+    {
+      "Hanzi": "衣架",
+      "Pinyin": "yījià",
+      "Meaning": "clothes hanger",
+      "Example": "给我一个衣架。 gěi wǒ yí ge yījià: give me a hanger",
+      "Notes": "衣 clothes + 架 rack, frame = hanger"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.8 · 收到, 重新, 正好, 信心, 不好意思",
+  "focus": "气 · 倒 · 欢迎 · 边 · 新闻 · 收 · 重新 · 满 · 身边 · 正确 · 收到 · 正是 · 接着 · 重点 · 级 · 接到 · 提高 · 满意 · 信号 · 心中 · 高中 · 空气 · 相同 · 到处 · 观点 · 高级 · 收入 · 同事 · 信心 · 故意 · 闻 · 放心 · 正好 · 好处 · 重复 · 好事 · 提到 · 不如 · 不好意思",
+  "body": "Receiving and correcting things: 收 receive, 接 catch, 提 raise, 正 correct, 重 again/heavy, plus 高 high and 好 good in new combinations. Watch 重: chóng 'again' in 重新/重复 but zhòng 'heavy, important' in 重点.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 收 | shōu | to receive, collect | 收, 收到, 收入 |\n| 正 | zhèng | straight, correct; just | 正确, 正是, 正好 |\n| 重 | chóng / zhòng | again / heavy, important | 重新, 重点, 重复 |\n| 高 | gāo | high, tall | 提高, 高中, 高级 |\n| 好 | hǎo | good | 正好, 好处, 好事, 不好意思 |\n| 心 | xīn | heart | 心中, 信心, 放心 |\n| 接 | jiē | to receive, meet, connect (扌 hand) | 接着, 接到 |\n| 提 | tí | to lift; to bring up (扌 hand + 是 shì sound) | 提高, 提到 |\n\n## Watch out\n\n- 倒 has two readings: dǎo fall over (摔倒) and dào pour, reverse (倒水).\n- 收入 uses 入 rù (enter), not 人 rén (person).\n- 闻 wén (hear) is 耳 ear inside 门 door; 问 wèn (ask) is 口 mouth inside 门.",
+  "cards": [
+    {
+      "Hanzi": "气",
+      "Pinyin": "qì",
+      "Meaning": "air, gas; anger; to make angry",
+      "Example": "别生气了。 bié shēngqì le: Don't be angry",
+      "Notes": "Picture of rising vapor: air, breath, energy. In 天气 weather, 生气 angry, 空气 air"
+    },
+    {
+      "Hanzi": "倒",
+      "Pinyin": "dǎo / dào",
+      "Meaning": "to fall over / to pour; upside down",
+      "Example": "我给你倒杯水。 wǒ gěi nǐ dào bēi shuǐ: Let me pour you some water",
+      "Notes": "亻 person + 到 dào (sound). dǎo fall (摔倒); dào pour, reverse (倒水, 倒车)"
+    },
+    {
+      "Hanzi": "欢迎",
+      "Pinyin": "huānyíng",
+      "Meaning": "welcome; to welcome",
+      "Example": "欢迎你来我家！ huānyíng nǐ lái wǒ jiā: Welcome to my home!",
+      "Notes": "欢 joyful + 迎 go to meet (辶) = to greet joyfully"
+    },
+    {
+      "Hanzi": "边",
+      "Pinyin": "biān",
+      "Meaning": "side, edge",
+      "Example": "你坐我这边。 nǐ zuò wǒ zhè biān: Sit on my side",
+      "Notes": "辶 walking + 力. Simplified from 邊. Suffix for place: 这边, 旁边, 左边"
+    },
+    {
+      "Hanzi": "新闻",
+      "Pinyin": "xīnwén",
+      "Meaning": "news",
+      "Example": "你看新闻了吗？ nǐ kàn xīnwén le ma: Did you see the news?",
+      "Notes": "新 new + 闻 heard = newly heard things, the news"
+    },
+    {
+      "Hanzi": "收",
+      "Pinyin": "shōu",
+      "Meaning": "to receive, accept; to put away",
+      "Example": "把东西收好。 bǎ dōngxi shōu hǎo: Put your things away",
+      "Notes": "攵 hand with stick + left part 丩 (sound) = to gather in, collect"
+    },
+    {
+      "Hanzi": "重新",
+      "Pinyin": "chóngxīn",
+      "Meaning": "again, anew, from scratch",
+      "Example": "我们重新开始吧。 wǒmen chóngxīn kāishǐ ba: Let's start over",
+      "Notes": "重 again (chóng here) + 新 new = do it anew"
+    },
+    {
+      "Hanzi": "满",
+      "Pinyin": "mǎn",
+      "Meaning": "full",
+      "Example": "杯子满了。 bēizi mǎn le: The cup is full",
+      "Notes": "氵 water + right part (sound) = full to the brim. 满意 satisfied"
+    },
+    {
+      "Hanzi": "身边",
+      "Pinyin": "shēnbiān",
+      "Meaning": "by one's side",
+      "Example": "我想在你身边。 wǒ xiǎng zài nǐ shēnbiān: I want to be by your side",
+      "Notes": "身 body + 边 side = beside one's body, close by"
+    },
+    {
+      "Hanzi": "正确",
+      "Pinyin": "zhèngquè",
+      "Meaning": "correct, right",
+      "Example": "你的答案正确。 nǐ de dá'àn zhèngquè: Your answer is correct",
+      "Notes": "正 straight, correct + 确 certain (石 stone, solid) = correct"
+    },
+    {
+      "Hanzi": "收到",
+      "Pinyin": "shōudào",
+      "Meaning": "to receive",
+      "Example": "你收到我的信了吗？ nǐ shōudào wǒ de xìn le ma: Did you get my letter?",
+      "Notes": "收 receive + 到 arrive (result) = to receive"
+    },
+    {
+      "Hanzi": "正是",
+      "Pinyin": "zhèngshì",
+      "Meaning": "is exactly, is precisely",
+      "Example": "这正是我想要的。 zhè zhèngshì wǒ xiǎng yào de: This is exactly what I wanted",
+      "Notes": "正 exactly + 是 is = is precisely"
+    },
+    {
+      "Hanzi": "接着",
+      "Pinyin": "jiēzhe",
+      "Meaning": "next, then; to continue",
+      "Example": "你接着说。 nǐ jiēzhe shuō: Go on, keep talking",
+      "Notes": "接 connect, receive + 着 (ongoing) = carrying on from that"
+    },
+    {
+      "Hanzi": "重点",
+      "Pinyin": "zhòngdiǎn",
+      "Meaning": "key point, focus",
+      "Example": "这是今天的重点。 zhè shì jīntiān de zhòngdiǎn: This is today's key point",
+      "Notes": "重 important (zhòng here) + 点 point = the key point"
+    },
+    {
+      "Hanzi": "级",
+      "Pinyin": "jí",
+      "Meaning": "level, grade",
+      "Example": "你是几年级？ nǐ shì jǐ niánjí: What grade are you in?",
+      "Notes": "纟 thread + 及 jí (sound) = rank, level. 年级 grade at school, 高级 advanced"
+    },
+    {
+      "Hanzi": "接到",
+      "Pinyin": "jiēdào",
+      "Meaning": "to receive (a call, letter); to pick up",
+      "Example": "我接到了他的电话。 wǒ jiēdào le tā de diànhuà: I got his call",
+      "Notes": "接 receive + 到 arrive = to receive; also 接到人 = to pick someone up"
+    },
+    {
+      "Hanzi": "提高",
+      "Pinyin": "tígāo",
+      "Meaning": "to raise, improve",
+      "Example": "我想提高中文水平。 wǒ xiǎng tígāo Zhōngwén shuǐpíng: I want to improve my Chinese",
+      "Notes": "提 lift + 高 high = to lift higher, improve"
+    },
+    {
+      "Hanzi": "满意",
+      "Pinyin": "mǎnyì",
+      "Meaning": "satisfied",
+      "Example": "你满意吗？ nǐ mǎnyì ma: Are you satisfied?",
+      "Notes": "满 full + 意 wish, intention = one's wishes filled, satisfied"
+    },
+    {
+      "Hanzi": "信号",
+      "Pinyin": "xìnhào",
+      "Meaning": "signal",
+      "Example": "这里没有信号。 zhèlǐ méiyǒu xìnhào: There's no signal here",
+      "Notes": "信 message + 号 sign, number = signal (phone signal too)"
+    },
+    {
+      "Hanzi": "心中",
+      "Pinyin": "xīnzhōng",
+      "Meaning": "in one's heart",
+      "Example": "你在我心中。 nǐ zài wǒ xīnzhōng: You're in my heart",
+      "Notes": "心 heart + 中 middle = inside the heart (more literary than 心里)"
+    },
+    {
+      "Hanzi": "高中",
+      "Pinyin": "gāozhōng",
+      "Meaning": "senior high school",
+      "Example": "我弟弟上高中。 wǒ dìdi shàng gāozhōng: My brother is in high school",
+      "Notes": "高 high + 中 middle (school) = upper middle school. 初中 junior high"
+    },
+    {
+      "Hanzi": "空气",
+      "Pinyin": "kōngqì",
+      "Meaning": "air",
+      "Example": "这里的空气很好。 zhèlǐ de kōngqì hěn hǎo: The air here is fresh",
+      "Notes": "空 empty, sky + 气 gas, air = air"
+    },
+    {
+      "Hanzi": "相同",
+      "Pinyin": "xiāngtóng",
+      "Meaning": "the same, identical",
+      "Example": "我们的想法相同。 wǒmen de xiǎngfǎ xiāngtóng: We think the same way",
+      "Notes": "相 mutually + 同 same = the same as each other"
+    },
+    {
+      "Hanzi": "到处",
+      "Pinyin": "dàochù",
+      "Meaning": "everywhere",
+      "Example": "到处都是人。 dàochù dōu shì rén: There are people everywhere",
+      "Notes": "到 reach + 处 place = reaching every place, everywhere"
+    },
+    {
+      "Hanzi": "观点",
+      "Pinyin": "guāndiǎn",
+      "Meaning": "point of view",
+      "Example": "我同意你的观点。 wǒ tóngyì nǐ de guāndiǎn: I agree with your view",
+      "Notes": "观 view, look (见 see) + 点 point = viewpoint"
+    },
+    {
+      "Hanzi": "高级",
+      "Pinyin": "gāojí",
+      "Meaning": "advanced, high-level, fancy",
+      "Example": "这是高级中文课。 zhè shì gāojí Zhōngwén kè: This is advanced Chinese",
+      "Notes": "高 high + 级 level = high-level"
+    },
+    {
+      "Hanzi": "收入",
+      "Pinyin": "shōurù",
+      "Meaning": "income",
+      "Example": "他的收入很高。 tā de shōurù hěn gāo: He has a high income",
+      "Notes": "收 receive + 入 enter = what comes in, income. 入 rù, not 人 rén"
+    },
+    {
+      "Hanzi": "同事",
+      "Pinyin": "tóngshì",
+      "Meaning": "colleague, coworker",
+      "Example": "他是我的同事。 tā shì wǒ de tóngshì: He's my coworker",
+      "Notes": "同 same + 事 work, affair = people doing the same work"
+    },
+    {
+      "Hanzi": "信心",
+      "Pinyin": "xìnxīn",
+      "Meaning": "confidence",
+      "Example": "我对你有信心。 wǒ duì nǐ yǒu xìnxīn: I have faith in you",
+      "Notes": "信 trust, believe + 心 heart = a believing heart, confidence"
+    },
+    {
+      "Hanzi": "故意",
+      "Pinyin": "gùyì",
+      "Meaning": "on purpose, deliberately",
+      "Example": "我不是故意的。 wǒ bú shì gùyì de: I didn't mean to",
+      "Notes": "故 reason, cause + 意 intention = with intent, on purpose"
+    },
+    {
+      "Hanzi": "闻",
+      "Pinyin": "wén",
+      "Meaning": "to smell; to hear",
+      "Example": "你闻闻这个。 nǐ wénwen zhège: Smell this",
+      "Notes": "耳 ear inside 门 door (门 mén also gives sound): listening at the door. Today usually 'smell'. Lookalike: 问 wèn"
+    },
+    {
+      "Hanzi": "放心",
+      "Pinyin": "fàngxīn",
+      "Meaning": "to relax, not worry",
+      "Example": "放心吧，我没事。 fàngxīn ba, wǒ méishì: Don't worry, I'm fine",
+      "Notes": "放 put down, release + 心 heart = put your heart at ease"
+    },
+    {
+      "Hanzi": "正好",
+      "Pinyin": "zhènghǎo",
+      "Meaning": "just right; happen to",
+      "Example": "你来得正好！ nǐ lái de zhènghǎo: You came just in time!",
+      "Notes": "正 exactly + 好 good = just right"
+    },
+    {
+      "Hanzi": "好处",
+      "Pinyin": "hǎochù",
+      "Meaning": "benefit, advantage",
+      "Example": "运动有很多好处。 yùndòng yǒu hěn duō hǎochù: Exercise has many benefits",
+      "Notes": "好 good + 处 place, aspect = good points, benefits. Opposite: 坏处"
+    },
+    {
+      "Hanzi": "重复",
+      "Pinyin": "chóngfù",
+      "Meaning": "to repeat",
+      "Example": "请重复一遍。 qǐng chóngfù yí biàn: Please say that again",
+      "Notes": "重 again (chóng here) + 复 repeat, return = to repeat"
+    },
+    {
+      "Hanzi": "好事",
+      "Pinyin": "hǎoshì",
+      "Meaning": "a good thing, good deed",
+      "Example": "这是好事啊！ zhè shì hǎoshì a: That's a good thing!",
+      "Notes": "好 good + 事 thing, matter = a good thing"
+    },
+    {
+      "Hanzi": "提到",
+      "Pinyin": "tídào",
+      "Meaning": "to mention",
+      "Example": "他提到了你。 tā tídào le nǐ: He mentioned you",
+      "Notes": "提 lift, bring up + 到 (result) = to bring up, mention"
+    },
+    {
+      "Hanzi": "不如",
+      "Pinyin": "bùrú",
+      "Meaning": "not as good as; might as well",
+      "Example": "我们不如打车吧。 wǒmen bùrú dǎchē ba: We might as well take a taxi",
+      "Notes": "不 not + 如 be like = not equal to. A 不如 B = A isn't as good as B"
+    },
+    {
+      "Hanzi": "不好意思",
+      "Pinyin": "bùhǎoyìsi",
+      "Meaning": "sorry, excuse me; embarrassed",
+      "Example": "不好意思，我来晚了。 bùhǎoyìsi, wǒ lái wǎn le: Sorry I'm late",
+      "Notes": "不好 not good + 意思 feelings = feel bad, embarrassed; a soft 'sorry'"
+    }
+  ]
+}

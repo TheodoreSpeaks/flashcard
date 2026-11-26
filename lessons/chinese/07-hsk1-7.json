@@ -1,0 +1,280 @@
+{
+  "title": "HSK 1.7 · 准备, 高兴, 一会儿, 开车, 开玩笑",
+  "focus": "岁 · 行 · 号 · 放 · 朋友 · 住 · 拿 · 高 · 准备 · 水 · 进 · 写 · 您 · 送 · 分 · 笑 · 汽车 · 高兴 · 忘 · 记 · 一边 · 忘记 · 一半 · 进去 · 天气 · 进来 · 女生 · 生气 · 一会儿 · 记住 · 开车 · 火车 · 女朋友 · 男朋友 · 水果 · 白天 · 开玩笑 · 生病 · 开会",
+  "body": "Actions and feelings: going in and out (进), forgetting and remembering (忘, 记), and 开 (open, start) for driving, meetings and jokes. 车, 朋友 and 生 also come back.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 开 | kāi | open; drive; hold | 开车, 开玩笑, 开会 |\n| 进 | jìn | enter (辶 + 井) | 进去, 进来 |\n| 记 | jì | record, remember (讠 + 己 jǐ) | 忘记, 记住 |\n| 车 | chē | vehicle | 汽车, 开车, 火车 |\n| 一 | yī | one | 一边, 一半, 一会儿 |\n| 生 | shēng | produce; student | 女生, 生气, 生病 |\n| 朋友 | péngyou | friend | 女朋友, 男朋友 |\n| 气 | qì | air; temper | 天气, 生气 |\n\n## Watch out\n\n- 忘 (wàng, forget) vs 忙 (máng, busy): the same 亡 and heart, but 忙 puts 忄 on the left.\n- 进 (jìn, enter) vs 近 (jìn, near): same sound, 井 vs 斤.\n- 汽 (steam, in 汽车) vs 气 (air): 汽 adds 氵 water.\n- 行 is xíng (OK, walk) here; háng in 银行 (bank).\n- 一 changes tone in speech: yìbiān, yíbàn, yíhuìr.\n",
+  "cards": [
+    {
+      "Hanzi": "岁",
+      "Pinyin": "suì",
+      "Meaning": "years old",
+      "Example": "你几岁? nǐ jǐ suì: How old are you?",
+      "Notes": "山 mountain + 夕 evening (simplified from 歲)"
+    },
+    {
+      "Hanzi": "行",
+      "Pinyin": "xíng / háng",
+      "Meaning": "OK, will do; (háng) row, line of business",
+      "Example": "行,没问题。 xíng, méi wèntí: OK, no problem.",
+      "Notes": "彳 + 亍: a picture of a crossroads. háng in 银行 (bank)"
+    },
+    {
+      "Hanzi": "号",
+      "Pinyin": "hào",
+      "Meaning": "number; date (day of month)",
+      "Example": "今天几号? jīntiān jǐ hào: What's the date today?",
+      "Notes": "口 mouth + 丂 below. 号 vs 另 (lìng, another)"
+    },
+    {
+      "Hanzi": "放",
+      "Pinyin": "fàng",
+      "Meaning": "to put, place; to let go",
+      "Example": "放在这里。 fàng zài zhèlǐ: Put it here.",
+      "Notes": "方 fāng for the sound + 攵 (a hand acting)"
+    },
+    {
+      "Hanzi": "朋友",
+      "Pinyin": "péngyou",
+      "Meaning": "friend",
+      "Example": "他是我的朋友。 tā shì wǒ de péngyou: He's my friend.",
+      "Notes": "朋 is two 月 side by side; 友 vs 反: 反 has a 厂 cliff on top"
+    },
+    {
+      "Hanzi": "住",
+      "Pinyin": "zhù",
+      "Meaning": "to live (somewhere), to stay",
+      "Example": "我住在这儿。 wǒ zhù zài zhèr: I live here.",
+      "Notes": "亻 person + 主 zhǔ; 住 vs 往 (wǎng): 往 has the double-person 彳"
+    },
+    {
+      "Hanzi": "拿",
+      "Pinyin": "ná",
+      "Meaning": "to take, hold",
+      "Example": "你拿一下。 nǐ ná yíxià: Hold this for a sec.",
+      "Notes": "合 put together + 手 hand: hands closing on something"
+    },
+    {
+      "Hanzi": "高",
+      "Pinyin": "gāo",
+      "Meaning": "tall, high",
+      "Example": "他很高。 tā hěn gāo: He's tall.",
+      "Notes": "Picture of a tall tower with a roof"
+    },
+    {
+      "Hanzi": "准备",
+      "Pinyin": "zhǔnbèi",
+      "Meaning": "to prepare; to plan to",
+      "Example": "你准备好了吗? nǐ zhǔnbèi hǎo le ma: Are you ready?",
+      "Notes": "准 accurate, set (冫 + 隹) + 备 prepare = get ready"
+    },
+    {
+      "Hanzi": "水",
+      "Pinyin": "shuǐ",
+      "Meaning": "water",
+      "Example": "我想喝水。 wǒ xiǎng hē shuǐ: I want some water.",
+      "Notes": "Picture of flowing water; as a radical it becomes 氵"
+    },
+    {
+      "Hanzi": "进",
+      "Pinyin": "jìn",
+      "Meaning": "to enter, go in",
+      "Example": "请进! qǐng jìn: Come in!",
+      "Notes": "辶 movement + 井. 进 vs 近 (jìn, near), which has 斤"
+    },
+    {
+      "Hanzi": "写",
+      "Pinyin": "xiě",
+      "Meaning": "to write",
+      "Example": "我在写字。 wǒ zài xiě zì: I'm writing.",
+      "Notes": "冖 cover + 与 (simplified from 寫)"
+    },
+    {
+      "Hanzi": "您",
+      "Pinyin": "nín",
+      "Meaning": "you (polite)",
+      "Example": "您好! nín hǎo: Hello (polite)!",
+      "Notes": "你 you + 心 heart: 'you' said with heart = polite you"
+    },
+    {
+      "Hanzi": "送",
+      "Pinyin": "sòng",
+      "Meaning": "to give (a gift); to see off; to deliver",
+      "Example": "我送你回家。 wǒ sòng nǐ huíjiā: I'll take you home.",
+      "Notes": "辶 movement + 关-like top: sending something on its way"
+    },
+    {
+      "Hanzi": "分",
+      "Pinyin": "fēn",
+      "Meaning": "to divide; minute; point",
+      "Example": "我们分一下。 wǒmen fēn yíxià: Let's split it.",
+      "Notes": "八 separate + 刀 knife: cut apart. 分 vs 今 (jīn)"
+    },
+    {
+      "Hanzi": "笑",
+      "Pinyin": "xiào",
+      "Meaning": "to laugh, smile",
+      "Example": "你笑什么? nǐ xiào shénme: What are you laughing at?",
+      "Notes": "⺮ bamboo top + 夭 below; 10 strokes"
+    },
+    {
+      "Hanzi": "汽车",
+      "Pinyin": "qìchē",
+      "Meaning": "car, automobile",
+      "Example": "这是我的汽车。 zhè shì wǒ de qìchē: This is my car.",
+      "Notes": "汽 steam, gas (氵 + 气) + 车 vehicle = motor vehicle"
+    },
+    {
+      "Hanzi": "高兴",
+      "Pinyin": "gāoxìng",
+      "Meaning": "happy, glad",
+      "Example": "我很高兴。 wǒ hěn gāoxìng: I'm really happy.",
+      "Notes": "高 high + 兴 mood, excitement = high spirits"
+    },
+    {
+      "Hanzi": "忘",
+      "Pinyin": "wàng",
+      "Meaning": "to forget",
+      "Example": "别忘了! bié wàng le: Don't forget!",
+      "Notes": "亡 wáng (lost, also the sound) over 心 heart: lost from the heart"
+    },
+    {
+      "Hanzi": "记",
+      "Pinyin": "jì",
+      "Meaning": "to remember; to note down",
+      "Example": "我记不清了。 wǒ jì bu qīng le: I don't remember clearly.",
+      "Notes": "讠 speech + 己 jǐ for the sound. 己 vs 已 (yǐ) vs 巳 (sì)"
+    },
+    {
+      "Hanzi": "一边",
+      "Pinyin": "yìbiān",
+      "Meaning": "one side; while (doing)",
+      "Example": "他一边吃一边说。 tā yìbiān chī yìbiān shuō: He talks while eating.",
+      "Notes": "一 one + 边 side; 一边…一边… = doing two things at once"
+    },
+    {
+      "Hanzi": "忘记",
+      "Pinyin": "wàngjì",
+      "Meaning": "to forget",
+      "Example": "我忘记了。 wǒ wàngjì le: I forgot.",
+      "Notes": "忘 = 亡 wáng over 心 heart; 记 = 讠 + 己 jǐ (己 vs 已 yǐ)"
+    },
+    {
+      "Hanzi": "一半",
+      "Pinyin": "yíbàn",
+      "Meaning": "half",
+      "Example": "给你一半。 gěi nǐ yíbàn: Here's half for you.",
+      "Notes": "一 one + 半 half"
+    },
+    {
+      "Hanzi": "进去",
+      "Pinyin": "jìnqu",
+      "Meaning": "to go in",
+      "Example": "我们进去吧。 wǒmen jìnqu ba: Let's go in.",
+      "Notes": "进 enter + 去 go (away from the speaker) = go in"
+    },
+    {
+      "Hanzi": "天气",
+      "Pinyin": "tiānqì",
+      "Meaning": "weather",
+      "Example": "今天天气很好。 jīntiān tiānqì hěn hǎo: The weather's nice today.",
+      "Notes": "天 sky + 气 air = weather"
+    },
+    {
+      "Hanzi": "进来",
+      "Pinyin": "jìnlai",
+      "Meaning": "to come in",
+      "Example": "快进来! kuài jìnlai: Come on in!",
+      "Notes": "进 enter + 来 come (toward the speaker) = come in"
+    },
+    {
+      "Hanzi": "女生",
+      "Pinyin": "nǚshēng",
+      "Meaning": "girl, female student",
+      "Example": "那个女生是谁? nàge nǚshēng shì shéi: Who's that girl?",
+      "Notes": "女 female + 生 student = girl"
+    },
+    {
+      "Hanzi": "生气",
+      "Pinyin": "shēngqì",
+      "Meaning": "to get angry; angry",
+      "Example": "别生气了。 bié shēngqì le: Don't be mad.",
+      "Notes": "生 produce + 气 air, temper = to work up a temper"
+    },
+    {
+      "Hanzi": "一会儿",
+      "Pinyin": "yíhuìr",
+      "Meaning": "a moment, a little while",
+      "Example": "等一会儿。 děng yíhuìr: Wait a moment.",
+      "Notes": "一 one + 会 meeting, moment + 儿 (r ending) = a short while"
+    },
+    {
+      "Hanzi": "记住",
+      "Pinyin": "jìzhu",
+      "Meaning": "to remember, memorize",
+      "Example": "你记住了吗? nǐ jìzhu le ma: Have you got that memorized?",
+      "Notes": "记 remember + 住 stay = make it stick"
+    },
+    {
+      "Hanzi": "开车",
+      "Pinyin": "kāichē",
+      "Meaning": "to drive",
+      "Example": "我会开车。 wǒ huì kāichē: I can drive.",
+      "Notes": "开 operate + 车 vehicle = drive"
+    },
+    {
+      "Hanzi": "火车",
+      "Pinyin": "huǒchē",
+      "Meaning": "train",
+      "Example": "我坐火车去。 wǒ zuò huǒchē qù: I'm going by train.",
+      "Notes": "火 fire + 车 vehicle = steam train"
+    },
+    {
+      "Hanzi": "女朋友",
+      "Pinyin": "nǚpéngyou",
+      "Meaning": "girlfriend",
+      "Example": "这是我女朋友。 zhè shì wǒ nǚpéngyou: This is my girlfriend.",
+      "Notes": "女 female + 朋友 friend"
+    },
+    {
+      "Hanzi": "男朋友",
+      "Pinyin": "nánpéngyou",
+      "Meaning": "boyfriend",
+      "Example": "她有男朋友吗? tā yǒu nánpéngyou ma: Does she have a boyfriend?",
+      "Notes": "男 male + 朋友 friend"
+    },
+    {
+      "Hanzi": "水果",
+      "Pinyin": "shuǐguǒ",
+      "Meaning": "fruit",
+      "Example": "我想吃水果。 wǒ xiǎng chī shuǐguǒ: I want some fruit.",
+      "Notes": "水 water + 果 fruit (果 = fruit on 木 tree) = juicy fruit"
+    },
+    {
+      "Hanzi": "白天",
+      "Pinyin": "báitiān",
+      "Meaning": "daytime",
+      "Example": "我白天上班。 wǒ báitiān shàngbān: I work during the day.",
+      "Notes": "白 white, bright + 天 day = daytime"
+    },
+    {
+      "Hanzi": "开玩笑",
+      "Pinyin": "kāiwánxiào",
+      "Meaning": "to joke, kid",
+      "Example": "我开玩笑的。 wǒ kāi wánxiào de: I'm just kidding.",
+      "Notes": "开 start + 玩 play + 笑 laugh = make a joke"
+    },
+    {
+      "Hanzi": "生病",
+      "Pinyin": "shēngbìng",
+      "Meaning": "to get sick",
+      "Example": "我生病了。 wǒ shēngbìng le: I'm sick.",
+      "Notes": "生 produce, get + 病 illness = fall ill"
+    },
+    {
+      "Hanzi": "开会",
+      "Pinyin": "kāihuì",
+      "Meaning": "to have a meeting",
+      "Example": "我在开会。 wǒ zài kāihuì: I'm in a meeting.",
+      "Notes": "开 hold + 会 meeting = have a meeting"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.7 · 交通, 打算, 颜色, 舒服, 留下",
+  "focus": "懂 · 卡 · 算 · 辆 · 药 · 留 · 交 · 套 · 黑 · 店 · 服务 · 挺 · 克 · 装 · 座 · 往 · 眼 · 清楚 · 停 · 酒 · 红 · 眼睛 · 通 · 留下 · 通知 · 普通 · 打算 · 交给 · 酒店 · 交通 · 颜色 · 以下 · 以上 · 红色 · 放下 · 舒服 · 上周 · 黑色 · 绿色",
+  "body": "Colors (色 with 红, 黑, 绿), getting around (交通, 通知, 辆) and lots of single-character verbs and measure words. 交 hand over and 通 go through combine into 交通 traffic.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 色 | sè | color | 颜色, 红色, 黑色, 绿色 |\n| 通 | tōng | go through, connect (辶 + 甬 sound) | 通, 通知, 普通, 交通 |\n| 交 | jiāo | to hand over; to make (friends) | 交, 交给, 交通 |\n| 下 | xià | down, below | 留下, 以下, 放下 |\n| 红 | hóng | red (纟 + 工 gōng sound) | 红, 红色 |\n| 黑 | hēi | black | 黑, 黑色 |\n| 店 | diàn | shop (广 building + 占 sound) | 店, 酒店 |\n| 眼 | yǎn | eye (目 + 艮) | 眼, 眼睛 |\n\n## Watch out\n\n- 往 wǎng (toward) has 彳 'step'; 住 zhù (live) has 亻 person.\n- 卡 is kǎ for card (银行卡), qiǎ for stuck.\n- 酒店 is usually a hotel, not a liquor store.",
+  "cards": [
+    {
+      "Hanzi": "懂",
+      "Pinyin": "dǒng",
+      "Meaning": "to understand",
+      "Example": "你懂我的意思吗？ nǐ dǒng wǒ de yìsi ma: Do you get what I mean?",
+      "Notes": "忄 heart + 董 dǒng (sound) = understanding in the heart. 听懂 understand by listening"
+    },
+    {
+      "Hanzi": "卡",
+      "Pinyin": "kǎ",
+      "Meaning": "card",
+      "Example": "我的银行卡呢？ wǒ de yínháng kǎ ne: Where's my bank card?",
+      "Notes": "上 up + 下 down: stuck in between (read qiǎ, 卡住). Used for the sound of English 'card' (kǎ)"
+    },
+    {
+      "Hanzi": "算",
+      "Pinyin": "suàn",
+      "Meaning": "to calculate; to count as",
+      "Example": "你算一下多少钱。 nǐ suàn yíxià duōshao qián: Work out how much it is",
+      "Notes": "⺮ bamboo + 目 + 廾 two hands: counting with bamboo rods. 算了 = forget it"
+    },
+    {
+      "Hanzi": "辆",
+      "Pinyin": "liàng",
+      "Meaning": "(measure word for vehicles)",
+      "Example": "门口有一辆车。 ménkǒu yǒu yí liàng chē: There's a car at the door",
+      "Notes": "车 vehicle + 两 liǎng (sound) = measure word for cars, bikes"
+    },
+    {
+      "Hanzi": "药",
+      "Pinyin": "yào",
+      "Meaning": "medicine",
+      "Example": "你吃药了吗？ nǐ chī yào le ma: Have you taken your medicine?",
+      "Notes": "艹 grass, herbs + 约 yuē (sound): herbal medicine. 吃药 = take medicine"
+    },
+    {
+      "Hanzi": "留",
+      "Pinyin": "liú",
+      "Meaning": "to stay; to keep; to leave (behind)",
+      "Example": "给我留一点。 gěi wǒ liú yìdiǎn: Save a bit for me",
+      "Notes": "田 field at the bottom + top part (sound). 留学 study abroad, 留言 leave a message"
+    },
+    {
+      "Hanzi": "交",
+      "Pinyin": "jiāo",
+      "Meaning": "to hand in; to make (friends)",
+      "Example": "明天交作业。 míngtiān jiāo zuòyè: Homework is due tomorrow",
+      "Notes": "Picture of a person with crossed legs: crossing, exchange. 交朋友 make friends"
+    },
+    {
+      "Hanzi": "套",
+      "Pinyin": "tào",
+      "Meaning": "set; (measure word for sets, apartments); cover",
+      "Example": "我买了一套房子。 wǒ mǎi le yí tào fángzi: I bought an apartment",
+      "Notes": "大 big on top of 長 long (shortened): a cover over something. 一套 = a set"
+    },
+    {
+      "Hanzi": "黑",
+      "Pinyin": "hēi",
+      "Meaning": "black; dark",
+      "Example": "外面天黑了。 wàimiàn tiān hēi le: It's dark outside",
+      "Notes": "Bottom four dots look like 灬 fire; think of soot from a fire: black, dark"
+    },
+    {
+      "Hanzi": "店",
+      "Pinyin": "diàn",
+      "Meaning": "shop, store",
+      "Example": "这家店很有名。 zhè jiā diàn hěn yǒumíng: This shop is famous",
+      "Notes": "广 building + 占 zhàn (sound) = shop. 商店, 书店, 饭店"
+    },
+    {
+      "Hanzi": "服务",
+      "Pinyin": "fúwù",
+      "Meaning": "service; to serve",
+      "Example": "这里的服务很好。 zhèlǐ de fúwù hěn hǎo: The service here is great",
+      "Notes": "服 serve + 务 affairs, work = service. 服务员 waiter"
+    },
+    {
+      "Hanzi": "挺",
+      "Pinyin": "tǐng",
+      "Meaning": "quite, rather",
+      "Example": "这个挺好的。 zhège tǐng hǎo de: This is pretty good",
+      "Notes": "扌 hand + 廷 tíng (sound). Spoken 'quite': 挺…的"
+    },
+    {
+      "Hanzi": "克",
+      "Pinyin": "kè",
+      "Meaning": "gram",
+      "Example": "我要五百克。 wǒ yào wǔbǎi kè: I'd like 500 grams",
+      "Notes": "Also 'to overcome' (克服). Used to write 'gram' and many foreign names (克林顿 Clinton)"
+    },
+    {
+      "Hanzi": "装",
+      "Pinyin": "zhuāng",
+      "Meaning": "to pack, load; to install; to pretend",
+      "Example": "他在装睡。 tā zài zhuāng shuì: He's pretending to sleep",
+      "Notes": "衣 clothing (bottom) + 壮 zhuàng (sound): dress up, so pack, install, pretend"
+    },
+    {
+      "Hanzi": "座",
+      "Pinyin": "zuò",
+      "Meaning": "seat; (measure word for buildings, mountains)",
+      "Example": "那座山很高。 nà zuò shān hěn gāo: That mountain is tall",
+      "Notes": "广 building + 坐 zuò sit (also sound) = a seat. 座位 seat"
+    },
+    {
+      "Hanzi": "往",
+      "Pinyin": "wǎng",
+      "Meaning": "toward, to",
+      "Example": "一直往前走。 yìzhí wǎng qián zǒu: Go straight ahead",
+      "Notes": "彳 step + right part (originally a sound part) = go toward. Lookalike: 住 zhù live (亻 not 彳)"
+    },
+    {
+      "Hanzi": "眼",
+      "Pinyin": "yǎn",
+      "Meaning": "eye",
+      "Example": "我眼有点疼。 wǒ yǎn yǒudiǎn téng: My eyes hurt a bit",
+      "Notes": "目 eye + 艮 (sound) = eye. Mostly in words: 眼睛, 眼镜 glasses"
+    },
+    {
+      "Hanzi": "清楚",
+      "Pinyin": "qīngchu",
+      "Meaning": "clear",
+      "Example": "我听不清楚。 wǒ tīng bu qīngchu: I can't hear clearly.",
+      "Notes": "清 = 氵 water + 青 qīng: clear like water"
+    },
+    {
+      "Hanzi": "停",
+      "Pinyin": "tíng",
+      "Meaning": "to stop; to park",
+      "Example": "车停在哪儿？ chē tíng zài nǎr: Where's the car parked?",
+      "Notes": "亻 person + 亭 tíng pavilion (also sound): a person stopping at a rest pavilion"
+    },
+    {
+      "Hanzi": "酒",
+      "Pinyin": "jiǔ",
+      "Meaning": "alcohol, liquor, wine",
+      "Example": "他不喝酒。 tā bù hē jiǔ: He doesn't drink",
+      "Notes": "氵 liquid + 酉 wine jar = alcohol. 啤酒 beer"
+    },
+    {
+      "Hanzi": "红",
+      "Pinyin": "hóng",
+      "Meaning": "red; popular",
+      "Example": "她的脸红了。 tā de liǎn hóng le: She blushed",
+      "Notes": "纟 silk + 工 gōng (sound): dyed red silk. 红 can also mean popular: 很红"
+    },
+    {
+      "Hanzi": "眼睛",
+      "Pinyin": "yǎnjing",
+      "Meaning": "eye",
+      "Example": "她的眼睛大大的。 tā de yǎnjing dàdà de: She has big eyes.",
+      "Notes": "Both have 目 eye: 眼 = 目 + 艮, 睛 = 目 + 青"
+    },
+    {
+      "Hanzi": "通",
+      "Pinyin": "tōng",
+      "Meaning": "to go through; to connect",
+      "Example": "电话打不通。 diànhuà dǎ bu tōng: The call won't go through",
+      "Notes": "辶 movement + 甬 yǒng (sound) = to go through. 一通电话 is tòng"
+    },
+    {
+      "Hanzi": "留下",
+      "Pinyin": "liúxià",
+      "Meaning": "to leave behind; to stay",
+      "Example": "请留下你的名字。 qǐng liúxià nǐ de míngzi: Please leave your name",
+      "Notes": "留 stay, keep + 下 down = leave behind, stay on"
+    },
+    {
+      "Hanzi": "通知",
+      "Pinyin": "tōngzhī",
+      "Meaning": "to notify; notice",
+      "Example": "我会通知你。 wǒ huì tōngzhī nǐ: I'll let you know",
+      "Notes": "通 pass through + 知 know = pass the word on, notify"
+    },
+    {
+      "Hanzi": "普通",
+      "Pinyin": "pǔtōng",
+      "Meaning": "ordinary, common",
+      "Example": "我是一个普通人。 wǒ shì yí ge pǔtōng rén: I'm an ordinary person",
+      "Notes": "普 general, universal + 通 common = ordinary. 普通话 Mandarin"
+    },
+    {
+      "Hanzi": "打算",
+      "Pinyin": "dǎsuàn",
+      "Meaning": "to plan, intend; plan",
+      "Example": "你打算去哪儿？ nǐ dǎsuàn qù nǎr: Where are you planning to go?",
+      "Notes": "打 (do) + 算 calculate = to reckon ahead, plan"
+    },
+    {
+      "Hanzi": "交给",
+      "Pinyin": "jiāogěi",
+      "Meaning": "to hand to, give to",
+      "Example": "把这个交给老师。 bǎ zhège jiāogěi lǎoshī: Give this to the teacher",
+      "Notes": "交 hand over + 给 to = hand over to someone"
+    },
+    {
+      "Hanzi": "酒店",
+      "Pinyin": "jiǔdiàn",
+      "Meaning": "hotel",
+      "Example": "我们住在酒店。 wǒmen zhù zài jiǔdiàn: We're staying at a hotel",
+      "Notes": "酒 wine + 店 shop = originally a tavern; today mostly 'hotel'"
+    },
+    {
+      "Hanzi": "交通",
+      "Pinyin": "jiāotōng",
+      "Meaning": "traffic, transportation",
+      "Example": "这里交通很方便。 zhèlǐ jiāotōng hěn fāngbiàn: Getting around here is easy",
+      "Notes": "交 cross + 通 go through = routes that cross and connect: traffic"
+    },
+    {
+      "Hanzi": "颜色",
+      "Pinyin": "yánsè",
+      "Meaning": "color",
+      "Example": "你喜欢什么颜色？ nǐ xǐhuan shénme yánsè: What color do you like?",
+      "Notes": "颜 face, complexion (页 head) + 色 color = color"
+    },
+    {
+      "Hanzi": "以下",
+      "Pinyin": "yǐxià",
+      "Meaning": "below, under; the following",
+      "Example": "十岁以下的孩子。 shí suì yǐxià de háizi: Children under ten",
+      "Notes": "以 (from) + 下 below = from here down"
+    },
+    {
+      "Hanzi": "以上",
+      "Pinyin": "yǐshàng",
+      "Meaning": "above, over; the above",
+      "Example": "十八岁以上可以进。 shíbā suì yǐshàng kěyǐ jìn: 18 and over can enter",
+      "Notes": "以 (from) + 上 above = from here up"
+    },
+    {
+      "Hanzi": "红色",
+      "Pinyin": "hóngsè",
+      "Meaning": "red (color)",
+      "Example": "我喜欢红色。 wǒ xǐhuan hóngsè: I like red",
+      "Notes": "红 red + 色 color = the color red"
+    },
+    {
+      "Hanzi": "放下",
+      "Pinyin": "fàngxià",
+      "Meaning": "to put down; to let go",
+      "Example": "把书放下吧。 bǎ shū fàngxià ba: Put the book down",
+      "Notes": "放 put + 下 down = put down"
+    },
+    {
+      "Hanzi": "舒服",
+      "Pinyin": "shūfu",
+      "Meaning": "comfortable; feeling well",
+      "Example": "我有点不舒服。 wǒ yǒudiǎn bù shūfu: I'm not feeling well",
+      "Notes": "舒 relaxed, stretch out + 服 (here: suit, agree with) = comfortable"
+    },
+    {
+      "Hanzi": "上周",
+      "Pinyin": "shàngzhōu",
+      "Meaning": "last week",
+      "Example": "上周我去了上海。 shàngzhōu wǒ qù le Shànghǎi: Last week I went to Shanghai",
+      "Notes": "上 previous + 周 week = last week. 下周 = next week"
+    },
+    {
+      "Hanzi": "黑色",
+      "Pinyin": "hēisè",
+      "Meaning": "black (color)",
+      "Example": "他穿黑色的衣服。 tā chuān hēisè de yīfu: He wears black",
+      "Notes": "黑 black + 色 color = black"
+    },
+    {
+      "Hanzi": "绿色",
+      "Pinyin": "lǜsè",
+      "Meaning": "green (color)",
+      "Example": "树叶是绿色的。 shùyè shì lǜsè de: Leaves are green",
+      "Notes": "绿 green (纟 silk + 录 lù, sound) + 色 color = green"
+    }
+  ]
+}

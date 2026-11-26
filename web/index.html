@@ -247,7 +247,8 @@ async function lesson(name, n) {
     <h1 style="margin-top:14px">${esc(L.title)}</h1>
     <div class="body">${markdown(L.body.replace(/^\s*#{1,2}\s+[^\n]*\n/, line => line.includes(L.title) ? "" : line))}</div>
     <div class="panel"><h2>Cards for this lesson</h2>
-      <div class="small muted" style="margin:4px 0 8px">New cards are ticked. ≈ similar ones are left for you to decide; greyed-out ones are already in the pack.</div>
+      <div class="small muted" style="margin:4px 0 8px">New cards are ticked. ≈ similar ones are left for you to decide; greyed-out ones are already in the pack. Untick anything you already know.</div>
+      <div class="row" style="margin-bottom:8px"><button class="small" id="tick-all">Tick all</button><button class="small" id="untick-all">Untick all</button></div>
       ${picks}
     </div>
     <div class="sticky row spread"><span class="muted small" id="count"></span><button class="primary" id="add">Add cards</button></div>`;
@@ -258,6 +259,9 @@ async function lesson(name, n) {
     document.getElementById("add").textContent = count() ? `Add ${count()} cards` : "Mark read, add none";
   };
   boxes.forEach(b => b.addEventListener("change", update));
+  const setAll = on => { boxes.forEach(b => { if (!b.disabled) b.checked = on; }); update(); };
+  document.getElementById("tick-all").onclick = () => setAll(true);
+  document.getElementById("untick-all").onclick = () => setAll(false);
   update();
   document.getElementById("add").onclick = async () => {
     try {

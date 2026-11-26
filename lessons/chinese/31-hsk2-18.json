@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.18 · 相机, 药店, 词典, 信用卡",
+  "focus": "图片 · 熟 · 亿 · 相机 · 影片 · 温度 · 重视 · 洗澡 · 今后 · 这时 · 计算机 · 刻 · 参观 · 信用卡 · 超市 · 忽然 · 这时候 · 护照 · 气温 · 大自然 · 照相 · 药店 · 关机 · 常用 · 行人 · 开学 · 洗衣机 · 词语 · 开机 · 字典 · 药水 · 词典 · 药片 · 留学生 · 考生 · 生词 · 那时候 · 短信 · 银行卡",
+  "body": "Machines ending in 机 (相机, 计算机, 洗衣机), medicine (药店, 药水, 药片), and dictionaries (字典, 词典). The same few building blocks (机, 片, 药, 词) combine over and over.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 机 | jī | machine (木 + 几 jī) | 相机, 计算机, 关机, 洗衣机, 开机 |\n| 片 | piàn | flat piece; film | 图片, 影片, 药片 |\n| 药 | yào | medicine (艹 herbs + 约 yuē) | 药店, 药水, 药片 |\n| 词 | cí | word | 词语, 词典, 生词 |\n| 时 | shí | time | 这时, 这时候, 那时候 |\n| 卡 | kǎ | card (sound loan from English) | 信用卡, 银行卡 |\n| 温 | wēn | warm | 温度, 气温 |\n| 相 / 照 | xiàng / zhào | image / to shine, photograph | 相机, 照相, 护照 |\n\n## Watch out\n\n- 行 is xíng (walk) in 行人 but háng (firm) in 银行卡.\n- 相 is xiàng (photo) in 相机, 照相, but xiāng in 相信.\n- 字典 is for single characters; 词典 is for words.",
+  "cards": [
+    {
+      "Hanzi": "图片",
+      "Pinyin": "túpiàn",
+      "Meaning": "picture, image",
+      "Example": "这张图片很好看。 zhè zhāng túpiàn hěn hǎokàn: This picture is nice.",
+      "Notes": "图 drawing + 片 flat piece"
+    },
+    {
+      "Hanzi": "熟",
+      "Pinyin": "shú",
+      "Meaning": "ripe, cooked; familiar",
+      "Example": "我跟他不太熟。 wǒ gēn tā bú tài shú: I don't know him that well.",
+      "Notes": "孰 shú (phonetic) + 灬 fire = cooked; often said shóu"
+    },
+    {
+      "Hanzi": "亿",
+      "Pinyin": "yì",
+      "Meaning": "hundred million",
+      "Example": "中国有十四亿人。 Zhōngguó yǒu shísì yì rén: China has 1.4 billion people.",
+      "Notes": "亻 + 乙 yǐ (phonetic)"
+    },
+    {
+      "Hanzi": "相机",
+      "Pinyin": "xiàngjī",
+      "Meaning": "camera",
+      "Example": "我的相机坏了。 wǒ de xiàngjī huài le: My camera is broken.",
+      "Notes": "相 xiàng image + 机 machine"
+    },
+    {
+      "Hanzi": "影片",
+      "Pinyin": "yǐngpiàn",
+      "Meaning": "film, movie",
+      "Example": "这部影片很好看。 zhè bù yǐngpiàn hěn hǎokàn: This film is good.",
+      "Notes": "影 shadow, image + 片 film"
+    },
+    {
+      "Hanzi": "温度",
+      "Pinyin": "wēndù",
+      "Meaning": "temperature",
+      "Example": "今天温度很高。 jīntiān wēndù hěn gāo: It's hot today.",
+      "Notes": "温 warm + 度 degree"
+    },
+    {
+      "Hanzi": "重视",
+      "Pinyin": "zhòngshì",
+      "Meaning": "to value, take seriously",
+      "Example": "我们很重视这件事。 wǒmen hěn zhòngshì zhè jiàn shì: We take this very seriously.",
+      "Notes": "重 heavy, important + 视 look at = see as important"
+    },
+    {
+      "Hanzi": "洗澡",
+      "Pinyin": "xǐzǎo",
+      "Meaning": "to take a bath or shower",
+      "Example": "弟弟在洗澡。 dìdi zài xǐzǎo: Little brother's in the shower.",
+      "Notes": "Both have 氵 water: 洗 = 氵 + 先 xiān, 澡 = 氵 + 喿 zào"
+    },
+    {
+      "Hanzi": "今后",
+      "Pinyin": "jīnhòu",
+      "Meaning": "from now on",
+      "Example": "今后我会多注意。 jīnhòu wǒ huì duō zhùyì: I'll be more careful from now on.",
+      "Notes": "今 now + 后 after"
+    },
+    {
+      "Hanzi": "这时",
+      "Pinyin": "zhèshí",
+      "Meaning": "at this moment, just then",
+      "Example": "这时，电话响了。 zhèshí, diànhuà xiǎng le: Just then, the phone rang.",
+      "Notes": "这 this + 时 time"
+    },
+    {
+      "Hanzi": "计算机",
+      "Pinyin": "jìsuànjī",
+      "Meaning": "computer",
+      "Example": "他学计算机。 tā xué jìsuànjī: He studies computing.",
+      "Notes": "计 count + 算 calculate + 机 machine"
+    },
+    {
+      "Hanzi": "刻",
+      "Pinyin": "kè",
+      "Meaning": "quarter (hour); to carve",
+      "Example": "现在三点一刻。 xiànzài sān diǎn yí kè: It's quarter past three.",
+      "Notes": "亥 hài (phonetic) + 刂 knife = to carve"
+    },
+    {
+      "Hanzi": "参观",
+      "Pinyin": "cānguān",
+      "Meaning": "to visit, look around (a place)",
+      "Example": "欢迎来参观！ huānyíng lái cānguān: Come and have a look around!",
+      "Notes": "参 take part + 观 view"
+    },
+    {
+      "Hanzi": "信用卡",
+      "Pinyin": "xìnyòngkǎ",
+      "Meaning": "credit card",
+      "Example": "可以用信用卡吗？ kěyǐ yòng xìnyòngkǎ ma: Can I pay by credit card?",
+      "Notes": "信用 trust (credit) + 卡 card"
+    },
+    {
+      "Hanzi": "超市",
+      "Pinyin": "chāoshì",
+      "Meaning": "supermarket",
+      "Example": "我去超市买菜。 wǒ qù chāoshì mǎi cài: I'm going to the supermarket for groceries.",
+      "Notes": "超 super + 市 market"
+    },
+    {
+      "Hanzi": "忽然",
+      "Pinyin": "hūrán",
+      "Meaning": "suddenly",
+      "Example": "忽然下起了雨。 hūrán xiàqǐ le yǔ: Suddenly it started raining.",
+      "Notes": "忽 sudden (勿 + 心) + 然 (adverb ending)"
+    },
+    {
+      "Hanzi": "这时候",
+      "Pinyin": "zhèshíhou",
+      "Meaning": "at this time, now",
+      "Example": "这时候他来了。 zhèshíhou tā lái le: That's when he arrived.",
+      "Notes": "这 this + 时候 time"
+    },
+    {
+      "Hanzi": "护照",
+      "Pinyin": "hùzhào",
+      "Meaning": "passport",
+      "Example": "别忘了带护照。 bié wàng le dài hùzhào: Don't forget your passport.",
+      "Notes": "护 protect + 照 license, permit"
+    },
+    {
+      "Hanzi": "气温",
+      "Pinyin": "qìwēn",
+      "Meaning": "air temperature",
+      "Example": "今天气温很低。 jīntiān qìwēn hěn dī: It's cold today.",
+      "Notes": "气 air + 温 warmth"
+    },
+    {
+      "Hanzi": "大自然",
+      "Pinyin": "dàzìrán",
+      "Meaning": "nature",
+      "Example": "我喜欢大自然。 wǒ xǐhuan dàzìrán: I love nature.",
+      "Notes": "大 great + 自然 nature (自 self + 然 so: so by itself)"
+    },
+    {
+      "Hanzi": "照相",
+      "Pinyin": "zhàoxiàng",
+      "Meaning": "to take a photo",
+      "Example": "我们一起照相吧。 wǒmen yìqǐ zhàoxiàng ba: Let's take a photo together.",
+      "Notes": "照 shine, photograph + 相 image"
+    },
+    {
+      "Hanzi": "药店",
+      "Pinyin": "yàodiàn",
+      "Meaning": "pharmacy",
+      "Example": "附近有药店吗？ fùjìn yǒu yàodiàn ma: Is there a pharmacy nearby?",
+      "Notes": "药 medicine + 店 shop"
+    },
+    {
+      "Hanzi": "关机",
+      "Pinyin": "guānjī",
+      "Meaning": "to switch off (a device)",
+      "Example": "他的手机关机了。 tā de shǒujī guānjī le: His phone is off.",
+      "Notes": "关 close + 机 machine; mirror of 开机"
+    },
+    {
+      "Hanzi": "常用",
+      "Pinyin": "chángyòng",
+      "Meaning": "commonly used",
+      "Example": "这是常用的词。 zhè shì chángyòng de cí: This is a common word.",
+      "Notes": "常 often + 用 use"
+    },
+    {
+      "Hanzi": "行人",
+      "Pinyin": "xíngrén",
+      "Meaning": "pedestrian",
+      "Example": "路上行人很少。 lù shang xíngrén hěn shǎo: There are few people on the street.",
+      "Notes": "行 xíng walk + 人 person"
+    },
+    {
+      "Hanzi": "开学",
+      "Pinyin": "kāixué",
+      "Meaning": "school starts",
+      "Example": "下周一开学。 xià zhōuyī kāixué: School starts next Monday.",
+      "Notes": "开 open + 学 school"
+    },
+    {
+      "Hanzi": "洗衣机",
+      "Pinyin": "xǐyījī",
+      "Meaning": "washing machine",
+      "Example": "洗衣机坏了。 xǐyījī huài le: The washing machine is broken.",
+      "Notes": "洗 wash + 衣 clothes + 机 machine"
+    },
+    {
+      "Hanzi": "词语",
+      "Pinyin": "cíyǔ",
+      "Meaning": "words, expressions",
+      "Example": "这些词语很常用。 zhèxiē cíyǔ hěn chángyòng: These words are common.",
+      "Notes": "词 word + 语 language"
+    },
+    {
+      "Hanzi": "开机",
+      "Pinyin": "kāijī",
+      "Meaning": "to switch on, boot up",
+      "Example": "请先开机。 qǐng xiān kāijī: Turn it on first.",
+      "Notes": "开 open + 机 machine"
+    },
+    {
+      "Hanzi": "字典",
+      "Pinyin": "zìdiǎn",
+      "Meaning": "character dictionary",
+      "Example": "我查一下字典。 wǒ chá yíxià zìdiǎn: Let me look it up in the dictionary.",
+      "Notes": "字 character + 典 reference book"
+    },
+    {
+      "Hanzi": "药水",
+      "Pinyin": "yàoshuǐ",
+      "Meaning": "liquid medicine",
+      "Example": "这个药水很苦。 zhège yàoshuǐ hěn kǔ: This medicine is bitter.",
+      "Notes": "药 medicine + 水 liquid"
+    },
+    {
+      "Hanzi": "词典",
+      "Pinyin": "cídiǎn",
+      "Meaning": "dictionary (of words)",
+      "Example": "这本词典很有用。 zhè běn cídiǎn hěn yǒuyòng: This dictionary is very useful.",
+      "Notes": "词 word + 典 reference book"
+    },
+    {
+      "Hanzi": "药片",
+      "Pinyin": "yàopiàn",
+      "Meaning": "pill, tablet",
+      "Example": "这些药片一天吃三次。 zhèxiē yàopiàn yì tiān chī sān cì: Take these pills three times a day.",
+      "Notes": "药 medicine + 片 flat piece"
+    },
+    {
+      "Hanzi": "留学生",
+      "Pinyin": "liúxuéshēng",
+      "Meaning": "international student",
+      "Example": "他是个留学生。 tā shì ge liúxuéshēng: He's an international student.",
+      "Notes": "留 stay + 学 study + 生 student = student staying abroad"
+    },
+    {
+      "Hanzi": "考生",
+      "Pinyin": "kǎoshēng",
+      "Meaning": "exam candidate",
+      "Example": "考生请进来。 kǎoshēng qǐng jìnlai: Candidates, please come in.",
+      "Notes": "考 test + 生 student"
+    },
+    {
+      "Hanzi": "生词",
+      "Pinyin": "shēngcí",
+      "Meaning": "new word, vocabulary",
+      "Example": "这课生词很多。 zhè kè shēngcí hěn duō: This lesson has lots of new words.",
+      "Notes": "生 raw, unfamiliar + 词 word"
+    },
+    {
+      "Hanzi": "那时候",
+      "Pinyin": "nàshíhou",
+      "Meaning": "at that time, back then",
+      "Example": "那时候我才十岁。 nàshíhou wǒ cái shí suì: I was only ten back then.",
+      "Notes": "那 that + 时候 time"
+    },
+    {
+      "Hanzi": "短信",
+      "Pinyin": "duǎnxìn",
+      "Meaning": "text message",
+      "Example": "我给你发短信。 wǒ gěi nǐ fā duǎnxìn: I'll text you.",
+      "Notes": "短 short + 信 letter"
+    },
+    {
+      "Hanzi": "银行卡",
+      "Pinyin": "yínhángkǎ",
+      "Meaning": "bank card",
+      "Example": "我的银行卡丢了。 wǒ de yínhángkǎ diū le: I lost my bank card.",
+      "Notes": "银行 bank (银 silver + 行 háng firm) + 卡 card"
+    }
+  ]
+}

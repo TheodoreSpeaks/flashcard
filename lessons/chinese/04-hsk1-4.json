@@ -1,0 +1,280 @@
+{
+  "title": "HSK 1.4 · 时间, 最后, 多少, 明白, 房子",
+  "focus": "用 · 多 · 两 · 等 · 吗 · 天 · 太 · 最 · 再 · 呢 · 次 · 小 · 知道 · 时候 · 走 · 后 · 时间 · 今天 · 孩子 · 最后 · 女 · 小时 · 明天 · 多少 · 少 · 间 · 昨天 · 子 · 儿子 · 明白 · 今年 · 女儿 · 白 · 去年 · 不用 · 房子 · 回去 · 房间 · 有时",
+  "body": "Time and quantity: 天, 年, 时 and 间 make up most of the time words, while 多, 少, 小, 最 measure how much. Question particles 吗 and 呢 also appear.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 天 | tiān | sky; day | 今天, 明天, 昨天 |\n| 年 | nián | year | 今年, 去年 |\n| 时 | shí | time (日 + 寸) | 时候, 时间, 小时, 有时 |\n| 间 | jiān | between; room (门 + 日) | 时间, 房间 |\n| 子 | zi | child; noun suffix | 孩子, 儿子, 房子 |\n| 小 | xiǎo | small | 小时 |\n| 多 / 少 | duō / shǎo | many / few | 多少 |\n| 最 | zuì | most | 最后 |\n\n## Watch out\n\n- 小 (small) vs 少 (few): 少 adds a slanting stroke at the bottom.\n- 再 (again) vs 在 (at): both zài.\n- 白 vs 百 (bǎi, hundred) vs 日: 白 has a short stroke on top.\n- 天 vs 夫 (fū): in 夫 the vertical pokes through the top.\n- 子 is toneless zi as a suffix (房子) and zǐ as \"child\".\n",
+  "cards": [
+    {
+      "Hanzi": "用",
+      "Pinyin": "yòng",
+      "Meaning": "to use",
+      "Example": "我可以用吗? wǒ kěyǐ yòng ma: Can I use it?",
+      "Notes": "Looks like a fenced frame; 5 strokes. 用 vs 甩 (shuǎi, fling): 甩's middle stroke hooks out"
+    },
+    {
+      "Hanzi": "多",
+      "Pinyin": "duō",
+      "Meaning": "many, much; how (old, big…)",
+      "Example": "人很多。 rén hěn duō: There are lots of people.",
+      "Notes": "Two 夕 stacked on top of each other: more and more"
+    },
+    {
+      "Hanzi": "两",
+      "Pinyin": "liǎng",
+      "Meaning": "two (with measure words)",
+      "Example": "我有两个姐姐。 wǒ yǒu liǎng ge jiějie: I have two older sisters.",
+      "Notes": "Use 两 before measure words (两个), 二 for counting and numbers"
+    },
+    {
+      "Hanzi": "等",
+      "Pinyin": "děng",
+      "Meaning": "to wait; rank, grade",
+      "Example": "等一下! děng yíxià: Wait a moment!",
+      "Notes": "⺮ bamboo + 寺 sì; bamboo slips sorted into even ranks"
+    },
+    {
+      "Hanzi": "吗",
+      "Pinyin": "ma",
+      "Meaning": "(particle: yes/no question)",
+      "Example": "你好吗? nǐ hǎo ma: How are you?",
+      "Notes": "口 mouth + 马 mǎ for the sound. 吗 vs 妈 (mā, mom): 女 vs 口"
+    },
+    {
+      "Hanzi": "天",
+      "Pinyin": "tiān",
+      "Meaning": "day; sky",
+      "Example": "我等了三天。 wǒ děng le sān tiān: I waited three days.",
+      "Notes": "一 above 大 (a person): what's above your head, the sky. 天 vs 夫 (fū)"
+    },
+    {
+      "Hanzi": "太",
+      "Pinyin": "tài",
+      "Meaning": "too, extremely",
+      "Example": "太好了! tài hǎo le: Great!",
+      "Notes": "大 big + a dot = extra big: too. 太 vs 大 vs 犬 (quǎn, dog)"
+    },
+    {
+      "Hanzi": "最",
+      "Pinyin": "zuì",
+      "Meaning": "most, -est",
+      "Example": "你最好! nǐ zuì hǎo: You're the best!",
+      "Notes": "曰 on top + 取 qǔ (take)"
+    },
+    {
+      "Hanzi": "再",
+      "Pinyin": "zài",
+      "Meaning": "again; then",
+      "Example": "再说一次。 zài shuō yí cì: Say it again.",
+      "Notes": "Same sound as 在 (at). Think 再见: see you again"
+    },
+    {
+      "Hanzi": "呢",
+      "Pinyin": "ne",
+      "Meaning": "(particle: and you? / what about?)",
+      "Example": "我很好,你呢? wǒ hěn hǎo, nǐ ne: I'm fine, and you?",
+      "Notes": "口 mouth (particle) + 尼 ní for the sound"
+    },
+    {
+      "Hanzi": "次",
+      "Pinyin": "cì",
+      "Meaning": "time(s), occurrence",
+      "Example": "我去过两次。 wǒ qùguo liǎng cì: I've been twice.",
+      "Notes": "冫 + 欠 (open mouth). 次 vs 欢 (huān): 欢 has 又 on the left"
+    },
+    {
+      "Hanzi": "小",
+      "Pinyin": "xiǎo",
+      "Meaning": "small, little; young",
+      "Example": "我的房间很小。 wǒ de fángjiān hěn xiǎo: My room is small.",
+      "Notes": "A small stroke flanked by two dots. 小 vs 少 (shǎo, few), which adds a stroke"
+    },
+    {
+      "Hanzi": "知道",
+      "Pinyin": "zhīdào",
+      "Meaning": "to know",
+      "Example": "我知道了。 wǒ zhīdào le: Got it.",
+      "Notes": "知 = 矢 arrow + 口; 道 has 辶 walk wrapping 首 head"
+    },
+    {
+      "Hanzi": "时候",
+      "Pinyin": "shíhou",
+      "Meaning": "time, moment; when",
+      "Example": "他来的时候,我在睡觉。 tā lái de shíhou, wǒ zài shuìjiào: When he came, I was asleep.",
+      "Notes": "时 = 日 + 寸; 候 vs 侯 (hóu): 候 has an extra short vertical stroke"
+    },
+    {
+      "Hanzi": "走",
+      "Pinyin": "zǒu",
+      "Meaning": "to leave; to walk",
+      "Example": "我走了。 wǒ zǒu le: I'm off.",
+      "Notes": "土 on top of a foot; it is the radical in 起 and 赶"
+    },
+    {
+      "Hanzi": "后",
+      "Pinyin": "hòu",
+      "Meaning": "behind, after",
+      "Example": "我在你后面。 wǒ zài nǐ hòumiàn: I'm behind you.",
+      "Notes": "Originally 'queen'; now also stands for 後 (behind, after)"
+    },
+    {
+      "Hanzi": "时间",
+      "Pinyin": "shíjiān",
+      "Meaning": "time",
+      "Example": "我没有时间。 wǒ méiyǒu shíjiān: I don't have time.",
+      "Notes": "时 time (日 sun + 寸) + 间 between (门 door + 日 sun) = time span"
+    },
+    {
+      "Hanzi": "今天",
+      "Pinyin": "jīntiān",
+      "Meaning": "today",
+      "Example": "今天我做饭。 jīntiān wǒ zuòfàn: I'm cooking today.",
+      "Notes": "今 vs 令 (lìng, order): 今 ends in a short 乛 stroke"
+    },
+    {
+      "Hanzi": "孩子",
+      "Pinyin": "háizi",
+      "Meaning": "child, kid",
+      "Example": "他们有三个孩子。 tāmen yǒu sān ge háizi: They have three kids.",
+      "Notes": "孩 = 子 child + 亥 hài for the sound"
+    },
+    {
+      "Hanzi": "最后",
+      "Pinyin": "zuìhòu",
+      "Meaning": "last, finally",
+      "Example": "我是最后一个。 wǒ shì zuìhòu yí ge: I'm the last one.",
+      "Notes": "最 most + 后 after = the very last"
+    },
+    {
+      "Hanzi": "女",
+      "Pinyin": "nǚ",
+      "Meaning": "female, woman",
+      "Example": "她是女老师。 tā shì nǚ lǎoshī: She's a female teacher.",
+      "Notes": "Picture of a kneeling woman; radical in 妈 她 好 姐"
+    },
+    {
+      "Hanzi": "小时",
+      "Pinyin": "xiǎoshí",
+      "Meaning": "hour",
+      "Example": "我等了一个小时。 wǒ děng le yí ge xiǎoshí: I waited an hour.",
+      "Notes": "小 small + 时 time period; the old 时 was two hours, so the 'small' one is one hour"
+    },
+    {
+      "Hanzi": "明天",
+      "Pinyin": "míngtiān",
+      "Meaning": "tomorrow",
+      "Example": "明天我不在家。 míngtiān wǒ bú zài jiā: I won't be home tomorrow.",
+      "Notes": "明 = 日 sun + 月 moon: bright"
+    },
+    {
+      "Hanzi": "多少",
+      "Pinyin": "duōshao",
+      "Meaning": "how many, how much",
+      "Example": "这个多少钱? zhège duōshao qián: How much is this?",
+      "Notes": "多 many + 少 few = 'many or few?': how much"
+    },
+    {
+      "Hanzi": "少",
+      "Pinyin": "shǎo",
+      "Meaning": "few, little; missing",
+      "Example": "人很少。 rén hěn shǎo: There are few people.",
+      "Notes": "小 small + a slanting stroke. Read shào in 少年 (youth)"
+    },
+    {
+      "Hanzi": "间",
+      "Pinyin": "jiān",
+      "Meaning": "between; room (measure)",
+      "Example": "这间房很大。 zhè jiān fáng hěn dà: This room is big.",
+      "Notes": "门 door + 日 sun: sunlight through a gap in the door"
+    },
+    {
+      "Hanzi": "昨天",
+      "Pinyin": "zuótiān",
+      "Meaning": "yesterday",
+      "Example": "他昨天来了。 tā zuótiān lái le: He came yesterday.",
+      "Notes": "昨 = 日 + 乍 zhà; the same 乍 is in 作 zuò and 怎 zěn"
+    },
+    {
+      "Hanzi": "子",
+      "Pinyin": "zǐ / zi",
+      "Meaning": "child; (noun suffix)",
+      "Example": "这个杯子是我的。 zhège bēizi shì wǒ de: This cup is mine.",
+      "Notes": "Picture of a baby in swaddling. 子 vs 了 (le): 子 has a crossbar"
+    },
+    {
+      "Hanzi": "儿子",
+      "Pinyin": "érzi",
+      "Meaning": "son",
+      "Example": "这是我儿子。 zhè shì wǒ érzi: This is my son.",
+      "Notes": "儿 vs 几 (jǐ, how many): 几 has a lid on top"
+    },
+    {
+      "Hanzi": "明白",
+      "Pinyin": "míngbai",
+      "Meaning": "to understand; clear",
+      "Example": "我明白了。 wǒ míngbai le: I get it.",
+      "Notes": "明 bright (日 sun + 月 moon) + 白 white, clear = clear: understand"
+    },
+    {
+      "Hanzi": "今年",
+      "Pinyin": "jīnnián",
+      "Meaning": "this year",
+      "Example": "我今年二十岁。 wǒ jīnnián èrshí suì: I'm twenty this year.",
+      "Notes": "今 now + 年 year = this year"
+    },
+    {
+      "Hanzi": "女儿",
+      "Pinyin": "nǚ'ér",
+      "Meaning": "daughter",
+      "Example": "她女儿十八了。 tā nǚ'ér shíbā le: Her daughter is eighteen now.",
+      "Notes": "女 is the radical in 妈 她 姐 妹 奶"
+    },
+    {
+      "Hanzi": "白",
+      "Pinyin": "bái",
+      "Meaning": "white",
+      "Example": "我喜欢白色。 wǒ xǐhuan báisè: I like white.",
+      "Notes": "日 with a short stroke on top. 白 vs 百 (bǎi, hundred), which adds 一 on top"
+    },
+    {
+      "Hanzi": "去年",
+      "Pinyin": "qùnián",
+      "Meaning": "last year",
+      "Example": "我去年去了中国。 wǒ qùnián qù le Zhōngguó: I went to China last year.",
+      "Notes": "去 gone + 年 year = the year that's gone: last year"
+    },
+    {
+      "Hanzi": "不用",
+      "Pinyin": "búyòng",
+      "Meaning": "no need to",
+      "Example": "不用谢。 búyòng xiè: You're welcome.",
+      "Notes": "不 not + 用 use = no need"
+    },
+    {
+      "Hanzi": "房子",
+      "Pinyin": "fángzi",
+      "Meaning": "house",
+      "Example": "他家房子很大。 tā jiā fángzi hěn dà: His family's house is big.",
+      "Notes": "房 (户 door + 方 fāng for the sound) + 子 noun suffix = house"
+    },
+    {
+      "Hanzi": "回去",
+      "Pinyin": "huíqu",
+      "Meaning": "to go back",
+      "Example": "我们回去吧。 wǒmen huíqu ba: Let's go back.",
+      "Notes": "回 return + 去 go (away from the speaker) = go back"
+    },
+    {
+      "Hanzi": "房间",
+      "Pinyin": "fángjiān",
+      "Meaning": "room",
+      "Example": "他在房间睡觉。 tā zài fángjiān shuìjiào: He's sleeping in his room.",
+      "Notes": "房 = 户 door + 方 fāng; 间 = 门 gate + 日 sun"
+    },
+    {
+      "Hanzi": "有时",
+      "Pinyin": "yǒushí",
+      "Meaning": "sometimes",
+      "Example": "我有时不吃早饭。 wǒ yǒushí bù chī zǎofàn: Sometimes I skip breakfast.",
+      "Notes": "有 have + 时 time = there are times: sometimes"
+    }
+  ]
+}

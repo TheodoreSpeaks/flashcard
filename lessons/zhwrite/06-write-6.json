@@ -1,0 +1,97 @@
+{
+  "title": "Write 6 · 认 识 哪 生 医 院 午 习 答 用 多 两 等 吗 天",
+  "focus": "认 识 哪 生 医 院 午 习 答 用 多 两 等 吗 天",
+  "body": "Repeating parts: 讠 speech (认, 识), 口 (哪, 吗, 识's 只), ⺮ bamboo (答, 等), 阝 (院, 哪's 那), 夕 (多).\n\n## Rules that matter here\n- **Three-sided boxes 匚**: 医 = top line, inside, then the left-and-bottom fold LAST.\n- **Middle vertical last** when it splits the inside: 用.\n- 午 vs 牛, 天 vs 夫: just one stroke differs.",
+  "cards": [
+    {
+      "Prompt": "＿识 · rènshi · to know (someone)",
+      "Hanzi": "认",
+      "Pinyin": "rèn",
+      "Notes": "讠 speech (2) + 人 person (2, phonetic rén) = 4 strokes. Left before right. Lookalike: 队 (阝 + 人)."
+    },
+    {
+      "Prompt": "认＿ · rènshi · to know (someone)",
+      "Hanzi": "识",
+      "Pinyin": "shi",
+      "Notes": "讠 speech (2) + 只 (5: 口 + 八) = 7 strokes. Left before right. Also 知识 zhīshi."
+    },
+    {
+      "Prompt": "＿里 · nǎlǐ · where",
+      "Hanzi": "哪",
+      "Pinyin": "nǎ",
+      "Notes": "口 mouth (3) + 那 that (6, phonetic) = 9 strokes. The 口 turns 'that' into 'which?'. Lookalike: 那 without 口."
+    },
+    {
+      "Prompt": "医＿ · yīshēng · doctor",
+      "Hanzi": "生",
+      "Pinyin": "shēng",
+      "Notes": "5 strokes: ノ, 一, 一, the vertical, then the long bottom 一 last. A sprout coming out of the ground."
+    },
+    {
+      "Prompt": "＿院 · yīyuàn · hospital",
+      "Hanzi": "医",
+      "Pinyin": "yī",
+      "Notes": "匚 box + 矢 arrow (5) = 7 strokes. Trap: top 一, then 矢 inside, then the 𠃋 (竖折) closing the left and bottom LAST."
+    },
+    {
+      "Prompt": "医＿ · yīyuàn · hospital",
+      "Hanzi": "院",
+      "Pinyin": "yuàn",
+      "Notes": "阝 mound (2) + 完 (7: 宀 + 元, phonetic wán) = 9 strokes. 阝 on the left is written first."
+    },
+    {
+      "Prompt": "下＿ · xiàwǔ · afternoon",
+      "Hanzi": "午",
+      "Pinyin": "wǔ",
+      "Notes": "4 strokes: ノ, 一, 一, vertical. Lookalike: 牛 niú (vertical pokes through the top)."
+    },
+    {
+      "Prompt": "学＿ · xuéxí · to study",
+      "Hanzi": "习",
+      "Pinyin": "xí",
+      "Notes": "3 strokes: 横折钩, the dot, then the rising stroke. Lookalike: 刁."
+    },
+    {
+      "Prompt": "回＿ · huídá · to answer",
+      "Hanzi": "答",
+      "Pinyin": "dá",
+      "Notes": "⺮ bamboo (6) + 合 join (6, phonetic-ish) = 12 strokes. Top before bottom; ⺮ is two small ノ一丶 sets."
+    },
+    {
+      "Prompt": "没＿ · méiyòng · useless",
+      "Hanzi": "用",
+      "Pinyin": "yòng",
+      "Notes": "5 strokes: ノ, 横折钩, 一, 一, then the middle vertical LAST. Lookalike: 甩, 月."
+    },
+    {
+      "Prompt": "＿少 · duōshao · how many",
+      "Hanzi": "多",
+      "Pinyin": "duō",
+      "Notes": "Two 夕 evening (3 + 3) = 6 strokes. Top 夕 first, then the bottom one, shifted right."
+    },
+    {
+      "Prompt": "＿个人 · liǎng ge rén · two people",
+      "Hanzi": "两",
+      "Pinyin": "liǎng",
+      "Notes": "7 strokes: 一, 丨, 横折钩, then two ノ丶 pairs (left pair first). Lookalike: 网 (with 㐅 inside)."
+    },
+    {
+      "Prompt": "＿一下 · děng yíxià · wait a moment",
+      "Hanzi": "等",
+      "Pinyin": "děng",
+      "Notes": "⺮ bamboo (6) + 寺 temple (6, phonetic-ish) = 12 strokes. Top before bottom. Lookalike: 待 (彳 + 寺)."
+    },
+    {
+      "Prompt": "好＿ · hǎo ma · OK?",
+      "Hanzi": "吗",
+      "Pinyin": "ma",
+      "Notes": "口 mouth (3) + 马 horse (3, phonetic mǎ) = 6 strokes. Left before right. Lookalikes: 妈 (女), 码 (石)."
+    },
+    {
+      "Prompt": "今＿ · jīntiān · today",
+      "Hanzi": "天",
+      "Pinyin": "tiān",
+      "Notes": "二 + 人 = 4 strokes: short top 一, longer 一, ノ, ㇏. Lookalike: 夫 (ノ pokes above the top line)."
+    }
+  ]
+}

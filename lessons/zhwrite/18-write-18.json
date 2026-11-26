@@ -1,0 +1,97 @@
+{
+  "title": "Write 18 · 十 爸 热 试 差 教 冷 山 哥 风 累 肉 休 息 坏",
+  "focus": "十 爸 热 试 差 教 冷 山 哥 风 累 肉 休 息 坏",
+  "body": "Family and how you feel: 爸, 哥, 热, 冷, 累, 坏, 休息.\n\n## Repeating parts\n- **讠 speech**: on the left of 试.\n- **冫 ice**: on the left of 冷. Water 氵 has 3 dots; ice 冫 has 2.\n- **心 heart**: under 息.\n- **灬 fire**: under 热.\n- **土 earth**: on the left of 坏, where its last stroke rises.\n\n## Rules that matter here\n- **Horizontal before vertical:** 十 is 一 then 丨.\n- **Dot last:** in 试 (式) the top-right 丶 goes in after the ㇂ hook.",
+  "cards": [
+    {
+      "Prompt": "＿个 · shí ge · ten (of them)",
+      "Hanzi": "十",
+      "Pinyin": "shí",
+      "Notes": "2 strokes: 一 first, then 丨 through it (horizontal before vertical). Lookalike 干 gān has 二."
+    },
+    {
+      "Prompt": "＿＿ · bàba · dad",
+      "Hanzi": "爸",
+      "Pinyin": "bà",
+      "Notes": "父 father + 巴 bā (phonetic). 8 strokes. 父 (丿, 丶, 丿, ㇏) on top, then 巴 (𠃍, 丨, 一, 乚)."
+    },
+    {
+      "Prompt": "＿情 · rèqíng · warm, enthusiastic",
+      "Hanzi": "热",
+      "Pinyin": "rè",
+      "Notes": "执 zhí (phonetic) over 灬 fire. 10 strokes. 执 (扌, then 丸: 丿, ㇈, 丶), then 灬 (four dots, left to right)."
+    },
+    {
+      "Prompt": "考＿ · kǎoshì · exam",
+      "Hanzi": "试",
+      "Pinyin": "shì",
+      "Notes": "讠 speech + 式 shì (phonetic). 8 strokes. 讠, then 式: the top 一, then 工, then the ㇂ hook, and the 丶 LAST."
+    },
+    {
+      "Prompt": "＿不多 · chàbuduō · about the same",
+      "Hanzi": "差",
+      "Pinyin": "chà",
+      "Notes": "9 strokes: 丷, three 一, then the long 丿, then 工 (一, 丨, 一). Read chà when it means \"lacking\", chā for \"difference\". Lookalike 着."
+    },
+    {
+      "Prompt": "＿室 · jiàoshì · classroom",
+      "Hanzi": "教",
+      "Pinyin": "jiào",
+      "Notes": "孝 xiào (phonetic) + 攵 action. 11 strokes. 孝: 土, 丿, then 子. Then 攵 (丿, 一, 丿, ㇏). Read jiāo when it means \"to teach\"."
+    },
+    {
+      "Prompt": "很＿ · hěn lěng · very cold",
+      "Hanzi": "冷",
+      "Pinyin": "lěng",
+      "Notes": "冫 ice + 令 lìng (phonetic). 7 strokes. 冫 (2 strokes), then 令 (人, 丶, ㇇, 丶). Ice, not water: two dots, not three."
+    },
+    {
+      "Prompt": "爬＿ · páshān · to climb a mountain",
+      "Hanzi": "山",
+      "Pinyin": "shān",
+      "Notes": "Three peaks. 3 strokes: the middle 丨 first, then ㄴ (the left side and the base), then the right 丨."
+    },
+    {
+      "Prompt": "＿＿ · gēge · older brother",
+      "Hanzi": "哥",
+      "Pinyin": "gē",
+      "Notes": "Two 可 stacked. 10 strokes. In the top 可, the last stroke is a plain 丨 with no hook. The bottom 可 keeps its 亅 hook."
+    },
+    {
+      "Prompt": "刮＿ · guā fēng · the wind blows",
+      "Hanzi": "风",
+      "Pinyin": "fēng",
+      "Notes": "几-shaped frame with ㄨ inside. 4 strokes: 丿, the ㇈ hook, then 丿, 丶 inside. Outside before inside."
+    },
+    {
+      "Prompt": "很＿ · hěn lèi · very tired",
+      "Hanzi": "累",
+      "Pinyin": "lèi",
+      "Notes": "田 field over 糸 silk. 11 strokes. 田 (5), then 糸 (𠃋, 𠃋, 丶, 亅, 丿, 丶). Read lèi when it means \"tired\"."
+    },
+    {
+      "Prompt": "牛＿ · niúròu · beef",
+      "Hanzi": "肉",
+      "Pinyin": "ròu",
+      "Notes": "Meat with ribs. 6 strokes: 丨, 𠃌, then 人 (丿, 丶) and another 人 (丿, 丶) inside. Different from ⺼, the 月-shaped body radical."
+    },
+    {
+      "Prompt": "＿息 · xiūxi · to rest",
+      "Hanzi": "休",
+      "Pinyin": "xiū",
+      "Notes": "亻 person + 木 tree: a person leaning on a tree. 6 strokes. 亻 (丿, 丨), then 木 (一, 丨, 丿, 丶). Lookalike 体 tǐ adds a 一 at the bottom."
+    },
+    {
+      "Prompt": "休＿ · xiūxi · to rest",
+      "Hanzi": "息",
+      "Pinyin": "xi",
+      "Notes": "自 nose/self over 心 heart: breath. 10 strokes. 自 (丿, then 目 shape), then 心 (丶, ㇃, 丶, 丶)."
+    },
+    {
+      "Prompt": "＿人 · huàirén · bad guy",
+      "Hanzi": "坏",
+      "Pinyin": "huài",
+      "Notes": "土 earth + 不 (a simplified shape). 7 strokes. 土 (一, 丨, ㇀), then 不 (一, 丿, 丨, 丶)."
+    }
+  ]
+}

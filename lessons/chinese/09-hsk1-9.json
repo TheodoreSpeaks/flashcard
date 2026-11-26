@@ -1,0 +1,280 @@
+{
+  "title": "HSK 1.9 · 图书馆, 门票, 钱包, 下雨",
+  "focus": "门 · 球 · 书 · 口 · 杯 · 包 · 票 · 读 · 雨 · 门口 · 读书 · 商店 · 地图 · 桌子 · 晚饭 · 图书馆 · 饭店 · 商场 · 面包 · 钱包 · 走路 · 马路 · 门票 · 机票 · 打球 · 下雨 · 下车 · 杯子 · 路口 · 电视机 · 书店 · 车票 · 电影院 · 下课 · 书包 · 本子 · 课本 · 打车 · 包子",
+  "body": "Everyday places and things: shops, tickets, bags and roads. A few characters do most of the work here: 书 book, 包 bag, 票 ticket, 店 shop, 路 road, 门 door and 下 come down.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 书 | shū | book | 读书, 图书馆, 书店, 书包 |\n| 包 | bāo | bag; wrap (勹 wrapping) | 面包, 钱包, 书包, 包子 |\n| 票 | piào | ticket | 门票, 机票, 车票 |\n| 店 | diàn | shop (广 building) | 商店, 饭店, 书店 |\n| 门 | mén | door, gate | 门口, 门票 |\n| 口 | kǒu | mouth, opening | 门口, 路口 |\n| 路 | lù | road (足 foot) | 走路, 马路, 路口 |\n| 下 | xià | down; get off; finish | 下雨, 下车, 下课 |\n\n## Watch out\n\n- 门 mén (door) vs 们 men (plural): 们 adds 亻 person.\n- 读 dú (read) has 卖 mài (sell) on the right; 卖 vs 买 mǎi (buy): sell has an extra 十 on top.\n- 本 běn (book, root) is 木 tree with a mark at the root; don't confuse with 木 or 末.",
+  "cards": [
+    {
+      "Hanzi": "门",
+      "Pinyin": "mén",
+      "Meaning": "door; gate",
+      "Example": "请关门。 qǐng guān mén: Please close the door.",
+      "Notes": "A simplified picture of a two-leaf door (traditional 門). Lookalike: 们 men = 亻 person + 门 for the sound"
+    },
+    {
+      "Hanzi": "球",
+      "Pinyin": "qiú",
+      "Meaning": "ball",
+      "Example": "我们去打球吧。 wǒmen qù dǎ qiú ba: Let's go play ball.",
+      "Notes": "王 (jade 玉 as a radical) + 求 qiú for the sound"
+    },
+    {
+      "Hanzi": "书",
+      "Pinyin": "shū",
+      "Meaning": "book",
+      "Example": "这本书很好看。 zhè běn shū hěn hǎokàn: This book is really good.",
+      "Notes": "Simplified from 書 (a brush 聿 over 曰); in its new form, just learn the shape"
+    },
+    {
+      "Hanzi": "口",
+      "Pinyin": "kǒu",
+      "Meaning": "mouth; opening; (counter for family members)",
+      "Example": "你家有几口人？ nǐ jiā yǒu jǐ kǒu rén: How many people are in your family?",
+      "Notes": "Picture of an open mouth; as a radical it marks mouth and sound words (喝, 唱, 吃). Bigger 囗 is an enclosure (国, 四)"
+    },
+    {
+      "Hanzi": "杯",
+      "Pinyin": "bēi",
+      "Meaning": "cup; a cup of",
+      "Example": "来一杯茶。 lái yì bēi chá: A cup of tea, please.",
+      "Notes": "木 wood + 不 for the sound (bù, close to bēi)"
+    },
+    {
+      "Hanzi": "包",
+      "Pinyin": "bāo",
+      "Meaning": "bag; to wrap",
+      "Example": "我的包在哪儿？ wǒ de bāo zài nǎr: Where's my bag?",
+      "Notes": "勹 wrapping around 巳: something wrapped up. Also gives the sound in 饱 bǎo, 跑 pǎo, 抱 bào"
+    },
+    {
+      "Hanzi": "票",
+      "Pinyin": "piào",
+      "Meaning": "ticket",
+      "Example": "你买票了吗？ nǐ mǎi piào le ma: Did you buy a ticket?",
+      "Notes": "覀 on top of 示; learn the two parts as a stack. Gives the sound in 漂 piào (pretty)"
+    },
+    {
+      "Hanzi": "读",
+      "Pinyin": "dú",
+      "Meaning": "to read (aloud); to study",
+      "Example": "我读给你听。 wǒ dú gěi nǐ tīng: I'll read it to you.",
+      "Notes": "讠 speech + 卖 (sell; traditional 讀 had 賣 as the sound part). 卖 mài vs 买 mǎi"
+    },
+    {
+      "Hanzi": "雨",
+      "Pinyin": "yǔ",
+      "Meaning": "rain",
+      "Example": "外边雨很大。 wàibian yǔ hěn dà: It's raining hard outside.",
+      "Notes": "Picture of raindrops falling from the sky. On top (⻗) it marks weather words: 雪 snow, 零, 雷 thunder"
+    },
+    {
+      "Hanzi": "门口",
+      "Pinyin": "ménkǒu",
+      "Meaning": "doorway; entrance",
+      "Example": "我在门口等你。 wǒ zài ménkǒu děng nǐ: I'll wait for you at the entrance.",
+      "Notes": "门 door + 口 opening = the door's opening: entrance"
+    },
+    {
+      "Hanzi": "读书",
+      "Pinyin": "dúshū",
+      "Meaning": "to study; to attend school",
+      "Example": "他在北京读书。 tā zài Běijīng dúshū: He's studying in Beijing.",
+      "Notes": "读 read + 书 book = read books, so to study or be in school"
+    },
+    {
+      "Hanzi": "商店",
+      "Pinyin": "shāngdiàn",
+      "Meaning": "shop; store",
+      "Example": "商店几点开门？ shāngdiàn jǐ diǎn kāimén: What time does the shop open?",
+      "Notes": "商 trade + 店 shop (广 building + 占 zhàn for the sound) = trading shop"
+    },
+    {
+      "Hanzi": "地图",
+      "Pinyin": "dìtú",
+      "Meaning": "map",
+      "Example": "你有地图吗？ nǐ yǒu dìtú ma: Do you have a map?",
+      "Notes": "地 land (土 earth) + 图 picture, diagram (in a 囗 frame) = picture of the land: map"
+    },
+    {
+      "Hanzi": "桌子",
+      "Pinyin": "zhuōzi",
+      "Meaning": "table; desk",
+      "Example": "书在桌子上。 shū zài zhuōzi shang: The book is on the table.",
+      "Notes": "桌 table (木 wood at the bottom) + 子 noun suffix, toneless zi"
+    },
+    {
+      "Hanzi": "晚饭",
+      "Pinyin": "wǎnfàn",
+      "Meaning": "dinner",
+      "Example": "晚饭吃什么？ wǎnfàn chī shénme: What's for dinner?",
+      "Notes": "晚 evening (日 + 免 miǎn for the sound) + 饭 meal. Set: 早饭, 午饭, 晚饭"
+    },
+    {
+      "Hanzi": "图书馆",
+      "Pinyin": "túshūguǎn",
+      "Meaning": "library",
+      "Example": "我去图书馆看书。 wǒ qù túshūguǎn kàn shū: I'm going to the library to read.",
+      "Notes": "图 picture + 书 book + 馆 hall (饣 + 官 guān for the sound) = hall of pictures and books"
+    },
+    {
+      "Hanzi": "饭店",
+      "Pinyin": "fàndiàn",
+      "Meaning": "restaurant; hotel",
+      "Example": "这家饭店很贵。 zhè jiā fàndiàn hěn guì: This restaurant is expensive.",
+      "Notes": "饭 meal + 店 shop = meal shop; big hotels are also called 饭店"
+    },
+    {
+      "Hanzi": "商场",
+      "Pinyin": "shāngchǎng",
+      "Meaning": "shopping mall",
+      "Example": "我们去商场买衣服。 wǒmen qù shāngchǎng mǎi yīfu: Let's go buy clothes at the mall.",
+      "Notes": "商 trade + 场 open ground (土 earth) = trading ground: mall"
+    },
+    {
+      "Hanzi": "面包",
+      "Pinyin": "miànbāo",
+      "Meaning": "bread",
+      "Example": "早上我吃面包。 zǎoshang wǒ chī miànbāo: I have bread in the morning.",
+      "Notes": "面 flour (also face) + 包 wrapped bun = flour bun: bread"
+    },
+    {
+      "Hanzi": "钱包",
+      "Pinyin": "qiánbāo",
+      "Meaning": "wallet",
+      "Example": "我的钱包不见了。 wǒ de qiánbāo bú jiàn le: My wallet is gone.",
+      "Notes": "钱 money (钅 metal) + 包 bag = money bag: wallet"
+    },
+    {
+      "Hanzi": "走路",
+      "Pinyin": "zǒulù",
+      "Meaning": "to walk; to go on foot",
+      "Example": "我们走路去吧。 wǒmen zǒulù qù ba: Let's walk there.",
+      "Notes": "走 walk + 路 road (足 foot + 各) = walk the road: go on foot"
+    },
+    {
+      "Hanzi": "马路",
+      "Pinyin": "mǎlù",
+      "Meaning": "street; road",
+      "Example": "过马路要小心。 guò mǎlù yào xiǎoxīn: Be careful crossing the street.",
+      "Notes": "马 horse + 路 road = road for horses and carts: street"
+    },
+    {
+      "Hanzi": "门票",
+      "Pinyin": "ménpiào",
+      "Meaning": "admission ticket",
+      "Example": "门票多少钱？ ménpiào duōshao qián: How much is admission?",
+      "Notes": "门 gate + 票 ticket = ticket to get through the gate"
+    },
+    {
+      "Hanzi": "机票",
+      "Pinyin": "jīpiào",
+      "Meaning": "plane ticket",
+      "Example": "我买好机票了。 wǒ mǎihǎo jīpiào le: I've bought my plane ticket.",
+      "Notes": "机 machine, short for 飞机 plane + 票 ticket = air ticket"
+    },
+    {
+      "Hanzi": "打球",
+      "Pinyin": "dǎqiú",
+      "Meaning": "to play ball",
+      "Example": "下午我们去打球。 xiàwǔ wǒmen qù dǎqiú: We're playing ball this afternoon.",
+      "Notes": "打 hit, play (扌 hand + 丁 dīng) + 球 ball = to play a ball game"
+    },
+    {
+      "Hanzi": "下雨",
+      "Pinyin": "xiàyǔ",
+      "Meaning": "to rain",
+      "Example": "外边下雨了。 wàibian xiàyǔ le: It's raining outside.",
+      "Notes": "下 come down + 雨 rain = rain comes down. Same pattern: 下雪 to snow"
+    },
+    {
+      "Hanzi": "下车",
+      "Pinyin": "xiàchē",
+      "Meaning": "to get off (a vehicle)",
+      "Example": "我们在这儿下车。 wǒmen zài zhèr xiàchē: We get off here.",
+      "Notes": "下 go down + 车 vehicle = get down from the vehicle. Opposite: 上车"
+    },
+    {
+      "Hanzi": "杯子",
+      "Pinyin": "bēizi",
+      "Meaning": "cup; glass",
+      "Example": "杯子里有水。 bēizi li yǒu shuǐ: There's water in the cup.",
+      "Notes": "杯 cup (木 + 不 for the sound) + 子 noun suffix"
+    },
+    {
+      "Hanzi": "路口",
+      "Pinyin": "lùkǒu",
+      "Meaning": "intersection",
+      "Example": "在路口往左走。 zài lùkǒu wǎng zuǒ zǒu: Turn left at the intersection.",
+      "Notes": "路 road + 口 opening = where roads open into each other: intersection"
+    },
+    {
+      "Hanzi": "电视机",
+      "Pinyin": "diànshìjī",
+      "Meaning": "TV set",
+      "Example": "电视机坏了。 diànshìjī huài le: The TV is broken.",
+      "Notes": "电 electric + 视 look (礻 + 见 see) + 机 machine = electric viewing machine"
+    },
+    {
+      "Hanzi": "书店",
+      "Pinyin": "shūdiàn",
+      "Meaning": "bookstore",
+      "Example": "书店在商场里。 shūdiàn zài shāngchǎng li: The bookstore is in the mall.",
+      "Notes": "书 book + 店 shop = bookshop"
+    },
+    {
+      "Hanzi": "车票",
+      "Pinyin": "chēpiào",
+      "Meaning": "bus or train ticket",
+      "Example": "车票在我这儿。 chēpiào zài wǒ zhèr: I've got the tickets.",
+      "Notes": "车 vehicle + 票 ticket = ride ticket. Compare 门票, 机票"
+    },
+    {
+      "Hanzi": "电影院",
+      "Pinyin": "diànyǐngyuàn",
+      "Meaning": "cinema",
+      "Example": "电影院人很多。 diànyǐngyuàn rén hěn duō: The cinema is crowded.",
+      "Notes": "电 electric + 影 shadow, image + 院 courtyard, hall (阝 + 完 for the sound) = electric-shadow hall"
+    },
+    {
+      "Hanzi": "下课",
+      "Pinyin": "xiàkè",
+      "Meaning": "to finish class",
+      "Example": "我们几点下课？ wǒmen jǐ diǎn xiàkè: When does class end?",
+      "Notes": "下 come off + 课 class (讠 + 果 guǒ) = get out of class. Opposite: 上课"
+    },
+    {
+      "Hanzi": "书包",
+      "Pinyin": "shūbāo",
+      "Meaning": "schoolbag",
+      "Example": "书包很重。 shūbāo hěn zhòng: The schoolbag is heavy.",
+      "Notes": "书 book + 包 bag = book bag"
+    },
+    {
+      "Hanzi": "本子",
+      "Pinyin": "běnzi",
+      "Meaning": "notebook",
+      "Example": "给我一个本子。 gěi wǒ yí ge běnzi: Give me a notebook.",
+      "Notes": "本 root, book (木 tree with a mark at the root) + 子 suffix = notebook"
+    },
+    {
+      "Hanzi": "课本",
+      "Pinyin": "kèběn",
+      "Meaning": "textbook",
+      "Example": "别忘了带课本。 bié wàngle dài kèběn: Don't forget your textbook.",
+      "Notes": "课 lesson + 本 book = lesson book"
+    },
+    {
+      "Hanzi": "打车",
+      "Pinyin": "dǎchē",
+      "Meaning": "to take a taxi",
+      "Example": "太晚了，我们打车吧。 tài wǎn le, wǒmen dǎchē ba: It's late, let's get a taxi.",
+      "Notes": "打 hit (all-purpose verb: get, call) + 车 car = hail a car: take a taxi"
+    },
+    {
+      "Hanzi": "包子",
+      "Pinyin": "bāozi",
+      "Meaning": "steamed stuffed bun",
+      "Example": "我想吃包子。 wǒ xiǎng chī bāozi: I want some steamed buns.",
+      "Notes": "包 wrap + 子 suffix = a wrapped thing: stuffed bun"
+    }
+  ]
+}

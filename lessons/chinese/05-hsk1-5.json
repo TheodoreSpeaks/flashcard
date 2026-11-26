@@ -1,0 +1,280 @@
+{
+  "title": "HSK 1.5 · 工作, 电话, 地方, 上班, 吃饭",
+  "focus": "工作 · 事 · 前 · 爱 · 地 · 跟 · 喜欢 · 吃 · 谁 · 新 · 打 · 快 · 比 · 话 · 月 · 车 · 开 · 地方 · 电话 · 路 · 早 · 电影 · 动 · 电视 · 说话 · 电脑 · 电 · 早上 · 打开 · 打电话 · 班 · 吃饭 · 动作 · 上班 · 饭 · 路上 · 地点 · 车上 · 地上",
+  "body": "Daily life: work, meals, phones and screens. 电 (electric) makes four modern words, and 打, 地 and 上 build most of the rest.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 电 | diàn | electric; lightning | 电话, 电影, 电视, 电脑 |\n| 打 | dǎ | hit; do (扌 + 丁 dīng) | 打开, 打电话 |\n| 地 | dì / de | ground, place (土 + 也) | 地方, 地点, 地上 |\n| 上 | shàng / shang | on; go to | 上班, 路上, 车上, 地上 |\n| 作 | zuò | do, make | 工作, 动作 |\n| 话 | huà | speech (讠 + 舌 tongue) | 电话, 说话 |\n| 班 | bān | shift, class | 上班 |\n| 车 | chē | vehicle | 车上 |\n\n## Watch out\n\n- 地 is dì (ground) in 地方, but toneless de when it links an adverb to a verb (慢慢地走).\n- 车 (vehicle) vs 东 (dōng, east): similar top, different bottoms.\n- 月 on the left often means body/flesh, not moon: 脑 (brain).\n",
+  "cards": [
+    {
+      "Hanzi": "工作",
+      "Pinyin": "gōngzuò",
+      "Meaning": "work, job; to work",
+      "Example": "你做什么工作? nǐ zuò shénme gōngzuò: What do you do for work?",
+      "Notes": "工 work (a tool) + 作 do, make (亻 + 乍 zhà) = to work"
+    },
+    {
+      "Hanzi": "事",
+      "Pinyin": "shì",
+      "Meaning": "matter, thing, affair",
+      "Example": "有事吗? yǒu shì ma: Anything up?",
+      "Notes": "One long vertical through 一, 口 and a hand ⺕; 8 strokes"
+    },
+    {
+      "Hanzi": "前",
+      "Pinyin": "qián",
+      "Meaning": "front; before, ago",
+      "Example": "前面有人。 qiánmiàn yǒu rén: There's someone ahead.",
+      "Notes": "Top 丷 + 一, then 月 with 刂 on the right. 前 vs 煎 (jiān, fry)"
+    },
+    {
+      "Hanzi": "爱",
+      "Pinyin": "ài",
+      "Meaning": "to love",
+      "Example": "我爱你。 wǒ ài nǐ: I love you.",
+      "Notes": "爫 hand + 冖 cover + 友 friend; traditional 愛 has 心 heart in the middle"
+    },
+    {
+      "Hanzi": "地",
+      "Pinyin": "dì / de",
+      "Meaning": "ground, earth; (particle: -ly)",
+      "Example": "地上有水。 dìshang yǒu shuǐ: There's water on the floor.",
+      "Notes": "土 earth + 也; dì = ground, de links adverbs to verbs. 地 vs 他 vs 她"
+    },
+    {
+      "Hanzi": "跟",
+      "Pinyin": "gēn",
+      "Meaning": "with; to follow",
+      "Example": "跟我来。 gēn wǒ lái: Come with me.",
+      "Notes": "𧾷 foot + 艮 gēn for the sound: heel, follow, so 'with'"
+    },
+    {
+      "Hanzi": "喜欢",
+      "Pinyin": "xǐhuan",
+      "Meaning": "to like",
+      "Example": "她喜欢吃米饭。 tā xǐhuan chī mǐfàn: She likes rice.",
+      "Notes": "欢 = 又 + 欠 (open mouth); 喜 has two 口 hidden inside"
+    },
+    {
+      "Hanzi": "吃",
+      "Pinyin": "chī",
+      "Meaning": "to eat",
+      "Example": "你吃了吗? nǐ chī le ma: Have you eaten?",
+      "Notes": "口 mouth + 乞 qǐ"
+    },
+    {
+      "Hanzi": "谁",
+      "Pinyin": "shéi",
+      "Meaning": "who",
+      "Example": "他是谁? tā shì shéi: Who's he?",
+      "Notes": "讠 speech + 隹 (short-tailed bird). Also pronounced shuí"
+    },
+    {
+      "Hanzi": "新",
+      "Pinyin": "xīn",
+      "Meaning": "new",
+      "Example": "这是新的。 zhè shì xīn de: This is new.",
+      "Notes": "Left: 立 + 木 (wood), right: 斤 axe: freshly cut wood = new"
+    },
+    {
+      "Hanzi": "打",
+      "Pinyin": "dǎ",
+      "Meaning": "to hit; to do (call, play…)",
+      "Example": "别打他! bié dǎ tā: Don't hit him!",
+      "Notes": "扌 hand + 丁 dīng (nail) for the sound"
+    },
+    {
+      "Hanzi": "快",
+      "Pinyin": "kuài",
+      "Meaning": "fast; quick!",
+      "Example": "快来! kuài lái: Come quick!",
+      "Notes": "忄 heart + 夬; the same right side gives the sound in 块 kuài and 筷 kuài"
+    },
+    {
+      "Hanzi": "比",
+      "Pinyin": "bǐ",
+      "Meaning": "compared to; than",
+      "Example": "他比我高。 tā bǐ wǒ gāo: He's taller than me.",
+      "Notes": "Two people side by side: compare. 比 vs 北 (běi, north)"
+    },
+    {
+      "Hanzi": "话",
+      "Pinyin": "huà",
+      "Meaning": "speech, words",
+      "Example": "我有话要说。 wǒ yǒu huà yào shuō: I have something to say.",
+      "Notes": "讠 speech + 舌 tongue"
+    },
+    {
+      "Hanzi": "月",
+      "Pinyin": "yuè",
+      "Meaning": "moon; month",
+      "Example": "我下个月去。 wǒ xià ge yuè qù: I'm going next month.",
+      "Notes": "Picture of a crescent moon. As a left radical it usually means flesh (脑, 脸)"
+    },
+    {
+      "Hanzi": "车",
+      "Pinyin": "chē",
+      "Meaning": "car, vehicle",
+      "Example": "我的车在那里。 wǒ de chē zài nàlǐ: My car is over there.",
+      "Notes": "Simplified picture of a cart (車). 车 vs 东 (dōng, east)"
+    },
+    {
+      "Hanzi": "开",
+      "Pinyin": "kāi",
+      "Meaning": "to open; to drive; to turn on",
+      "Example": "开门! kāi mén: Open the door!",
+      "Notes": "Two hands lifting a bar; traditional 開 has 门 door around it"
+    },
+    {
+      "Hanzi": "地方",
+      "Pinyin": "dìfang",
+      "Meaning": "place",
+      "Example": "这个地方很好。 zhège dìfang hěn hǎo: This place is nice.",
+      "Notes": "地 ground + 方 square, direction = a spot: place"
+    },
+    {
+      "Hanzi": "电话",
+      "Pinyin": "diànhuà",
+      "Meaning": "phone, phone call",
+      "Example": "你的电话! nǐ de diànhuà: Phone for you!",
+      "Notes": "电 electric + 话 speech = telephone"
+    },
+    {
+      "Hanzi": "路",
+      "Pinyin": "lù",
+      "Meaning": "road, way",
+      "Example": "这条路很长。 zhè tiáo lù hěn cháng: This road is long.",
+      "Notes": "𧾷 foot + 各 gè (sound): where feet go"
+    },
+    {
+      "Hanzi": "早",
+      "Pinyin": "zǎo",
+      "Meaning": "early; good morning",
+      "Example": "你早! nǐ zǎo: Morning!",
+      "Notes": "日 sun on top of 十. 早 vs 旱 (hàn, drought), where 日 sits over 干"
+    },
+    {
+      "Hanzi": "电影",
+      "Pinyin": "diànyǐng",
+      "Meaning": "movie",
+      "Example": "我们去看电影吧。 wǒmen qù kàn diànyǐng ba: Let's go see a movie.",
+      "Notes": "电 electric + 影 shadow, image (景 + 彡 rays) = film"
+    },
+    {
+      "Hanzi": "动",
+      "Pinyin": "dòng",
+      "Meaning": "to move",
+      "Example": "别动! bié dòng: Don't move!",
+      "Notes": "云 + 力 strength: force makes it move (traditional 動 = 重 + 力)"
+    },
+    {
+      "Hanzi": "电视",
+      "Pinyin": "diànshì",
+      "Meaning": "TV",
+      "Example": "他在看电视。 tā zài kàn diànshì: He's watching TV.",
+      "Notes": "电 electric + 视 view (礻 + 见 see) = television"
+    },
+    {
+      "Hanzi": "说话",
+      "Pinyin": "shuōhuà",
+      "Meaning": "to talk, speak",
+      "Example": "他不说话。 tā bù shuōhuà: He won't talk.",
+      "Notes": "Both have 讠 speech; 话 = 讠 + 舌 tongue"
+    },
+    {
+      "Hanzi": "电脑",
+      "Pinyin": "diànnǎo",
+      "Meaning": "computer",
+      "Example": "我的电脑坏了。 wǒ de diànnǎo huài le: My computer broke.",
+      "Notes": "电 electric + 脑 brain (月 flesh radical) = electric brain"
+    },
+    {
+      "Hanzi": "电",
+      "Pinyin": "diàn",
+      "Meaning": "electricity",
+      "Example": "没电了。 méi diàn le: The battery's dead.",
+      "Notes": "A box with a lightning tail; traditional 電 has 雨 rain on top"
+    },
+    {
+      "Hanzi": "早上",
+      "Pinyin": "zǎoshang",
+      "Meaning": "morning",
+      "Example": "我早上不吃饭。 wǒ zǎoshang bù chīfàn: I don't eat in the morning.",
+      "Notes": "早 = 日 sun over 十: the sun just up; 上 is toneless here"
+    },
+    {
+      "Hanzi": "打开",
+      "Pinyin": "dǎkāi",
+      "Meaning": "to open; to switch on",
+      "Example": "请打开门。 qǐng dǎkāi mén: Please open the door.",
+      "Notes": "打 do + 开 open = open up, turn on"
+    },
+    {
+      "Hanzi": "打电话",
+      "Pinyin": "dǎdiànhuà",
+      "Meaning": "to make a phone call",
+      "Example": "我给你打电话。 wǒ gěi nǐ dǎ diànhuà: I'll call you.",
+      "Notes": "打 do + 电话 telephone = to phone"
+    },
+    {
+      "Hanzi": "班",
+      "Pinyin": "bān",
+      "Meaning": "class; work shift",
+      "Example": "我们是一个班的。 wǒmen shì yí ge bān de: We're in the same class.",
+      "Notes": "王 jade + 刂 knife + 王: a knife splitting jade in two, so a group, a shift"
+    },
+    {
+      "Hanzi": "吃饭",
+      "Pinyin": "chīfàn",
+      "Meaning": "to eat (a meal)",
+      "Example": "吃饭了! chīfàn le: Time to eat!",
+      "Notes": "吃 has 口 mouth; 饭 = 饣 food + 反 fǎn for the sound"
+    },
+    {
+      "Hanzi": "动作",
+      "Pinyin": "dòngzuò",
+      "Meaning": "movement, action",
+      "Example": "这个动作很难。 zhège dòngzuò hěn nán: This move is hard.",
+      "Notes": "动 move + 作 do = a movement"
+    },
+    {
+      "Hanzi": "上班",
+      "Pinyin": "shàngbān",
+      "Meaning": "to go to work",
+      "Example": "我九点上班。 wǒ jiǔ diǎn shàngbān: I start work at nine.",
+      "Notes": "上 go up to + 班 shift = go on shift: go to work"
+    },
+    {
+      "Hanzi": "饭",
+      "Pinyin": "fàn",
+      "Meaning": "meal; cooked rice",
+      "Example": "饭好了。 fàn hǎo le: Food's ready.",
+      "Notes": "饣 food + 反 fǎn for the sound"
+    },
+    {
+      "Hanzi": "路上",
+      "Pinyin": "lùshang",
+      "Meaning": "on the way",
+      "Example": "我在路上。 wǒ zài lùshang: I'm on my way.",
+      "Notes": "路 road + 上 on = on the road"
+    },
+    {
+      "Hanzi": "地点",
+      "Pinyin": "dìdiǎn",
+      "Meaning": "location, venue",
+      "Example": "开会地点在哪里? kāihuì dìdiǎn zài nǎlǐ: Where is the meeting?",
+      "Notes": "地 place + 点 point = the exact spot"
+    },
+    {
+      "Hanzi": "车上",
+      "Pinyin": "chēshang",
+      "Meaning": "in the car, on the bus",
+      "Example": "我在车上。 wǒ zài chēshang: I'm on the bus.",
+      "Notes": "车 vehicle + 上 on = on board"
+    },
+    {
+      "Hanzi": "地上",
+      "Pinyin": "dìshang",
+      "Meaning": "on the ground, on the floor",
+      "Example": "别坐在地上。 bié zuò zài dìshang: Don't sit on the floor.",
+      "Notes": "地 ground + 上 on = on the ground"
+    }
+  ]
+}

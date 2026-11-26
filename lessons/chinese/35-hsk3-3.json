@@ -1,0 +1,287 @@
+{
+  "title": "HSK 3.3 · 当然, 突然, 保护, 坚持, 感受",
+  "focus": "受 · 使 · 连 · 当然 · 部 · 消息 · 成功 · 结束 · 者 · 转 · 调查 · 方式 · 保护 · 支持 · 保证 · 突然 · 保持 · 明显 · 绝对 · 坚持 · 证明 · 记者 · 造成 · 支 · 自然 · 面对 · 结婚 · 部门 · 仍然 · 显示 · 仍 · 相当 · 对方 · 正式 · 感情 · 感受 · 后面 · 记录 · 显然 · 外面",
+  "body": "Five 然 \"so, -ly\" adverbs (当然, 突然, 自然, 仍然, 显然), a 保 \"keep safe\" family and a 持 \"hold\" family make up most of this lesson.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 然 | rán | so, like this; -ly | 当然, 突然, 自然, 仍然, 显然 |\n| 保 | bǎo | keep safe, ensure | 保护, 保证, 保持 |\n| 持 | chí | hold (扌 hand + 寺 sì sound) | 支持, 保持, 坚持 |\n| 显 | xiǎn | visible, show | 明显, 显示, 显然 |\n| 对 | duì | facing, opposite; correct | 绝对, 面对, 对方 |\n| 面 | miàn | face, side | 面对, 后面, 外面 |\n| 感 | gǎn | feel | 感情, 感受 |\n| 记 | jì | note down, remember | 记者, 记录 |\n\n## Watch out\n\n- 仍 réng (still, 亻 person) vs 扔 rēng (throw, 扌 hand).\n- 转 is zhuǎn \"turn, transfer\" (转车) and zhuàn \"spin, go round\" (转圈).\n- 调 is diào in 调查 but tiáo in 空调.",
+  "cards": [
+    {
+      "Hanzi": "受",
+      "Pinyin": "shòu",
+      "Meaning": "to receive; to suffer, endure",
+      "Example": "我受不了了！ wǒ shòu bu liǎo le: I can't take it anymore!",
+      "Notes": "爫 hand on top + 冖 + 又 hand below = passing something hand to hand → receive. Compare 爱 ài, which has 友 at the bottom."
+    },
+    {
+      "Hanzi": "使",
+      "Pinyin": "shǐ",
+      "Meaning": "to make, cause; to use",
+      "Example": "这使我很高兴。 zhè shǐ wǒ hěn gāoxìng: this makes me happy",
+      "Notes": "亻 person + 吏 lì official = a person sent on an errand → to send, use, cause. Lookalike: 便 biàn."
+    },
+    {
+      "Hanzi": "连",
+      "Pinyin": "lián",
+      "Meaning": "even (连…都); to link; in a row",
+      "Example": "他连饭都没吃。 tā lián fàn dōu méi chī: he didn't even eat",
+      "Notes": "辶 walk + 车 cart = carts moving in a line → link. 连…都/也 = even."
+    },
+    {
+      "Hanzi": "当然",
+      "Pinyin": "dāngrán",
+      "Meaning": "of course",
+      "Example": "当然可以！ dāngrán kěyǐ: of course you can!",
+      "Notes": "当 should, as it ought + 然 so = as it ought to be → of course."
+    },
+    {
+      "Hanzi": "部",
+      "Pinyin": "bù",
+      "Meaning": "part, section; (classifier: films, phones)",
+      "Example": "这部电影很好看。 zhè bù diànyǐng hěn hǎokàn: this film is great",
+      "Notes": "咅 pǒu (sound) + 阝 on the right (city, region) = a district → part, department."
+    },
+    {
+      "Hanzi": "消息",
+      "Pinyin": "xiāoxi",
+      "Meaning": "news, information",
+      "Example": "有好消息吗？ yǒu hǎo xiāoxi ma: any good news?",
+      "Notes": "消 fade away + 息 grow, breathe; old sense \"waning and waxing\" → news of how things go."
+    },
+    {
+      "Hanzi": "成功",
+      "Pinyin": "chénggōng",
+      "Meaning": "success; to succeed",
+      "Example": "祝你成功！ zhù nǐ chénggōng: wishing you success!",
+      "Notes": "成 accomplish + 功 achievement (工 work + 力 effort) = accomplish the work → succeed."
+    },
+    {
+      "Hanzi": "结束",
+      "Pinyin": "jiéshù",
+      "Meaning": "to end, finish",
+      "Example": "会议结束了。 huìyì jiéshù le: the meeting is over",
+      "Notes": "结 tie a knot + 束 bind (a bundle of 木 tied up) = tie it off → end."
+    },
+    {
+      "Hanzi": "者",
+      "Pinyin": "zhě",
+      "Meaning": "(suffix) one who, -er",
+      "Example": "记者来了。 jìzhě lái le: the reporters have come",
+      "Notes": "Suffix like English -er: 记者 reporter, 作者 author. Also the sound part of 都, 著, 猪."
+    },
+    {
+      "Hanzi": "转",
+      "Pinyin": "zhuǎn / zhuàn",
+      "Meaning": "to turn, transfer / to spin, go round",
+      "Example": "前面左转。 qiánmiàn zuǒ zhuǎn: turn left up ahead",
+      "Notes": "车 vehicle + 专 zhuān for the sound = a wheel turning → turn."
+    },
+    {
+      "Hanzi": "调查",
+      "Pinyin": "diàochá",
+      "Meaning": "to investigate; survey",
+      "Example": "警察在调查。 jǐngchá zài diàochá: the police are investigating",
+      "Notes": "调 diào look into, transfer + 查 check = investigate. 调 is tiáo in 空调."
+    },
+    {
+      "Hanzi": "方式",
+      "Pinyin": "fāngshì",
+      "Meaning": "way, method",
+      "Example": "这是最好的方式。 zhè shì zuì hǎo de fāngshì: this is the best way",
+      "Notes": "方 method, direction + 式 style, pattern = way of doing things."
+    },
+    {
+      "Hanzi": "保护",
+      "Pinyin": "bǎohù",
+      "Meaning": "to protect",
+      "Example": "我们要保护环境。 wǒmen yào bǎohù huánjìng: we should protect the environment",
+      "Notes": "保 keep safe + 护 guard (扌 hand + 户 hù for the sound) = protect."
+    },
+    {
+      "Hanzi": "支持",
+      "Pinyin": "zhīchí",
+      "Meaning": "to support",
+      "Example": "我支持你。 wǒ zhīchí nǐ: I support you",
+      "Notes": "支 prop up + 持 hold (扌 hand + 寺 sì for the sound) = prop up and hold → support."
+    },
+    {
+      "Hanzi": "保证",
+      "Pinyin": "bǎozhèng",
+      "Meaning": "to guarantee, promise",
+      "Example": "我保证不迟到。 wǒ bǎozhèng bù chídào: I promise not to be late",
+      "Notes": "保 ensure + 证 proof (讠 speech + 正 zhèng for the sound) = vouch with proof → guarantee."
+    },
+    {
+      "Hanzi": "突然",
+      "Pinyin": "tūrán",
+      "Meaning": "suddenly",
+      "Example": "突然下雨了。 tūrán xià yǔ le: it suddenly started raining",
+      "Notes": "突 burst out (穴 hole + 犬 dog: a dog darting from its hole) + 然 -ly = suddenly."
+    },
+    {
+      "Hanzi": "保持",
+      "Pinyin": "bǎochí",
+      "Meaning": "to keep, maintain",
+      "Example": "保持安静。 bǎochí ānjìng: keep quiet",
+      "Notes": "保 keep + 持 hold = keep holding → maintain."
+    },
+    {
+      "Hanzi": "明显",
+      "Pinyin": "míngxiǎn",
+      "Meaning": "obvious, clear",
+      "Example": "这很明显。 zhè hěn míngxiǎn: that's obvious",
+      "Notes": "明 bright + 显 visible (日 sun + 业) = brightly visible → obvious."
+    },
+    {
+      "Hanzi": "绝对",
+      "Pinyin": "juéduì",
+      "Meaning": "absolutely; absolute",
+      "Example": "我绝对同意。 wǒ juéduì tóngyì: I absolutely agree",
+      "Notes": "绝 cut off, utmost (纟 + 色) + 对 opposite, correct = with no opposite → absolute."
+    },
+    {
+      "Hanzi": "坚持",
+      "Pinyin": "jiānchí",
+      "Meaning": "to persist, keep at it",
+      "Example": "坚持下去！ jiānchí xiàqu: keep going!",
+      "Notes": "坚 firm, hard (土 earth at the bottom) + 持 hold = hold firmly → persist."
+    },
+    {
+      "Hanzi": "证明",
+      "Pinyin": "zhèngmíng",
+      "Meaning": "to prove; proof, certificate",
+      "Example": "你能证明吗？ nǐ néng zhèngmíng ma: can you prove it?",
+      "Notes": "证 evidence + 明 clear = make clear with evidence → prove."
+    },
+    {
+      "Hanzi": "记者",
+      "Pinyin": "jìzhě",
+      "Meaning": "reporter, journalist",
+      "Example": "她是记者。 tā shì jìzhě: she's a journalist",
+      "Notes": "记 record + 者 one who = one who records → reporter."
+    },
+    {
+      "Hanzi": "造成",
+      "Pinyin": "zàochéng",
+      "Meaning": "to cause (usually something bad)",
+      "Example": "这造成了很多问题。 zhè zàochéng le hěn duō wèntí: this caused a lot of problems",
+      "Notes": "造 make (辶 + 告 gào for the sound) + 成 become = bring about → cause."
+    },
+    {
+      "Hanzi": "支",
+      "Pinyin": "zhī",
+      "Meaning": "(classifier: pens, songs, teams); to prop up",
+      "Example": "给我一支笔。 gěi wǒ yì zhī bǐ: give me a pen",
+      "Notes": "十 + 又 hand = a hand holding a branch → branch, prop; classifier for stick-like things."
+    },
+    {
+      "Hanzi": "自然",
+      "Pinyin": "zìrán",
+      "Meaning": "nature; natural; naturally",
+      "Example": "这很自然。 zhè hěn zìrán: that's natural",
+      "Notes": "自 self + 然 so = so by itself → natural."
+    },
+    {
+      "Hanzi": "面对",
+      "Pinyin": "miànduì",
+      "Meaning": "to face, confront",
+      "Example": "我们要面对问题。 wǒmen yào miànduì wèntí: we have to face the problem",
+      "Notes": "面 face + 对 facing = face to face → confront."
+    },
+    {
+      "Hanzi": "结婚",
+      "Pinyin": "jiéhūn",
+      "Meaning": "to get married",
+      "Example": "他们结婚了。 tāmen jiéhūn le: they got married",
+      "Notes": "结 tie + 婚 marriage (女 woman + 昏 hūn for the sound) = tie the marriage knot."
+    },
+    {
+      "Hanzi": "部门",
+      "Pinyin": "bùmén",
+      "Meaning": "department",
+      "Example": "你在哪个部门？ nǐ zài nǎge bùmén: which department are you in?",
+      "Notes": "部 section + 门 door, branch = department."
+    },
+    {
+      "Hanzi": "仍然",
+      "Pinyin": "réngrán",
+      "Meaning": "still, as before",
+      "Example": "他仍然在等。 tā réngrán zài děng: he's still waiting",
+      "Notes": "仍 still + 然 so = still so. A written 还."
+    },
+    {
+      "Hanzi": "显示",
+      "Pinyin": "xiǎnshì",
+      "Meaning": "to show, display",
+      "Example": "屏幕上显示时间。 píngmù shang xiǎnshì shíjiān: the screen shows the time",
+      "Notes": "显 visible + 示 show = display."
+    },
+    {
+      "Hanzi": "仍",
+      "Pinyin": "réng",
+      "Meaning": "still, yet",
+      "Example": "他仍没回来。 tā réng méi huílai: he still hasn't come back",
+      "Notes": "亻 person + 乃 nǎi (sound hint). Lookalike: 扔 rēng throw, with 扌 hand."
+    },
+    {
+      "Hanzi": "相当",
+      "Pinyin": "xiāngdāng",
+      "Meaning": "quite, fairly; equivalent to",
+      "Example": "这个相当难。 zhège xiāngdāng nán: this is pretty hard",
+      "Notes": "相 mutual + 当 match, equal = mutually equal → equivalent; also \"quite, considerably\"."
+    },
+    {
+      "Hanzi": "对方",
+      "Pinyin": "duìfāng",
+      "Meaning": "the other party, the other side",
+      "Example": "对方不同意。 duìfāng bù tóngyì: the other side doesn't agree",
+      "Notes": "对 opposite + 方 side = the opposite side."
+    },
+    {
+      "Hanzi": "正式",
+      "Pinyin": "zhèngshì",
+      "Meaning": "formal, official",
+      "Example": "这是正式的会议。 zhè shì zhèngshì de huìyì: this is a formal meeting",
+      "Notes": "正 proper, upright + 式 form = proper form → formal."
+    },
+    {
+      "Hanzi": "感情",
+      "Pinyin": "gǎnqíng",
+      "Meaning": "feelings, affection",
+      "Example": "他们感情很好。 tāmen gǎnqíng hěn hǎo: they're very close",
+      "Notes": "感 feel (心 heart + 咸 xián for the sound) + 情 emotion = feelings."
+    },
+    {
+      "Hanzi": "感受",
+      "Pinyin": "gǎnshòu",
+      "Meaning": "to feel, experience; feeling",
+      "Example": "说说你的感受。 shuōshuo nǐ de gǎnshòu: tell me how you feel",
+      "Notes": "感 feel + 受 receive = what you take in and feel → experience."
+    },
+    {
+      "Hanzi": "后面",
+      "Pinyin": "hòumian",
+      "Meaning": "behind; at the back",
+      "Example": "他在我后面。 tā zài wǒ hòumian: he's behind me",
+      "Notes": "后 back + 面 side = the back side."
+    },
+    {
+      "Hanzi": "记录",
+      "Pinyin": "jìlù",
+      "Meaning": "to record; record",
+      "Example": "我来记录。 wǒ lái jìlù: I'll take notes",
+      "Notes": "记 note down + 录 record = record. Also a sports record: 世界记录."
+    },
+    {
+      "Hanzi": "显然",
+      "Pinyin": "xiǎnrán",
+      "Meaning": "obviously, evidently",
+      "Example": "他显然不高兴。 tā xiǎnrán bù gāoxìng: he's obviously unhappy",
+      "Notes": "显 visible + 然 so = visibly so → obviously."
+    },
+    {
+      "Hanzi": "外面",
+      "Pinyin": "wàimiàn",
+      "Meaning": "outside",
+      "Example": "外面很冷。 wàimiàn hěn lěng: it's cold outside",
+      "Notes": "外 outside + 面 side = the outer side. Often said wàimian."
+    }
+  ]
+}

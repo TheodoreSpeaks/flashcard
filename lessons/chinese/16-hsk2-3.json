@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.3 · 应该, 发现, 感觉, 意思, 刚才",
+  "focus": "又 · 问题 · 它 · 该 · 更 · 才 · 像 · 向 · 应该 · 位 · 大家 · 发现 · 一定 · 一直 · 感觉 · 出现 · 见到 · 发 · 接 · 刚 · 接受 · 直接 · 家庭 · 刚刚 · 想到 · 好像 · 愿意 · 感谢 · 感到 · 它们 · 一般 · 做到 · 受到 · 提 · 意思 · 意见 · 提出 · 实现 · 刚才",
+  "body": "Feelings, thoughts and timing words. 到 (reach) turns verbs into results (见到, 想到, 做到), 感 and 意 carry feeling and meaning, and 刚 gives \"just now\".\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 到 | dào | arrive; (result: reach it) | 见到, 想到, 感到, 做到, 受到 |\n| 感 | gǎn | feel (咸 + 心 heart) | 感觉, 感谢, 感到 |\n| 意 | yì | idea, intention (音 + 心) | 愿意, 意思, 意见 |\n| 现 | xiàn | appear (王 + 见) | 发现, 出现, 实现 |\n| 一 | yī / yí / yì | one | 一定, 一直, 一般 |\n| 接 | jiē | receive (扌 hand) | 接受, 直接 |\n| 刚 | gāng | just | 刚刚, 刚才 |\n| 直 | zhí | straight | 一直, 直接 |\n\n## Watch out\n\n- 它 (it), 他 (he) and 她 (she) are all tā; only the radical changes.\n- 像 xiàng (resemble) has 亻; 象 xiàng (elephant, image) doesn't; 向 xiàng (toward) is different again.\n- 又 = again (for something that already happened); 再 = again (in the future).\n- 才 cái vs 寸 cùn and the 扌 hand radical.\n- 一 is yí before a 4th tone (一定, 一下) and yì before others (一直, 一般).",
+  "cards": [
+    {
+      "Hanzi": "又",
+      "Pinyin": "yòu",
+      "Meaning": "again; also",
+      "Example": "你又来了！ nǐ yòu lái le: You're here again!",
+      "Notes": "Picture of a right hand. Lookalikes: 叉 chā, 义 yì. 又 = again (already happened); 再 = again (future)"
+    },
+    {
+      "Hanzi": "问题",
+      "Pinyin": "wèntí",
+      "Meaning": "question; problem",
+      "Example": "没问题！ méi wèntí: No problem!",
+      "Notes": "问 ask (门 + 口) + 题 topic (是 + 页 head) = a topic asked about: question, problem"
+    },
+    {
+      "Hanzi": "它",
+      "Pinyin": "tā",
+      "Meaning": "it",
+      "Example": "它是我的猫。 tā shì wǒ de māo: It's my cat.",
+      "Notes": "宀-like top + 匕; originally a picture of a snake. Same sound as 他 and 她"
+    },
+    {
+      "Hanzi": "该",
+      "Pinyin": "gāi",
+      "Meaning": "should; to be someone's turn",
+      "Example": "该你了。 gāi nǐ le: Your turn.",
+      "Notes": "讠 speech + 亥 hài for the sound (as in 孩 hái)"
+    },
+    {
+      "Hanzi": "更",
+      "Pinyin": "gèng",
+      "Meaning": "more; even more",
+      "Example": "今天更冷。 jīntiān gèng lěng: Today is even colder.",
+      "Notes": "一 + 日 with a long 乂 sweep underneath; learn it as one shape. It's inside 便 biàn"
+    },
+    {
+      "Hanzi": "才",
+      "Pinyin": "cái",
+      "Meaning": "only then; just; only",
+      "Example": "他十点才来。 tā shí diǎn cái lái: He didn't come until ten.",
+      "Notes": "Picture of a sprouting plant (also 'talent'). Lookalikes: 寸 cùn and the 扌 hand radical"
+    },
+    {
+      "Hanzi": "像",
+      "Pinyin": "xiàng",
+      "Meaning": "to look like; like",
+      "Example": "你很像你妈妈。 nǐ hěn xiàng nǐ māma: You look like your mom.",
+      "Notes": "亻 person + 象 xiàng (elephant) for the sound. Lookalike: 象 has no 亻"
+    },
+    {
+      "Hanzi": "向",
+      "Pinyin": "xiàng",
+      "Meaning": "toward; to face",
+      "Example": "向左走。 xiàng zuǒ zǒu: Turn left.",
+      "Notes": "A window 口 in a house 冂, with a stroke on top: the side a house faces"
+    },
+    {
+      "Hanzi": "应该",
+      "Pinyin": "yīnggāi",
+      "Meaning": "should; ought to",
+      "Example": "你应该休息。 nǐ yīnggāi xiūxi: You should rest.",
+      "Notes": "应 should (广 + 䒑 + 一) + 该 ought = should. 应 is yīng here (yìng = respond)"
+    },
+    {
+      "Hanzi": "位",
+      "Pinyin": "wèi",
+      "Meaning": "(polite measure word for people); position",
+      "Example": "那位老师很好。 nà wèi lǎoshī hěn hǎo: That teacher is great.",
+      "Notes": "亻 person + 立 stand = where a person stands: position, seat"
+    },
+    {
+      "Hanzi": "大家",
+      "Pinyin": "dàjiā",
+      "Meaning": "everyone",
+      "Example": "大家好！ dàjiā hǎo: Hi everyone!",
+      "Notes": "大 big + 家 family = the whole big family: everybody"
+    },
+    {
+      "Hanzi": "发现",
+      "Pinyin": "fāxiàn",
+      "Meaning": "to discover; to notice",
+      "Example": "我发现他不在。 wǒ fāxiàn tā bú zài: I noticed he wasn't there.",
+      "Notes": "发 send out + 现 appear (王 + 见 see) = bring to light: discover"
+    },
+    {
+      "Hanzi": "一定",
+      "Pinyin": "yídìng",
+      "Meaning": "definitely; must",
+      "Example": "我一定来。 wǒ yídìng lái: I'll definitely come.",
+      "Notes": "一 one + 定 fix, settle (宀 roof) = settled once and for all. 一 is yí before a 4th tone"
+    },
+    {
+      "Hanzi": "一直",
+      "Pinyin": "yìzhí",
+      "Meaning": "always; all along; straight",
+      "Example": "一直往前走。 yìzhí wǎng qián zǒu: Go straight ahead.",
+      "Notes": "一 one + 直 straight = straight all the way: continuously"
+    },
+    {
+      "Hanzi": "感觉",
+      "Pinyin": "gǎnjué",
+      "Meaning": "feeling; to feel",
+      "Example": "我感觉好多了。 wǒ gǎnjué hǎo duō le: I feel much better.",
+      "Notes": "感 feel (咸 + 心 heart) + 觉 sense (contains 见) = feeling"
+    },
+    {
+      "Hanzi": "出现",
+      "Pinyin": "chūxiàn",
+      "Meaning": "to appear; to come up",
+      "Example": "问题出现了。 wèntí chūxiàn le: A problem came up.",
+      "Notes": "出 come out + 现 appear = emerge"
+    },
+    {
+      "Hanzi": "见到",
+      "Pinyin": "jiàndào",
+      "Meaning": "to see; to meet",
+      "Example": "很高兴见到你。 hěn gāoxìng jiàndào nǐ: Nice to meet you.",
+      "Notes": "见 see + 到 reach (result) = get to see"
+    },
+    {
+      "Hanzi": "发",
+      "Pinyin": "fā",
+      "Meaning": "to send; to issue; to break out",
+      "Example": "我给你发短信。 wǒ gěi nǐ fā duǎnxìn: I'll text you.",
+      "Notes": "Simplified from both 發 (shoot, send) and 髮 (hair: 头发 tóufa). Lookalike: 友 yǒu"
+    },
+    {
+      "Hanzi": "接",
+      "Pinyin": "jiē",
+      "Meaning": "to receive; to pick up; to answer (phone)",
+      "Example": "我去机场接你。 wǒ qù jīchǎng jiē nǐ: I'll pick you up at the airport.",
+      "Notes": "扌 hand + 妾 qiè: take with the hand"
+    },
+    {
+      "Hanzi": "刚",
+      "Pinyin": "gāng",
+      "Meaning": "just (now)",
+      "Example": "我刚到。 wǒ gāng dào: I just got here.",
+      "Notes": "冈 gāng for the sound + 刂 knife; first meant hard, strong (刚强)"
+    },
+    {
+      "Hanzi": "接受",
+      "Pinyin": "jiēshòu",
+      "Meaning": "to accept",
+      "Example": "我接受你的意见。 wǒ jiēshòu nǐ de yìjiàn: I accept your suggestion.",
+      "Notes": "接 receive + 受 accept (爫 hand passing to 又 hand) = take in. 受 vs 爱: 爱 has 友 at the bottom"
+    },
+    {
+      "Hanzi": "直接",
+      "Pinyin": "zhíjiē",
+      "Meaning": "direct; directly",
+      "Example": "你直接去吧。 nǐ zhíjiē qù ba: Just go straight there.",
+      "Notes": "直 straight + 接 connect = straight connection: direct"
+    },
+    {
+      "Hanzi": "家庭",
+      "Pinyin": "jiātíng",
+      "Meaning": "family; household",
+      "Example": "他的家庭很幸福。 tā de jiātíng hěn xìngfú: His family is happy.",
+      "Notes": "家 home + 庭 courtyard (广 + 廷 tíng for the sound) = household"
+    },
+    {
+      "Hanzi": "刚刚",
+      "Pinyin": "gānggāng",
+      "Meaning": "just now; only just",
+      "Example": "我刚刚吃完。 wǒ gānggāng chīwán: I just finished eating.",
+      "Notes": "刚 just, doubled for emphasis = only just"
+    },
+    {
+      "Hanzi": "想到",
+      "Pinyin": "xiǎngdào",
+      "Meaning": "to think of; to expect",
+      "Example": "我没想到你会来。 wǒ méi xiǎngdào nǐ huì lái: I never expected you to come.",
+      "Notes": "想 think + 到 reach = a thought reaches it"
+    },
+    {
+      "Hanzi": "好像",
+      "Pinyin": "hǎoxiàng",
+      "Meaning": "to seem; as if",
+      "Example": "好像要下雨了。 hǎoxiàng yào xiàyǔ le: Looks like rain.",
+      "Notes": "好 very + 像 resemble = looks very much like: seems"
+    },
+    {
+      "Hanzi": "愿意",
+      "Pinyin": "yuànyì",
+      "Meaning": "willing",
+      "Example": "你愿意帮我吗？ nǐ yuànyì bāng wǒ ma: Would you be willing to help me?",
+      "Notes": "愿 wish (原 + 心 heart) + 意 intention (音 + 心) = the heart's wish: willing"
+    },
+    {
+      "Hanzi": "感谢",
+      "Pinyin": "gǎnxiè",
+      "Meaning": "to thank; gratitude",
+      "Example": "非常感谢你！ fēicháng gǎnxiè nǐ: Thank you so much!",
+      "Notes": "感 feel + 谢 thank = feel thankful. More formal than 谢谢"
+    },
+    {
+      "Hanzi": "感到",
+      "Pinyin": "gǎndào",
+      "Meaning": "to feel",
+      "Example": "我感到很累。 wǒ gǎndào hěn lèi: I feel very tired.",
+      "Notes": "感 feel + 到 reach = come to feel"
+    },
+    {
+      "Hanzi": "它们",
+      "Pinyin": "tāmen",
+      "Meaning": "they (things or animals)",
+      "Example": "它们是我的猫。 tāmen shì wǒ de māo: They're my cats.",
+      "Notes": "它 it + 们 (plural)"
+    },
+    {
+      "Hanzi": "一般",
+      "Pinyin": "yìbān",
+      "Meaning": "usually; ordinary",
+      "Example": "我一般七点起床。 wǒ yìbān qī diǎn qǐchuáng: I usually get up at seven.",
+      "Notes": "一 one + 般 kind (舟 boat + 殳) = one kind: ordinary, usual"
+    },
+    {
+      "Hanzi": "做到",
+      "Pinyin": "zuòdào",
+      "Meaning": "to achieve; to manage",
+      "Example": "我一定能做到。 wǒ yídìng néng zuòdào: I can definitely do it.",
+      "Notes": "做 do + 到 reach = do it successfully"
+    },
+    {
+      "Hanzi": "受到",
+      "Pinyin": "shòudào",
+      "Meaning": "to receive; to be given",
+      "Example": "他受到了表扬。 tā shòudàole biǎoyáng: He was praised.",
+      "Notes": "受 receive + 到 reach = receive (praise, help, criticism)"
+    },
+    {
+      "Hanzi": "提",
+      "Pinyin": "tí",
+      "Meaning": "to lift; to carry; to mention",
+      "Example": "别提了！ bié tí le: Don't bring it up!",
+      "Notes": "扌 hand + 是 shì for the sound"
+    },
+    {
+      "Hanzi": "意思",
+      "Pinyin": "yìsi",
+      "Meaning": "meaning; idea",
+      "Example": "这是什么意思？ zhè shì shénme yìsi: What does this mean?",
+      "Notes": "意 meaning (音 + 心) + 思 think (田 + 心) = what's in the mind. Both have 心"
+    },
+    {
+      "Hanzi": "意见",
+      "Pinyin": "yìjiàn",
+      "Meaning": "opinion; objection",
+      "Example": "你有什么意见？ nǐ yǒu shénme yìjiàn: What do you think?",
+      "Notes": "意 idea + 见 view = viewpoint; can also mean a complaint"
+    },
+    {
+      "Hanzi": "提出",
+      "Pinyin": "tíchū",
+      "Meaning": "to raise; to put forward",
+      "Example": "他提出了问题。 tā tíchūle wèntí: He raised a question.",
+      "Notes": "提 lift + 出 out = bring up, propose"
+    },
+    {
+      "Hanzi": "实现",
+      "Pinyin": "shíxiàn",
+      "Meaning": "to realize; to come true",
+      "Example": "我的梦想实现了。 wǒ de mèngxiǎng shíxiàn le: My dream came true.",
+      "Notes": "实 real (宀 + 头) + 现 appear = make it real"
+    },
+    {
+      "Hanzi": "刚才",
+      "Pinyin": "gāngcái",
+      "Meaning": "just now",
+      "Example": "你刚才去哪儿了？ nǐ gāngcái qù nǎr le: Where were you just now?",
+      "Notes": "刚 just + 才 just = a moment ago. 刚才 is a time word; 刚 is an adverb"
+    }
+  ]
+}

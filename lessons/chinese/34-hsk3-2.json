@@ -1,0 +1,287 @@
+{
+  "title": "HSK 3.2 · 其实, 决定, 解决, 现实, 表演",
+  "focus": "内 · 每 · 美 · 一切 · 由 · 任何 · 决定 · 如何 · 其实 · 表现 · 解决 · 美元 · 处理 · 管 · 城市 · 终于 · 现场 · 代表 · 里面 · 确定 · 任务 · 容易 · 确实 · 负责 · 交易 · 理解 · 城 · 责任 · 事件 · 由于 · 属于 · 事实 · 表演 · 规定 · 市场 · 管理 · 实际上 · 现实 · 内容 · 上面",
+  "body": "A lesson of \"real\" and \"fixed\" words: 实 (real) shows up five times, 定 (fix, settle) three times, and 理 (reason, put in order) three times.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 实 | shí | real, solid | 其实, 确实, 事实, 实际上, 现实 |\n| 表 | biǎo | show, outside | 表现, 代表, 表演 |\n| 现 | xiàn | appear, present | 表现, 现场, 现实 |\n| 定 | dìng | fix, settle | 决定, 确定, 规定 |\n| 理 | lǐ | reason; put in order | 处理, 理解, 管理 |\n| 任 | rèn | duty; let, allow | 任何, 任务, 责任 |\n| 于 | yú | at, to, from | 终于, 由于, 属于 |\n| 确 | què | firm, true | 确定, 确实 |\n\n## Watch out\n\n- 由 yóu vs 田 tián vs 甲 jiǎ vs 申 shēn: where the vertical stroke pokes out.\n- 处 is chǔ \"handle\" in 处理 but chù \"place\" in 到处.\n- 负责 (bear + duty) and 责任 (duty + bear) are mirror words.",
+  "cards": [
+    {
+      "Hanzi": "内",
+      "Pinyin": "nèi",
+      "Meaning": "inside; within",
+      "Example": "三天内完成。 sān tiān nèi wánchéng: finish within three days",
+      "Notes": "冂 border + 人 entering = going in → inside. Compare 肉 ròu meat, which has two 人."
+    },
+    {
+      "Hanzi": "每",
+      "Pinyin": "měi",
+      "Meaning": "each, every",
+      "Example": "我每天跑步。 wǒ měitiān pǎobù: I run every day",
+      "Notes": "𠂉 on top + 母 mǔ below (sound hint). 母 has two dots inside. Also the sound part of 海 and 梅."
+    },
+    {
+      "Hanzi": "美",
+      "Pinyin": "měi",
+      "Meaning": "beautiful; America (美国)",
+      "Example": "这里真美！ zhèlǐ zhēn měi: it's so beautiful here!",
+      "Notes": "Traditionally read as 羊 sheep (on top) + 大 big = a big fine sheep → beautiful. 美国 = beautiful country = USA."
+    },
+    {
+      "Hanzi": "一切",
+      "Pinyin": "yíqiè",
+      "Meaning": "everything; all",
+      "Example": "一切都好。 yíqiè dōu hǎo: everything's fine",
+      "Notes": "一 one + 切 all = all of it → everything. 切 is qiè here but qiē \"cut\" on its own. 一 is said yí before qiè."
+    },
+    {
+      "Hanzi": "由",
+      "Pinyin": "yóu",
+      "Meaning": "from; by (someone); due to",
+      "Example": "这件事由我负责。 zhè jiàn shì yóu wǒ fùzé: I'm in charge of this",
+      "Notes": "田 with the vertical poking out the top. Lookalikes: 田 tián, 由 yóu, 甲 jiǎ, 申 shēn."
+    },
+    {
+      "Hanzi": "任何",
+      "Pinyin": "rènhé",
+      "Meaning": "any, whatever",
+      "Example": "我没有任何问题。 wǒ méiyǒu rènhé wèntí: I have no questions at all",
+      "Notes": "任 let, allow (亻 + 壬 rén for the sound) + 何 what = whatever you like → any."
+    },
+    {
+      "Hanzi": "决定",
+      "Pinyin": "juédìng",
+      "Meaning": "to decide; decision",
+      "Example": "我决定去了。 wǒ juédìng qù le: I've decided to go",
+      "Notes": "决 decide (冫 + 夬 for the sound) + 定 fix, settle = settle on → decide."
+    },
+    {
+      "Hanzi": "如何",
+      "Pinyin": "rúhé",
+      "Meaning": "how (formal)",
+      "Example": "你觉得如何？ nǐ juéde rúhé: what do you think?",
+      "Notes": "如 like, as + 何 what = like what → how. A written, formal 怎么."
+    },
+    {
+      "Hanzi": "其实",
+      "Pinyin": "qíshí",
+      "Meaning": "actually, in fact",
+      "Example": "其实我不饿。 qíshí wǒ bú è: actually I'm not hungry",
+      "Notes": "其 its, that + 实 real = its reality → actually."
+    },
+    {
+      "Hanzi": "表现",
+      "Pinyin": "biǎoxiàn",
+      "Meaning": "to show, display; performance",
+      "Example": "他今天表现很好。 tā jīntiān biǎoxiàn hěn hǎo: he did well today",
+      "Notes": "表 outside, show + 现 appear = show outwardly → display, how one performs."
+    },
+    {
+      "Hanzi": "解决",
+      "Pinyin": "jiějué",
+      "Meaning": "to solve, resolve",
+      "Example": "问题解决了。 wèntí jiějué le: the problem is solved",
+      "Notes": "解 untie (角 horn + 刀 knife + 牛 ox: cutting up an ox) + 决 decide = untie and settle → solve."
+    },
+    {
+      "Hanzi": "美元",
+      "Pinyin": "měiyuán",
+      "Meaning": "US dollar",
+      "Example": "这个十美元。 zhège shí Měiyuán: this is ten dollars",
+      "Notes": "美 America (美国) + 元 yuan, unit of money = American dollar."
+    },
+    {
+      "Hanzi": "处理",
+      "Pinyin": "chǔlǐ",
+      "Meaning": "to handle, deal with",
+      "Example": "我来处理。 wǒ lái chǔlǐ: I'll handle it",
+      "Notes": "处 chǔ deal with + 理 put in order = handle. 处 is chù \"place\" in 到处, 好处."
+    },
+    {
+      "Hanzi": "管",
+      "Pinyin": "guǎn",
+      "Meaning": "to manage; to care about; tube",
+      "Example": "别管我。 bié guǎn wǒ: leave me alone",
+      "Notes": "⺮ bamboo + 官 guān for the sound = bamboo tube; also to control, manage, mind."
+    },
+    {
+      "Hanzi": "城市",
+      "Pinyin": "chéngshì",
+      "Meaning": "city",
+      "Example": "我喜欢这个城市。 wǒ xǐhuan zhège chéngshì: I like this city",
+      "Notes": "城 city wall + 市 market = walled market town → city."
+    },
+    {
+      "Hanzi": "终于",
+      "Pinyin": "zhōngyú",
+      "Meaning": "finally, at last",
+      "Example": "你终于来了！ nǐ zhōngyú lái le: you're finally here!",
+      "Notes": "终 end (纟 silk + 冬 dōng for the sound) + 于 at = at the end → finally."
+    },
+    {
+      "Hanzi": "现场",
+      "Pinyin": "xiànchǎng",
+      "Meaning": "the scene; on site; live",
+      "Example": "他在现场。 tā zài xiànchǎng: he's at the scene",
+      "Notes": "现 present, now + 场 site, field = the site right now → the scene; live (现场直播)."
+    },
+    {
+      "Hanzi": "代表",
+      "Pinyin": "dàibiǎo",
+      "Meaning": "to represent; representative",
+      "Example": "我代表公司来。 wǒ dàibiǎo gōngsī lái: I'm here for the company",
+      "Notes": "代 act for, replace + 表 show = stand in and show → represent."
+    },
+    {
+      "Hanzi": "里面",
+      "Pinyin": "lǐmiàn",
+      "Meaning": "inside",
+      "Example": "里面有人吗？ lǐmiàn yǒu rén ma: is anyone inside?",
+      "Notes": "里 inside + 面 side, face = the inner side. Often said lǐmian."
+    },
+    {
+      "Hanzi": "确定",
+      "Pinyin": "quèdìng",
+      "Meaning": "sure, certain; to confirm",
+      "Example": "你确定吗？ nǐ quèdìng ma: are you sure?",
+      "Notes": "确 firm, true (石 stone + 角) + 定 fix = fixed firmly → certain."
+    },
+    {
+      "Hanzi": "任务",
+      "Pinyin": "rènwu",
+      "Meaning": "task, mission",
+      "Example": "这是你的任务。 zhè shì nǐ de rènwu: this is your task",
+      "Notes": "任 duty, appoint + 务 affair, work = assigned work → task."
+    },
+    {
+      "Hanzi": "容易",
+      "Pinyin": "róngyì",
+      "Meaning": "easy; liable to",
+      "Example": "这个很容易。 zhège hěn róngyì: this is easy",
+      "Notes": "容 contain, allow + 易 easy, change = easy. Also \"prone to\": 容易生病."
+    },
+    {
+      "Hanzi": "确实",
+      "Pinyin": "quèshí",
+      "Meaning": "indeed, really",
+      "Example": "他确实很忙。 tā quèshí hěn máng: he really is busy",
+      "Notes": "确 firm, true + 实 real = truly real → indeed."
+    },
+    {
+      "Hanzi": "负责",
+      "Pinyin": "fùzé",
+      "Meaning": "to be in charge; responsible",
+      "Example": "谁负责这个？ shéi fùzé zhège: who's in charge of this?",
+      "Notes": "负 bear, carry (⺈ + 贝) + 责 duty = bear the duty → be responsible. Mirror of 责任."
+    },
+    {
+      "Hanzi": "交易",
+      "Pinyin": "jiāoyì",
+      "Meaning": "trade, deal, transaction",
+      "Example": "我们做个交易。 wǒmen zuò ge jiāoyì: let's make a deal",
+      "Notes": "交 exchange + 易 change hands = exchange → trade."
+    },
+    {
+      "Hanzi": "理解",
+      "Pinyin": "lǐjiě",
+      "Meaning": "to understand",
+      "Example": "我理解你。 wǒ lǐjiě nǐ: I understand you",
+      "Notes": "理 reason, logic + 解 untie, explain = untie the logic → understand."
+    },
+    {
+      "Hanzi": "城",
+      "Pinyin": "chéng",
+      "Meaning": "city; city wall",
+      "Example": "我住在城里。 wǒ zhù zài chéng lǐ: I live in town",
+      "Notes": "土 earth + 成 chéng for the sound = earthen wall → city wall, city."
+    },
+    {
+      "Hanzi": "责任",
+      "Pinyin": "zérèn",
+      "Meaning": "responsibility, duty",
+      "Example": "这是我的责任。 zhè shì wǒ de zérèn: this is my responsibility",
+      "Notes": "责 duty, blame + 任 post, burden = the duty you bear → responsibility."
+    },
+    {
+      "Hanzi": "事件",
+      "Pinyin": "shìjiàn",
+      "Meaning": "incident, event",
+      "Example": "这个事件很严重。 zhège shìjiàn hěn yánzhòng: this incident is serious",
+      "Notes": "事 matter + 件 item = an item of matter → incident."
+    },
+    {
+      "Hanzi": "由于",
+      "Pinyin": "yóuyú",
+      "Meaning": "due to, because of",
+      "Example": "由于下雨，比赛取消了。 yóuyú xià yǔ, bǐsài qǔxiāo le: the match was cancelled due to rain",
+      "Notes": "由 from + 于 at = arising from → due to. A formal 因为."
+    },
+    {
+      "Hanzi": "属于",
+      "Pinyin": "shǔyú",
+      "Meaning": "to belong to",
+      "Example": "这本书属于我。 zhè běn shū shǔyú wǒ: this book belongs to me",
+      "Notes": "属 belong to, be of a category + 于 to = belong to. Same 属 as 你属什么 (your zodiac sign)."
+    },
+    {
+      "Hanzi": "事实",
+      "Pinyin": "shìshí",
+      "Meaning": "fact",
+      "Example": "这是事实。 zhè shì shìshí: that's a fact",
+      "Notes": "事 matter + 实 real = a real matter → fact."
+    },
+    {
+      "Hanzi": "表演",
+      "Pinyin": "biǎoyǎn",
+      "Meaning": "performance; to perform",
+      "Example": "表演很精彩。 biǎoyǎn hěn jīngcǎi: the show was great",
+      "Notes": "表 show + 演 act = show by acting → perform."
+    },
+    {
+      "Hanzi": "规定",
+      "Pinyin": "guīdìng",
+      "Meaning": "rule; to stipulate",
+      "Example": "这是公司的规定。 zhè shì gōngsī de guīdìng: it's company rules",
+      "Notes": "规 rule, compass (夫 + 见) + 定 fix = a fixed rule."
+    },
+    {
+      "Hanzi": "市场",
+      "Pinyin": "shìchǎng",
+      "Meaning": "market",
+      "Example": "我去市场买菜。 wǒ qù shìchǎng mǎi cài: I'm going to the market",
+      "Notes": "市 market + 场 open ground = marketplace."
+    },
+    {
+      "Hanzi": "管理",
+      "Pinyin": "guǎnlǐ",
+      "Meaning": "to manage; management",
+      "Example": "他管理一家公司。 tā guǎnlǐ yì jiā gōngsī: he manages a company",
+      "Notes": "管 control + 理 put in order = manage."
+    },
+    {
+      "Hanzi": "实际上",
+      "Pinyin": "shíjìshàng",
+      "Meaning": "actually, in reality",
+      "Example": "实际上他是对的。 shíjìshàng tā shì duì de: actually he's right",
+      "Notes": "实际 reality (实 real + 际 border, between) + 上 on = on the side of reality → in fact."
+    },
+    {
+      "Hanzi": "现实",
+      "Pinyin": "xiànshí",
+      "Meaning": "reality; realistic",
+      "Example": "这就是现实。 zhè jiù shì xiànshí: that's reality",
+      "Notes": "现 present, visible + 实 real = what's actually present → reality."
+    },
+    {
+      "Hanzi": "内容",
+      "Pinyin": "nèiróng",
+      "Meaning": "content",
+      "Example": "这本书的内容很好。 zhè běn shū de nèiróng hěn hǎo: this book has good content",
+      "Notes": "内 inside + 容 contain = what's contained inside → content."
+    },
+    {
+      "Hanzi": "上面",
+      "Pinyin": "shàngmiàn",
+      "Meaning": "on top; above",
+      "Example": "书在桌子上面。 shū zài zhuōzi shàngmiàn: the book's on the table",
+      "Notes": "上 up + 面 side, surface = the top side. Often said shàngmian."
+    }
+  ]
+}

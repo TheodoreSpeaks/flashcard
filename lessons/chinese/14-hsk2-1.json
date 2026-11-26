@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.1 · 因为, 所以, 虽然, 可以, 完成",
+  "focus": "啊 · 让 · 但 · 可以 · 为 · 这样 · 因为 · 但是 · 可能 · 所以 · 那么 · 这么 · 认为 · 成 · 所有 · 成为 · 然后 · 为什么 · 进行 · 安全 · 完全 · 完 · 可是 · 全 · 以后 · 虽然 · 原因 · 进入 · 有人 · 分钟 · 人们 · 能够 · 完成 · 部分 · 以前 · 以为 · 行动 · 全部 · 行为",
+  "body": "The connectors that hold sentences together: because, so, but, although, then. Watch 为 (two readings) and 以, which each appear in five or six words here.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 为 | wèi / wéi | for / be, as | 因为, 为什么 (wèi); 认为, 成为, 以为, 行为 (wéi) |\n| 以 | yǐ | by; (marks a reference point) | 可以, 所以, 以后, 以前, 以为 |\n| 可 | kě | can; approve | 可以, 可能, 可是 |\n| 全 | quán | whole | 安全, 完全, 全部 |\n| 完 | wán | finish (宀 + 元) | 完全, 完成 |\n| 成 | chéng | become; complete | 成为, 完成 |\n| 行 | xíng | go; do | 进行, 行动, 行为 |\n| 所 | suǒ | that which; place | 所以, 所有 |\n\n## Watch out\n\n- 为 is wèi (for, because) in 因为 and 为什么, but wéi (be, as) in 认为, 成为, 以为, 行为.\n- 认为 = genuinely think; 以为 = thought (and was wrong).\n- 以后 (after) and 以前 (before) are mirror images.\n- 行 is xíng (go, do) here; háng means row or line (银行).\n- 入 rù (enter) vs 人 rén (person): in 入 the right stroke starts higher.\n- 全 quán vs 金 jīn (gold): 金 has two extra dots and a longer body.",
+  "cards": [
+    {
+      "Hanzi": "啊",
+      "Pinyin": "a / ā",
+      "Meaning": "(particle: softens or exclaims); ah!",
+      "Example": "好啊！ hǎo a: Sure!",
+      "Notes": "口 mouth + 阿 ā for the sound. Toneless a at the end of a sentence; ā (and other tones) as an interjection"
+    },
+    {
+      "Hanzi": "让",
+      "Pinyin": "ràng",
+      "Meaning": "to let; to make (someone do)",
+      "Example": "让我看看。 ràng wǒ kànkan: Let me have a look.",
+      "Notes": "讠 speech + 上 (simplified from 讓). Also 'yield': 让路 make way"
+    },
+    {
+      "Hanzi": "但",
+      "Pinyin": "dàn",
+      "Meaning": "but",
+      "Example": "我想去，但没时间。 wǒ xiǎng qù, dàn méi shíjiān: I want to go, but I have no time.",
+      "Notes": "亻 person + 旦 dàn for the sound (旦 = sun over the horizon)"
+    },
+    {
+      "Hanzi": "可以",
+      "Pinyin": "kěyǐ",
+      "Meaning": "can; may; okay",
+      "Example": "我可以进来吗？ wǒ kěyǐ jìnlai ma: May I come in?",
+      "Notes": "可 can, approve + 以 by means of = permitted: can, may"
+    },
+    {
+      "Hanzi": "为",
+      "Pinyin": "wèi / wéi",
+      "Meaning": "for; because of (wèi); to be, act as (wéi)",
+      "Example": "我为你高兴。 wǒ wèi nǐ gāoxìng: I'm happy for you.",
+      "Notes": "Simplified from 爲. wèi in 为什么, 因为; wéi in 认为, 成为, 以为. Lookalike: 办 bàn"
+    },
+    {
+      "Hanzi": "这样",
+      "Pinyin": "zhèyàng",
+      "Meaning": "like this; this way",
+      "Example": "别这样！ bié zhèyàng: Don't be like that!",
+      "Notes": "这 this + 样 kind, shape (木 + 羊 yáng for the sound) = this kind"
+    },
+    {
+      "Hanzi": "因为",
+      "Pinyin": "yīnwèi",
+      "Meaning": "because",
+      "Example": "因为下雨，我没去。 yīnwèi xiàyǔ, wǒ méi qù: Because it rained, I didn't go.",
+      "Notes": "因 cause (大 inside 囗) + 为 wèi for = on account of. Pairs with 所以"
+    },
+    {
+      "Hanzi": "但是",
+      "Pinyin": "dànshì",
+      "Meaning": "but; however",
+      "Example": "很贵，但是很好吃。 hěn guì, dànshì hěn hǎochī: Pricey, but delicious.",
+      "Notes": "但 but + 是 = but, however; a fuller form of 但"
+    },
+    {
+      "Hanzi": "可能",
+      "Pinyin": "kěnéng",
+      "Meaning": "maybe; possible",
+      "Example": "他可能不来了。 tā kěnéng bù lái le: He might not come.",
+      "Notes": "可 can + 能 able = could be: possible"
+    },
+    {
+      "Hanzi": "所以",
+      "Pinyin": "suǒyǐ",
+      "Meaning": "so; therefore",
+      "Example": "我病了，所以没来。 wǒ bìng le, suǒyǐ méi lái: I was sick, so I didn't come.",
+      "Notes": "所 that which (户 door + 斤 axe) + 以 by = that by which: therefore"
+    },
+    {
+      "Hanzi": "那么",
+      "Pinyin": "nàme",
+      "Meaning": "like that; so; then",
+      "Example": "那么，我们走吧。 nàme, wǒmen zǒu ba: Well then, let's go.",
+      "Notes": "那 that + 么 (suffix) = that way, so. Mirror: 这么"
+    },
+    {
+      "Hanzi": "这么",
+      "Pinyin": "zhème",
+      "Meaning": "so; like this",
+      "Example": "你怎么这么快？ nǐ zěnme zhème kuài: How are you so fast?",
+      "Notes": "这 this + 么 (suffix) = this way, so (much)"
+    },
+    {
+      "Hanzi": "认为",
+      "Pinyin": "rènwéi",
+      "Meaning": "to think; to consider",
+      "Example": "我认为他是对的。 wǒ rènwéi tā shì duì de: I think he's right.",
+      "Notes": "认 recognize (讠 + 人) + 为 wéi as = recognize as: consider. 为 is wéi here"
+    },
+    {
+      "Hanzi": "成",
+      "Pinyin": "chéng",
+      "Meaning": "to become; to succeed; OK!",
+      "Example": "成，就这么办。 chéng, jiù zhème bàn: OK, let's do it that way.",
+      "Notes": "戊 (axe-weapon) + 丁 dīng for the sound, now squeezed into ㇆. Means 'complete'"
+    },
+    {
+      "Hanzi": "所有",
+      "Pinyin": "suǒyǒu",
+      "Meaning": "all",
+      "Example": "所有的人都来了。 suǒyǒu de rén dōu lái le: Everyone came.",
+      "Notes": "所 that which + 有 have = whatever there is: all"
+    },
+    {
+      "Hanzi": "成为",
+      "Pinyin": "chéngwéi",
+      "Meaning": "to become",
+      "Example": "她成为了老师。 tā chéngwéile lǎoshī: She became a teacher.",
+      "Notes": "成 become + 为 wéi be = become. 为 is wéi here"
+    },
+    {
+      "Hanzi": "然后",
+      "Pinyin": "ránhòu",
+      "Meaning": "then; after that",
+      "Example": "先吃饭，然后走。 xiān chīfàn, ránhòu zǒu: Eat first, then go.",
+      "Notes": "然 so, like that (灬 fire at the bottom) + 后 after = after that"
+    },
+    {
+      "Hanzi": "为什么",
+      "Pinyin": "wèishénme",
+      "Meaning": "why",
+      "Example": "你为什么不来？ nǐ wèishénme bù lái: Why aren't you coming?",
+      "Notes": "为 wèi for + 什么 what = for what: why. 为 is wèi here"
+    },
+    {
+      "Hanzi": "进行",
+      "Pinyin": "jìnxíng",
+      "Meaning": "to carry out; to be underway",
+      "Example": "会议正在进行。 huìyì zhèngzài jìnxíng: The meeting is underway.",
+      "Notes": "进 advance + 行 go, do = carry forward. 行 is xíng here (háng = row)"
+    },
+    {
+      "Hanzi": "安全",
+      "Pinyin": "ānquán",
+      "Meaning": "safe; safety",
+      "Example": "开车要注意安全。 kāichē yào zhùyì ānquán: Drive safely.",
+      "Notes": "安 peace (宀 roof + 女 woman: safe at home) + 全 whole = safe and sound"
+    },
+    {
+      "Hanzi": "完全",
+      "Pinyin": "wánquán",
+      "Meaning": "completely",
+      "Example": "我完全忘了。 wǒ wánquán wàng le: I completely forgot.",
+      "Notes": "完 finished, whole + 全 whole = entirely"
+    },
+    {
+      "Hanzi": "完",
+      "Pinyin": "wán",
+      "Meaning": "to finish; done",
+      "Example": "作业做完了。 zuòyè zuòwán le: The homework's done.",
+      "Notes": "宀 roof + 元 yuán for the sound. After verbs = finish doing (吃完, 做完)"
+    },
+    {
+      "Hanzi": "可是",
+      "Pinyin": "kěshì",
+      "Meaning": "but",
+      "Example": "我想买，可是太贵了。 wǒ xiǎng mǎi, kěshì tài guì le: I want it, but it's too pricey.",
+      "Notes": "可 + 是 = but; like 但是, a bit more spoken"
+    },
+    {
+      "Hanzi": "全",
+      "Pinyin": "quán",
+      "Meaning": "whole; all",
+      "Example": "全家都来了。 quán jiā dōu lái le: The whole family came.",
+      "Notes": "入 over 王 (jade 玉): flawless jade, so 'whole'. Lookalike: 金 jīn (gold)"
+    },
+    {
+      "Hanzi": "以后",
+      "Pinyin": "yǐhòu",
+      "Meaning": "after; later",
+      "Example": "以后再说吧。 yǐhòu zài shuō ba: Let's talk about it later.",
+      "Notes": "以 (marks a reference point) + 后 after = from then on, later. Mirror: 以前"
+    },
+    {
+      "Hanzi": "虽然",
+      "Pinyin": "suīrán",
+      "Meaning": "although",
+      "Example": "虽然很累，但很开心。 suīrán hěn lèi, dàn hěn kāixīn: Tired, but happy.",
+      "Notes": "虽 although (口 + 虫) + 然 so = even so. Pairs with 但是 or 可是"
+    },
+    {
+      "Hanzi": "原因",
+      "Pinyin": "yuányīn",
+      "Meaning": "reason; cause",
+      "Example": "原因是什么？ yuányīn shì shénme: What's the reason?",
+      "Notes": "原 source (厂 cliff with a spring under it) + 因 cause = root cause"
+    },
+    {
+      "Hanzi": "进入",
+      "Pinyin": "jìnrù",
+      "Meaning": "to enter",
+      "Example": "请从这儿进入。 qǐng cóng zhèr jìnrù: Please enter here.",
+      "Notes": "进 advance + 入 enter = go in. 入 vs 人: in 入 the right stroke starts higher"
+    },
+    {
+      "Hanzi": "有人",
+      "Pinyin": "yǒurén",
+      "Meaning": "someone; there's somebody",
+      "Example": "有人在吗? yǒu rén zài ma: Is anyone there?",
+      "Notes": "有 vs 右 (yòu, right): same top, but 有 has 月 underneath"
+    },
+    {
+      "Hanzi": "分钟",
+      "Pinyin": "fēnzhōng",
+      "Meaning": "minute",
+      "Example": "等我五分钟。 děng wǒ wǔ fēnzhōng: Give me five minutes.",
+      "Notes": "分 divide (八 split + 刀 knife) + 钟 clock (钅 metal + 中 zhōng for the sound) = a division of the clock"
+    },
+    {
+      "Hanzi": "人们",
+      "Pinyin": "rénmen",
+      "Meaning": "people",
+      "Example": "人们都很高兴。 rénmen dōu hěn gāoxìng: Everyone is happy.",
+      "Notes": "人 person + 们 (plural) = people"
+    },
+    {
+      "Hanzi": "能够",
+      "Pinyin": "nénggòu",
+      "Meaning": "to be able to",
+      "Example": "我能够做到。 wǒ nénggòu zuòdào: I can do it.",
+      "Notes": "能 able + 够 enough (句 + 多) = able enough: can"
+    },
+    {
+      "Hanzi": "完成",
+      "Pinyin": "wánchéng",
+      "Meaning": "to complete",
+      "Example": "我完成了作业。 wǒ wánchéngle zuòyè: I finished my homework.",
+      "Notes": "完 finish + 成 accomplish = complete"
+    },
+    {
+      "Hanzi": "部分",
+      "Pinyin": "bùfen",
+      "Meaning": "part; section",
+      "Example": "一部分人走了。 yíbùfen rén zǒu le: Some of the people left.",
+      "Notes": "部 section (咅 + 阝) + 分 divide = a divided-off part. 分 is toneless here"
+    },
+    {
+      "Hanzi": "以前",
+      "Pinyin": "yǐqián",
+      "Meaning": "before; formerly",
+      "Example": "我以前住在这儿。 wǒ yǐqián zhù zài zhèr: I used to live here.",
+      "Notes": "以 (reference point) + 前 before = before then. Mirror: 以后"
+    },
+    {
+      "Hanzi": "以为",
+      "Pinyin": "yǐwéi",
+      "Meaning": "to (mistakenly) think",
+      "Example": "我以为你走了。 wǒ yǐwéi nǐ zǒu le: I thought you'd left.",
+      "Notes": "以 take + 为 wéi as = take it as: assume, often wrongly. Compare 认为"
+    },
+    {
+      "Hanzi": "行动",
+      "Pinyin": "xíngdòng",
+      "Meaning": "action; to act",
+      "Example": "快点儿行动吧！ kuài diǎnr xíngdòng ba: Let's get moving!",
+      "Notes": "行 go (picture of a crossroads) + 动 move (云 + 力 strength) = act"
+    },
+    {
+      "Hanzi": "全部",
+      "Pinyin": "quánbù",
+      "Meaning": "all; whole",
+      "Example": "全部都是我的。 quánbù dōu shì wǒ de: It's all mine.",
+      "Notes": "全 whole + 部 part = every part: all"
+    },
+    {
+      "Hanzi": "行为",
+      "Pinyin": "xíngwéi",
+      "Meaning": "behavior; conduct",
+      "Example": "这种行为不好。 zhè zhǒng xíngwéi bù hǎo: That kind of behavior isn't okay.",
+      "Notes": "行 conduct + 为 wéi doing = behavior. 为 is wéi here"
+    }
+  ]
+}

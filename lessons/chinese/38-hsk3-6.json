@@ -1,0 +1,287 @@
+{
+  "title": "HSK 3.6 · 父母, 幸福, 值得, 反对, 教练",
+  "focus": "各位 · 约 · 抓 · 光 · 父亲 · 金 · 社会 · 谈 · 至少 · 首先 · 父母 · 安排 · 敢 · 某 · 随 · 会议 · 幸福 · 赢 · 步 · 母亲 · 训练 · 过程 · 深 · 各 · 选手 · 值得 · 亲 · 反应 · 价值 · 值 · 速度 · 反对 · 程度 · 抓住 · 各种 · 对手 · 幸运 · 教练 · 资金 · 对象",
+  "body": "Family words (父亲, 母亲, 父母, 亲), sports words (训练, 教练, 选手, 对手) and a 值 \"worth\" family fill this lesson. 各 (each) and 对 (facing, opposite) each appear three times.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 各 | gè | each, every | 各位, 各, 各种 |\n| 亲 | qīn | parent, close kin | 父亲, 母亲, 亲 |\n| 对 | duì | facing, opposite | 反对, 对手, 对象 |\n| 值 | zhí | worth (亻 + 直 zhí sound) | 值得, 价值, 值 |\n| 父 / 母 | fù / mǔ | father / mother | 父亲, 父母, 母亲 |\n| 反 | fǎn | reverse, against | 反应, 反对 |\n| 幸 | xìng | fortunate | 幸福, 幸运 |\n| 练 | liàn | practise (纟 silk) | 训练, 教练 |\n\n## Watch out\n\n- 幸 xìng (fortunate) vs 辛 xīn (bitter): 幸 has 土 on top.\n- 步: the bottom is not 少, so don't add the extra dot.\n- 教 is jiào in 教练 and 教室, but jiāo as a verb (教我).",
+  "cards": [
+    {
+      "Hanzi": "各位",
+      "Pinyin": "gèwèi",
+      "Meaning": "everyone (polite address)",
+      "Example": "各位好！ gèwèi hǎo: hello everyone!",
+      "Notes": "各 each + 位 (polite classifier for people) = each of you → everyone."
+    },
+    {
+      "Hanzi": "约",
+      "Pinyin": "yuē",
+      "Meaning": "to make an appointment; about, approximately",
+      "Example": "我约了朋友。 wǒ yuē le péngyou: I've made plans with a friend",
+      "Notes": "纟 silk + 勺 sháo (sound hint) = tie up → agreement, date. 大约 about. 约会 a date."
+    },
+    {
+      "Hanzi": "抓",
+      "Pinyin": "zhuā",
+      "Meaning": "to grab, catch",
+      "Example": "抓住我的手。 zhuāzhù wǒ de shǒu: grab my hand",
+      "Notes": "扌 hand + 爪 zhuǎ claw (also the sound) = grab."
+    },
+    {
+      "Hanzi": "光",
+      "Pinyin": "guāng",
+      "Meaning": "light; only; used up",
+      "Example": "钱花光了。 qián huā guāng le: the money's all spent",
+      "Notes": "Fire on top of 儿 (a person) = light. After verbs: all used up (吃光了)."
+    },
+    {
+      "Hanzi": "父亲",
+      "Pinyin": "fùqīn",
+      "Meaning": "father (formal)",
+      "Example": "我父亲是医生。 wǒ fùqīn shì yīshēng: my father is a doctor",
+      "Notes": "父 father + 亲 parent, close kin = father. Formal version of 爸爸."
+    },
+    {
+      "Hanzi": "金",
+      "Pinyin": "jīn",
+      "Meaning": "gold; money; surname Jin/Kim",
+      "Example": "这是金的吗？ zhè shì jīn de ma: is this gold?",
+      "Notes": "As a radical on the left it becomes 钅 metal: 钱 money, 银 silver, 铁 iron."
+    },
+    {
+      "Hanzi": "社会",
+      "Pinyin": "shèhuì",
+      "Meaning": "society",
+      "Example": "社会变化很快。 shèhuì biànhuà hěn kuài: society is changing fast",
+      "Notes": "社 community (礻 altar + 土 earth: the village earth-god altar) + 会 gather = society."
+    },
+    {
+      "Hanzi": "谈",
+      "Pinyin": "tán",
+      "Meaning": "to talk, discuss",
+      "Example": "我们谈谈吧。 wǒmen tántan ba: let's talk",
+      "Notes": "讠 speech + 炎 yán for the sound = talk. 谈恋爱 to date."
+    },
+    {
+      "Hanzi": "至少",
+      "Pinyin": "zhìshǎo",
+      "Meaning": "at least",
+      "Example": "至少要三天。 zhìshǎo yào sān tiān: it takes at least three days",
+      "Notes": "至 to, utmost + 少 few = at the fewest → at least."
+    },
+    {
+      "Hanzi": "首先",
+      "Pinyin": "shǒuxiān",
+      "Meaning": "first of all",
+      "Example": "首先，谢谢大家。 shǒuxiān, xièxie dàjiā: first of all, thank you all",
+      "Notes": "首 head + 先 first = at the head → first of all."
+    },
+    {
+      "Hanzi": "父母",
+      "Pinyin": "fùmǔ",
+      "Meaning": "parents",
+      "Example": "我父母都在北京。 wǒ fùmǔ dōu zài Běijīng: my parents are both in Beijing",
+      "Notes": "父 father + 母 mother = parents."
+    },
+    {
+      "Hanzi": "安排",
+      "Pinyin": "ānpái",
+      "Meaning": "to arrange; arrangements",
+      "Example": "我来安排。 wǒ lái ānpái: I'll arrange it",
+      "Notes": "安 settle + 排 line up (扌 hand + 非 fēi for the sound) = settle and line up → arrange."
+    },
+    {
+      "Hanzi": "敢",
+      "Pinyin": "gǎn",
+      "Meaning": "to dare",
+      "Example": "我不敢说。 wǒ bù gǎn shuō: I don't dare say",
+      "Notes": "Left part + 攵 (a hand holding a stick, \"action\") = to dare. 不敢 = not dare."
+    },
+    {
+      "Hanzi": "某",
+      "Pinyin": "mǒu",
+      "Meaning": "a certain, some",
+      "Example": "某个人告诉我的。 mǒu ge rén gàosu wǒ de: someone told me",
+      "Notes": "甘 sweet + 木 tree. Also the sound part of 谋 móu, 媒 méi, 煤 méi."
+    },
+    {
+      "Hanzi": "随",
+      "Pinyin": "suí",
+      "Meaning": "to follow; as you like",
+      "Example": "随你。 suí nǐ: up to you",
+      "Notes": "阝 + 有 + 辶 walk = follow. 随便 whatever, 随时 any time."
+    },
+    {
+      "Hanzi": "会议",
+      "Pinyin": "huìyì",
+      "Meaning": "meeting, conference",
+      "Example": "会议几点开始？ huìyì jǐ diǎn kāishǐ: when does the meeting start?",
+      "Notes": "会 meet + 议 discuss = meet to discuss → meeting."
+    },
+    {
+      "Hanzi": "幸福",
+      "Pinyin": "xìngfú",
+      "Meaning": "happiness; happy (life)",
+      "Example": "祝你们幸福！ zhù nǐmen xìngfú: wishing you happiness!",
+      "Notes": "幸 fortunate + 福 blessing (礻 altar) = blessed → happy. 幸 xìng vs 辛 xīn bitter."
+    },
+    {
+      "Hanzi": "赢",
+      "Pinyin": "yíng",
+      "Meaning": "to win",
+      "Example": "我们赢了！ wǒmen yíng le: we won!",
+      "Notes": "Packed with parts: 亡 口 月 贝 凡; 贝 (money) hints at gain. Opposite: 输 shū lose."
+    },
+    {
+      "Hanzi": "步",
+      "Pinyin": "bù",
+      "Meaning": "step, pace",
+      "Example": "一步一步来。 yí bù yí bù lái: one step at a time",
+      "Notes": "止 foot on top + another foot below = two feet → step. The bottom is not 少: no extra dot."
+    },
+    {
+      "Hanzi": "母亲",
+      "Pinyin": "mǔqīn",
+      "Meaning": "mother (formal)",
+      "Example": "母亲节快乐！ Mǔqīn jié kuàilè: happy Mother's Day!",
+      "Notes": "母 mother (woman with two dots) + 亲 parent = mother. Formal version of 妈妈."
+    },
+    {
+      "Hanzi": "训练",
+      "Pinyin": "xùnliàn",
+      "Meaning": "training; to train",
+      "Example": "他每天训练。 tā měitiān xùnliàn: he trains every day",
+      "Notes": "训 instruct (讠 speech + 川 chuān for the sound) + 练 practise (纟) = drill, train."
+    },
+    {
+      "Hanzi": "过程",
+      "Pinyin": "guòchéng",
+      "Meaning": "process",
+      "Example": "过程很重要。 guòchéng hěn zhòngyào: the process matters",
+      "Notes": "过 pass + 程 journey, procedure (禾 + 呈 chéng for the sound) = the road you pass along → process."
+    },
+    {
+      "Hanzi": "深",
+      "Pinyin": "shēn",
+      "Meaning": "deep; dark (colour)",
+      "Example": "这条河很深。 zhè tiáo hé hěn shēn: this river is deep",
+      "Notes": "氵 water + right part (sound) = deep water. Colours: 深蓝 dark blue."
+    },
+    {
+      "Hanzi": "各",
+      "Pinyin": "gè",
+      "Meaning": "each, every",
+      "Example": "各人有各人的想法。 gè rén yǒu gè rén de xiǎngfǎ: everyone has their own ideas",
+      "Notes": "夂 + 口. The sound part in 格, 客, 路, 落."
+    },
+    {
+      "Hanzi": "选手",
+      "Pinyin": "xuǎnshǒu",
+      "Meaning": "contestant, player",
+      "Example": "他是最好的选手。 tā shì zuì hǎo de xuǎnshǒu: he's the best player",
+      "Notes": "选 choose + 手 hand, skilled person = chosen hand → contestant."
+    },
+    {
+      "Hanzi": "值得",
+      "Pinyin": "zhíde",
+      "Meaning": "to be worth (doing)",
+      "Example": "这本书值得看。 zhè běn shū zhíde kàn: this book is worth reading",
+      "Notes": "值 worth + 得 get = worth getting → worthwhile."
+    },
+    {
+      "Hanzi": "亲",
+      "Pinyin": "qīn",
+      "Meaning": "dear; close relative; to kiss",
+      "Example": "亲一下。 qīn yíxià: give me a kiss",
+      "Notes": "立 + 木; the traditional 親 adds 见 see. 亲人 family, 亲自 in person."
+    },
+    {
+      "Hanzi": "反应",
+      "Pinyin": "fǎnyìng",
+      "Meaning": "reaction; to react",
+      "Example": "他反应很快。 tā fǎnyìng hěn kuài: he reacts quickly",
+      "Notes": "反 back + 应 yìng respond = respond back → react. 应 is yīng in 应该."
+    },
+    {
+      "Hanzi": "价值",
+      "Pinyin": "jiàzhí",
+      "Meaning": "value, worth",
+      "Example": "这有什么价值？ zhè yǒu shénme jiàzhí: what's the value of this?",
+      "Notes": "价 price + 值 worth = value."
+    },
+    {
+      "Hanzi": "值",
+      "Pinyin": "zhí",
+      "Meaning": "to be worth; value",
+      "Example": "这个值多少钱？ zhège zhí duōshao qián: how much is this worth?",
+      "Notes": "亻 person + 直 zhí for the sound = worth."
+    },
+    {
+      "Hanzi": "速度",
+      "Pinyin": "sùdù",
+      "Meaning": "speed",
+      "Example": "速度太快了。 sùdù tài kuài le: it's way too fast",
+      "Notes": "速 fast (辶 + 束 shù for the sound) + 度 degree, measure = speed."
+    },
+    {
+      "Hanzi": "反对",
+      "Pinyin": "fǎnduì",
+      "Meaning": "to oppose, object to",
+      "Example": "我反对。 wǒ fǎnduì: I object",
+      "Notes": "反 against + 对 face = face against → oppose."
+    },
+    {
+      "Hanzi": "程度",
+      "Pinyin": "chéngdù",
+      "Meaning": "degree, level, extent",
+      "Example": "你的中文到什么程度？ nǐ de Zhōngwén dào shénme chéngdù: how good is your Chinese?",
+      "Notes": "程 measure, rule + 度 degree = extent."
+    },
+    {
+      "Hanzi": "抓住",
+      "Pinyin": "zhuāzhù",
+      "Meaning": "to grab hold of, seize",
+      "Example": "抓住机会！ zhuāzhù jīhuì: seize the chance!",
+      "Notes": "抓 grab + 住 hold firm (result) = grab and hold on."
+    },
+    {
+      "Hanzi": "各种",
+      "Pinyin": "gèzhǒng",
+      "Meaning": "all kinds of",
+      "Example": "这里有各种水果。 zhèlǐ yǒu gè zhǒng shuǐguǒ: there's all kinds of fruit here",
+      "Notes": "各 each + 种 kind = every kind."
+    },
+    {
+      "Hanzi": "对手",
+      "Pinyin": "duìshǒu",
+      "Meaning": "opponent, rival",
+      "Example": "他是我的对手。 tā shì wǒ de duìshǒu: he's my rival",
+      "Notes": "对 opposite + 手 hand, player = the player opposite → opponent."
+    },
+    {
+      "Hanzi": "幸运",
+      "Pinyin": "xìngyùn",
+      "Meaning": "lucky; luck",
+      "Example": "你真幸运！ nǐ zhēn xìngyùn: you're so lucky!",
+      "Notes": "幸 fortunate + 运 luck, move (辶 + 云 yún for the sound) = good luck."
+    },
+    {
+      "Hanzi": "教练",
+      "Pinyin": "jiàoliàn",
+      "Meaning": "coach",
+      "Example": "他是我的教练。 tā shì wǒ de jiàoliàn: he's my coach",
+      "Notes": "教 jiào teach + 练 practise = one who drills you → coach. 教 is jiāo as a plain verb."
+    },
+    {
+      "Hanzi": "资金",
+      "Pinyin": "zījīn",
+      "Meaning": "funds, capital",
+      "Example": "我们没有资金。 wǒmen méiyǒu zījīn: we have no funding",
+      "Notes": "资 resources (贝 money + 次 cì for the sound) + 金 money = funds."
+    },
+    {
+      "Hanzi": "对象",
+      "Pinyin": "duìxiàng",
+      "Meaning": "partner (boyfriend/girlfriend); target, object",
+      "Example": "你有对象吗？ nǐ yǒu duìxiàng ma: are you seeing anyone?",
+      "Notes": "对 facing + 象 image = the one you face → target, object; colloquially a partner."
+    }
+  ]
+}

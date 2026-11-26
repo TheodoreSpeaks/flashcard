@@ -1,0 +1,97 @@
+{
+  "title": "Write 7 · 太 最 再 呢 次 小 知 道 时 候 走 后 间 今 孩",
+  "focus": "太 最 再 呢 次 小 知 道 时 候 走 后 间 今 孩",
+  "body": "Repeating parts: 日 sun (最, 时, 间), 口 (呢, 知, 后), 寸 (时), 欠 (次), 子 (孩), 辶 (道).\n\n## Rules that matter here\n- **Centre before the sides**: 小 (and 少 in the next lesson).\n- **Door frames**: 间 = 门 first, then what's inside; 门 has no bottom to close.\n- 再 vs 在 (both zài): 再 'again' is the one with 冂 and a long bottom line.",
+  "cards": [
+    {
+      "Prompt": "＿好了 · tài hǎo le · great!",
+      "Hanzi": "太",
+      "Pinyin": "tài",
+      "Notes": "大 big (3) + a dot (1) = 4 strokes. Write 大 fully, then the dot under it last. Lookalike: 犬 (dot on top right)."
+    },
+    {
+      "Prompt": "＿后 · zuìhòu · last, finally",
+      "Hanzi": "最",
+      "Pinyin": "zuì",
+      "Notes": "日 (4) + 取 take (8: 耳 + 又) = 12 strokes. Top before bottom; 耳's last horizontal becomes a rising stroke."
+    },
+    {
+      "Prompt": "＿见 · zàijiàn · goodbye",
+      "Hanzi": "再",
+      "Pinyin": "zài",
+      "Notes": "6 strokes: top 一, 丨, 横折钩, middle 一, the central vertical, then the long 一 last. Lookalike: 在 (same sound)."
+    },
+    {
+      "Prompt": "你＿？ · nǐ ne · and you?",
+      "Hanzi": "呢",
+      "Pinyin": "ne",
+      "Notes": "口 mouth (3, particle) + 尼 (5: 尸 + 匕, phonetic ní) = 8 strokes. Left before right."
+    },
+    {
+      "Prompt": "下＿ · xià cì · next time",
+      "Hanzi": "次",
+      "Pinyin": "cì",
+      "Notes": "冫 ice (2) + 欠 (4) = 6 strokes. Watch: two dots 冫, not three 氵. Lookalike: 欢 (又 + 欠)."
+    },
+    {
+      "Prompt": "＿心 · xiǎoxīn · be careful",
+      "Hanzi": "小",
+      "Pinyin": "xiǎo",
+      "Notes": "3 strokes. Centre before sides: the vertical hook first, then the left dot, then the right dot. Lookalike: 少 (adds ノ)."
+    },
+    {
+      "Prompt": "＿道 · zhīdào · to know",
+      "Hanzi": "知",
+      "Pinyin": "zhī",
+      "Notes": "矢 arrow (5) + 口 mouth (3) = 8 strokes. Left before right; 矢's ㇏ shrinks to a dot. Lookalike: 和 (禾 + 口)."
+    },
+    {
+      "Prompt": "知＿ · zhīdào · to know",
+      "Hanzi": "道",
+      "Pinyin": "dào",
+      "Notes": "首 head (9: 丷, 一, 自) + 辶 walk (3) = 12 strokes. 首 first, 辶 LAST."
+    },
+    {
+      "Prompt": "＿间 · shíjiān · time",
+      "Hanzi": "时",
+      "Pinyin": "shí",
+      "Notes": "日 sun (4) + 寸 (3) = 7 strokes. Left before right; 寸's dot last. Lookalike: 对 (又 + 寸)."
+    },
+    {
+      "Prompt": "时＿ · shíhou · time, moment",
+      "Hanzi": "候",
+      "Pinyin": "hou",
+      "Notes": "亻 (2) + a short 丨 (1) + 𠂉 + 矢-like part (7) = 10 strokes. Trap: don't forget the thin vertical; without it it's 侯 hóu."
+    },
+    {
+      "Prompt": "＿路 · zǒulù · to walk",
+      "Hanzi": "走",
+      "Pinyin": "zǒu",
+      "Notes": "土 (3) + a 止-like base (4) = 7 strokes. Top before bottom; the long ㇏ at the bottom right is last. Radical in 起."
+    },
+    {
+      "Prompt": "以＿ · yǐhòu · after, later",
+      "Hanzi": "后",
+      "Pinyin": "hòu",
+      "Notes": "厂-like top (ノ, 一, long ノ) + 口 (3) = 6 strokes. Top short ノ first. Lookalike: 石 (一 on top)."
+    },
+    {
+      "Prompt": "房＿ · fángjiān · room",
+      "Hanzi": "间",
+      "Pinyin": "jiān",
+      "Notes": "门 door (3) + 日 sun (4) = 7 strokes. Write 门 first, then 日 inside (门 has no bottom to close). Sun through a door gap."
+    },
+    {
+      "Prompt": "＿天 · jīntiān · today",
+      "Hanzi": "今",
+      "Pinyin": "jīn",
+      "Notes": "人 (2) + dot + ㇇ = 4 strokes. Top before bottom. Lookalike: 令 lìng (5 strokes, an extra stroke at the bottom)."
+    },
+    {
+      "Prompt": "＿子 · háizi · child",
+      "Hanzi": "孩",
+      "Pinyin": "hái",
+      "Notes": "子 child (3) + 亥 (6, phonetic hài) = 9 strokes. On the left, 子's last horizontal becomes a rising stroke. Lookalike: 该 (讠)."
+    }
+  ]
+}

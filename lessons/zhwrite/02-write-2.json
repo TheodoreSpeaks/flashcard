@@ -1,0 +1,97 @@
+{
+  "title": "Write 2 · 里 出 些 起 别 回 样 女 在 不 就 个 和 说 要",
+  "focus": "里 出 些 起 别 回 样 女 在 不 就 个 和 说 要",
+  "body": "Repeating parts: 口 (别, 回, 和, 说), 女 (女, 要), 走 in 起, and 讠 speech in 说.\n\n## Rules that matter here\n- **Close the box last**: 回 = outer frame, inner 口, then the bottom stroke.\n- **Horizontal vs ノ first**: 在 writes 一 before ノ (like 左); 有 writes ノ first (like 右).\n- In 个, the vertical in the middle is written after 人.",
+  "cards": [
+    {
+      "Prompt": "这＿ · zhèlǐ · here",
+      "Hanzi": "里",
+      "Pinyin": "lǐ",
+      "Notes": "田-like top + 土 = 7 strokes: 丨, 横折, 一, 一, the vertical runs down through, then 一, long 一 last. Lookalike: 理 (王 + 里)."
+    },
+    {
+      "Prompt": "＿去 · chūqù · to go out",
+      "Hanzi": "出",
+      "Pinyin": "chū",
+      "Notes": "Two stacked 凵 shapes on one long vertical = 5 strokes. Top part first: 竖折, the long middle 丨, the short right 丨; then bottom 竖折 and right 丨."
+    },
+    {
+      "Prompt": "一＿ · yìxiē · some",
+      "Hanzi": "些",
+      "Pinyin": "xiē",
+      "Notes": "此 this (6: 止 + 匕) on top + 二 (2) = 8 strokes. Top before bottom; the bottom horizontal is the longest."
+    },
+    {
+      "Prompt": "对不＿ · duìbuqǐ · sorry",
+      "Hanzi": "起",
+      "Pinyin": "qǐ",
+      "Notes": "走 walk (7) + 己 self (3, phonetic jǐ) = 10 strokes. 走 first, then 己. Lookalike: 己 jǐ vs 已 yǐ vs 巳 sì."
+    },
+    {
+      "Prompt": "特＿ · tèbié · especially",
+      "Hanzi": "别",
+      "Pinyin": "bié",
+      "Notes": "另 (口 3 + 力-like 2) + 刂 knife (2) = 7 strokes. Left before right; 刂: short vertical, then the long vertical hook."
+    },
+    {
+      "Prompt": "＿家 · huí jiā · go home",
+      "Hanzi": "回",
+      "Pinyin": "huí",
+      "Notes": "Big 口 around small 口 = 6 strokes. Outside before inside, close the box last: 丨, 横折, inner 口 (3), then bottom 一."
+    },
+    {
+      "Prompt": "一＿ · yíyàng · the same",
+      "Hanzi": "样",
+      "Pinyin": "yàng",
+      "Notes": "木 tree (4) + 羊 sheep (6, phonetic yáng) = 10 strokes. In 木 on the left, ㇏ shrinks to a dot. 羊's vertical is last."
+    },
+    {
+      "Prompt": "＿儿 · nǚ'ér · daughter",
+      "Hanzi": "女",
+      "Pinyin": "nǚ",
+      "Notes": "3 strokes: く (撇点), then ノ, then the horizontal last. As a left radical (好, 她) the horizontal becomes a rising stroke."
+    },
+    {
+      "Prompt": "现＿ · xiànzài · now",
+      "Hanzi": "在",
+      "Pinyin": "zài",
+      "Notes": "一 and ノ (2) + 丨 + 土 earth (3) = 6 strokes. Here the horizontal comes BEFORE ノ (like 左), unlike 有. Lookalike: 再 zài 'again'."
+    },
+    {
+      "Prompt": "＿错 · búcuò · not bad",
+      "Hanzi": "不",
+      "Pinyin": "bú",
+      "Notes": "4 strokes: 一, ノ, 丨, dot. (bù; becomes bú before tone 4.) Lookalike: 还 contains 不 + 辶."
+    },
+    {
+      "Prompt": "＿是 · jiùshì · exactly, precisely",
+      "Hanzi": "就",
+      "Pinyin": "jiù",
+      "Notes": "京 capital (8) + 尤 (4) = 12 strokes. Left before right; in 尤 write 一, ノ, 乚, then the dot last."
+    },
+    {
+      "Prompt": "整＿ · zhěnggè · whole, entire",
+      "Hanzi": "个",
+      "Pinyin": "gè",
+      "Notes": "人 (2) + 丨 (1) = 3 strokes. ノ, ㇏, then the vertical down the middle. Usually toneless ge as a measure word."
+    },
+    {
+      "Prompt": "我＿你 · wǒ hé nǐ · you and me",
+      "Hanzi": "和",
+      "Pinyin": "hé",
+      "Notes": "禾 grain (5) + 口 mouth (3, phonetic-ish) = 8 strokes. 禾: ノ, 一, 丨, ノ, dot. Lookalike: 知 (矢 + 口)."
+    },
+    {
+      "Prompt": "＿话 · shuōhuà · to speak",
+      "Hanzi": "说",
+      "Pinyin": "shuō",
+      "Notes": "讠 speech (2) + 兑 (7: 丷 + 口 + 儿) = 9 strokes. Left before right; 讠 is dot, then ㇊ fold."
+    },
+    {
+      "Prompt": "需＿ · xūyào · to need",
+      "Hanzi": "要",
+      "Pinyin": "yào",
+      "Notes": "覀 (6) on top + 女 woman (3) = 9 strokes. 覀: 一, 丨, 横折, two inner 丨, bottom 一; then 女."
+    }
+  ]
+}

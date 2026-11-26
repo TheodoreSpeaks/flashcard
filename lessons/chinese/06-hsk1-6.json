@@ -1,0 +1,280 @@
+{
+  "title": "HSK 1.6 · 老师, 手机, 飞机, 再见, 告诉",
+  "focus": "几 · 见 · 手 · 非常 · 叫 · 请 · 钱 · 本 · 东西 · 三 · 买 · 问 · 告诉 · 老 · 男人 · 男 · 飞 · 老师 · 病 · 手机 · 看见 · 西 · 常 · 飞机 · 病人 · 生日 · 东 · 家人 · 最好 · 见面 · 好看 · 机场 · 老人 · 工人 · 在家 · 好吃 · 再见 · 常常 · 男生",
+  "body": "People and things around you: 老, 男 and 人 build words for people, 机 (machine) shows up in 手机, 飞机 and 机场, and 见 forms greetings and \"see\" words.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 人 | rén | person | 男人, 病人, 家人, 老人, 工人 |\n| 见 | jiàn | see | 看见, 见面, 再见 |\n| 机 | jī | machine (木 + 几) | 手机, 飞机, 机场 |\n| 老 | lǎo | old | 老师, 老人 |\n| 男 | nán | male (田 + 力) | 男人, 男生 |\n| 好 | hǎo | good | 最好, 好看, 好吃 |\n| 常 | cháng | often, usual | 非常, 常常 |\n| 手 / 飞 / 病 | shǒu / fēi / bìng | hand / fly / ill | 手机, 飞机, 病人 |\n\n## Watch out\n\n- 几 (jǐ) vs 九 (jiǔ, nine) vs 儿 (ér).\n- 见 (jiàn, see) vs 贝 (bèi, shell): 见's last stroke curls out.\n- 西 (xī) vs 四 (sì, four): 西 has a stroke across the top.\n- 东 (dōng, east) vs 车 (chē, vehicle).\n",
+  "cards": [
+    {
+      "Hanzi": "几",
+      "Pinyin": "jǐ",
+      "Meaning": "how many; a few",
+      "Example": "你有几个孩子? nǐ yǒu jǐ ge háizi: How many kids do you have?",
+      "Notes": "Picture of a small table. 几 vs 九 (jiǔ, nine) vs 儿 (ér)"
+    },
+    {
+      "Hanzi": "见",
+      "Pinyin": "jiàn",
+      "Meaning": "to see; to meet",
+      "Example": "明天见! míngtiān jiàn: See you tomorrow!",
+      "Notes": "Simplified from 見: a big eye 目 on legs 儿. 见 vs 贝 (bèi, shell)"
+    },
+    {
+      "Hanzi": "手",
+      "Pinyin": "shǒu",
+      "Meaning": "hand",
+      "Example": "请洗手。 qǐng xǐ shǒu: Please wash your hands.",
+      "Notes": "Picture of a hand with fingers; as a radical it becomes 扌"
+    },
+    {
+      "Hanzi": "非常",
+      "Pinyin": "fēicháng",
+      "Meaning": "very, extremely",
+      "Example": "我非常喜欢。 wǒ fēicháng xǐhuan: I really like it.",
+      "Notes": "非 not + 常 usual = unusual, so 'extremely'"
+    },
+    {
+      "Hanzi": "叫",
+      "Pinyin": "jiào",
+      "Meaning": "to call; to be called",
+      "Example": "妈妈叫你。 māma jiào nǐ: Mom's calling you.",
+      "Notes": "口 mouth on the left: things you do with your voice"
+    },
+    {
+      "Hanzi": "请",
+      "Pinyin": "qǐng",
+      "Meaning": "please; to invite, to treat",
+      "Example": "请喝水。 qǐng hē shuǐ: Please have some water.",
+      "Notes": "讠 speech + 青 qīng: polite words"
+    },
+    {
+      "Hanzi": "钱",
+      "Pinyin": "qián",
+      "Meaning": "money",
+      "Example": "我有钱了! wǒ yǒu qián le: I've got money now!",
+      "Notes": "钅 metal (coins) + 戋 on the right"
+    },
+    {
+      "Hanzi": "本",
+      "Pinyin": "běn",
+      "Meaning": "(measure word for books); root",
+      "Example": "我买了一本书。 wǒ mǎi le yì běn shū: I bought a book.",
+      "Notes": "木 tree + a line marking the root. 本 vs 木 vs 末 (mò, tip)"
+    },
+    {
+      "Hanzi": "东西",
+      "Pinyin": "dōngxi",
+      "Meaning": "thing, stuff",
+      "Example": "这是我的东西。 zhè shì wǒ de dōngxi: That's my stuff.",
+      "Notes": "Literally east + west; read dōngxī it means 'east and west'"
+    },
+    {
+      "Hanzi": "三",
+      "Pinyin": "sān",
+      "Meaning": "three",
+      "Example": "我有三个哥哥。 wǒ yǒu sān ge gēge: I have three older brothers.",
+      "Notes": "Three lines = three"
+    },
+    {
+      "Hanzi": "买",
+      "Pinyin": "mǎi",
+      "Meaning": "to buy",
+      "Example": "妈妈去买菜了。 māma qù mǎi cài le: Mom went to buy groceries.",
+      "Notes": "买 vs 卖 (mài, sell): 卖 has an extra 十 on top"
+    },
+    {
+      "Hanzi": "问",
+      "Pinyin": "wèn",
+      "Meaning": "to ask",
+      "Example": "我问你一个问题。 wǒ wèn nǐ yí ge wèntí: Let me ask you something.",
+      "Notes": "门 mén (door, also the sound) + 口 mouth: a mouth at the door, asking"
+    },
+    {
+      "Hanzi": "告诉",
+      "Pinyin": "gàosu",
+      "Meaning": "to tell",
+      "Example": "别告诉他。 bié gàosu tā: Don't tell him.",
+      "Notes": "告 announce (牛 + 口) + 诉 tell (讠 speech) = to tell"
+    },
+    {
+      "Hanzi": "老",
+      "Pinyin": "lǎo",
+      "Meaning": "old",
+      "Example": "我老了。 wǒ lǎo le: I'm getting old.",
+      "Notes": "Picture of an old person bent with a cane. Before surnames it's friendly: 老王"
+    },
+    {
+      "Hanzi": "男人",
+      "Pinyin": "nánrén",
+      "Meaning": "man",
+      "Example": "那个男人是谁? nàge nánrén shì shéi: Who's that man?",
+      "Notes": "男 male + 人 person"
+    },
+    {
+      "Hanzi": "男",
+      "Pinyin": "nán",
+      "Meaning": "male",
+      "Example": "他是男的。 tā shì nán de: He's male.",
+      "Notes": "田 field + 力 strength: the one who works the field"
+    },
+    {
+      "Hanzi": "飞",
+      "Pinyin": "fēi",
+      "Meaning": "to fly",
+      "Example": "鸟在飞。 niǎo zài fēi: The bird is flying.",
+      "Notes": "Simplified from 飛, a picture of wings; just 3 strokes"
+    },
+    {
+      "Hanzi": "老师",
+      "Pinyin": "lǎoshī",
+      "Meaning": "teacher",
+      "Example": "老师好! lǎoshī hǎo: Hello, teacher!",
+      "Notes": "老 old, respected + 师 master = teacher"
+    },
+    {
+      "Hanzi": "病",
+      "Pinyin": "bìng",
+      "Meaning": "illness; to be sick",
+      "Example": "他病了。 tā bìng le: He's sick.",
+      "Notes": "疒 sickness radical + 丙 bǐng for the sound"
+    },
+    {
+      "Hanzi": "手机",
+      "Pinyin": "shǒujī",
+      "Meaning": "cell phone",
+      "Example": "我的手机呢? wǒ de shǒujī ne: Where's my phone?",
+      "Notes": "手 hand + 机 machine = handheld machine"
+    },
+    {
+      "Hanzi": "看见",
+      "Pinyin": "kànjiàn",
+      "Meaning": "to see, catch sight of",
+      "Example": "你看见我的猫了吗? nǐ kànjiàn wǒ de māo le ma: Did you see my cat?",
+      "Notes": "看 look + 见 see = look and actually see"
+    },
+    {
+      "Hanzi": "西",
+      "Pinyin": "xī",
+      "Meaning": "west",
+      "Example": "太阳在西边。 tàiyáng zài xībian: The sun is in the west.",
+      "Notes": "Originally a picture of a bird's nest, borrowed for 'west'. 西 vs 四 (sì)"
+    },
+    {
+      "Hanzi": "常",
+      "Pinyin": "cháng",
+      "Meaning": "often; usual",
+      "Example": "他常来。 tā cháng lái: He comes often.",
+      "Notes": "尚 shàng (top, for the sound) + 巾 cloth"
+    },
+    {
+      "Hanzi": "飞机",
+      "Pinyin": "fēijī",
+      "Meaning": "airplane",
+      "Example": "我坐飞机去。 wǒ zuò fēijī qù: I'm flying there.",
+      "Notes": "飞 fly + 机 machine = flying machine"
+    },
+    {
+      "Hanzi": "病人",
+      "Pinyin": "bìngrén",
+      "Meaning": "patient, sick person",
+      "Example": "病人在睡觉。 bìngrén zài shuìjiào: The patient is sleeping.",
+      "Notes": "病 ill + 人 person"
+    },
+    {
+      "Hanzi": "生日",
+      "Pinyin": "shēngrì",
+      "Meaning": "birthday",
+      "Example": "生日快乐! shēngrì kuàilè: Happy birthday!",
+      "Notes": "生 born + 日 day = birthday"
+    },
+    {
+      "Hanzi": "东",
+      "Pinyin": "dōng",
+      "Meaning": "east",
+      "Example": "我住在东边。 wǒ zhù zài dōngbian: I live on the east side.",
+      "Notes": "Simplified from 東 (looks like 日 sun behind 木 tree). 东 vs 车 (chē)"
+    },
+    {
+      "Hanzi": "家人",
+      "Pinyin": "jiārén",
+      "Meaning": "family member",
+      "Example": "我很想家人。 wǒ hěn xiǎng jiārén: I miss my family.",
+      "Notes": "家 home + 人 person = family"
+    },
+    {
+      "Hanzi": "最好",
+      "Pinyin": "zuìhǎo",
+      "Meaning": "best; had better",
+      "Example": "你最好别去。 nǐ zuìhǎo bié qù: You'd better not go.",
+      "Notes": "最 most + 好 good = best, so 'you'd best...'"
+    },
+    {
+      "Hanzi": "见面",
+      "Pinyin": "jiànmiàn",
+      "Meaning": "to meet (in person)",
+      "Example": "我们明天见面吧。 wǒmen míngtiān jiànmiàn ba: Let's meet tomorrow.",
+      "Notes": "见 see + 面 face = see face to face"
+    },
+    {
+      "Hanzi": "好看",
+      "Pinyin": "hǎokàn",
+      "Meaning": "good-looking; interesting",
+      "Example": "这个电影很好看。 zhège diànyǐng hěn hǎokàn: This movie is good.",
+      "Notes": "好 good + 看 to look at = nice to watch"
+    },
+    {
+      "Hanzi": "机场",
+      "Pinyin": "jīchǎng",
+      "Meaning": "airport",
+      "Example": "我在机场等你。 wǒ zài jīchǎng děng nǐ: I'll wait for you at the airport.",
+      "Notes": "机 machine (plane) + 场 field, ground (土 + sound) = airfield"
+    },
+    {
+      "Hanzi": "老人",
+      "Pinyin": "lǎorén",
+      "Meaning": "old person, the elderly",
+      "Example": "老人走得很慢。 lǎorén zǒu de hěn màn: The old man walks slowly.",
+      "Notes": "老 old + 人 person"
+    },
+    {
+      "Hanzi": "工人",
+      "Pinyin": "gōngrén",
+      "Meaning": "worker",
+      "Example": "他是工人。 tā shì gōngrén: He's a worker.",
+      "Notes": "工 work + 人 person"
+    },
+    {
+      "Hanzi": "在家",
+      "Pinyin": "zàijiā",
+      "Meaning": "to be at home",
+      "Example": "你在家吗? nǐ zài jiā ma: Are you home?",
+      "Notes": "在 at + 家 home"
+    },
+    {
+      "Hanzi": "好吃",
+      "Pinyin": "hǎochī",
+      "Meaning": "tasty, delicious",
+      "Example": "这个很好吃! zhège hěn hǎochī: This is delicious!",
+      "Notes": "好 good + 吃 to eat = good to eat"
+    },
+    {
+      "Hanzi": "再见",
+      "Pinyin": "zàijiàn",
+      "Meaning": "goodbye",
+      "Example": "老师再见! lǎoshī zàijiàn: Goodbye, teacher!",
+      "Notes": "再 again + 见 see = see you again"
+    },
+    {
+      "Hanzi": "常常",
+      "Pinyin": "chángcháng",
+      "Meaning": "often",
+      "Example": "我常常想你。 wǒ chángcháng xiǎng nǐ: I often think of you.",
+      "Notes": "常 often, doubled for emphasis"
+    },
+    {
+      "Hanzi": "男生",
+      "Pinyin": "nánshēng",
+      "Meaning": "boy, male student",
+      "Example": "我们班男生很多。 wǒmen bān nánshēng hěn duō: Our class has lots of boys.",
+      "Notes": "男 male + 生 student = boy, guy"
+    }
+  ]
+}

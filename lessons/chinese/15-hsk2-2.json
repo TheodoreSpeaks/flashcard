@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.2 · 自己, 已经, 如果, 越来越, 经常",
+  "focus": "自己 · 得 · 已经 · 如果 · 只 · 当 · 带 · 不过 · 不要 · 通过 · 过去 · 结果 · 不错 · 要求 · 只要 · 不同 · 求 · 当时 · 真正 · 同时 · 越 · 来自 · 带来 · 过来 · 正常 · 那样 · 原来 · 怎样 · 经过 · 只能 · 经常 · 同样 · 越来越 · 主要 · 不少 · 超过 · 比如 · 后来 · 自由",
+  "body": "More connectors and adverbs: if, already, but, as long as, more and more. 过 (pass) is the star of this lesson, with 不, 同, 自, 来, 经 and 样 close behind.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 过 | guò | pass, go over (辶 + 寸) | 不过, 通过, 过去, 过来, 经过, 超过 |\n| 不 | bù / bú | not | 不过, 不要, 不错, 不同, 不少 |\n| 来 | lái | come | 带来, 过来, 原来, 越来越, 后来 |\n| 同 | tóng | same | 不同, 同时, 同样 |\n| 自 | zì | self; from | 自己, 来自, 自由 |\n| 经 | jīng | pass through (纟 thread) | 已经, 经过, 经常 |\n| 样 | yàng | kind, way | 那样, 怎样, 同样 |\n| 只 | zhǐ | only | 只要, 只能 |\n\n## Watch out\n\n- 己 jǐ (self, open), 已 yǐ (already, half closed), 巳 sì (fully closed).\n- 得 has three readings: toneless de after a verb (说得好), dé in 得到, děi = must.\n- 要 is yāo (demand) in 要求, yào elsewhere.\n- 只 is zhǐ (only) but zhī as the measure word for animals (一只猫).\n- 不 becomes bú before a 4th tone: 不过 búguò, 不错 búcuò, 不要 búyào.",
+  "cards": [
+    {
+      "Hanzi": "自己",
+      "Pinyin": "zìjǐ",
+      "Meaning": "oneself; one's own",
+      "Example": "我自己来。 wǒ zìjǐ lái: I'll do it myself.",
+      "Notes": "自 self (picture of a nose: people point to the nose for 'me') + 己 self. 己 vs 已 yǐ vs 巳 sì"
+    },
+    {
+      "Hanzi": "得",
+      "Pinyin": "de / dé / děi",
+      "Meaning": "(particle after verbs); to get (dé); must (děi)",
+      "Example": "你说得很好。 nǐ shuō de hěn hǎo: You speak well.",
+      "Notes": "彳 step + 㝵 (a hand 寸 grabbing): getting. de in 说得好, dé in 得到, děi = have to"
+    },
+    {
+      "Hanzi": "已经",
+      "Pinyin": "yǐjīng",
+      "Meaning": "already",
+      "Example": "他已经走了。 tā yǐjīng zǒu le: He's already gone.",
+      "Notes": "已 already (half closed, vs 己 self) + 经 pass through = already been through"
+    },
+    {
+      "Hanzi": "如果",
+      "Pinyin": "rúguǒ",
+      "Meaning": "if",
+      "Example": "如果下雨，我就不去。 rúguǒ xiàyǔ, wǒ jiù bú qù: If it rains, I won't go.",
+      "Notes": "如 as, if (女 + 口) + 果 fruit, result = if it turns out"
+    },
+    {
+      "Hanzi": "只",
+      "Pinyin": "zhǐ / zhī",
+      "Meaning": "only (zhǐ); (measure word for animals) (zhī)",
+      "Example": "我只有一个。 wǒ zhǐ yǒu yí ge: I only have one.",
+      "Notes": "口 over 八. zhǐ = only; zhī counts animals and one of a pair (一只猫)"
+    },
+    {
+      "Hanzi": "当",
+      "Pinyin": "dāng",
+      "Meaning": "to serve as; when; right at",
+      "Example": "他想当老师。 tā xiǎng dāng lǎoshī: He wants to be a teacher.",
+      "Notes": "Simplified from 當 (田 field + 尚 shàng for the sound)"
+    },
+    {
+      "Hanzi": "带",
+      "Pinyin": "dài",
+      "Meaning": "to bring; to take along; belt",
+      "Example": "别忘了带钱。 bié wàngle dài qián: Don't forget to bring money.",
+      "Notes": "A belt with cloth hanging from it (巾 cloth at the bottom)"
+    },
+    {
+      "Hanzi": "不过",
+      "Pinyin": "búguò",
+      "Meaning": "but; only",
+      "Example": "好吃，不过有点儿贵。 hǎochī, búguò yǒudiǎnr guì: Tasty, but a bit pricey.",
+      "Notes": "不 not + 过 exceed = no more than: only; but"
+    },
+    {
+      "Hanzi": "不要",
+      "Pinyin": "búyào",
+      "Meaning": "don't",
+      "Example": "不要说话。 búyào shuōhuà: Don't talk.",
+      "Notes": "不 not + 要 want = don't (do it)"
+    },
+    {
+      "Hanzi": "通过",
+      "Pinyin": "tōngguò",
+      "Meaning": "to pass (through); by means of",
+      "Example": "我通过了考试。 wǒ tōngguòle kǎoshì: I passed the exam.",
+      "Notes": "通 through (辶 + 甬 yǒng for the sound) + 过 pass = pass through"
+    },
+    {
+      "Hanzi": "过去",
+      "Pinyin": "guòqù",
+      "Meaning": "the past; to go over",
+      "Example": "过去的事别想了。 guòqù de shì bié xiǎng le: Let the past be the past.",
+      "Notes": "过 pass + 去 go away = gone by. After a verb it's toneless: 走过去 zǒu guoqu"
+    },
+    {
+      "Hanzi": "结果",
+      "Pinyin": "jiéguǒ",
+      "Meaning": "result; in the end",
+      "Example": "结果怎么样？ jiéguǒ zěnmeyàng: How did it turn out?",
+      "Notes": "结 tie, bear fruit (纟 + 吉 jí for the sound) + 果 fruit = what the plant bore: outcome"
+    },
+    {
+      "Hanzi": "不错",
+      "Pinyin": "búcuò",
+      "Meaning": "not bad; pretty good",
+      "Example": "这个菜不错。 zhège cài búcuò: This dish is pretty good.",
+      "Notes": "不 not + 错 wrong = not wrong: pretty good"
+    },
+    {
+      "Hanzi": "要求",
+      "Pinyin": "yāoqiú",
+      "Meaning": "to require; requirement",
+      "Example": "老师要求很高。 lǎoshī yāoqiú hěn gāo: The teacher's standards are high.",
+      "Notes": "要 yāo demand + 求 seek = demand. 要 is yāo here, not yào"
+    },
+    {
+      "Hanzi": "只要",
+      "Pinyin": "zhǐyào",
+      "Meaning": "as long as",
+      "Example": "只要你来就好。 zhǐyào nǐ lái jiù hǎo: As long as you come, it's fine.",
+      "Notes": "只 only + 要 need = only need: as long as"
+    },
+    {
+      "Hanzi": "不同",
+      "Pinyin": "bùtóng",
+      "Meaning": "different",
+      "Example": "我们的想法不同。 wǒmen de xiǎngfǎ bùtóng: We think differently.",
+      "Notes": "不 not + 同 same (一 and 口 under one cover 冂) = not the same"
+    },
+    {
+      "Hanzi": "求",
+      "Pinyin": "qiú",
+      "Meaning": "to ask for; to beg; to seek",
+      "Example": "我求你了！ wǒ qiú nǐ le: I'm begging you!",
+      "Notes": "Originally a picture of a fur coat, borrowed for 'seek'. Gives the sound in 球 qiú"
+    },
+    {
+      "Hanzi": "当时",
+      "Pinyin": "dāngshí",
+      "Meaning": "at that time",
+      "Example": "当时我不在家。 dāngshí wǒ bú zài jiā: I wasn't home then.",
+      "Notes": "当 right at + 时 time = at that time"
+    },
+    {
+      "Hanzi": "真正",
+      "Pinyin": "zhēnzhèng",
+      "Meaning": "real; true",
+      "Example": "他是我真正的朋友。 tā shì wǒ zhēnzhèng de péngyou: He's a real friend.",
+      "Notes": "真 true + 正 upright, correct = truly genuine"
+    },
+    {
+      "Hanzi": "同时",
+      "Pinyin": "tóngshí",
+      "Meaning": "at the same time",
+      "Example": "他们同时到了。 tāmen tóngshí dào le: They arrived at the same time.",
+      "Notes": "同 same + 时 time"
+    },
+    {
+      "Hanzi": "越",
+      "Pinyin": "yuè",
+      "Meaning": "to cross; the more (越…越…)",
+      "Example": "越快越好。 yuè kuài yuè hǎo: The sooner the better.",
+      "Notes": "走 walk + 戉 yuè (an axe) for the sound: stride across"
+    },
+    {
+      "Hanzi": "来自",
+      "Pinyin": "láizì",
+      "Meaning": "to come from",
+      "Example": "我来自中国。 wǒ láizì Zhōngguó: I'm from China.",
+      "Notes": "来 come + 自 from = come from. 自 means both 'self' and 'from'"
+    },
+    {
+      "Hanzi": "带来",
+      "Pinyin": "dàilái",
+      "Meaning": "to bring",
+      "Example": "你带来什么了？ nǐ dàilái shénme le: What did you bring?",
+      "Notes": "带 carry + 来 come (toward me) = bring here"
+    },
+    {
+      "Hanzi": "过来",
+      "Pinyin": "guòlai",
+      "Meaning": "to come over",
+      "Example": "你过来一下。 nǐ guòlai yíxià: Come over here a sec.",
+      "Notes": "过 pass + 来 toward me = come over. Opposite: 过去"
+    },
+    {
+      "Hanzi": "正常",
+      "Pinyin": "zhèngcháng",
+      "Meaning": "normal",
+      "Example": "这很正常。 zhè hěn zhèngcháng: That's normal.",
+      "Notes": "正 correct + 常 usual (尚 + 巾) = proper and usual: normal"
+    },
+    {
+      "Hanzi": "那样",
+      "Pinyin": "nàyàng",
+      "Meaning": "like that",
+      "Example": "别那样说。 bié nàyàng shuō: Don't say it like that.",
+      "Notes": "那 that + 样 kind = that kind. Mirror: 这样"
+    },
+    {
+      "Hanzi": "原来",
+      "Pinyin": "yuánlái",
+      "Meaning": "originally; so it turns out",
+      "Example": "原来是你！ yuánlái shì nǐ: Oh, it's you!",
+      "Notes": "原 original + 来 come = as it originally was; also 'so that's it!'"
+    },
+    {
+      "Hanzi": "怎样",
+      "Pinyin": "zěnyàng",
+      "Meaning": "how; what kind",
+      "Example": "你觉得怎样？ nǐ juéde zěnyàng: What do you think?",
+      "Notes": "怎 how (乍 + 心) + 样 kind = what kind: how. Same as 怎么样"
+    },
+    {
+      "Hanzi": "经过",
+      "Pinyin": "jīngguò",
+      "Meaning": "to pass by; process",
+      "Example": "我每天经过这儿。 wǒ měitiān jīngguò zhèr: I pass by here every day.",
+      "Notes": "经 pass through + 过 pass = go past"
+    },
+    {
+      "Hanzi": "只能",
+      "Pinyin": "zhǐnéng",
+      "Meaning": "can only; have no choice but",
+      "Example": "我只能等。 wǒ zhǐ néng děng: All I can do is wait.",
+      "Notes": "只 only + 能 can"
+    },
+    {
+      "Hanzi": "经常",
+      "Pinyin": "jīngcháng",
+      "Meaning": "often",
+      "Example": "我经常去那儿。 wǒ jīngcháng qù nàr: I go there often.",
+      "Notes": "经 constant (纟: warp threads on a loom) + 常 usual = regularly"
+    },
+    {
+      "Hanzi": "同样",
+      "Pinyin": "tóngyàng",
+      "Meaning": "same; likewise",
+      "Example": "我也有同样的问题。 wǒ yě yǒu tóngyàng de wèntí: I have the same problem.",
+      "Notes": "同 same + 样 kind = the same kind"
+    },
+    {
+      "Hanzi": "越来越",
+      "Pinyin": "yuèláiyuè",
+      "Meaning": "more and more",
+      "Example": "天越来越冷了。 tiān yuèláiyuè lěng le: It's getting colder and colder.",
+      "Notes": "越 the more + 来 come + 越 = more and more as time comes"
+    },
+    {
+      "Hanzi": "主要",
+      "Pinyin": "zhǔyào",
+      "Meaning": "main; mainly",
+      "Example": "主要是没时间。 zhǔyào shì méi shíjiān: Mainly, there's no time.",
+      "Notes": "主 main, master (a lamp: flame 丶 over its stand) + 要 important = main"
+    },
+    {
+      "Hanzi": "不少",
+      "Pinyin": "bùshǎo",
+      "Meaning": "quite a few",
+      "Example": "来了不少人。 láile bùshǎo rén: Quite a lot of people came.",
+      "Notes": "不 not + 少 few = not few. 少 shǎo vs 小 xiǎo: 少 adds a ノ"
+    },
+    {
+      "Hanzi": "超过",
+      "Pinyin": "chāoguò",
+      "Meaning": "to exceed; to overtake",
+      "Example": "他超过了我。 tā chāoguòle wǒ: He overtook me.",
+      "Notes": "超 leap over (走 + 召 zhào for the sound) + 过 pass = surpass"
+    },
+    {
+      "Hanzi": "比如",
+      "Pinyin": "bǐrú",
+      "Meaning": "for example",
+      "Example": "我爱吃水果，比如苹果。 wǒ ài chī shuǐguǒ, bǐrú píngguǒ: I love fruit, apples for example.",
+      "Notes": "比 compare (two people side by side) + 如 like = compare to: for example"
+    },
+    {
+      "Hanzi": "后来",
+      "Pinyin": "hòulái",
+      "Meaning": "later; afterwards",
+      "Example": "后来他走了。 hòulái tā zǒu le: Later he left.",
+      "Notes": "后 after + 来 come = what came after. Only for past events (以后 can be future)"
+    },
+    {
+      "Hanzi": "自由",
+      "Pinyin": "zìyóu",
+      "Meaning": "freedom; free",
+      "Example": "我想要自由。 wǒ xiǎng yào zìyóu: I want freedom.",
+      "Notes": "自 self + 由 from, follow = following oneself: free"
+    }
+  ]
+}

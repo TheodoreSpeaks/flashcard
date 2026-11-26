@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.4 · 生活, 办法, 方面, 心情, 运动",
+  "focus": "生活 · 公司 · 名 · 而且 · 必须 · 长 · 其他 · 事情 · 条 · 其中 · 办法 · 离开 · 生 · 方法 · 方面 · 面 · 活动 · 中心 · 开心 · 办 · 故事 · 可爱 · 离 · 面前 · 条件 · 运动 · 样子 · 办公室 · 爱情 · 方向 · 关心 · 日子 · 心里 · 心情 · 怎么样 · 小心 · 怎么办 · 想法 · 动物",
+  "body": "Everyday-life words built from a few busy characters: 心 heart (six words), 办 handle, 方 direction/side, 法 method and 动 move. Once you know these, words like 办法, 方法 and 想法 read themselves.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 心 | xīn | heart, mind | 中心, 开心, 关心, 心里, 心情, 小心 |\n| 办 | bàn | to handle, do | 办, 办法, 办公室, 怎么办 |\n| 方 | fāng | direction, side, way | 方法, 方面, 方向 |\n| 法 | fǎ | method, law (氵 water + 去 go) | 办法, 方法, 想法 |\n| 面 | miàn | face, side | 面, 方面, 面前 |\n| 动 | dòng | to move (力 strength on the right) | 活动, 运动, 动物 |\n| 生 | shēng | to be born, life | 生, 生活 |\n| 情 | qíng | feeling (忄 heart + 青 qīng) | 事情, 爱情, 心情 |\n\n## Watch out\n\n- 长 has two readings: cháng long (很长) and zhǎng grow / head (长大, 校长).\n- 办 bàn and 为 wèi look alike: 办 is 力 with a dot on each side.\n- 面 miàn also means noodles (面条), because simplification merged it with 麵.",
+  "cards": [
+    {
+      "Hanzi": "生活",
+      "Pinyin": "shēnghuó",
+      "Meaning": "life; to live",
+      "Example": "我很喜欢这里的生活。 wǒ hěn xǐhuan zhèlǐ de shēnghuó: I really like life here",
+      "Notes": "生 born, life + 活 alive (氵 water + 舌) = living one's life"
+    },
+    {
+      "Hanzi": "公司",
+      "Pinyin": "gōngsī",
+      "Meaning": "company, firm",
+      "Example": "他在一家公司工作。 tā zài yì jiā gōngsī gōngzuò: He works at a company",
+      "Notes": "公 public + 司 to manage = a business that is run; 司 also in 司机 driver"
+    },
+    {
+      "Hanzi": "名",
+      "Pinyin": "míng",
+      "Meaning": "name; famous; (measure word for people)",
+      "Example": "你叫什么名字？ nǐ jiào shénme míngzi: What's your name?",
+      "Notes": "夕 evening + 口 mouth; traditional explanation: in the dark you call out your name. Also in 名字, 有名"
+    },
+    {
+      "Hanzi": "而且",
+      "Pinyin": "érqiě",
+      "Meaning": "and also, moreover",
+      "Example": "她很聪明，而且很努力。 tā hěn cōngming, érqiě hěn nǔlì: She's smart, and hardworking too",
+      "Notes": "而 and/but + 且 moreover; often after 不但: 不但…而且… not only… but also"
+    },
+    {
+      "Hanzi": "必须",
+      "Pinyin": "bìxū",
+      "Meaning": "must, have to",
+      "Example": "你必须早点睡。 nǐ bìxū zǎo diǎn shuì: You must sleep earlier",
+      "Notes": "必 certainly + 须 need = must. 须 = 彡 hair + 页 head (originally 'beard')"
+    },
+    {
+      "Hanzi": "长",
+      "Pinyin": "cháng / zhǎng",
+      "Meaning": "long / to grow; head (of)",
+      "Example": "这条路很长。 zhè tiáo lù hěn cháng: This road is long",
+      "Notes": "Simplified from 長, a figure with long hair. cháng long (长短); zhǎng grow, chief (长大, 校长)"
+    },
+    {
+      "Hanzi": "其他",
+      "Pinyin": "qítā",
+      "Meaning": "other, the rest",
+      "Example": "其他人都走了。 qítā rén dōu zǒu le: Everyone else has left",
+      "Notes": "其 that/those + 他 (originally 'other') = the others"
+    },
+    {
+      "Hanzi": "事情",
+      "Pinyin": "shìqing",
+      "Meaning": "matter, thing (to deal with)",
+      "Example": "这个事情我知道。 zhège shìqing wǒ zhīdào: I know about this.",
+      "Notes": "情 = 忄 heart + 青; 情 and 晴 differ only in the radical"
+    },
+    {
+      "Hanzi": "条",
+      "Pinyin": "tiáo",
+      "Meaning": "(measure word for long thin things)",
+      "Example": "我买了一条鱼。 wǒ mǎi le yì tiáo yú: I bought a fish",
+      "Notes": "木 tree/wood at the bottom: a twig, so long thin things: 一条路, 一条河, 一条裤子"
+    },
+    {
+      "Hanzi": "其中",
+      "Pinyin": "qízhōng",
+      "Meaning": "among them, of which",
+      "Example": "三个人，其中两个是学生。 sān ge rén, qízhōng liǎng ge shì xuésheng: Three people, two of them students",
+      "Notes": "其 those + 中 middle = in the middle of those, among them"
+    },
+    {
+      "Hanzi": "办法",
+      "Pinyin": "bànfǎ",
+      "Meaning": "way, method (to solve something)",
+      "Example": "我有一个好办法。 wǒ yǒu yí ge hǎo bànfǎ: I have a good idea",
+      "Notes": "办 handle + 法 method = a way of handling it; 没办法 = nothing can be done"
+    },
+    {
+      "Hanzi": "离开",
+      "Pinyin": "líkāi",
+      "Meaning": "to leave, depart",
+      "Example": "他明天离开北京。 tā míngtiān líkāi Běijīng: He leaves Beijing tomorrow",
+      "Notes": "离 apart from + 开 open, away = to go away from"
+    },
+    {
+      "Hanzi": "生",
+      "Pinyin": "shēng",
+      "Meaning": "to be born; to give birth; raw; student",
+      "Example": "她生了一个女儿。 tā shēng le yí ge nǚ'ér: She gave birth to a daughter",
+      "Notes": "Picture of a sprout coming up from the ground: life, birth. In 学生, 医生, 生日, 先生"
+    },
+    {
+      "Hanzi": "方法",
+      "Pinyin": "fāngfǎ",
+      "Meaning": "method, way",
+      "Example": "这个方法很好。 zhège fāngfǎ hěn hǎo: This method works well",
+      "Notes": "方 way, direction + 法 method = method; compare 办法 (a way out of a problem)"
+    },
+    {
+      "Hanzi": "方面",
+      "Pinyin": "fāngmiàn",
+      "Meaning": "aspect, respect, side",
+      "Example": "这方面我不太懂。 zhè fāngmiàn wǒ bú tài dǒng: I don't know much about this area",
+      "Notes": "方 side + 面 face = one face of a thing, an aspect"
+    },
+    {
+      "Hanzi": "面",
+      "Pinyin": "miàn",
+      "Meaning": "face, side, surface; noodles",
+      "Example": "我想吃面。 wǒ xiǎng chī miàn: I want to eat noodles",
+      "Notes": "Pictures a face. Also the simplified form of 麵 noodles, so 面条 noodles; and side in 外面, 后面"
+    },
+    {
+      "Hanzi": "活动",
+      "Pinyin": "huódòng",
+      "Meaning": "activity, event; to move about",
+      "Example": "周末有什么活动？ zhōumò yǒu shénme huódòng: What's on this weekend?",
+      "Notes": "活 alive + 动 move = being active; an activity or event"
+    },
+    {
+      "Hanzi": "中心",
+      "Pinyin": "zhōngxīn",
+      "Meaning": "center",
+      "Example": "我住在城市中心。 wǒ zhù zài chéngshì zhōngxīn: I live downtown",
+      "Notes": "中 middle + 心 heart = the heart of something, the center"
+    },
+    {
+      "Hanzi": "开心",
+      "Pinyin": "kāixīn",
+      "Meaning": "happy, joyful",
+      "Example": "今天我很开心。 jīntiān wǒ hěn kāixīn: I'm really happy today",
+      "Notes": "开 open + 心 heart = an opened-up heart, happy"
+    },
+    {
+      "Hanzi": "办",
+      "Pinyin": "bàn",
+      "Meaning": "to do, handle, manage",
+      "Example": "这件事我来办。 zhè jiàn shì wǒ lái bàn: I'll take care of this",
+      "Notes": "力 strength with a dot on each side; simplified from 辦 (辛 辛 around 力). Lookalike: 为 wèi"
+    },
+    {
+      "Hanzi": "故事",
+      "Pinyin": "gùshi",
+      "Meaning": "story",
+      "Example": "妈妈给我讲故事。 māma gěi wǒ jiǎng gùshi: Mom tells me stories",
+      "Notes": "故 old, past + 事 matter = things from the past, a story. 故 = 古 gǔ old (also sound) + 攵"
+    },
+    {
+      "Hanzi": "可爱",
+      "Pinyin": "kě'ài",
+      "Meaning": "cute, lovable",
+      "Example": "这只小狗真可爱！ zhè zhī xiǎo gǒu zhēn kě'ài: This puppy is so cute!",
+      "Notes": "可 can, worth + 爱 love = worth loving, cute"
+    },
+    {
+      "Hanzi": "离",
+      "Pinyin": "lí",
+      "Meaning": "away from, distance from; to leave",
+      "Example": "我家离学校很近。 wǒ jiā lí xuéxiào hěn jìn: My home is close to school",
+      "Notes": "Simplified from 離. Used for distance: A 离 B 很远 = A is far from B"
+    },
+    {
+      "Hanzi": "面前",
+      "Pinyin": "miànqián",
+      "Meaning": "in front of (someone)",
+      "Example": "他站在我面前。 tā zhàn zài wǒ miànqián: He stood in front of me",
+      "Notes": "面 face + 前 front = right before one's face"
+    },
+    {
+      "Hanzi": "条件",
+      "Pinyin": "tiáojiàn",
+      "Meaning": "condition, requirement; circumstances",
+      "Example": "这里的条件不太好。 zhèlǐ de tiáojiàn bú tài hǎo: Conditions here aren't great",
+      "Notes": "条 item (as in a list) + 件 piece = the items required, conditions"
+    },
+    {
+      "Hanzi": "运动",
+      "Pinyin": "yùndòng",
+      "Meaning": "sports, exercise; to exercise",
+      "Example": "我每天运动一个小时。 wǒ měitiān yùndòng yí ge xiǎoshí: I exercise an hour a day",
+      "Notes": "运 transport, move (辶 walk + 云 yún sound) + 动 move = movement, exercise"
+    },
+    {
+      "Hanzi": "样子",
+      "Pinyin": "yàngzi",
+      "Meaning": "appearance, look, manner",
+      "Example": "他看起来很累的样子。 tā kàn qǐlai hěn lèi de yàngzi: He looks tired",
+      "Notes": "样 shape, pattern (木 + 羊 yáng sound) + 子 noun suffix = how something looks"
+    },
+    {
+      "Hanzi": "办公室",
+      "Pinyin": "bàngōngshì",
+      "Meaning": "office",
+      "Example": "老师在办公室。 lǎoshī zài bàngōngshì: The teacher is in the office",
+      "Notes": "办 handle + 公 public business + 室 room = room for handling work"
+    },
+    {
+      "Hanzi": "爱情",
+      "Pinyin": "àiqíng",
+      "Meaning": "romantic love",
+      "Example": "这是一个爱情故事。 zhè shì yí ge àiqíng gùshi: This is a love story",
+      "Notes": "爱 love + 情 feeling = romantic love (not family love)"
+    },
+    {
+      "Hanzi": "方向",
+      "Pinyin": "fāngxiàng",
+      "Meaning": "direction",
+      "Example": "我们走错方向了。 wǒmen zǒu cuò fāngxiàng le: We went the wrong way",
+      "Notes": "方 direction + 向 toward = direction"
+    },
+    {
+      "Hanzi": "关心",
+      "Pinyin": "guānxīn",
+      "Meaning": "to care about, be concerned for",
+      "Example": "谢谢你关心我。 xièxie nǐ guānxīn wǒ: Thanks for caring about me",
+      "Notes": "关 concern, relate to (also close) + 心 heart = to keep someone in one's heart"
+    },
+    {
+      "Hanzi": "日子",
+      "Pinyin": "rìzi",
+      "Meaning": "day; date; life (days of one's life)",
+      "Example": "今天是个好日子。 jīntiān shì ge hǎo rìzi: Today is a good day",
+      "Notes": "日 sun, day + 子 noun suffix; 过日子 = to live one's life"
+    },
+    {
+      "Hanzi": "心里",
+      "Pinyin": "xīnli",
+      "Meaning": "in one's heart, in one's mind",
+      "Example": "我心里很高兴。 wǒ xīnli hěn gāoxìng: I'm happy inside",
+      "Notes": "心 heart + 里 inside = inside one's heart"
+    },
+    {
+      "Hanzi": "心情",
+      "Pinyin": "xīnqíng",
+      "Meaning": "mood",
+      "Example": "今天我心情不好。 jīntiān wǒ xīnqíng bù hǎo: I'm in a bad mood today",
+      "Notes": "心 heart + 情 feeling = mood"
+    },
+    {
+      "Hanzi": "怎么样",
+      "Pinyin": "zěnmeyàng",
+      "Meaning": "how is it? how about…?",
+      "Example": "我们去看电影，怎么样？ wǒmen qù kàn diànyǐng, zěnmeyàng: How about a movie?",
+      "Notes": "怎么 how + 样 appearance = what does it look like, how is it"
+    },
+    {
+      "Hanzi": "小心",
+      "Pinyin": "xiǎoxīn",
+      "Meaning": "careful; be careful!",
+      "Example": "路上小心！ lùshang xiǎoxīn: Be careful on the way!",
+      "Notes": "小 small + 心 heart = keep your heart small, attentive: be careful"
+    },
+    {
+      "Hanzi": "怎么办",
+      "Pinyin": "zěnmebàn",
+      "Meaning": "what should (we) do?",
+      "Example": "我的钱丢了，怎么办？ wǒ de qián diū le, zěnmebàn: I lost my money, what do I do?",
+      "Notes": "怎么 how + 办 handle = how to handle it"
+    },
+    {
+      "Hanzi": "想法",
+      "Pinyin": "xiǎngfǎ",
+      "Meaning": "idea, opinion",
+      "Example": "你的想法很好。 nǐ de xiǎngfǎ hěn hǎo: Your idea is great",
+      "Notes": "想 think + 法 method = a way of thinking, an idea"
+    },
+    {
+      "Hanzi": "动物",
+      "Pinyin": "dòngwù",
+      "Meaning": "animal",
+      "Example": "我喜欢小动物。 wǒ xǐhuan xiǎo dòngwù: I like little animals",
+      "Notes": "动 move + 物 thing = things that move, animals; 物 = 牛 cow + 勿 (sound)"
+    }
+  ]
+}

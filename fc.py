@@ -480,9 +480,11 @@ def unit_progress(db: sqlite3.Connection, meta: dict, lessons: list[dict]) -> li
     for u in units:
         # a lesson only counts once it's been opened, so stray tagged cards can't skip it
         u["opened"] = u["n"] in meta["opened"]
-        u["learned_ratio"] = u["learned"] / u["cards"] if u["cards"] else 0.0
-        u["ratio"] = u["mastered"] / u["cards"] if u["cards"] else 0.0
-        u["done"] = u["opened"] and u["cards"] > 0 and u["ratio"] >= UNIT_RATIO
+        # an opened lesson where every card was skipped (already known) counts as done
+        empty = 1.0 if u["opened"] else 0.0
+        u["learned_ratio"] = u["learned"] / u["cards"] if u["cards"] else empty
+        u["ratio"] = u["mastered"] / u["cards"] if u["cards"] else empty
+        u["done"] = u["opened"] and u["ratio"] >= UNIT_RATIO
     frontier = 1
     while frontier < len(units):
         newest = units[frontier - 1]

@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.15 · 难过, 客人, 多数, 老朋友",
+  "focus": "看法 · 题 · 顾客 · 难过 · 客人 · 人口 · 好久 · 做法 · 人数 · 友好 · 云 · 好人 · 分开 · 不一定 · 难受 · 不但 · 商量 · 一部分 · 爱人 · 多数 · 游客 · 一共 · 多云 · 不满 · 商人 · 少数 · 走过 · 做饭 · 老是 · 坏人 · 旅客 · 难题 · 入口 · 中年 · 分数 · 老朋友 · 走开 · 老年 · 难看",
+  "body": "People words (客人, 游客, 好人, 坏人), counting (人数, 多数, 少数, 分数) and things that are 难 hard (难过, 难受, 难看, 难题).\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 人 | rén | person | 客人, 人口, 人数, 好人, 爱人, 商人, 坏人 |\n| 难 | nán | hard, difficult | 难过, 难受, 难题, 难看 |\n| 客 | kè | guest (宀 roof + 各 gè) | 顾客, 客人, 游客, 旅客 |\n| 数 | shù | number | 人数, 多数, 少数, 分数 |\n| 老 | lǎo | old; always | 老是, 老朋友, 老年 |\n| 分 | fēn | to divide; point (score) | 分开, 分数, 一部分 |\n| 法 | fǎ | method, way | 看法, 做法 |\n| 口 | kǒu | mouth; opening | 人口, 入口 |\n\n## Watch out\n\n- 入 rù (enter) vs 人 rén (person): in 入 the left stroke is short.\n- 云 yún (cloud) vs 去 qù (go): 云 has 二 on top.\n- 爱人 means spouse in mainland China, not just \"lover\".",
+  "cards": [
+    {
+      "Hanzi": "看法",
+      "Pinyin": "kànfǎ",
+      "Meaning": "view, opinion",
+      "Example": "你有什么看法？ nǐ yǒu shénme kànfǎ: What do you think?",
+      "Notes": "看 look + 法 way = way of looking at it"
+    },
+    {
+      "Hanzi": "题",
+      "Pinyin": "tí",
+      "Meaning": "question, problem; topic",
+      "Example": "这道题很难。 zhè dào tí hěn nán: This question is hard.",
+      "Notes": "是 shì (phonetic) + 页 head, page"
+    },
+    {
+      "Hanzi": "顾客",
+      "Pinyin": "gùkè",
+      "Meaning": "customer",
+      "Example": "店里顾客很多。 diàn li gùkè hěn duō: The shop has lots of customers.",
+      "Notes": "顾 look after + 客 guest = a guest you look after"
+    },
+    {
+      "Hanzi": "难过",
+      "Pinyin": "nánguò",
+      "Meaning": "sad, upset",
+      "Example": "别难过了。 bié nánguò le: Don't be sad.",
+      "Notes": "难 hard + 过 pass = hard to get through"
+    },
+    {
+      "Hanzi": "客人",
+      "Pinyin": "kèrén",
+      "Meaning": "guest, visitor",
+      "Example": "今天家里有客人。 jīntiān jiā li yǒu kèrén: We have guests today.",
+      "Notes": "客 guest (宀 roof + 各) + 人 person"
+    },
+    {
+      "Hanzi": "人口",
+      "Pinyin": "rénkǒu",
+      "Meaning": "population",
+      "Example": "中国人口很多。 Zhōngguó rénkǒu hěn duō: China has a huge population.",
+      "Notes": "人 people + 口 mouths: people counted as mouths to feed"
+    },
+    {
+      "Hanzi": "好久",
+      "Pinyin": "hǎojiǔ",
+      "Meaning": "a long time",
+      "Example": "好久不见！ hǎojiǔ bú jiàn: Long time no see!",
+      "Notes": "好 very + 久 long time"
+    },
+    {
+      "Hanzi": "做法",
+      "Pinyin": "zuòfǎ",
+      "Meaning": "method, way of doing",
+      "Example": "这个菜的做法很简单。 zhège cài de zuòfǎ hěn jiǎndān: This dish is easy to make.",
+      "Notes": "做 do + 法 way = way of doing"
+    },
+    {
+      "Hanzi": "人数",
+      "Pinyin": "rénshù",
+      "Meaning": "number of people",
+      "Example": "今天人数不多。 jīntiān rénshù bù duō: Not many people today.",
+      "Notes": "人 people + 数 number"
+    },
+    {
+      "Hanzi": "友好",
+      "Pinyin": "yǒuhǎo",
+      "Meaning": "friendly",
+      "Example": "这里的人很友好。 zhèlǐ de rén hěn yǒuhǎo: People here are friendly.",
+      "Notes": "友 friend + 好 good = friend-good"
+    },
+    {
+      "Hanzi": "云",
+      "Pinyin": "yún",
+      "Meaning": "cloud",
+      "Example": "天上有很多云。 tiān shang yǒu hěn duō yún: There are lots of clouds in the sky.",
+      "Notes": "二 + 厶; lookalike 去 qù (土 + 厶)"
+    },
+    {
+      "Hanzi": "好人",
+      "Pinyin": "hǎorén",
+      "Meaning": "good person",
+      "Example": "他是个好人。 tā shì ge hǎorén: He's a good guy.",
+      "Notes": "好 good + 人 person"
+    },
+    {
+      "Hanzi": "分开",
+      "Pinyin": "fēnkāi",
+      "Meaning": "to separate, split up",
+      "Example": "我们分开走吧。 wǒmen fēnkāi zǒu ba: Let's go separately.",
+      "Notes": "分 divide + 开 open, apart"
+    },
+    {
+      "Hanzi": "不一定",
+      "Pinyin": "bùyídìng",
+      "Meaning": "not necessarily",
+      "Example": "他不一定来。 tā bùyídìng lái: He might not come.",
+      "Notes": "不 not + 一定 certainly = not for sure"
+    },
+    {
+      "Hanzi": "难受",
+      "Pinyin": "nánshòu",
+      "Meaning": "to feel awful; hard to bear",
+      "Example": "我今天很难受。 wǒ jīntiān hěn nánshòu: I feel awful today.",
+      "Notes": "难 hard + 受 bear = hard to bear"
+    },
+    {
+      "Hanzi": "不但",
+      "Pinyin": "búdàn",
+      "Meaning": "not only (... but also)",
+      "Example": "他不但高，还很帅。 tā búdàn gāo, hái hěn shuài: He's not only tall, but handsome too.",
+      "Notes": "不 not + 但 only (亻 + 旦 dàn)"
+    },
+    {
+      "Hanzi": "商量",
+      "Pinyin": "shāngliang",
+      "Meaning": "to discuss, talk over",
+      "Example": "我们商量一下。 wǒmen shāngliang yíxià: Let's talk it over.",
+      "Notes": "商 discuss + 量 weigh = weigh things together"
+    },
+    {
+      "Hanzi": "一部分",
+      "Pinyin": "yíbùfen",
+      "Meaning": "a part, a portion",
+      "Example": "我只看了一部分。 wǒ zhǐ kàn le yíbùfen: I only watched part of it.",
+      "Notes": "一 one + 部 section + 分 part"
+    },
+    {
+      "Hanzi": "爱人",
+      "Pinyin": "àiren",
+      "Meaning": "husband or wife, spouse",
+      "Example": "这是我爱人。 zhè shì wǒ àiren: This is my spouse.",
+      "Notes": "爱 love + 人 person = loved one"
+    },
+    {
+      "Hanzi": "多数",
+      "Pinyin": "duōshù",
+      "Meaning": "majority, most",
+      "Example": "多数人都同意。 duōshù rén dōu tóngyì: Most people agree.",
+      "Notes": "多 many + 数 number"
+    },
+    {
+      "Hanzi": "游客",
+      "Pinyin": "yóukè",
+      "Meaning": "tourist",
+      "Example": "这里游客太多了。 zhèlǐ yóukè tài duō le: There are too many tourists here.",
+      "Notes": "游 travel (氵, also swim) + 客 guest"
+    },
+    {
+      "Hanzi": "一共",
+      "Pinyin": "yígòng",
+      "Meaning": "altogether, in total",
+      "Example": "一共多少钱？ yígòng duōshao qián: How much altogether?",
+      "Notes": "一 one + 共 together = all as one"
+    },
+    {
+      "Hanzi": "多云",
+      "Pinyin": "duōyún",
+      "Meaning": "cloudy",
+      "Example": "明天多云。 míngtiān duōyún: Tomorrow will be cloudy.",
+      "Notes": "多 many + 云 clouds"
+    },
+    {
+      "Hanzi": "不满",
+      "Pinyin": "bùmǎn",
+      "Meaning": "dissatisfied",
+      "Example": "他对工作不满。 tā duì gōngzuò bùmǎn: He's unhappy with his job.",
+      "Notes": "不 not + 满 full, satisfied"
+    },
+    {
+      "Hanzi": "商人",
+      "Pinyin": "shāngrén",
+      "Meaning": "businessman, merchant",
+      "Example": "他爸爸是商人。 tā bàba shì shāngrén: His dad is a businessman.",
+      "Notes": "商 trade + 人 person"
+    },
+    {
+      "Hanzi": "少数",
+      "Pinyin": "shǎoshù",
+      "Meaning": "minority, a few",
+      "Example": "只有少数人知道。 zhǐyǒu shǎoshù rén zhīdao: Only a few people know.",
+      "Notes": "少 few + 数 number"
+    },
+    {
+      "Hanzi": "走过",
+      "Pinyin": "zǒuguò",
+      "Meaning": "to walk past",
+      "Example": "他从我身边走过。 tā cóng wǒ shēnbiān zǒuguò: He walked right past me.",
+      "Notes": "走 walk + 过 pass"
+    },
+    {
+      "Hanzi": "做饭",
+      "Pinyin": "zuòfàn",
+      "Meaning": "to cook",
+      "Example": "爸爸在做饭。 bàba zài zuòfàn: Dad's cooking.",
+      "Notes": "做 = 亻 person + 故 gù; 做 and 作 are both zuò, but cooking is always 做"
+    },
+    {
+      "Hanzi": "老是",
+      "Pinyin": "lǎoshì",
+      "Meaning": "always (often a complaint)",
+      "Example": "你老是迟到。 nǐ lǎoshì chídào: You're always late.",
+      "Notes": "老 always + 是 be"
+    },
+    {
+      "Hanzi": "坏人",
+      "Pinyin": "huàirén",
+      "Meaning": "bad person, villain",
+      "Example": "他不是坏人。 tā bú shì huàirén: He's not a bad guy.",
+      "Notes": "坏 bad (土 + 不) + 人 person"
+    },
+    {
+      "Hanzi": "旅客",
+      "Pinyin": "lǚkè",
+      "Meaning": "traveler, passenger",
+      "Example": "旅客们请上车。 lǚkèmen qǐng shàng chē: Passengers, please board.",
+      "Notes": "旅 travel + 客 guest"
+    },
+    {
+      "Hanzi": "难题",
+      "Pinyin": "nántí",
+      "Meaning": "difficult problem",
+      "Example": "这是个难题。 zhè shì ge nántí: That's a tough one.",
+      "Notes": "难 hard + 题 problem"
+    },
+    {
+      "Hanzi": "入口",
+      "Pinyin": "rùkǒu",
+      "Meaning": "entrance",
+      "Example": "入口在那边。 rùkǒu zài nàbiān: The entrance is over there.",
+      "Notes": "入 enter + 口 opening; 入 rù vs 人 rén: watch the short left stroke"
+    },
+    {
+      "Hanzi": "中年",
+      "Pinyin": "zhōngnián",
+      "Meaning": "middle age",
+      "Example": "他是个中年人。 tā shì ge zhōngnián rén: He's middle-aged.",
+      "Notes": "中 middle + 年 years"
+    },
+    {
+      "Hanzi": "分数",
+      "Pinyin": "fēnshù",
+      "Meaning": "score, grade",
+      "Example": "这次分数很高。 zhè cì fēnshù hěn gāo: My score was high this time.",
+      "Notes": "分 point + 数 number"
+    },
+    {
+      "Hanzi": "老朋友",
+      "Pinyin": "lǎopéngyou",
+      "Meaning": "old friend",
+      "Example": "我们是老朋友了。 wǒmen shì lǎopéngyou le: We're old friends.",
+      "Notes": "老 old + 朋友 friend"
+    },
+    {
+      "Hanzi": "走开",
+      "Pinyin": "zǒukāi",
+      "Meaning": "to go away",
+      "Example": "你走开！ nǐ zǒukāi: Go away!",
+      "Notes": "走 walk + 开 away"
+    },
+    {
+      "Hanzi": "老年",
+      "Pinyin": "lǎonián",
+      "Meaning": "old age",
+      "Example": "老年人要多休息。 lǎonián rén yào duō xiūxi: Old people should rest more.",
+      "Notes": "老 old + 年 years"
+    },
+    {
+      "Hanzi": "难看",
+      "Pinyin": "nánkàn",
+      "Meaning": "ugly",
+      "Example": "这件衣服太难看了。 zhè jiàn yīfu tài nánkàn le: This piece of clothing is so ugly.",
+      "Notes": "难 hard + 看 look = hard to look at; mirror of 好看"
+    }
+  ]
+}

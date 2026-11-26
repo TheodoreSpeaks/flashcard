@@ -1,0 +1,343 @@
+{
+  "title": "HSK 2.19 · 公交车, 体育馆, 复习, 打工",
+  "focus": "脏 · 饱 · 月亮 · 公斤 · 打工 · 星星 · 教室 · 起飞 · 月份 · 实习 · 名称 · 复习 · 课堂 · 画家 · 体育馆 · 菜单 · 笔记 · 休假 · 小声 · 打印 · 斤 · 走进 · 体育场 · 作文 · 公共汽车 · 排球 · 零下 · 爬山 · 黑板 · 外卖 · 饭馆 · 球鞋 · 流利 · 交朋友 · 难听 · 坏处 · 千克 · 叫作 · 听讲 · 西餐 · 公交车 · 下周 · 见过 · 快点儿 · 笑话儿 · 有空儿 · 有一点儿 · 挺好",
+  "body": "School life (教室, 课堂, 复习, 笔记, 作文), sports (体育馆, 排球, 球鞋) and getting around (公交车, 公共汽车). Several erhua words end the lesson.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 公 | gōng | public; metric | 公斤, 公共汽车, 公交车 |\n| 体育 | tǐyù | sport (体 body + 育 raise) | 体育馆, 体育场 |\n| 馆 | guǎn | hall, building (饣 + 官 guān) | 体育馆, 饭馆 |\n| 习 | xí | practice | 实习, 复习 |\n| 打 | dǎ | hit; do (an activity) | 打工, 打印 |\n| 斤 | jīn | jin (500 g) | 斤, 公斤 |\n| 球 | qiú | ball | 排球, 球鞋 |\n| 儿 | r | erhua ending | 快点儿, 笑话儿, 有空儿, 有一点儿 |\n\n## Watch out\n\n- 卖 mài (sell, has 十 on top) vs 买 mǎi (buy): 外卖 is food sold out.\n- 场 (open ground) vs 馆 (a building): 体育场 stadium vs 体育馆 gym.\n- 教 is jiào in 教室 but jiāo in 教书 (to teach).",
+  "cards": [
+    {
+      "Hanzi": "脏",
+      "Pinyin": "zāng",
+      "Meaning": "dirty",
+      "Example": "你的手很脏。 nǐ de shǒu hěn zāng: Your hands are dirty.",
+      "Notes": "月 body + 庄 zhuāng (phonetic); read zàng in 心脏 (heart)"
+    },
+    {
+      "Hanzi": "饱",
+      "Pinyin": "bǎo",
+      "Meaning": "full (after eating)",
+      "Example": "我吃饱了。 wǒ chībǎo le: I'm full.",
+      "Notes": "饣 food + 包 bāo for the sound"
+    },
+    {
+      "Hanzi": "月亮",
+      "Pinyin": "yuèliang",
+      "Meaning": "the moon",
+      "Example": "今天的月亮很圆。 jīntiān de yuèliang hěn yuán: The moon is round tonight.",
+      "Notes": "月 moon + 亮 bright"
+    },
+    {
+      "Hanzi": "公斤",
+      "Pinyin": "gōngjīn",
+      "Meaning": "kilogram",
+      "Example": "我六十公斤。 wǒ liùshí gōngjīn: I weigh sixty kilos.",
+      "Notes": "公 metric + 斤 jin (half a kilo)"
+    },
+    {
+      "Hanzi": "打工",
+      "Pinyin": "dǎgōng",
+      "Meaning": "to work a (part-time) job",
+      "Example": "他在饭馆打工。 tā zài fànguǎn dǎgōng: He works part-time at a restaurant.",
+      "Notes": "打 do + 工 work"
+    },
+    {
+      "Hanzi": "星星",
+      "Pinyin": "xīngxing",
+      "Meaning": "star",
+      "Example": "你看，有星星！ nǐ kàn, yǒu xīngxing: Look, stars!",
+      "Notes": "星 = 日 + 生 shēng (phonetic), doubled"
+    },
+    {
+      "Hanzi": "教室",
+      "Pinyin": "jiàoshì",
+      "Meaning": "classroom",
+      "Example": "教室里没有人。 jiàoshì li méiyǒu rén: There's nobody in the classroom.",
+      "Notes": "教 jiào teaching + 室 room"
+    },
+    {
+      "Hanzi": "起飞",
+      "Pinyin": "qǐfēi",
+      "Meaning": "to take off (plane)",
+      "Example": "飞机几点起飞？ fēijī jǐ diǎn qǐfēi: When does the plane take off?",
+      "Notes": "起 rise + 飞 fly"
+    },
+    {
+      "Hanzi": "月份",
+      "Pinyin": "yuèfèn",
+      "Meaning": "month",
+      "Example": "你是几月份出生的？ nǐ shì jǐ yuèfèn chūshēng de: Which month were you born in?",
+      "Notes": "月 month + 份 portion"
+    },
+    {
+      "Hanzi": "实习",
+      "Pinyin": "shíxí",
+      "Meaning": "to intern; internship",
+      "Example": "我在一家公司实习。 wǒ zài yì jiā gōngsī shíxí: I'm interning at a company.",
+      "Notes": "实 real + 习 practice = real-world practice"
+    },
+    {
+      "Hanzi": "名称",
+      "Pinyin": "míngchēng",
+      "Meaning": "name (of a thing, organization)",
+      "Example": "这个东西的名称是什么？ zhège dōngxi de míngchēng shì shénme: What is this thing called?",
+      "Notes": "名 name + 称 call"
+    },
+    {
+      "Hanzi": "复习",
+      "Pinyin": "fùxí",
+      "Meaning": "to review (lessons)",
+      "Example": "明天考试，快复习吧。 míngtiān kǎoshì, kuài fùxí ba: Exam tomorrow, go review!",
+      "Notes": "复 again + 习 practice"
+    },
+    {
+      "Hanzi": "课堂",
+      "Pinyin": "kètáng",
+      "Meaning": "classroom (during class)",
+      "Example": "课堂上不要说话。 kètáng shang bú yào shuōhuà: No talking in class.",
+      "Notes": "课 lesson + 堂 hall"
+    },
+    {
+      "Hanzi": "画家",
+      "Pinyin": "huàjiā",
+      "Meaning": "painter (artist)",
+      "Example": "他想当画家。 tā xiǎng dāng huàjiā: He wants to be a painter.",
+      "Notes": "画 paint + 家 expert"
+    },
+    {
+      "Hanzi": "体育馆",
+      "Pinyin": "tǐyùguǎn",
+      "Meaning": "gymnasium",
+      "Example": "体育馆在学校里面。 tǐyùguǎn zài xuéxiào lǐmiàn: The gym is inside the school.",
+      "Notes": "体育 sport + 馆 hall, building"
+    },
+    {
+      "Hanzi": "菜单",
+      "Pinyin": "càidān",
+      "Meaning": "menu",
+      "Example": "请给我看看菜单。 qǐng gěi wǒ kànkan càidān: Can I see the menu?",
+      "Notes": "菜 dish + 单 list"
+    },
+    {
+      "Hanzi": "笔记",
+      "Pinyin": "bǐjì",
+      "Meaning": "notes",
+      "Example": "我借你的笔记看看。 wǒ jiè nǐ de bǐjì kànkan: Let me borrow your notes.",
+      "Notes": "笔 pen (⺮ bamboo + 毛 hair) + 记 record"
+    },
+    {
+      "Hanzi": "休假",
+      "Pinyin": "xiūjià",
+      "Meaning": "to take time off",
+      "Example": "我下个月休假。 wǒ xià ge yuè xiūjià: I'm on vacation next month.",
+      "Notes": "休 rest + 假 jià time off"
+    },
+    {
+      "Hanzi": "小声",
+      "Pinyin": "xiǎoshēng",
+      "Meaning": "quietly, in a low voice",
+      "Example": "请小声一点儿。 qǐng xiǎoshēng yìdiǎnr: Please keep it down.",
+      "Notes": "小 small + 声 voice; mirror of 大声"
+    },
+    {
+      "Hanzi": "打印",
+      "Pinyin": "dǎyìn",
+      "Meaning": "to print (out)",
+      "Example": "帮我打印一下。 bāng wǒ dǎyìn yíxià: Can you print this for me?",
+      "Notes": "打 do + 印 stamp, print"
+    },
+    {
+      "Hanzi": "斤",
+      "Pinyin": "jīn",
+      "Meaning": "jin (unit, 500 grams)",
+      "Example": "买两斤苹果。 mǎi liǎng jīn píngguǒ: Two jin of apples, please.",
+      "Notes": "Originally a picture of an axe; lookalike 斥 chì (extra dot)"
+    },
+    {
+      "Hanzi": "走进",
+      "Pinyin": "zǒujìn",
+      "Meaning": "to walk into",
+      "Example": "他走进了教室。 tā zǒujìn le jiàoshì: He walked into the classroom.",
+      "Notes": "走 walk + 进 enter"
+    },
+    {
+      "Hanzi": "体育场",
+      "Pinyin": "tǐyùchǎng",
+      "Meaning": "stadium",
+      "Example": "体育场人很多。 tǐyùchǎng rén hěn duō: The stadium is packed.",
+      "Notes": "体育 sport + 场 open ground"
+    },
+    {
+      "Hanzi": "作文",
+      "Pinyin": "zuòwén",
+      "Meaning": "essay, composition",
+      "Example": "我在写作文。 wǒ zài xiě zuòwén: I'm writing an essay.",
+      "Notes": "作 make + 文 writing"
+    },
+    {
+      "Hanzi": "公共汽车",
+      "Pinyin": "gōnggòngqìchē",
+      "Meaning": "bus",
+      "Example": "我坐公共汽车上班。 wǒ zuò gōnggòngqìchē shàngbān: I take the bus to work.",
+      "Notes": "公共 public + 汽车 car (汽 steam + 车)"
+    },
+    {
+      "Hanzi": "排球",
+      "Pinyin": "páiqiú",
+      "Meaning": "volleyball",
+      "Example": "你会打排球吗？ nǐ huì dǎ páiqiú ma: Can you play volleyball?",
+      "Notes": "排 row, line up + 球 ball"
+    },
+    {
+      "Hanzi": "零下",
+      "Pinyin": "língxià",
+      "Meaning": "below zero",
+      "Example": "今天零下五度。 jīntiān língxià wǔ dù: It's minus five today.",
+      "Notes": "零 zero + 下 below"
+    },
+    {
+      "Hanzi": "爬山",
+      "Pinyin": "páshān",
+      "Meaning": "to hike, climb a mountain",
+      "Example": "周末去爬山吧。 zhōumò qù páshān ba: Let's go hiking this weekend.",
+      "Notes": "爬 climb + 山 mountain"
+    },
+    {
+      "Hanzi": "黑板",
+      "Pinyin": "hēibǎn",
+      "Meaning": "blackboard",
+      "Example": "请看黑板。 qǐng kàn hēibǎn: Look at the board, please.",
+      "Notes": "黑 black + 板 board (木 + 反 fǎn)"
+    },
+    {
+      "Hanzi": "外卖",
+      "Pinyin": "wàimài",
+      "Meaning": "takeout, delivery food",
+      "Example": "今天叫外卖吧。 jīntiān jiào wàimài ba: Let's order takeout today.",
+      "Notes": "外 outside + 卖 sell; 卖 mài vs 买 mǎi"
+    },
+    {
+      "Hanzi": "饭馆",
+      "Pinyin": "fànguǎn",
+      "Meaning": "restaurant",
+      "Example": "这家饭馆很好吃。 zhè jiā fànguǎn hěn hǎochī: This restaurant is good.",
+      "Notes": "饭 meal + 馆 hall, building"
+    },
+    {
+      "Hanzi": "球鞋",
+      "Pinyin": "qiúxié",
+      "Meaning": "sneakers",
+      "Example": "我买了一双球鞋。 wǒ mǎi le yì shuāng qiúxié: I bought a pair of sneakers.",
+      "Notes": "球 ball + 鞋 shoe (革 leather + 圭 guī)"
+    },
+    {
+      "Hanzi": "流利",
+      "Pinyin": "liúlì",
+      "Meaning": "fluent",
+      "Example": "她英语说得很流利。 tā Yīngyǔ shuō de hěn liúlì: She speaks fluent English.",
+      "Notes": "流 flow + 利 smooth"
+    },
+    {
+      "Hanzi": "交朋友",
+      "Pinyin": "jiāopéngyou",
+      "Meaning": "to make friends",
+      "Example": "我喜欢交朋友。 wǒ xǐhuan jiāo péngyou: I like making friends.",
+      "Notes": "交 exchange, connect + 朋友 friend"
+    },
+    {
+      "Hanzi": "难听",
+      "Pinyin": "nántīng",
+      "Meaning": "unpleasant to hear",
+      "Example": "这首歌真难听。 zhè shǒu gē zhēn nántīng: This song sounds awful.",
+      "Notes": "难 hard + 听 listen; mirror of 好听"
+    },
+    {
+      "Hanzi": "坏处",
+      "Pinyin": "huàichu",
+      "Meaning": "harm, downside",
+      "Example": "抽烟有很多坏处。 chōuyān yǒu hěn duō huàichu: Smoking does a lot of harm.",
+      "Notes": "坏 bad + 处 aspect; mirror of 好处"
+    },
+    {
+      "Hanzi": "千克",
+      "Pinyin": "qiānkè",
+      "Meaning": "kilogram",
+      "Example": "一千克等于两斤。 yì qiānkè děngyú liǎng jīn: One kilo equals two jin.",
+      "Notes": "千 thousand + 克 gram"
+    },
+    {
+      "Hanzi": "叫作",
+      "Pinyin": "jiàozuò",
+      "Meaning": "to be called",
+      "Example": "这个叫作饺子。 zhège jiàozuò jiǎozi: This is called a jiaozi.",
+      "Notes": "叫 call + 作 as"
+    },
+    {
+      "Hanzi": "听讲",
+      "Pinyin": "tīngjiǎng",
+      "Meaning": "to listen to a lecture",
+      "Example": "上课要认真听讲。 shàngkè yào rènzhēn tīngjiǎng: Pay attention in class.",
+      "Notes": "听 listen + 讲 lecture, speak"
+    },
+    {
+      "Hanzi": "西餐",
+      "Pinyin": "xīcān",
+      "Meaning": "Western food",
+      "Example": "我们去吃西餐吧。 wǒmen qù chī xīcān ba: Let's have Western food.",
+      "Notes": "西 West + 餐 meal"
+    },
+    {
+      "Hanzi": "公交车",
+      "Pinyin": "gōngjiāochē",
+      "Meaning": "bus",
+      "Example": "公交车来了。 gōngjiāochē lái le: The bus is here.",
+      "Notes": "公交 public transit + 车 vehicle"
+    },
+    {
+      "Hanzi": "下周",
+      "Pinyin": "xiàzhōu",
+      "Meaning": "next week",
+      "Example": "下周见！ xiàzhōu jiàn: See you next week!",
+      "Notes": "下 next + 周 week"
+    },
+    {
+      "Hanzi": "见过",
+      "Pinyin": "jiànguo",
+      "Meaning": "to have seen, have met",
+      "Example": "我没见过他。 wǒ méi jiànguo tā: I've never met him.",
+      "Notes": "见 see + 过 (particle: have done before)"
+    },
+    {
+      "Hanzi": "快点儿",
+      "Pinyin": "kuàidiǎnr",
+      "Meaning": "hurry up!",
+      "Example": "快点儿，要迟到了！ kuàidiǎnr, yào chídào le: Hurry up, we'll be late!",
+      "Notes": "快 fast + 点儿 a bit = a bit faster"
+    },
+    {
+      "Hanzi": "笑话儿",
+      "Pinyin": "xiàohuar",
+      "Meaning": "joke",
+      "Example": "给我讲个笑话儿。 gěi wǒ jiǎng ge xiàohuar: Tell me a joke.",
+      "Notes": "笑话 joke + 儿 erhua ending"
+    },
+    {
+      "Hanzi": "有空儿",
+      "Pinyin": "yǒukòngr",
+      "Meaning": "to be free, have time",
+      "Example": "你今天有空儿吗？ nǐ jīntiān yǒukòngr ma: Are you free today?",
+      "Notes": "有 have + 空 kòng free time + 儿"
+    },
+    {
+      "Hanzi": "有一点儿",
+      "Pinyin": "yǒuyìdiǎnr",
+      "Meaning": "a little, somewhat",
+      "Example": "我有一点儿饿。 wǒ yǒuyìdiǎnr è: I'm a little hungry.",
+      "Notes": "有 have + 一点儿 a bit"
+    },
+    {
+      "Hanzi": "挺好",
+      "Pinyin": "tǐnghǎo",
+      "Meaning": "pretty good",
+      "Example": "我觉得挺好的。 wǒ juéde tǐng hǎo de: I think it's pretty good.",
+      "Notes": "挺 quite (扌 + 廷 tíng) + 好 good"
+    }
+  ]
+}

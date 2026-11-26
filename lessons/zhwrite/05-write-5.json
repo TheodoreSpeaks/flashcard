@@ -1,0 +1,97 @@
+{
+  "title": "Write 5 · 点 过 大 从 下 中 真 年 家 怎 听 先 国 学 校",
+  "focus": "点 过 大 从 下 中 真 年 家 怎 听 先 国 学 校",
+  "body": "Repeating parts: 口 (听, 点's 占, 国), 日-shapes (真, 早-like), 人 (从, 大), 宀 roof (家), ⺍ (学), 木 (校), 乍 (怎).\n\n## Rules that matter here\n- **Centre stroke last when it pierces**: 中, 年 (the long vertical ends the character).\n- **Outside, inside, close**: 国.\n- 辶 last again in 过.",
+  "cards": [
+    {
+      "Prompt": "一＿儿 · yìdiǎnr · a little",
+      "Hanzi": "点",
+      "Pinyin": "diǎn",
+      "Notes": "占 (5: 卜 + 口, phonetic zhàn) + 灬 fire dots (4) = 9 strokes. Top before bottom; four dots left to right."
+    },
+    {
+      "Prompt": "不＿ · búguò · however",
+      "Hanzi": "过",
+      "Pinyin": "guò",
+      "Notes": "寸 (3) + 辶 walk (3) = 6 strokes. Write 寸 first, 辶 LAST. Also neutral guo after verbs (去过)."
+    },
+    {
+      "Prompt": "＿家 · dàjiā · everyone",
+      "Hanzi": "大",
+      "Pinyin": "dà",
+      "Notes": "3 strokes: 一, ノ, ㇏. Horizontal first, left-falling before right-falling. A person with arms spread. Lookalikes: 太, 犬, 天."
+    },
+    {
+      "Prompt": "自＿ · zìcóng · since",
+      "Hanzi": "从",
+      "Pinyin": "cóng",
+      "Notes": "Two 人 people (2 + 2) = 4 strokes. Left 人 first; its ㇏ shrinks to a dot. One person following another."
+    },
+    {
+      "Prompt": "＿午 · xiàwǔ · afternoon",
+      "Hanzi": "下",
+      "Pinyin": "xià",
+      "Notes": "3 strokes: 一 first, then 丨, then the dot. Mirror of 上 (where the vertical comes first)."
+    },
+    {
+      "Prompt": "＿国 · Zhōngguó · China",
+      "Hanzi": "中",
+      "Pinyin": "zhōng",
+      "Notes": "口 (3) + one long vertical = 4 strokes. Box first, then the central vertical through it LAST."
+    },
+    {
+      "Prompt": "认＿ · rènzhēn · serious, conscientious",
+      "Hanzi": "真",
+      "Pinyin": "zhēn",
+      "Notes": "十 (2) + 目-like (5) + long 一 + 八-like two dots (2) = 10 strokes. Top to bottom. Lookalike: 直 (8)."
+    },
+    {
+      "Prompt": "今＿ · jīnnián · this year",
+      "Hanzi": "年",
+      "Pinyin": "nián",
+      "Notes": "6 strokes: ノ, 一, 一, short left 丨, long 一, then the long vertical LAST. Lookalike: 午 (4)."
+    },
+    {
+      "Prompt": "回＿ · huí jiā · go home",
+      "Hanzi": "家",
+      "Pinyin": "jiā",
+      "Notes": "宀 roof (3) + 豕 pig (7) = 10 strokes. Roof first. A pig under a roof = household. Lookalike: 象."
+    },
+    {
+      "Prompt": "＿么 · zěnme · how",
+      "Hanzi": "怎",
+      "Pinyin": "zěn",
+      "Notes": "乍 (5, phonetic zhà) + 心 heart (4) = 9 strokes. Top before bottom. Lookalike: 作 (亻 + 乍), 昨 (日 + 乍)."
+    },
+    {
+      "Prompt": "＿说 · tīngshuō · to hear (that)",
+      "Hanzi": "听",
+      "Pinyin": "tīng",
+      "Notes": "口 mouth (3) + 斤 (4, phonetic-ish jīn) = 7 strokes. Left small 口 first. Lookalike: 所, 近 (also 斤)."
+    },
+    {
+      "Prompt": "＿生 · xiānsheng · Mr.; husband",
+      "Hanzi": "先",
+      "Pinyin": "xiān",
+      "Notes": "⺧ (4: ノ, 一, 丨, 一) + 儿 legs (2) = 6 strokes. Top before bottom; 儿 ends with 竖弯钩."
+    },
+    {
+      "Prompt": "中＿ · Zhōngguó · China",
+      "Hanzi": "国",
+      "Pinyin": "guó",
+      "Notes": "囗 enclosure + 玉 jade (5) = 8 strokes. Outside before inside, close last: 丨, 横折, then 玉 (dot last), bottom 一."
+    },
+    {
+      "Prompt": "＿生 · xuésheng · student",
+      "Hanzi": "学",
+      "Pinyin": "xué",
+      "Notes": "⺍ (3) + 冖 cover (2) + 子 child (3) = 8 strokes. Top to bottom. Lookalike: 觉 (见 at bottom)."
+    },
+    {
+      "Prompt": "学＿ · xuéxiào · school",
+      "Hanzi": "校",
+      "Pinyin": "xiào",
+      "Notes": "木 tree (4) + 交 (6, phonetic jiāo) = 10 strokes. 交 = 亠 + 父. Left before right."
+    }
+  ]
+}

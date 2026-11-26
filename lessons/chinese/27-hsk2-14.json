@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.14 · 院子, 住院, 出租, 碰到",
+  "focus": "租 · 草 · 院 · 送给 · 碰 · 碰到 · 以外 · 等于 · 例如 · 等到 · 住院 · 椅子 · 拿到 · 平等 · 例子 · 常见 · 得出 · 出租 · 院长 · 找出 · 院子 · 瓶子 · 出国 · 住房 · 出院 · 外地 · 送到 · 草地 · 回国 · 班长 · 句子 · 筷子 · 组长 · 个子 · 地铁站 · 站住 · 饺子 · 碰见 · 拿出",
+  "body": "Lots of 子 nouns (椅子, 筷子, 饺子), the 院 family (住院, 出院, 院长, 院子), and verbs with result endings 到 and 出 (拿到, 碰到, 找出, 拿出).\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 子 | zi | noun suffix (toneless) | 椅子, 例子, 院子, 瓶子, 句子, 筷子, 个子, 饺子 |\n| 院 | yuàn | courtyard; institution, hospital (阝 + 完 wán) | 院, 住院, 院长, 院子, 出院 |\n| 出 | chū | out | 得出, 出租, 找出, 出国, 出院, 拿出 |\n| 到 | dào | arrive; result: reached, got | 碰到, 等到, 拿到, 送到 |\n| 长 | zhǎng | head, chief (not cháng long) | 院长, 班长, 组长 |\n| 等 | děng | to wait; equal | 等于, 等到, 平等 |\n| 碰 | pèng | to bump into (石 stone + 并 bìng) | 碰, 碰到, 碰见 |\n| 例 | lì | example (亻 + 列 liè) | 例如, 例子 |\n\n## Watch out\n\n- 长 is zhǎng (chief) in 院长, 班长, 组长, but cháng (long) in 长城.\n- 住 zhù (live) vs 往 wǎng (toward): 住 has 亻 person, 往 has 彳 step.",
+  "cards": [
+    {
+      "Hanzi": "租",
+      "Pinyin": "zū",
+      "Meaning": "to rent",
+      "Example": "我想租个房子。 wǒ xiǎng zū ge fángzi: I want to rent a place.",
+      "Notes": "禾 grain + 且 qiě (phonetic): rent was once paid in grain"
+    },
+    {
+      "Hanzi": "草",
+      "Pinyin": "cǎo",
+      "Meaning": "grass",
+      "Example": "别在草上走。 bié zài cǎo shang zǒu: Don't walk on the grass.",
+      "Notes": "艹 plant + 早 zǎo (phonetic)"
+    },
+    {
+      "Hanzi": "院",
+      "Pinyin": "yuàn",
+      "Meaning": "courtyard; institution (hospital, college)",
+      "Example": "孩子们在院里玩。 háizimen zài yuàn li wánr: The kids are playing in the yard.",
+      "Notes": "阝 + 完 wán (phonetic); 医院 hospital, 学院 college"
+    },
+    {
+      "Hanzi": "送给",
+      "Pinyin": "sònggěi",
+      "Meaning": "to give (as a gift)",
+      "Example": "这本书送给你。 zhè běn shū sònggěi nǐ: This book is for you.",
+      "Notes": "送 send + 给 give"
+    },
+    {
+      "Hanzi": "碰",
+      "Pinyin": "pèng",
+      "Meaning": "to bump, touch",
+      "Example": "别碰我的东西。 bié pèng wǒ de dōngxi: Don't touch my stuff.",
+      "Notes": "石 stone + 并 bìng (phonetic): stones knocking"
+    },
+    {
+      "Hanzi": "碰到",
+      "Pinyin": "pèngdào",
+      "Meaning": "to run into; to come across",
+      "Example": "我在路上碰到了老师。 wǒ zài lù shang pèngdào le lǎoshī: I ran into my teacher on the way.",
+      "Notes": "碰 bump + 到 reach = bump into"
+    },
+    {
+      "Hanzi": "以外",
+      "Pinyin": "yǐwài",
+      "Meaning": "apart from, except; beyond",
+      "Example": "除了他以外都来了。 chúle tā yǐwài dōu lái le: Everyone came except him.",
+      "Notes": "以 by + 外 outside = outside of"
+    },
+    {
+      "Hanzi": "等于",
+      "Pinyin": "děngyú",
+      "Meaning": "to equal",
+      "Example": "一加一等于二。 yī jiā yī děngyú èr: One plus one equals two.",
+      "Notes": "等 equal + 于 to"
+    },
+    {
+      "Hanzi": "例如",
+      "Pinyin": "lìrú",
+      "Meaning": "for example",
+      "Example": "我爱吃水果，例如苹果。 wǒ ài chī shuǐguǒ, lìrú píngguǒ: I love fruit, like apples.",
+      "Notes": "例 example + 如 like"
+    },
+    {
+      "Hanzi": "等到",
+      "Pinyin": "děngdào",
+      "Meaning": "to wait until; by the time",
+      "Example": "等到明天再说吧。 děngdào míngtiān zài shuō ba: Let's wait until tomorrow.",
+      "Notes": "等 wait + 到 until"
+    },
+    {
+      "Hanzi": "住院",
+      "Pinyin": "zhùyuàn",
+      "Meaning": "to be in hospital",
+      "Example": "奶奶住院了。 nǎinai zhùyuàn le: Grandma is in the hospital.",
+      "Notes": "住 stay + 院 (医院) hospital"
+    },
+    {
+      "Hanzi": "椅子",
+      "Pinyin": "yǐzi",
+      "Meaning": "chair",
+      "Example": "这把椅子很舒服。 zhè bǎ yǐzi hěn shūfu: This chair is comfortable.",
+      "Notes": "椅 = 木 wood + 奇 qí (phonetic) + 子 noun suffix"
+    },
+    {
+      "Hanzi": "拿到",
+      "Pinyin": "nádào",
+      "Meaning": "to get, obtain",
+      "Example": "我拿到票了。 wǒ nádào piào le: I got the tickets.",
+      "Notes": "拿 hold (合 + 手 hand) + 到 reached = got it in hand"
+    },
+    {
+      "Hanzi": "平等",
+      "Pinyin": "píngděng",
+      "Meaning": "equal; equality",
+      "Example": "男女平等。 nán nǚ píngděng: Men and women are equal.",
+      "Notes": "平 level + 等 rank = same level"
+    },
+    {
+      "Hanzi": "例子",
+      "Pinyin": "lìzi",
+      "Meaning": "example",
+      "Example": "你能举个例子吗？ nǐ néng jǔ ge lìzi ma: Can you give an example?",
+      "Notes": "例 example + 子 noun suffix"
+    },
+    {
+      "Hanzi": "常见",
+      "Pinyin": "chángjiàn",
+      "Meaning": "common, often seen",
+      "Example": "这个问题很常见。 zhège wèntí hěn chángjiàn: This problem is very common.",
+      "Notes": "常 often + 见 see = often seen"
+    },
+    {
+      "Hanzi": "得出",
+      "Pinyin": "déchū",
+      "Meaning": "to reach (a conclusion, result)",
+      "Example": "我们得出了答案。 wǒmen déchū le dá'àn: We came up with the answer.",
+      "Notes": "得 get + 出 out = get out of it"
+    },
+    {
+      "Hanzi": "出租",
+      "Pinyin": "chūzū",
+      "Meaning": "to rent out",
+      "Example": "这个房子出租吗？ zhège fángzi chūzū ma: Is this house for rent?",
+      "Notes": "出 out + 租 rent; 出租车 taxi"
+    },
+    {
+      "Hanzi": "院长",
+      "Pinyin": "yuànzhǎng",
+      "Meaning": "head of a hospital, college",
+      "Example": "他是医院的院长。 tā shì yīyuàn de yuànzhǎng: He's the head of the hospital.",
+      "Notes": "院 institution + 长 zhǎng chief"
+    },
+    {
+      "Hanzi": "找出",
+      "Pinyin": "zhǎochū",
+      "Meaning": "to find, find out",
+      "Example": "我找出了问题。 wǒ zhǎochū le wèntí: I found the problem.",
+      "Notes": "找 look for + 出 out"
+    },
+    {
+      "Hanzi": "院子",
+      "Pinyin": "yuànzi",
+      "Meaning": "courtyard, yard",
+      "Example": "院子里有一棵树。 yuànzi li yǒu yì kē shù: There's a tree in the yard.",
+      "Notes": "院 courtyard + 子 noun suffix"
+    },
+    {
+      "Hanzi": "瓶子",
+      "Pinyin": "píngzi",
+      "Meaning": "bottle",
+      "Example": "瓶子里没水了。 píngzi li méi shuǐ le: The bottle is empty.",
+      "Notes": "瓶 bottle (并 + 瓦 pottery) + 子 noun suffix"
+    },
+    {
+      "Hanzi": "出国",
+      "Pinyin": "chūguó",
+      "Meaning": "to go abroad",
+      "Example": "她明年要出国。 tā míngnián yào chūguó: She's going abroad next year.",
+      "Notes": "出 out + 国 country"
+    },
+    {
+      "Hanzi": "住房",
+      "Pinyin": "zhùfáng",
+      "Meaning": "housing",
+      "Example": "这里住房很贵。 zhèlǐ zhùfáng hěn guì: Housing here is expensive.",
+      "Notes": "住 live + 房 house"
+    },
+    {
+      "Hanzi": "出院",
+      "Pinyin": "chūyuàn",
+      "Meaning": "to leave hospital",
+      "Example": "他明天出院。 tā míngtiān chūyuàn: He gets out of the hospital tomorrow.",
+      "Notes": "出 out + 院 hospital; mirror of 住院"
+    },
+    {
+      "Hanzi": "外地",
+      "Pinyin": "wàidì",
+      "Meaning": "out of town, elsewhere in the country",
+      "Example": "我是外地人。 wǒ shì wàidì rén: I'm not from around here.",
+      "Notes": "外 outside + 地 place"
+    },
+    {
+      "Hanzi": "送到",
+      "Pinyin": "sòngdào",
+      "Meaning": "to deliver to; to see (someone) to",
+      "Example": "我把你送到家。 wǒ bǎ nǐ sòngdào jiā: I'll get you home.",
+      "Notes": "送 send + 到 arrive"
+    },
+    {
+      "Hanzi": "草地",
+      "Pinyin": "cǎodì",
+      "Meaning": "lawn, meadow",
+      "Example": "我们坐在草地上。 wǒmen zuò zài cǎodì shang: We sat on the grass.",
+      "Notes": "草 grass + 地 ground"
+    },
+    {
+      "Hanzi": "回国",
+      "Pinyin": "huíguó",
+      "Meaning": "to return to one's country",
+      "Example": "他下个月回国。 tā xià ge yuè huíguó: He's going home next month.",
+      "Notes": "回 return + 国 country"
+    },
+    {
+      "Hanzi": "班长",
+      "Pinyin": "bānzhǎng",
+      "Meaning": "class monitor",
+      "Example": "她是我们的班长。 tā shì wǒmen de bānzhǎng: She's our class monitor.",
+      "Notes": "班 class + 长 zhǎng chief"
+    },
+    {
+      "Hanzi": "句子",
+      "Pinyin": "jùzi",
+      "Meaning": "sentence",
+      "Example": "这个句子很长。 zhège jùzi hěn cháng: This sentence is long.",
+      "Notes": "句 sentence (勹 + 口) + 子 noun suffix"
+    },
+    {
+      "Hanzi": "筷子",
+      "Pinyin": "kuàizi",
+      "Meaning": "chopsticks",
+      "Example": "你会用筷子吗？ nǐ huì yòng kuàizi ma: Can you use chopsticks?",
+      "Notes": "筷 = ⺮ bamboo + 快 kuài (phonetic)"
+    },
+    {
+      "Hanzi": "组长",
+      "Pinyin": "zǔzhǎng",
+      "Meaning": "group leader",
+      "Example": "谁是组长？ shéi shì zǔzhǎng: Who's the group leader?",
+      "Notes": "组 group + 长 zhǎng chief"
+    },
+    {
+      "Hanzi": "个子",
+      "Pinyin": "gèzi",
+      "Meaning": "height, build",
+      "Example": "他个子很高。 tā gèzi hěn gāo: He's tall.",
+      "Notes": "个 (measure word) + 子 noun suffix"
+    },
+    {
+      "Hanzi": "地铁站",
+      "Pinyin": "dìtiězhàn",
+      "Meaning": "subway station",
+      "Example": "地铁站离这儿很近。 dìtiězhàn lí zhèr hěn jìn: The subway station is close.",
+      "Notes": "地 ground + 铁 iron (rail) + 站 station"
+    },
+    {
+      "Hanzi": "站住",
+      "Pinyin": "zhànzhù",
+      "Meaning": "to stop, stand still",
+      "Example": "站住！别跑！ zhànzhù, bié pǎo: Stop! Don't run!",
+      "Notes": "站 stand + 住 firmly in place"
+    },
+    {
+      "Hanzi": "饺子",
+      "Pinyin": "jiǎozi",
+      "Meaning": "dumplings",
+      "Example": "我们包饺子吧。 wǒmen bāo jiǎozi ba: Let's make dumplings.",
+      "Notes": "饺 = 饣 food + 交 jiāo (phonetic)"
+    },
+    {
+      "Hanzi": "碰见",
+      "Pinyin": "pèngjiàn",
+      "Meaning": "to run into (someone)",
+      "Example": "我碰见了一个老朋友。 wǒ pèngjiàn le yí ge lǎo péngyou: I ran into an old friend.",
+      "Notes": "碰 bump + 见 see"
+    },
+    {
+      "Hanzi": "拿出",
+      "Pinyin": "náchū",
+      "Meaning": "to take out",
+      "Example": "他拿出了手机。 tā náchū le shǒujī: He took out his phone.",
+      "Notes": "拿 hold + 出 out"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "title": "HSK 1.1 · 我们, 没有, 一起, 起来, 别人",
+  "focus": "的 · 了 · 我 · 是 · 你 · 有 · 他 · 这 · 我们 · 人 · 一 · 来 · 还 · 没有 · 那 · 他们 · 没 · 里 · 出 · 你们 · 这些 · 还有 · 还是 · 一起 · 起来 · 起 · 一些 · 这里 · 别 · 回 · 一样 · 出来 · 那些 · 女人 · 有些 · 别人 · 们 · 回来 · 别的",
+  "body": "The very first building blocks: pronouns (我 你 他), \"to have\" (有, 没有), \"this/that\" (这, 那) and direction words with 来 and 出. A handful of characters (一, 这, 那, 还, 起, 别, 回) build most of the two-character words here.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 一 | yī | one | 一起, 一些, 一样 |\n| 这 | zhè | this (辶 + 文) | 这些, 这里 |\n| 那 | nà | that | 那些 |\n| 有 | yǒu | to have (hand over 月 meat) | 没有, 还有, 有些 |\n| 还 | hái | still, also | 还有, 还是 |\n| 起 | qǐ | rise (走 + 己 jǐ) | 一起, 起来 |\n| 别 | bié | other; don't | 别人, 别的 |\n| 们 | men | plural marker (亻 + 门 mén) | 我们, 你们, 他们 |\n\n## Watch out\n\n- 人 (person) vs 入 (rù, enter): mirror images.\n- 起 ends in 己 jǐ, not 已 yǐ.\n- 还 is hái (still) in this lesson, huán when it means \"give back\".\n- 一 changes tone in speech: yìqǐ, yíyàng, yìxiē. The cards show the spoken tones.\n",
+  "cards": [
+    {
+      "Hanzi": "的",
+      "Pinyin": "de",
+      "Meaning": "'s, of (possessive)",
+      "Example": "这是我的。 zhè shì wǒ de: This is mine.",
+      "Notes": "白 + 勺 sháo; the most common character in Chinese"
+    },
+    {
+      "Hanzi": "了",
+      "Pinyin": "le",
+      "Meaning": "particle: something is done or has changed",
+      "Example": "他大了。 tā dà le: He's grown up.",
+      "Notes": "Lookalike: 子 (zǐ, child) has a line across the middle; 了 does not"
+    },
+    {
+      "Hanzi": "我",
+      "Pinyin": "wǒ",
+      "Meaning": "I, me",
+      "Example": "我是学生。 wǒ shì xuésheng: I'm a student.",
+      "Notes": "Contains 戈 (halberd); originally a pronged weapon, borrowed to mean 'I'. 我 vs 找 (zhǎo, look for)"
+    },
+    {
+      "Hanzi": "是",
+      "Pinyin": "shì",
+      "Meaning": "to be (am, is, are); yes",
+      "Example": "是我。 shì wǒ: It's me.",
+      "Notes": "日 sun on top + a form of 正 (straight, correct) below: 'correct' became 'to be'"
+    },
+    {
+      "Hanzi": "你",
+      "Pinyin": "nǐ",
+      "Meaning": "you",
+      "Example": "你好吗? nǐ hǎo ma: How are you?",
+      "Notes": "亻 person + 尔 (an old word for 'you')"
+    },
+    {
+      "Hanzi": "有",
+      "Pinyin": "yǒu",
+      "Meaning": "to have; there is",
+      "Example": "我有一个哥哥。 wǒ yǒu yí ge gēge: I have an older brother.",
+      "Notes": "A hand (𠂇) holding 月 (here: meat): holding meat = to have"
+    },
+    {
+      "Hanzi": "他",
+      "Pinyin": "tā",
+      "Meaning": "he, him",
+      "Example": "他是我哥哥。 tā shì wǒ gēge: He's my older brother.",
+      "Notes": "亻 person + 也; same sound as 她 (女 woman) and 它 (it)"
+    },
+    {
+      "Hanzi": "这",
+      "Pinyin": "zhè",
+      "Meaning": "this",
+      "Example": "这是什么? zhè shì shénme: What's this?",
+      "Notes": "辶 movement radical + 文; colloquially also zhèi"
+    },
+    {
+      "Hanzi": "我们",
+      "Pinyin": "wǒmen",
+      "Meaning": "we, us",
+      "Example": "我们都在。 wǒmen dōu zài: We're all here.",
+      "Notes": "们 = 亻 person + 门 mén for the sound; it makes pronouns plural"
+    },
+    {
+      "Hanzi": "人",
+      "Pinyin": "rén",
+      "Meaning": "person, people",
+      "Example": "他是好人。 tā shì hǎo rén: He's a good person.",
+      "Notes": "Picture of a person walking. 人 vs 入 (rù, enter) vs 八 (bā, eight)"
+    },
+    {
+      "Hanzi": "一",
+      "Pinyin": "yī",
+      "Meaning": "one; a",
+      "Example": "我要一个。 wǒ yào yí ge: I want one.",
+      "Notes": "One stroke = one. Tone shifts in speech: yí before 4th tone, yì before others"
+    },
+    {
+      "Hanzi": "来",
+      "Pinyin": "lái",
+      "Meaning": "to come",
+      "Example": "他来了! tā lái le: He's here!",
+      "Notes": "来 vs 米 (mǐ, rice): 来 has an extra line on top"
+    },
+    {
+      "Hanzi": "还",
+      "Pinyin": "hái / huán",
+      "Meaning": "still, also; (huán) to give back",
+      "Example": "你还在吗? nǐ hái zài ma: Are you still there?",
+      "Notes": "辶 movement + 不; hái = still, huán = return something (还书 return a book)"
+    },
+    {
+      "Hanzi": "没有",
+      "Pinyin": "méiyǒu",
+      "Meaning": "don't have; didn't (do)",
+      "Example": "我没有钱。 wǒ méiyǒu qián: I don't have money.",
+      "Notes": "没 not + 有 have = not have; before a verb it negates the past: 没有去 didn't go"
+    },
+    {
+      "Hanzi": "那",
+      "Pinyin": "nà",
+      "Meaning": "that",
+      "Example": "那是谁? nà shì shéi: Who's that?",
+      "Notes": "阝 on the right (town radical); colloquially nèi. 那 (that) vs 哪 (nǎ, which), which adds 口"
+    },
+    {
+      "Hanzi": "他们",
+      "Pinyin": "tāmen",
+      "Meaning": "they, them",
+      "Example": "他们不在。 tāmen bú zài: They're not here.",
+      "Notes": "他 has 亻 (person) on the left; compare 她 with 女 (woman)"
+    },
+    {
+      "Hanzi": "没",
+      "Pinyin": "méi",
+      "Meaning": "not (have); didn't",
+      "Example": "我没去。 wǒ méi qù: I didn't go.",
+      "Notes": "氵 water + 殳-like right side; originally 'sink, submerge' (mò), now the everyday 'not have'"
+    },
+    {
+      "Hanzi": "里",
+      "Pinyin": "lǐ",
+      "Meaning": "inside; in",
+      "Example": "钱在包里。 qián zài bāo li: The money's in the bag.",
+      "Notes": "田 field + 土 earth (village); also stands for 'inside' (traditional 裡)"
+    },
+    {
+      "Hanzi": "出",
+      "Pinyin": "chū",
+      "Meaning": "to go out, come out",
+      "Example": "他出门了。 tā chū mén le: He went out.",
+      "Notes": "Looks like two 山 stacked; old form was a foot stepping out of a pit"
+    },
+    {
+      "Hanzi": "你们",
+      "Pinyin": "nǐmen",
+      "Meaning": "you (plural)",
+      "Example": "你们好! nǐmen hǎo: Hi, everyone!",
+      "Notes": "你 you + 们 plural marker (亻 + 门 mén for the sound)"
+    },
+    {
+      "Hanzi": "这些",
+      "Pinyin": "zhèxiē",
+      "Meaning": "these",
+      "Example": "这些是你的吗? zhèxiē shì nǐ de ma: Are these yours?",
+      "Notes": "这 this + 些 some, a few = these"
+    },
+    {
+      "Hanzi": "还有",
+      "Pinyin": "háiyǒu",
+      "Meaning": "and also; there's still",
+      "Example": "还有一个。 hái yǒu yí ge: There's one more.",
+      "Notes": "还 still + 有 have = there's still more; also 'and also' in lists"
+    },
+    {
+      "Hanzi": "还是",
+      "Pinyin": "háishi",
+      "Meaning": "or (in questions); still; had better",
+      "Example": "茶还是咖啡? chá háishi kāfēi: Tea or coffee?",
+      "Notes": "还 still + 是 be; in questions it means 'or'; 我们还是走吧 = we'd better go"
+    },
+    {
+      "Hanzi": "一起",
+      "Pinyin": "yìqǐ",
+      "Meaning": "together",
+      "Example": "我们一起去吧。 wǒmen yìqǐ qù ba: Let's go together.",
+      "Notes": "一 one + 起 rise, start = starting as one: together"
+    },
+    {
+      "Hanzi": "起来",
+      "Pinyin": "qǐlai",
+      "Meaning": "to get up; (after verb) start to",
+      "Example": "快起来! kuài qǐlai: Get up, quick!",
+      "Notes": "起 rise + 来 come = come up; after verbs it means 'begin': 笑起来 burst out laughing"
+    },
+    {
+      "Hanzi": "起",
+      "Pinyin": "qǐ",
+      "Meaning": "to rise, get up; to start",
+      "Example": "他起得很早。 tā qǐ de hěn zǎo: He gets up early.",
+      "Notes": "走 walk radical + 己 jǐ for the sound. 己 vs 已 (yǐ) vs 巳 (sì)"
+    },
+    {
+      "Hanzi": "一些",
+      "Pinyin": "yìxiē",
+      "Meaning": "some, a few",
+      "Example": "我买了一些水果。 wǒ mǎi le yìxiē shuǐguǒ: I bought some fruit.",
+      "Notes": "一 one + 些 some = a little bit; 些 = 此 cǐ (this) + 二"
+    },
+    {
+      "Hanzi": "这里",
+      "Pinyin": "zhèlǐ",
+      "Meaning": "here",
+      "Example": "这里很好。 zhèlǐ hěn hǎo: It's nice here.",
+      "Notes": "这 this + 里 inside = in this place; also said 这儿 zhèr"
+    },
+    {
+      "Hanzi": "别",
+      "Pinyin": "bié",
+      "Meaning": "don't; other",
+      "Example": "别走! bié zǒu: Don't go!",
+      "Notes": "刂 knife on the right: cut apart, separate, so 'other' and 'don't'"
+    },
+    {
+      "Hanzi": "回",
+      "Pinyin": "huí",
+      "Meaning": "to return, go back; times",
+      "Example": "我回来了。 wǒ huílai le: I'm back.",
+      "Notes": "A small box inside a big box, like going round and back again"
+    },
+    {
+      "Hanzi": "一样",
+      "Pinyin": "yíyàng",
+      "Meaning": "the same",
+      "Example": "我们一样高。 wǒmen yíyàng gāo: We're the same height.",
+      "Notes": "一 one + 样 appearance (木 + 羊 yáng for the sound) = one look: the same"
+    },
+    {
+      "Hanzi": "出来",
+      "Pinyin": "chūlai",
+      "Meaning": "to come out",
+      "Example": "你出来一下。 nǐ chūlai yíxià: Come out for a sec.",
+      "Notes": "出 out + 来 come (toward the speaker); after verbs: 想出来 think up"
+    },
+    {
+      "Hanzi": "那些",
+      "Pinyin": "nàxiē",
+      "Meaning": "those",
+      "Example": "那些是谁的? nàxiē shì shéi de: Whose are those?",
+      "Notes": "那 that + 些 some = those; mirror of 这些"
+    },
+    {
+      "Hanzi": "女人",
+      "Pinyin": "nǚrén",
+      "Meaning": "woman",
+      "Example": "那个女人是谁? nàge nǚrén shì shéi: Who's that woman?",
+      "Notes": "女 woman (a kneeling figure) + 人 person"
+    },
+    {
+      "Hanzi": "有些",
+      "Pinyin": "yǒuxiē",
+      "Meaning": "some; somewhat",
+      "Example": "有些人不喜欢。 yǒuxiē rén bù xǐhuan: Some people don't like it.",
+      "Notes": "有 have + 些 some = there are some; before adjectives: 有些累 a bit tired"
+    },
+    {
+      "Hanzi": "别人",
+      "Pinyin": "biérén",
+      "Meaning": "other people",
+      "Example": "别人都走了。 biérén dōu zǒu le: Everyone else left.",
+      "Notes": "别 other + 人 person = others"
+    },
+    {
+      "Hanzi": "们",
+      "Pinyin": "men",
+      "Meaning": "(plural suffix for people)",
+      "Example": "同学们好! tóngxuémen hǎo: Hello, class!",
+      "Notes": "亻 person + 门 mén for the sound; neutral tone"
+    },
+    {
+      "Hanzi": "回来",
+      "Pinyin": "huílai",
+      "Meaning": "to come back",
+      "Example": "你什么时候回来? nǐ shénme shíhou huílai: When are you coming back?",
+      "Notes": "回 return + 来 come (toward the speaker) = come back"
+    },
+    {
+      "Hanzi": "别的",
+      "Pinyin": "biéde",
+      "Meaning": "other, else",
+      "Example": "你要别的吗? nǐ yào biéde ma: Want anything else?",
+      "Notes": "别 other + 的 (makes a noun phrase) = other ones"
+    }
+  ]
+}

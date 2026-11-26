@@ -1,0 +1,287 @@
+{
+  "title": "HSK 3.14 · 功能, 人才, 游泳, 铁路, 乐观",
+  "focus": "桥 · 迷 · 基础 · 功能 · 游 · 食品 · 铁 · 录 · 积极 · 汤 · 搬 · 命运 · 女子 · 类似 · 男子 · 将来 · 人才 · 路线 · 人群 · 看起来 · 能不能 · 上来 · 才能 · 年纪 · 不论 · 观看 · 欢乐 · 功夫 · 房屋 · 纪录 · 游泳 · 基本上 · 商品 · 裤子 · 运输 · 乐队 · 乐观 · 球迷 · 屋子 · 铁路",
+  "body": "A mixed lesson where many characters have their own family: 子 as a noun ending (女子, 男子, 裤子, 屋子), 才 *talent, only then* (人才, 才能), and 乐 with both readings (欢乐 lè, 乐队 yuè).\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 子 | zǐ / zi | child; noun ending | 女子, 男子, 裤子, 屋子 |\n| 来 | lái | come | 将来, 看起来, 上来 |\n| 能 | néng | can, ability | 功能, 能不能, 才能 |\n| 乐 | lè / yuè | happy / music | 欢乐, 乐队, 乐观 |\n| 品 | pǐn | goods (three 口) | 食品, 商品 |\n| 路 | lù | road (⻊ foot) | 路线, 铁路 |\n| 屋 | wū | room, house (尸 + 至) | 房屋, 屋子 |\n| 观 | guān | look, view (见 see) | 观看, 乐观 |\n\n## Watch out\n\n- 乐观 lèguān (optimistic) but 乐队 yuèduì (band).\n- 纪录 (a record, as in world record) vs 记录 (to write down); 纪 has 纟, 记 has 讠.\n- 游 (氵, swim, travel) vs 遊: the simplified form is just 游.\n- 迷 has 米 inside 辶, as in 谜 mí riddle.",
+  "cards": [
+    {
+      "Hanzi": "桥",
+      "Pinyin": "qiáo",
+      "Meaning": "bridge",
+      "Example": "河上有一座桥。 hé shang yǒu yí zuò qiáo: There's a bridge over the river",
+      "Notes": "木 wood + 乔 qiáo for the sound = wooden bridge"
+    },
+    {
+      "Hanzi": "迷",
+      "Pinyin": "mí",
+      "Meaning": "to be lost; fan",
+      "Example": "我迷路了。 wǒ mílù le: I'm lost",
+      "Notes": "辶 walk + 米 mǐ for the sound = wander, lose one's way"
+    },
+    {
+      "Hanzi": "基础",
+      "Pinyin": "jīchǔ",
+      "Meaning": "foundation, basis",
+      "Example": "我的基础不好。 wǒ de jīchǔ bù hǎo: My foundation is weak",
+      "Notes": "基 base (土 earth + 其 qí sound) + 础 plinth (石 stone + 出 chū) = base stones"
+    },
+    {
+      "Hanzi": "功能",
+      "Pinyin": "gōngnéng",
+      "Meaning": "function",
+      "Example": "这个手机功能很多。 zhège shǒujī gōngnéng hěn duō: This phone has many features",
+      "Notes": "功 effect, merit (工 + 力 force) + 能 ability = what it can do"
+    },
+    {
+      "Hanzi": "游",
+      "Pinyin": "yóu",
+      "Meaning": "to swim; to travel",
+      "Example": "鱼在水里游。 yú zài shuǐ li yóu: Fish swim in the water",
+      "Notes": "氵 water + 斿 (flag streaming) = drift along, swim, roam"
+    },
+    {
+      "Hanzi": "食品",
+      "Pinyin": "shípǐn",
+      "Meaning": "food, foodstuff",
+      "Example": "这家店卖食品。 zhè jiā diàn mài shípǐn: This shop sells food",
+      "Notes": "食 food + 品 goods = food goods"
+    },
+    {
+      "Hanzi": "铁",
+      "Pinyin": "tiě",
+      "Meaning": "iron",
+      "Example": "这个门是铁的。 zhège mén shì tiě de: The door is iron",
+      "Notes": "钅 metal + 失 shī for the sound. Lookalike: 铁 has 失, not 夫"
+    },
+    {
+      "Hanzi": "录",
+      "Pinyin": "lù",
+      "Meaning": "to record",
+      "Example": "我在录视频。 wǒ zài lù shìpín: I'm recording a video",
+      "Notes": "Originally a picture of a well-sweep dripping water; now just 彐 + 水-like bottom. Also in 记录"
+    },
+    {
+      "Hanzi": "积极",
+      "Pinyin": "jījí",
+      "Meaning": "positive, active",
+      "Example": "他工作很积极。 tā gōngzuò hěn jījí: He works with enthusiasm",
+      "Notes": "积 accumulate (禾 grain) + 极 utmost (木 + 及 jí sound); together: positive, energetic"
+    },
+    {
+      "Hanzi": "汤",
+      "Pinyin": "tāng",
+      "Meaning": "soup",
+      "Example": "这个汤很好喝。 zhège tāng hěn hǎohē: This soup is tasty",
+      "Notes": "氵 water + 𠃓 (from 昜 yáng, phonetic) = hot liquid, soup"
+    },
+    {
+      "Hanzi": "搬",
+      "Pinyin": "bān",
+      "Meaning": "to move (house, objects)",
+      "Example": "我们下个月搬家。 wǒmen xià ge yuè bānjiā: We're moving next month",
+      "Notes": "扌 hand + 般 bān for the sound = carry by hand"
+    },
+    {
+      "Hanzi": "命运",
+      "Pinyin": "mìngyùn",
+      "Meaning": "fate, destiny",
+      "Example": "这是命运吧。 zhè shì mìngyùn ba: I guess it's fate",
+      "Notes": "命 life, fate + 运 luck, move = life's luck, destiny"
+    },
+    {
+      "Hanzi": "女子",
+      "Pinyin": "nǚzǐ",
+      "Meaning": "woman (formal)",
+      "Example": "她参加女子比赛。 tā cānjiā nǚzǐ bǐsài: She's in the women's event",
+      "Notes": "女 female + 子 person = woman. Formal, as in sports events"
+    },
+    {
+      "Hanzi": "类似",
+      "Pinyin": "lèisì",
+      "Meaning": "similar",
+      "Example": "我有类似的问题。 wǒ yǒu lèisì de wèntí: I have a similar problem",
+      "Notes": "类 kind + 似 resemble (亻 + 以 yǐ sound) = of a similar kind"
+    },
+    {
+      "Hanzi": "男子",
+      "Pinyin": "nánzǐ",
+      "Meaning": "man (formal)",
+      "Example": "他是男子篮球队的。 tā shì nánzǐ lánqiú duì de: He's on the men's team",
+      "Notes": "男 male (田 field + 力 strength) + 子 person = man"
+    },
+    {
+      "Hanzi": "将来",
+      "Pinyin": "jiānglái",
+      "Meaning": "future",
+      "Example": "将来我想当老师。 jiānglái wǒ xiǎng dāng lǎoshī: In future I want to teach",
+      "Notes": "将 about to + 来 come = what's about to come"
+    },
+    {
+      "Hanzi": "人才",
+      "Pinyin": "réncái",
+      "Meaning": "talented person, talent",
+      "Example": "他是个人才。 tā shì ge réncái: He's a real talent",
+      "Notes": "人 person + 才 talent = a talented person"
+    },
+    {
+      "Hanzi": "路线",
+      "Pinyin": "lùxiàn",
+      "Meaning": "route",
+      "Example": "这条路线最快。 zhè tiáo lùxiàn zuì kuài: This route is fastest",
+      "Notes": "路 road + 线 line (纟 thread) = road line, route"
+    },
+    {
+      "Hanzi": "人群",
+      "Pinyin": "rénqún",
+      "Meaning": "crowd",
+      "Example": "人群里有我朋友。 rénqún li yǒu wǒ péngyou: My friend is in the crowd",
+      "Notes": "人 people + 群 group, flock (羊 sheep + 君 jūn sound) = a flock of people"
+    },
+    {
+      "Hanzi": "看起来",
+      "Pinyin": "kànqǐlai",
+      "Meaning": "to look, seem",
+      "Example": "你看起来很开心。 nǐ kànqǐlai hěn kāixīn: You look happy",
+      "Notes": "看 look + 起来 as it rises = as it looks, seems"
+    },
+    {
+      "Hanzi": "能不能",
+      "Pinyin": "néngbunéng",
+      "Meaning": "can or can't, could you",
+      "Example": "你能不能帮我？ nǐ néngbunéng bāng wǒ: Could you help me?",
+      "Notes": "能 can + 不 not + 能 can = can-or-not question. 不 is usually light here"
+    },
+    {
+      "Hanzi": "上来",
+      "Pinyin": "shànglái",
+      "Meaning": "to come up",
+      "Example": "你上来吧。 nǐ shànglái ba: Come on up",
+      "Notes": "上 up + 来 come = come up (towards the speaker)"
+    },
+    {
+      "Hanzi": "才能",
+      "Pinyin": "cáinéng",
+      "Meaning": "talent, ability",
+      "Example": "他很有才能。 tā hěn yǒu cáinéng: He's very talented",
+      "Notes": "才 talent + 能 ability. Careful: 才能 also reads as 才 + 能 \"only then can\""
+    },
+    {
+      "Hanzi": "年纪",
+      "Pinyin": "niánjì",
+      "Meaning": "age (of a person)",
+      "Example": "你爷爷多大年纪了？ nǐ yéye duō dà niánjì le: How old is your grandpa?",
+      "Notes": "年 year + 纪 count, record = count of years, age"
+    },
+    {
+      "Hanzi": "不论",
+      "Pinyin": "búlùn",
+      "Meaning": "no matter (what, who)",
+      "Example": "不论多忙，我都来。 búlùn duō máng, wǒ dōu lái: However busy, I'll come",
+      "Notes": "不 not + 论 discuss = not up for discussion, regardless"
+    },
+    {
+      "Hanzi": "观看",
+      "Pinyin": "guānkàn",
+      "Meaning": "to watch, view",
+      "Example": "很多人来观看比赛。 hěn duō rén lái guānkàn bǐsài: Many came to watch the game",
+      "Notes": "观 view (又 + 见 see) + 看 look = watch"
+    },
+    {
+      "Hanzi": "欢乐",
+      "Pinyin": "huānlè",
+      "Meaning": "happy, joyous",
+      "Example": "大家都很欢乐。 dàjiā dōu hěn huānlè: Everyone is joyful",
+      "Notes": "欢 glad (又 + 欠 open mouth) + 乐 joy = joyful"
+    },
+    {
+      "Hanzi": "功夫",
+      "Pinyin": "gōngfu",
+      "Meaning": "kung fu; time and effort",
+      "Example": "他会中国功夫。 tā huì Zhōngguó gōngfu: He knows kung fu",
+      "Notes": "功 effort, merit + 夫 = effort put in: skill (kung fu) or time spent"
+    },
+    {
+      "Hanzi": "房屋",
+      "Pinyin": "fángwū",
+      "Meaning": "house, building",
+      "Example": "这里的房屋很老。 zhèli de fángwū hěn lǎo: The houses here are old",
+      "Notes": "房 house (户 door + 方 fāng sound) + 屋 room = houses"
+    },
+    {
+      "Hanzi": "纪录",
+      "Pinyin": "jìlù",
+      "Meaning": "record (e.g. world record)",
+      "Example": "他打破了纪录。 tā dǎpò le jìlù: He broke the record",
+      "Notes": "纪 record + 录 record = a record. Watch 纪 (纟) vs 记 (讠)"
+    },
+    {
+      "Hanzi": "游泳",
+      "Pinyin": "yóuyǒng",
+      "Meaning": "to swim",
+      "Example": "我喜欢游泳。 wǒ xǐhuan yóuyǒng: I like swimming",
+      "Notes": "游 swim + 泳 swim (氵 water + 永 yǒng sound) = swim"
+    },
+    {
+      "Hanzi": "基本上",
+      "Pinyin": "jīběnshang",
+      "Meaning": "basically",
+      "Example": "基本上没问题。 jīběnshang méi wèntí: Basically no problem",
+      "Notes": "基 base + 本 root + 上 on = on the basic level"
+    },
+    {
+      "Hanzi": "商品",
+      "Pinyin": "shāngpǐn",
+      "Meaning": "goods, merchandise",
+      "Example": "这些商品很便宜。 zhèxiē shāngpǐn hěn piányi: These goods are cheap",
+      "Notes": "商 trade + 品 goods = trade goods"
+    },
+    {
+      "Hanzi": "裤子",
+      "Pinyin": "kùzi",
+      "Meaning": "trousers",
+      "Example": "这条裤子太长了。 zhè tiáo kùzi tài cháng le: These trousers are too long",
+      "Notes": "衤 clothing + 库 kù for the sound, + 子 noun ending"
+    },
+    {
+      "Hanzi": "运输",
+      "Pinyin": "yùnshū",
+      "Meaning": "to transport",
+      "Example": "火车运输很方便。 huǒchē yùnshū hěn fāngbiàn: Rail transport is convenient",
+      "Notes": "运 move (辶 walk) + 输 transport (车 cart) = move and carry"
+    },
+    {
+      "Hanzi": "乐队",
+      "Pinyin": "yuèduì",
+      "Meaning": "band",
+      "Example": "我们组了一个乐队。 wǒmen zǔ le yí ge yuèduì: We formed a band",
+      "Notes": "乐 music (yuè) + 队 team = music team, band"
+    },
+    {
+      "Hanzi": "乐观",
+      "Pinyin": "lèguān",
+      "Meaning": "optimistic",
+      "Example": "她很乐观。 tā hěn lèguān: She's optimistic",
+      "Notes": "乐 happy (lè) + 观 view = a happy view of things. Mirror: 悲观 pessimistic"
+    },
+    {
+      "Hanzi": "球迷",
+      "Pinyin": "qiúmí",
+      "Meaning": "fan (of a ball sport)",
+      "Example": "我爸是球迷。 wǒ bà shì qiúmí: My dad is a sports fan",
+      "Notes": "球 ball + 迷 lost in, crazy about = ball fan"
+    },
+    {
+      "Hanzi": "屋子",
+      "Pinyin": "wūzi",
+      "Meaning": "room",
+      "Example": "屋子里很暖和。 wūzi li hěn nuǎnhuo: It's warm in the room",
+      "Notes": "屋 room (尸 shelter + 至 arrive) + 子 noun ending = room"
+    },
+    {
+      "Hanzi": "铁路",
+      "Pinyin": "tiělù",
+      "Meaning": "railway",
+      "Example": "这条铁路很长。 zhè tiáo tiělù hěn cháng: This railway is long",
+      "Notes": "铁 iron + 路 road = iron road, railway"
+    }
+  ]
+}

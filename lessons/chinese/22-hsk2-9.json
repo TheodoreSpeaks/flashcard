@@ -1,0 +1,280 @@
+{
+  "title": "HSK 2.9 · 节目, 态度, 方便, 道理, 小时候",
+  "focus": "哭 · 怕 · 漂亮 · 度 · 低 · 节目 · 健康 · 弄 · 说明 · 节 · 目的 · 听说 · 明星 · 水平 · 想起 · 态度 · 亮 · 平 · 经理 · 角度 · 那时 · 可怕 · 方便 · 讲话 · 随便 · 随时 · 公园 · 公平 · 的话 · 道路 · 角 · 公路 · 道理 · 公里 · 小说 · 理想 · 平时 · 比如说 · 小时候",
+  "body": "Words built from 公 public, 平 flat/even, 道 road/reason, 度 degree and 便 convenient. Notice how 公 makes things 'for everyone': 公园 park, 公路 highway, 公平 fair.\n\n## Characters that repeat\n\n| Character | Pinyin | Meaning | In this lesson |\n|---|---|---|---|\n| 公 | gōng | public | 公园, 公平, 公路, 公里 |\n| 平 | píng | flat, level, even | 平, 水平, 公平, 平时 |\n| 道 | dào | road; reason | 道路, 道理 |\n| 度 | dù | degree, extent (广 + 廿 + 又) | 度, 态度, 角度 |\n| 时 | shí | time (日 sun + 寸) | 那时, 随时, 平时, 小时候 |\n| 理 | lǐ | reason, order (王 jade + 里 lǐ sound) | 经理, 道理, 理想 |\n| 便 | biàn | convenient (亻 + 更) | 方便, 随便 |\n| 节 | jié | section; festival | 节, 节目 |\n\n## Watch out\n\n- 漂亮 is piàoliang, with a neutral 亮; on its own 亮 is liàng.\n- 的话 is pronounced dehuà; 的 is neutral.\n- 目的 is mùdì: here 的 is dì (target), not de.",
+  "cards": [
+    {
+      "Hanzi": "哭",
+      "Pinyin": "kū",
+      "Meaning": "to cry",
+      "Example": "孩子哭了。 háizi kū le: The child is crying",
+      "Notes": "Two 口 (crying eyes or mouths) over 犬 dog. Lookalike: 器 qì (four 口)"
+    },
+    {
+      "Hanzi": "怕",
+      "Pinyin": "pà",
+      "Meaning": "to be afraid",
+      "Example": "我不怕。 wǒ bú pà: I'm not scared.",
+      "Notes": "忄 heart + 白 bái, sound shifted to pà"
+    },
+    {
+      "Hanzi": "漂亮",
+      "Pinyin": "piàoliang",
+      "Meaning": "pretty, beautiful",
+      "Example": "她真漂亮。 tā zhēn piàoliang: She's really pretty",
+      "Notes": "漂 (氵 + 票 piào, sound) + 亮 bright = bright and pretty"
+    },
+    {
+      "Hanzi": "度",
+      "Pinyin": "dù",
+      "Meaning": "degree (temperature, angle)",
+      "Example": "今天三十度。 jīntiān sānshí dù: It's 30 degrees today",
+      "Notes": "广 + 廿 + 又 hand: to measure. Degree, extent: 温度 temperature"
+    },
+    {
+      "Hanzi": "低",
+      "Pinyin": "dī",
+      "Meaning": "low",
+      "Example": "声音低一点。 shēngyīn dī yìdiǎn: Lower your voice a bit",
+      "Notes": "亻 person + 氐 dǐ (sound) = low. Opposite: 高 gāo"
+    },
+    {
+      "Hanzi": "节目",
+      "Pinyin": "jiémù",
+      "Meaning": "(TV, radio, stage) program, show",
+      "Example": "我喜欢这个节目。 wǒ xǐhuan zhège jiémù: I like this show",
+      "Notes": "节 section + 目 item, list = an item on the program"
+    },
+    {
+      "Hanzi": "健康",
+      "Pinyin": "jiànkāng",
+      "Meaning": "healthy; health",
+      "Example": "祝你身体健康！ zhù nǐ shēntǐ jiànkāng: Wishing you good health!",
+      "Notes": "健 strong (亻 + 建 jiàn, sound) + 康 well, peaceful = healthy"
+    },
+    {
+      "Hanzi": "弄",
+      "Pinyin": "nòng",
+      "Meaning": "to do, make, handle (vague verb)",
+      "Example": "你把我弄醒了。 nǐ bǎ wǒ nòng xǐng le: You woke me up",
+      "Notes": "王 jade above 廾 two hands: handling something in your hands. A catch-all 'do'"
+    },
+    {
+      "Hanzi": "说明",
+      "Pinyin": "shuōmíng",
+      "Meaning": "to explain; to show; instructions",
+      "Example": "这说明他很忙。 zhè shuōmíng tā hěn máng: That shows he's busy",
+      "Notes": "说 say + 明 clear = make clear, explain"
+    },
+    {
+      "Hanzi": "节",
+      "Pinyin": "jié",
+      "Meaning": "festival; section; (measure word for classes)",
+      "Example": "我今天有两节课。 wǒ jīntiān yǒu liǎng jié kè: I have two classes today",
+      "Notes": "From 節 (⺮ bamboo top). Originally a bamboo joint, so a section; also 春节 festival"
+    },
+    {
+      "Hanzi": "目的",
+      "Pinyin": "mùdì",
+      "Meaning": "purpose, goal",
+      "Example": "你来这里的目的是什么？ nǐ lái zhèlǐ de mùdì shì shénme: Why are you here?",
+      "Notes": "目 eye, aim + 的 target (dì here) = the target you aim at"
+    },
+    {
+      "Hanzi": "听说",
+      "Pinyin": "tīngshuō",
+      "Meaning": "to hear (that), be told",
+      "Example": "我听说你要结婚了。 wǒ tīngshuō nǐ yào jiéhūn le: I hear you're getting married",
+      "Notes": "听 hear + 说 say = to hear it said"
+    },
+    {
+      "Hanzi": "明星",
+      "Pinyin": "míngxīng",
+      "Meaning": "celebrity, star",
+      "Example": "他是个大明星。 tā shì ge dà míngxīng: He's a big star",
+      "Notes": "明 bright + 星 star = bright star, celebrity"
+    },
+    {
+      "Hanzi": "水平",
+      "Pinyin": "shuǐpíng",
+      "Meaning": "level, standard",
+      "Example": "你的中文水平很高。 nǐ de Zhōngwén shuǐpíng hěn gāo: Your Chinese is very good",
+      "Notes": "水 water + 平 flat = level as water's surface, so 'level'"
+    },
+    {
+      "Hanzi": "想起",
+      "Pinyin": "xiǎngqǐ",
+      "Meaning": "to remember, recall",
+      "Example": "我想起来了！ wǒ xiǎng qǐlai le: Now I remember!",
+      "Notes": "想 think + 起 rise = for a thought to rise up, recall"
+    },
+    {
+      "Hanzi": "态度",
+      "Pinyin": "tàidu",
+      "Meaning": "attitude, manner",
+      "Example": "他的态度很好。 tā de tàidu hěn hǎo: He has a good attitude",
+      "Notes": "态 manner (太 tài sound + 心 heart) + 度 degree = attitude"
+    },
+    {
+      "Hanzi": "亮",
+      "Pinyin": "liàng",
+      "Meaning": "bright; to light up",
+      "Example": "天亮了。 tiān liàng le: It's getting light",
+      "Notes": "A shortened 高 high on top + 几 (from 儿 person) below. 月亮 moon, 漂亮 pretty"
+    },
+    {
+      "Hanzi": "平",
+      "Pinyin": "píng",
+      "Meaning": "flat, level; even, tied",
+      "Example": "这条路很平。 zhè tiáo lù hěn píng: This road is flat",
+      "Notes": "Symmetrical, balanced shape: flat, even. Also a tie score: 二比二平"
+    },
+    {
+      "Hanzi": "经理",
+      "Pinyin": "jīnglǐ",
+      "Meaning": "manager",
+      "Example": "我们经理很好。 wǒmen jīnglǐ hěn hǎo: Our manager is nice",
+      "Notes": "经 manage (纟 thread) + 理 put in order = the one who manages"
+    },
+    {
+      "Hanzi": "角度",
+      "Pinyin": "jiǎodù",
+      "Meaning": "angle, point of view",
+      "Example": "换个角度想想。 huàn ge jiǎodù xiǎngxiang: Look at it from another angle",
+      "Notes": "角 corner, angle + 度 degree = angle, viewpoint"
+    },
+    {
+      "Hanzi": "那时",
+      "Pinyin": "nàshí",
+      "Meaning": "then, at that time",
+      "Example": "那时我还很小。 nàshí wǒ hái hěn xiǎo: I was still little then",
+      "Notes": "那 that + 时 time = at that time"
+    },
+    {
+      "Hanzi": "可怕",
+      "Pinyin": "kěpà",
+      "Meaning": "scary, terrible",
+      "Example": "这个电影很可怕。 zhège diànyǐng hěn kěpà: This movie is scary",
+      "Notes": "可 can, worth + 怕 fear = fear-worthy, scary"
+    },
+    {
+      "Hanzi": "方便",
+      "Pinyin": "fāngbiàn",
+      "Meaning": "convenient",
+      "Example": "坐地铁很方便。 zuò dìtiě hěn fāngbiàn: Taking the subway is convenient",
+      "Notes": "方 way + 便 convenient = convenient, handy"
+    },
+    {
+      "Hanzi": "讲话",
+      "Pinyin": "jiǎnghuà",
+      "Meaning": "to speak; a speech",
+      "Example": "上课不要讲话。 shàngkè búyào jiǎnghuà: No talking in class",
+      "Notes": "讲 speak + 话 words = to talk, give a speech"
+    },
+    {
+      "Hanzi": "随便",
+      "Pinyin": "suíbiàn",
+      "Meaning": "as you like; casual",
+      "Example": "你随便坐。 nǐ suíbiàn zuò: Sit wherever you like",
+      "Notes": "随 follow (阝 + 辶) + 便 convenient = follow what's convenient, as you like"
+    },
+    {
+      "Hanzi": "随时",
+      "Pinyin": "suíshí",
+      "Meaning": "any time",
+      "Example": "你随时来找我。 nǐ suíshí lái zhǎo wǒ: Come find me any time",
+      "Notes": "随 follow + 时 time = whenever, any time"
+    },
+    {
+      "Hanzi": "公园",
+      "Pinyin": "gōngyuán",
+      "Meaning": "park",
+      "Example": "我们去公园走走。 wǒmen qù gōngyuán zǒuzou: Let's walk in the park",
+      "Notes": "公 public + 园 garden (囗 enclosure + 元 yuán, sound) = public garden, park"
+    },
+    {
+      "Hanzi": "公平",
+      "Pinyin": "gōngpíng",
+      "Meaning": "fair",
+      "Example": "这样不公平！ zhèyàng bù gōngpíng: That's not fair!",
+      "Notes": "公 public, impartial + 平 even = fair to everyone"
+    },
+    {
+      "Hanzi": "的话",
+      "Pinyin": "dehuà",
+      "Meaning": "if (at the end of an if-clause)",
+      "Example": "下雨的话就不去了。 xiàyǔ dehuà jiù bú qù le: If it rains, we won't go",
+      "Notes": "的 + 话 words: '…such words' = if so. Often with 如果: 如果…的话"
+    },
+    {
+      "Hanzi": "道路",
+      "Pinyin": "dàolù",
+      "Meaning": "road, path",
+      "Example": "这条道路很宽。 zhè tiáo dàolù hěn kuān: This road is wide",
+      "Notes": "道 road + 路 road (足 foot + 各 sound) = road, way"
+    },
+    {
+      "Hanzi": "角",
+      "Pinyin": "jiǎo",
+      "Meaning": "corner, angle; horn; 1/10 yuan",
+      "Example": "这个三块五角。 zhège sān kuài wǔ jiǎo: This is 3.50 yuan",
+      "Notes": "Picture of an animal horn. Spoken money: 角 = 毛. Read jué in 角色 role"
+    },
+    {
+      "Hanzi": "公路",
+      "Pinyin": "gōnglù",
+      "Meaning": "highway, road",
+      "Example": "这条公路很长。 zhè tiáo gōnglù hěn cháng: This highway is long",
+      "Notes": "公 public + 路 road = public road, highway"
+    },
+    {
+      "Hanzi": "道理",
+      "Pinyin": "dàoli",
+      "Meaning": "reason, sense",
+      "Example": "你说得有道理。 nǐ shuō de yǒu dàoli: You have a point",
+      "Notes": "道 way, principle + 理 reason = the reason, logic. 有道理 = makes sense"
+    },
+    {
+      "Hanzi": "公里",
+      "Pinyin": "gōnglǐ",
+      "Meaning": "kilometer",
+      "Example": "学校离这里两公里。 xuéxiào lí zhèlǐ liǎng gōnglǐ: School is 2 km from here",
+      "Notes": "公 (metric, standard) + 里 lǐ (Chinese mile) = kilometer"
+    },
+    {
+      "Hanzi": "小说",
+      "Pinyin": "xiǎoshuō",
+      "Meaning": "novel, fiction",
+      "Example": "我在看一本小说。 wǒ zài kàn yì běn xiǎoshuō: I'm reading a novel",
+      "Notes": "小 small + 说 talk = 'small talk', stories (as opposed to serious writing), novel"
+    },
+    {
+      "Hanzi": "理想",
+      "Pinyin": "lǐxiǎng",
+      "Meaning": "ideal, dream",
+      "Example": "你的理想是什么？ nǐ de lǐxiǎng shì shénme: What's your dream?",
+      "Notes": "理 reason, ideal + 想 think = what you think should be, an ideal"
+    },
+    {
+      "Hanzi": "平时",
+      "Pinyin": "píngshí",
+      "Meaning": "usually, normally",
+      "Example": "你平时几点起床？ nǐ píngshí jǐ diǎn qǐchuáng: When do you usually get up?",
+      "Notes": "平 ordinary, even + 时 time = ordinary times, usually"
+    },
+    {
+      "Hanzi": "比如说",
+      "Pinyin": "bǐrúshuō",
+      "Meaning": "for example",
+      "Example": "比如说，你可以学画画。 bǐrúshuō, nǐ kěyǐ xué huàhuà: For example, you could learn to paint",
+      "Notes": "比 compare + 如 like + 说 say = say, comparing to… = for example"
+    },
+    {
+      "Hanzi": "小时候",
+      "Pinyin": "xiǎoshíhou",
+      "Meaning": "in childhood, as a kid",
+      "Example": "我小时候很胖。 wǒ xiǎoshíhou hěn pàng: I was chubby as a kid",
+      "Notes": "小 small + 时候 time = the time when (I was) small"
+    }
+  ]
+}

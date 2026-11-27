@@ -44,6 +44,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 14px; margin-
 .card { background: var(--surface); border: 1px solid var(--line); border-radius: 18px; padding: 40px 24px; margin-top: 14px; text-align: center; min-height: 300px; }
 .front { font-family: var(--script); font-size: clamp(30px, 7vw, 54px); line-height: 1.35; font-weight: 600; word-break: break-word; }
 .front.long { font-size: clamp(22px, 4.5vw, 32px); }
+.prompt { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--accent); margin-bottom: 14px; }
 .front2 { font-family: var(--script); font-size: 20px; color: var(--muted); margin-top: 6px; }
 .back { margin-top: 26px; padding-top: 22px; border-top: 1px dashed var(--line); }
 .b0 { font-family: var(--script); font-size: clamp(26px, 5.5vw, 40px); font-weight: 700; color: var(--accent); line-height: 1.35; }
@@ -182,13 +183,14 @@ function reviewPack(name, multi) {
       card = queue.shift(); flipped = false; shown = Date.now(); draw();
     }
     function draw() {
-      const front0 = card.values[data.front[0]];
+      const front0 = card.values[card.front[0]];
       app.innerHTML = `
         <div class="topbar"><a href="#/">← home</a><span>${esc(name)}${multi ? "" : ""} · ${queue.length + 1} left</span></div>
         <div class="card">
+          ${card.prompt ? `<div class="prompt">${esc(card.prompt)}</div>` : ""}
           <div class="front ${front0.length > 28 ? "long" : ""}">${esc(front0)}</div>
-          ${data.front.slice(1).map(f => field(f, "front2")).join("")}
-          ${flipped ? `<div class="back">${data.back.map((f, i) => field(f, i === 0 ? "b0" : i === 1 ? "b1" : "bn")).join("")}</div>` : ""}
+          ${card.front.slice(1).map(f => field(f, "front2")).join("")}
+          ${flipped ? `<div class="back">${card.back.map((f, i) => field(f, i === 0 ? "b0" : i === 1 ? "b1" : "bn")).join("")}</div>` : ""}
         </div>
         ${flipped
           ? `<div class="rate">${[["no idea", 1], ["vague", 2], ["hard", 3], ["good", 4], ["instant", 5]].map(([l, q]) =>

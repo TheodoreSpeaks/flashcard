@@ -48,9 +48,10 @@ def review(name: str) -> dict:
     q = fc.review_queue(db, meta)
     cards = []
     for cid in q["queue"]:
-        row = db.execute("select n.flds from cards c join notes n on n.id = c.nid where c.id = ?", (cid,)).fetchone()
-        cards.append({"id": cid, "values": fc.note_fields(meta, row["flds"])})
-    return {"name": name, "front": meta["front"], "back": meta["back"], "cards": cards,
+        row = db.execute("select c.ord, n.flds from cards c join notes n on n.id = c.nid where c.id = ?",
+                         (cid,)).fetchone()
+        cards.append({"id": cid, "values": fc.note_fields(meta, row["flds"]), **fc.card_sides(meta, row["ord"])})
+    return {"name": name, "cards": cards,
             "due": q["due"], "new": q["new"], "waiting": q["waiting"], "new_per_day": meta["new_per_day"]}
 
 

@@ -34,8 +34,7 @@ fc help              # everything else
 | pack | what |
 |---|---|
 | `bengali` | spoken Kolkata Bengali, romanized, informal (tumi) |
-| `chinese` | reading simplified characters, HSK 1–3 in frequency order (characters → pinyin/meaning); untick words you can already read |
-| `zhwrite` | handwriting the 300 most common characters (word with a blank → write the character) |
+| `chinese` | HSK 1–3 in frequency order. Each word has a reading card (characters → pinyin/meaning) and a writing card (pinyin/meaning → write it on paper); untick words you can already read |
 | `zhvocab` | adult Mandarin vocab (English → Chinese) |
 | `bnread` | reading Bengali script, a few letters at a time, then words |
 | `bnvocab` | adult Bengali vocab for heritage speakers (English → Bengali) |
@@ -44,3 +43,5 @@ fc help              # everything else
 
 - `packs/<name>.json`: pack definition (fields, card layout, daily new-card limit, writing guide).
 - `lessons/<name>/NN-slug.json`: lessons with `title`, `focus`, `body` (markdown) and `cards`.
+
+A pack can define `reverse` (`front`, `back`, `prompt`) to give every word a second card. The two cards never come up on the same day, and only the main card counts toward unlocking lessons. After adding `reverse` to `packs/<pack>.json`, run `fc sync <pack>` to create the missing cards.

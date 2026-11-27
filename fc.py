@@ -120,11 +120,19 @@ def today_start_ms() -> int:
 _last_id = 0
 
 
-def new_id() -> int:
-    """Anki-style millisecond-timestamp ids, made unique within the process."""
+def new_id(floor: int = 0) -> int:
+    """Anki-style millisecond-timestamp ids, made unique within the process.
+
+    floor: the table's max id + 1, so ids stay unique after an earlier process ran ahead
+    of the clock (a bulk insert hands out one id per row).
+    """
     global _last_id
-    _last_id = max(int(time.time() * 1000), _last_id + 1)
+    _last_id = max(int(time.time() * 1000), _last_id + 1, floor)
     return _last_id
+
+
+def next_id(db: sqlite3.Connection, table: str) -> int:
+    return new_id(db.execute(f"select coalesce(max(id), 0) + 1 from {table}").fetchone()[0])
 
 
 # ---------- pack storage ----------
@@ -144,8 +152,8 @@ def open_pack(name: str) -> sqlite3.Connection:
 
 def validate_meta(meta: dict) -> None:
     expected = {"name", "fields", "front", "back", "new_per_day", "guide", "unlocked_through", "opened"}
-    if set(meta) != expected:
-        raise SystemExit(f"pack metadata keys must be {sorted(expected)}, got {sorted(meta)}")
+    if set(meta) - {"reverse"} != expected:
+        raise SystemExit(f"pack metadata keys must be {sorted(expected)} (plus optional 'reverse'), got {sorted(meta)}")
     fields = meta["fields"]
     if len(fields) < 2 or len(set(fields)) != len(fields):
         raise SystemExit("'fields' needs at least 2 unique names")
@@ -155,6 +163,13 @@ def validate_meta(meta: dict) -> None:
         unknown = set(meta[side]) - set(fields)
         if unknown:
             raise SystemExit(f"'{side}' references unknown fields: {sorted(unknown)}")
+    if "reverse" in meta:
+        rev = meta["reverse"]
+        if not isinstance(rev, dict) or set(rev) != {"front", "back", "prompt"}:
+            raise SystemExit("'reverse' must have exactly 'front', 'back' and 'prompt'")
+        for side in ("front", "back"):
+            if not rev[side] or set(rev[side]) - set(fields):
+                raise SystemExit(f"'reverse.{side}' must list known fields, got {rev[side]}")
     if set(meta["guide"]) != {"instructions", "level"}:
         raise SystemExit("'guide' must have exactly 'instructions' and 'level'")
     if not isinstance(meta["unlocked_through"], int) or meta["unlocked_through"] < 1:
@@ -176,6 +191,7 @@ def read_meta(db: sqlite3.Connection) -> dict:
         "guide": deck["guide"],
         "unlocked_through": deck["unlocked_through"],
         "opened": deck["opened"],
+        **({"reverse": model["reverse"]} if "reverse" in model else {}),
         "_mid": model["id"],
         "_did": deck["id"],
     }
@@ -190,6 +206,7 @@ def write_meta(db: sqlite3.Connection, meta: dict, mid: int, did: int) -> None:
         "sortf": meta["fields"].index(meta["front"][0]),
         "front": meta["front"],
         "back": meta["back"],
+        **({"reverse": meta["reverse"]} if "reverse" in meta else {}),
     }
     deck = {
         "id": did,
@@ -292,8 +309,51 @@ def validate_card(meta: dict, card: dict, where: str) -> None:
         raise SystemExit(f"{where}: '{meta['front'][0]}' and '{meta['back'][0]}' can't be empty: {card}")
 
 
+def card_ords(meta: dict) -> list[int]:
+    """Cards per note: ord 0 shows front -> back; ord 1 (packs with 'reverse') the reverse sides."""
+    return [0, 1] if "reverse" in meta else [0]
+
+
+def card_sides(meta: dict, ord_: int) -> dict:
+    if ord_ == 0:
+        return {"front": meta["front"], "back": meta["back"], "prompt": ""}
+    if ord_ == 1 and "reverse" in meta:
+        return meta["reverse"]
+    raise SystemExit(f"card ord {ord_} isn't defined for pack '{meta['name']}'")
+
+
+def next_new_position(db: sqlite3.Connection) -> int:
+    return db.execute("select coalesce(max(due), 0) + 1 from cards where type = ?", (NEW,)).fetchone()[0]
+
+
+def insert_card(db: sqlite3.Connection, meta: dict, nid: int, ord_: int, known: bool, position: int) -> None:
+    """known=True skips the new queue: the card starts as a review with a mature interval,
+    due at a random point within that interval so a batch doesn't come due on one day."""
+    if known:
+        crt = db.execute("select crt from col").fetchone()[0]
+        state, due, ivl = REVIEW, today_num(crt) + random.randint(1, KNOWN_IVL), KNOWN_IVL
+    else:
+        state, due, ivl = NEW, position, 0
+    db.execute(
+        "insert into cards values (?, ?, ?, ?, ?, -1, ?, ?, ?, ?, 2500, 0, 0, 0, 0, 0, 0, '')",
+        (next_id(db, "cards"), nid, meta["_did"], ord_, int(time.time()), state, state, due, ivl),
+    )
+
+
+def add_reverse_cards(db: sqlite3.Connection, meta: dict) -> int:
+    """Give every note that lacks one its reverse card, queued as new after existing new cards."""
+    if "reverse" not in meta:
+        raise SystemExit(f"pack '{meta['name']}' has no 'reverse' cards defined")
+    nids = [r["id"] for r in db.execute(
+        "select id from notes where id not in (select nid from cards where ord = 1) order by id")]
+    position = next_new_position(db)
+    for i, nid in enumerate(nids):
+        insert_card(db, meta, nid, 1, known=False, position=position + i)
+    return len(nids)
+
+
 def add_note(db: sqlite3.Connection, meta: dict, values: dict, tags: list[str], known: bool = False) -> bool:
-    """Insert a note and its single card. Returns False if it duplicates an existing card.
+    """Insert a note and its cards (one, or two with 'reverse'). Returns False if it duplicates an existing card.
 
     known=True skips the new queue: the card starts as a review with a mature interval,
     due at a random point within that interval so a batch doesn't come due on one day.
@@ -304,23 +364,17 @@ def add_note(db: sqlite3.Connection, meta: dict, values: dict, tags: list[str], 
         return False
     sfld = values[meta["front"][0]].strip()
     now = int(time.time())
-    nid = new_id()
+    nid = next_id(db, "notes")
     flds = "\x1f".join(values[f].strip() for f in meta["fields"])
     db.execute(
         "insert into notes values (?, ?, ?, ?, -1, ?, ?, ?, ?, 0, '')",
         (nid, secrets.token_urlsafe(8), meta["_mid"], now, f" {' '.join(tags)} " if tags else "",
          flds, sfld, field_checksum(sfld)),
     )
-    if known:
-        crt = db.execute("select crt from col").fetchone()[0]
-        state, due, ivl = REVIEW, today_num(crt) + random.randint(1, KNOWN_IVL), KNOWN_IVL
-    else:
-        position = db.execute("select coalesce(max(due), 0) + 1 from cards where type = ?", (NEW,)).fetchone()[0]
-        state, due, ivl = NEW, position, 0
-    db.execute(
-        "insert into cards values (?, ?, ?, 0, ?, -1, ?, ?, ?, ?, 2500, 0, 0, 0, 0, 0, 0, '')",
-        (new_id(), nid, meta["_did"], now, state, state, due, ivl),
-    )
+    # sibling cards share a queue position; review_queue keeps them on different days
+    position = next_new_position(db)
+    for ord_ in card_ords(meta):
+        insert_card(db, meta, nid, ord_, known, position)
     return True
 
 
@@ -468,7 +522,8 @@ def unit_progress(db: sqlite3.Connection, meta: dict, lessons: list[dict]) -> li
     lessons open. `unlocked_through` in the pack metadata unlocks lessons early.
     """
     units = [{"n": l["n"], "title": l["title"], "cards": 0, "learned": 0, "mastered": 0} for l in lessons]
-    for r in db.execute("select n.tags, c.ivl from cards c join notes n on n.id = c.nid"):
+    # only the main card counts: reverse cards (e.g. handwriting) don't hold up unlocking
+    for r in db.execute("select n.tags, c.ivl from cards c join notes n on n.id = c.nid where c.ord = 0"):
         n = unit_of(r["tags"])
         if n is None:
             continue
@@ -551,23 +606,43 @@ def answer(db: sqlite3.Connection, card: sqlite3.Row, q: int, today: int, ms_tak
     )
     db.execute(
         "insert into revlog values (?, ?, -1, ?, ?, ?, ?, ?, ?)",
-        (new_id(), card["id"], q, ivl, card["ivl"], factor, ms_taken, log_type),
+        (next_id(db, "revlog"), card["id"], q, ivl, card["ivl"], factor, ms_taken, log_type),
     )
     db.commit()
     return ivl
 
 
 def review_queue(db: sqlite3.Connection, meta: dict) -> dict:
-    """Today's cards: every due review plus new cards up to the daily limit, shuffled."""
+    """Today's cards: every due review plus new cards up to the daily limit, shuffled.
+
+    At most one card per note per day (siblings wait), so reading 学习 doesn't give away
+    writing it a minute later.
+    """
     today = today_num(db.execute("select crt from col").fetchone()[0])
     introduced = db.execute(
         "select count(distinct cid) from revlog where type = ? and id >= ?", (LOG_LEARN, today_start_ms())
     ).fetchone()[0]
     new_limit = max(0, meta["new_per_day"] - introduced)
+    answered = {}
+    for r in db.execute("select distinct c.nid, c.id from revlog l join cards c on c.id = l.cid where l.id >= ?",
+                        (today_start_ms(),)):
+        answered.setdefault(r["nid"], set()).add(r["id"])
+    taken = {}
+
+    def pick(r) -> bool:
+        if answered.get(r["nid"], set()) - {r["id"]} or taken.get(r["nid"], r["id"]) != r["id"]:
+            return False
+        taken[r["nid"]] = r["id"]
+        return True
+
     due = [r["id"] for r in db.execute(
-        "select id from cards where queue = ? and due <= ? order by due", (REVIEW, today))]
-    new = [r["id"] for r in db.execute(
-        "select id from cards where queue = ? order by due limit ?", (NEW, new_limit))]
+        "select id, nid from cards where queue = ? and due <= ? order by due, ord", (REVIEW, today)) if pick(r)]
+    new = []
+    for r in db.execute("select id, nid from cards where queue = ? order by due, ord", (NEW,)):
+        if len(new) >= new_limit:
+            break
+        if pick(r):
+            new.append(r["id"])
     unseen = db.execute("select count(*) from cards where queue = ?", (NEW,)).fetchone()[0]
     queue = due + new
     random.shuffle(queue)
@@ -726,11 +801,12 @@ def cmd_cards(name: str, args: list[str]) -> None:
     meta = read_meta(db)
     today = today_num(db.execute("select crt from col").fetchone()[0])
     rows = db.execute(
-        "select n.flds, n.tags, c.type, c.ivl, c.factor, c.lapses, c.reps, c.due "
+        "select n.flds, n.tags, c.ord, c.type, c.ivl, c.factor, c.lapses, c.reps, c.due "
         "from cards c join notes n on n.id = c.nid order by n.id"
     ).fetchall()
     out = [{
         "fields": note_fields(meta, r["flds"]),
+        "card": "reverse" if r["ord"] else "main",
         "tags": note_tags(r["tags"]),
         "status": card_status(r),
         "interval_days": r["ivl"],
@@ -744,7 +820,7 @@ def cmd_cards(name: str, args: list[str]) -> None:
         return
     f, b = meta["front"][0], meta["back"][0]
     for c in out:
-        print(f"{c['status']:<10} {c['interval_days']:>3}d  lapses {c['lapses']}  "
+        print(f"{c['status']:<10} {c['card']:<7} {c['interval_days']:>3}d  lapses {c['lapses']}  "
               f"{c['fields'][f]} = {c['fields'][b]}  {DIM}{' '.join(c['tags'])}{RESET}")
 
 
@@ -877,12 +953,24 @@ def cmd_sync(name: str, args: list[str]) -> None:
                            (flds, sfld, field_checksum(sfld), now, r["id"]))
                 updated += 1
     shared = shared_meta_path(name)
-    guide_changed = shared.exists() and read_json_arg(str(shared))["guide"] != meta["guide"]
-    if guide_changed:
-        meta["guide"] = read_json_arg(str(shared))["guide"]
+    notes_msg = ""
+    if shared.exists():
+        definition = read_json_arg(str(shared))
+        if definition["guide"] != meta["guide"]:
+            meta["guide"] = definition["guide"]
+            notes_msg += "; pack guide updated"
+        if "reverse" in meta and "reverse" not in definition:
+            raise SystemExit(f"{shared} dropped 'reverse'; removing reverse cards isn't supported")
+        if definition.get("reverse") != meta.get("reverse"):
+            meta["reverse"] = definition["reverse"]
+            notes_msg += "; reverse cards updated"
         save_meta(db, meta)
+        if "reverse" in meta:
+            added = add_reverse_cards(db, meta)
+            if added:
+                notes_msg += f"; added {added} reverse cards"
     db.commit()
-    print(f"{name}: updated {updated} cards from lesson files" + ("; pack guide updated" if guide_changed else ""))
+    print(f"{name}: updated {updated} cards from lesson files{notes_msg}")
 
 
 def cmd_list() -> None:
